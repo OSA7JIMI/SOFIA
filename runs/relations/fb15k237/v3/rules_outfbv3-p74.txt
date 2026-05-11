@@ -1,0 +1,2 @@
+1	/film/film/film_art_direction_by(A,D) <= /film/film/costume_design_by(A,B), /people/deceased_person/place_of_death(B,C), /people/person/place_of_birth(D,C)
+1	/film/film/film_art_direction_by(A,D) <= /film/film/genre(A,B), /film/film/genre(C,B), /film/film/film_art_direction_by(C,D)

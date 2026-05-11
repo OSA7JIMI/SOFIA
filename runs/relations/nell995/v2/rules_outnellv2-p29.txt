@@ -1,0 +1,2 @@
+1	concept:hasofficeincity(A,C) <= concept:locationlocatedwithinlocation(B,A), concept:agentactsinlocation(C,B)
+1	concept:hasofficeincity(A,D) <= concept:headquarteredin(A,B), concept:cityliesonriver(B,C), concept:cityliesonriver(D,C)

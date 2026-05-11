@@ -1,0 +1,5 @@
+0.5	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for(A,C) <= /film/actor/film./film/performance/film(B,A), /film/actor/film./film/performance/film(B,C)
+1	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for(A,C) <= /film/film/estimated_budget./measurement_unit/dated_money_value/currency(A,B), /film/film/estimated_budget./measurement_unit/dated_money_value/currency(C,B)
+1	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for(A,C) <= /film/film/language(A,B), /film/film/language(C,B)
+0.5	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for(A,C) <= /film/film/other_crew./film/film_crew_gig/film_crew_role(A,B), /film/film/other_crew./film/film_crew_gig/film_crew_role(C,B)
+0.5	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for(A,B) <= /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for(B,A)

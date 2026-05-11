@@ -1,0 +1,4 @@
+1	concept:teamplayssport(A,C) <= concept:synonymfor(A,B), concept:teamplayssport(B,C)
+1	concept:teamplayssport(A,C) <= concept:teamplaysagainstteam(A,B), concept:teamplayssport(B,C)
+1	concept:teamplayssport(A,E) <= concept:teamplaysagainstteam(A,B), concept:teamplayssport(B,C), concept:sportusesequipment(C,D), concept:sportusesequipment(E,D)
+1	concept:teamplayssport(A,D) <= concept:subpartoforganization(A,B), concept:subpartoforganization(C,B), concept:teamplayssport(C,D)

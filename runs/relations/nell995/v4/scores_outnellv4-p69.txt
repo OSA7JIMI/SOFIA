@@ -1,0 +1,184 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:subpartoforganization
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:sportsteam:georgia_state 0
+
+---------------------------------
+concept:sportsleague:nfl concept:subpartoforganization concept:sportsteam:oakland_raiders 0
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:sportsteam:oakland_raiders 1.5
+concept:sportsleague:nfl concept:agentcontrols concept:sportsteam:oakland_raiders 0.425451
+concept:sportsleague:nfl concept:organizationhiredperson concept:sportsteam:oakland_raiders 0.5
+---------------------------------
+concept:televisionnetwork:abc concept:subpartoforganization concept:company:khbs 0
+
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:university:clemson 0
+
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:sportsteam:oregon_state_beavers 0
+
+---------------------------------
+concept:televisionnetwork:abc concept:subpartoforganization concept:company:khvo 0
+
+---------------------------------
+concept:sportsleague:nfl concept:subpartoforganization concept:sportsteam:flyers_playoff_tickets 0
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:sportsteam:flyers_playoff_tickets 1.5
+concept:sportsleague:nfl concept:agentcontrols concept:sportsteam:flyers_playoff_tickets 0.425451
+concept:sportsleague:nfl concept:organizationhiredperson concept:sportsteam:flyers_playoff_tickets 0.75
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:stateorprovince:oklahoma 0
+
+concept:sportsteam:ncaa_mens_midwest_regionals concept:proxyfor concept:stateorprovince:oklahoma 0.5
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:creditunion:north_carolina 0
+
+---------------------------------
+concept:company:disney_feature_animation concept:subpartoforganization concept:city:abc 0
+
+---------------------------------
+concept:sportsleague:nfl concept:subpartoforganization concept:sportsteam:new_orleans_hornets 0
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:sportsteam:new_orleans_hornets 1.5
+concept:sportsleague:nfl concept:agentcontrols concept:sportsteam:new_orleans_hornets 0.425451
+concept:sportsleague:nfl concept:organizationhiredperson concept:sportsteam:new_orleans_hornets 0.5
+---------------------------------
+concept:sportsleague:nfl concept:subpartoforganization concept:sportsteam:san_diego_padres 0
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:sportsteam:san_diego_padres 1.5
+concept:sportsleague:nfl concept:agentcontrols concept:sportsteam:san_diego_padres 0.425451
+concept:sportsleague:nfl concept:organizationhiredperson concept:sportsteam:san_diego_padres 0.5
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:sportsteam:nittany_lions 0
+
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:sportsteam:usc 0
+
+---------------------------------
+concept:sportsleague:nhl concept:subpartoforganization concept:sportsteam:oilers 0
+
+---------------------------------
+concept:nongovorganization:u_s_ concept:subpartoforganization concept:governmentorganization:u_s__senate 0
+
+concept:nongovorganization:u_s_ concept:agentcollaborateswithagent concept:governmentorganization:u_s__senate 0.5
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:university:southern_cal 0
+
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:sportsteam:iowa_state 0
+
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:city:washington_d_c 0
+
+concept:sportsteam:ncaa_mens_midwest_regionals concept:agentcontrols concept:city:washington_d_c 0.25
+concept:sportsteam:ncaa_mens_midwest_regionals concept:proxyfor concept:city:washington_d_c 0.5
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartof concept:city:washington_d_c 1
+---------------------------------
+concept:sportsleague:nfl concept:subpartoforganization concept:sportsteam:ravens 0
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:sportsteam:ravens 1.5
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:sportsteam:ravens 0.119059
+concept:sportsleague:nfl concept:agentcontrols concept:sportsteam:ravens 0.625
+concept:sportsleague:nfl concept:organizationalsoknownas concept:sportsteam:ravens 0.5
+concept:sportsleague:nfl concept:organizationhiredperson concept:sportsteam:ravens 0.75
+---------------------------------
+concept:sportsleague:nfl concept:subpartoforganization concept:sportsteam:arizona_cardinals_27_23 0
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:sportsteam:arizona_cardinals_27_23 1
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:sportsteam:arizona_cardinals_27_23 2.5
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:sportsteam:arizona_cardinals_27_23 0.119059
+concept:sportsleague:nfl concept:agentcontrols concept:sportsteam:arizona_cardinals_27_23 0.425451
+concept:sportsleague:nfl concept:organizationalsoknownas concept:sportsteam:arizona_cardinals_27_23 0.5
+concept:sportsleague:nfl concept:organizationhiredperson concept:sportsteam:arizona_cardinals_27_23 0.75
+concept:sportsleague:nfl concept:personbelongstoorganization concept:sportsteam:arizona_cardinals_27_23 1
+concept:sportsleague:nfl concept:worksfor concept:sportsteam:arizona_cardinals_27_23 1
+---------------------------------
+concept:bank:pnc concept:subpartoforganization concept:company:national_city 0
+
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:sportsteam:georgia_tech 0
+
+---------------------------------
+concept:recordlabel:walt_disney concept:subpartoforganization concept:city:abc 0
+
+concept:recordlabel:walt_disney concept:organizationterminatedperson concept:city:abc 0.5
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:university:ku 0
+
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:sportsteam:ohio_state_university 0
+
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:company:west_virginia 0
+
+---------------------------------
+concept:sportsleague:nfl concept:subpartoforganization concept:sportsteam:bengals 0
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:sportsteam:bengals 1.5
+concept:sportsleague:nfl concept:agentcontrols concept:sportsteam:bengals 0.625
+concept:sportsleague:nfl concept:organizationhiredperson concept:sportsteam:bengals 0.5
+---------------------------------
+concept:terroristorganization:state concept:subpartoforganization concept:city:design 0.609163
+
+concept:terroristorganization:state concept:agentbelongstoorganization concept:city:design 0.5
+concept:terroristorganization:state concept:agentcollaborateswithagent concept:city:design 0.908968
+concept:terroristorganization:state concept:agentparticipatedinevent concept:city:design 1
+---------------------------------
+concept:televisionnetwork:abc concept:subpartoforganization concept:company:wyow 0
+
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:creditunion:kansas 0
+
+concept:sportsteam:ncaa_mens_midwest_regionals concept:agentactsinlocation concept:creditunion:kansas 0.5
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:sportsteam:colorado_state 0
+
+concept:sportsteam:ncaa_mens_midwest_regionals concept:agentactsinlocation concept:sportsteam:colorado_state 0.5
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:sportsteam:mississippi_state_university 0
+
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:sportsteam:stanford 0
+
+---------------------------------
+concept:company:disney concept:subpartoforganization concept:city:abc 0
+
+---------------------------------
+concept:biotechcompany:the_walt_disney_co_ concept:subpartoforganization concept:city:abc 0
+
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:creditunion:wisconsin 0
+
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:bank:iowa_state 0
+
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:stateorprovince:mississippi_state 0
+
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:university:auburn 0
+
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:sportsteam:alabama_crimson_tide 0
+
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartoforganization concept:county:penn_state 0
+
+concept:sportsteam:ncaa_mens_midwest_regionals concept:agentactsinlocation concept:county:penn_state 0.5
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.642857 0 0 0
+HITS@3: 0.809524 0.0238095 0.0238095 0.0238095
+HITS@10: 1 0.0238095 0.0238095 0.0238095
+MRR: 0.76455 0.0329949 0.0334165 0.0207811
+MR: 1.92857 38.119 38.0714 74.2619
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.642857 0 0 0
+HITS@3: 0.809524 0.0238095 0.0238095 0.0238095
+HITS@10: 1 0.0238095 0.0238095 0.0238095
+MRR: 0.76455 0.033027 0.0334165 0.0207811
+MR: 1.92857 38.0714 38.0714 74.2619
+relation_mr_mrr_1_3_10_n_rf 1599.00000000000000000 1.40349228457382824 0.00000000000000000 1.00000000000000000 1.00000000000000000 42 1

@@ -1,0 +1,8 @@
+1	/tv/tv_program/languages(A,B) <= /film/film/language(A,B)
+1	/tv/tv_program/languages(A,D) <= /tv/tv_program/genre(A,B), /tv/tv_program/genre(C,B), /tv/tv_program/languages(C,D)
+1	/tv/tv_program/languages(A,E) <= /award/award_ceremony/awards_presented./award/award_honor/honored_for(B,A), /award/award_ceremony/awards_presented./award/award_honor/award_winner(B,C), /film/actor/film./film/performance/film(C,D), /film/film/language(D,E)
+1	/tv/tv_program/languages(A,D) <= /tv/tv_program/languages(A,B), /media_common/netflix_genre/titles(B,C), /film/film/language(C,D)
+1	/tv/tv_program/languages(A,D) <= /tv/tv_program/regular_cast./tv/regular_tv_appearance/actor(A,B), /award/award_nominee/award_nominations./award/award_nomination/award_nominee(B,C), /people/person/languages(C,D)
+1	/tv/tv_program/languages(A,D) <= /tv/tv_network/programs./tv/tv_network_duration/program(B,A), /broadcast/content/artist(B,C), /people/person/languages(C,D)
+1	/tv/tv_program/languages(A,D) <= /tv/tv_network/programs./tv/tv_network_duration/program(B,A), /award/award_nominee/award_nominations./award/award_nomination/nominated_for(B,C), /tv/tv_program/languages(C,D)
+1	/tv/tv_program/languages(A,D) <= /film/film/genre(A,B), /film/film/genre(C,B), /film/film/language(C,D)

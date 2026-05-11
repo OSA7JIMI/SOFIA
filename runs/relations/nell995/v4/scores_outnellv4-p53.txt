@@ -1,0 +1,26 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:personhasresidenceingeopoliticallocation
+---------------------------------
+concept:county:los_angeles_county concept:personhasresidenceingeopoliticallocation concept:politicianus:richard_riordan 1
+
+concept:county:los_angeles_county concept:coachesteam concept:politicianus:richard_riordan 1
+concept:county:los_angeles_county concept:personbelongstoorganization concept:politicianus:richard_riordan 1
+concept:county:los_angeles_county concept:personleadsgeopoliticalorganization concept:politicianus:richard_riordan 1
+concept:county:los_angeles_county concept:personleadsorganization concept:politicianus:richard_riordan 2
+concept:county:los_angeles_county concept:worksfor concept:politicianus:richard_riordan 1
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0 0 0 0
+HITS@3: 1 0 0 1
+HITS@10: 1 1 1 1
+MRR: 0.5 0.25 0.166667 0.5
+MR: 2 4 6 2
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0 0 0 0
+HITS@3: 1 0 0 1
+HITS@10: 1 1 1 1
+MRR: 0.5 0.25 0.166667 0.5
+MR: 2 4 6 2
+relation_mr_mrr_1_3_10_n_rf 6.00000000000000000 0.16666666666666666 0.00000000000000000 0.00000000000000000 1.00000000000000000 1 1

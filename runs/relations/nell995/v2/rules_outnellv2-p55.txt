@@ -1,0 +1,1 @@
+1	concept:personhascitizenship(A,E) <= concept:agentbelongstoorganization(A,B), concept:agentcompeteswithagent(B,C), concept:atdate(C,D), concept:atdate(E,D)

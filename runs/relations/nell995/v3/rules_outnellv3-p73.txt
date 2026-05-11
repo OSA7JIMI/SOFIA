@@ -1,0 +1,8 @@
+1	concept:istallerthan(A,C) <= concept:atdate(A,B), concept:atdate(C,B)
+1	concept:istallerthan(A,C) <= concept:locationlocatedwithinlocation(B,A), concept:proxyfor(C,B)
+1	concept:istallerthan(A,C) <= concept:mutualproxyfor(B,A), concept:subpartof(B,C)
+1	concept:istallerthan(A,C) <= concept:proxyfor(A,B), concept:proxyfor(C,B)
+1	concept:istallerthan(A,D) <= concept:proxyfor(A,B), concept:atlocation(B,C), concept:istallerthan(C,D)
+1	concept:istallerthan(A,D) <= concept:statelocatedingeopoliticallocation(B,A), concept:statelocatedingeopoliticallocation(B,C), concept:istallerthan(C,D)
+1	concept:istallerthan(A,D) <= concept:mutualproxyfor(A,B), concept:proxyfor(B,C), concept:istallerthan(C,D)
+1	concept:istallerthan(A,C) <= concept:atlocation(A,B), concept:istallerthan(B,C)

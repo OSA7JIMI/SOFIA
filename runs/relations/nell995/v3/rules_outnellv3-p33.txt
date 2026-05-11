@@ -1,0 +1,3 @@
+1	concept:athleteplaysforteam(A,B) <= concept:athleteledsportsteam(A,B)
+1	concept:athleteplaysforteam(A,C) <= concept:athleteplaysinleague(A,B), concept:subpartoforganization(C,B)
+1	concept:athleteplaysforteam(A,E) <= concept:worksfor(A,B), concept:organizationterminatedperson(B,C), concept:organizationterminatedperson(D,C), concept:teamplaysinleague(E,D)

@@ -1,0 +1,3 @@
+1	/military/military_conflict/combatants./military/military_combatant_group/combatants(A,B) <= /base/culturalevent/event/entity_involved(A,B)
+1	/military/military_conflict/combatants./military/military_combatant_group/combatants(A,C) <= /base/culturalevent/event/entity_involved(A,B), /military/military_combatant/military_conflicts./military/military_combatant_group/combatants(B,C)
+1	/military/military_conflict/combatants./military/military_combatant_group/combatants(A,D) <= /base/culturalevent/event/entity_involved(A,B), /military/military_combatant/military_conflicts./military/military_combatant_group/combatants(B,C), /military/military_combatant/military_conflicts./military/military_combatant_group/combatants(C,D)

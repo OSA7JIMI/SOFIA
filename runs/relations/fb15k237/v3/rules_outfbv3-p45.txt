@@ -1,0 +1,2 @@
+1	/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,B)
+1	/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend(A,B) <= /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend(B,A)

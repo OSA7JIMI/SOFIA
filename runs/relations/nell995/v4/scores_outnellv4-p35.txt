@@ -1,0 +1,409 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:locationlocatedwithinlocation
+---------------------------------
+concept:stateorprovince:oklahoma concept:locationlocatedwithinlocation concept:city:enid 2.625
+
+concept:stateorprovince:oklahoma concept:agentbelongstoorganization concept:city:enid 0.5
+concept:stateorprovince:oklahoma concept:agentcontrols concept:city:enid 1
+concept:stateorprovince:oklahoma concept:atlocation concept:city:enid 1.75
+concept:stateorprovince:oklahoma concept:citylocatedincountry concept:city:enid 1
+concept:stateorprovince:oklahoma concept:citylocatedingeopoliticallocation concept:city:enid 1
+concept:stateorprovince:oklahoma concept:citylocatedinstate concept:city:enid 2
+concept:stateorprovince:oklahoma concept:lakeinstate concept:city:enid 0.5
+concept:stateorprovince:oklahoma concept:mutualproxyfor concept:city:enid 1
+concept:stateorprovince:oklahoma concept:personleadsgeopoliticalorganization concept:city:enid 1
+concept:stateorprovince:oklahoma concept:politicianrepresentslocation concept:city:enid 1
+concept:stateorprovince:oklahoma concept:proxyfor concept:city:enid 1*
+concept:stateorprovince:oklahoma concept:subpartof concept:city:enid 3
+concept:stateorprovince:oklahoma concept:subpartoforganization concept:city:enid 0.110863
+---------------------------------
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:county:bellingham 3.625
+
+concept:city:washington_d_c concept:agentactsinlocation concept:county:bellingham 0.141967
+concept:city:washington_d_c concept:agentbelongstoorganization concept:county:bellingham 0.5
+concept:city:washington_d_c concept:agentcontrols concept:county:bellingham 1
+concept:city:washington_d_c concept:atdate concept:county:bellingham 0.518277
+concept:city:washington_d_c concept:atlocation concept:county:bellingham 2.125
+concept:city:washington_d_c concept:cityliesonriver concept:county:bellingham 1.25
+concept:city:washington_d_c concept:citylocatedincountry concept:county:bellingham 1
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:county:bellingham 1
+concept:city:washington_d_c concept:citylocatedinstate concept:county:bellingham 2
+concept:city:washington_d_c concept:lakeinstate concept:county:bellingham 0.5
+concept:city:washington_d_c concept:mutualproxyfor concept:county:bellingham 1.5
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:county:bellingham 1
+concept:city:washington_d_c concept:politicianrepresentslocation concept:county:bellingham 1
+concept:city:washington_d_c concept:proxyfor concept:county:bellingham 2.16667*
+concept:city:washington_d_c concept:subpartof concept:county:bellingham 4*
+concept:city:washington_d_c concept:subpartoforganization concept:county:bellingham 0.110863
+---------------------------------
+concept:governmentorganization:federal concept:locationlocatedwithinlocation concept:city:york 0.125
+
+concept:governmentorganization:federal concept:subpartof concept:city:york 1
+---------------------------------
+concept:city:indianapolis concept:locationlocatedwithinlocation concept:stadiumoreventvenue:clowes_memorial_hall 1.125
+
+concept:city:indianapolis concept:atlocation concept:stadiumoreventvenue:clowes_memorial_hall 1
+concept:city:indianapolis concept:attractionofcity concept:stadiumoreventvenue:clowes_memorial_hall 1
+concept:city:indianapolis concept:mutualproxyfor concept:stadiumoreventvenue:clowes_memorial_hall 1
+concept:city:indianapolis concept:proxyfor concept:stadiumoreventvenue:clowes_memorial_hall 1
+concept:city:indianapolis concept:subpartof concept:stadiumoreventvenue:clowes_memorial_hall 2
+---------------------------------
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:visualizablething:spokane 1.625
+
+concept:city:washington_d_c concept:cityliesonriver concept:visualizablething:spokane 0.5
+concept:city:washington_d_c concept:subpartof concept:visualizablething:spokane 1
+---------------------------------
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:city:kennewick 3.625
+
+concept:city:washington_d_c concept:agentactsinlocation concept:city:kennewick 0.141967
+concept:city:washington_d_c concept:agentbelongstoorganization concept:city:kennewick 0.5
+concept:city:washington_d_c concept:agentcontrols concept:city:kennewick 1
+concept:city:washington_d_c concept:atdate concept:city:kennewick 0.518277
+concept:city:washington_d_c concept:atlocation concept:city:kennewick 2.125
+concept:city:washington_d_c concept:cityliesonriver concept:city:kennewick 1.75
+concept:city:washington_d_c concept:citylocatedincountry concept:city:kennewick 1
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:city:kennewick 1
+concept:city:washington_d_c concept:citylocatedinstate concept:city:kennewick 2.35714
+concept:city:washington_d_c concept:lakeinstate concept:city:kennewick 0.5
+concept:city:washington_d_c concept:mutualproxyfor concept:city:kennewick 1.5
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:city:kennewick 1
+concept:city:washington_d_c concept:politicianrepresentslocation concept:city:kennewick 1
+concept:city:washington_d_c concept:proxyfor concept:city:kennewick 2.16667*
+concept:city:washington_d_c concept:subpartof concept:city:kennewick 4*
+concept:city:washington_d_c concept:subpartoforganization concept:city:kennewick 0.220025
+---------------------------------
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:city:renton 3.625
+
+concept:city:washington_d_c concept:agentactsinlocation concept:city:renton 0.141967
+concept:city:washington_d_c concept:agentbelongstoorganization concept:city:renton 0.5
+concept:city:washington_d_c concept:agentcontrols concept:city:renton 1
+concept:city:washington_d_c concept:atdate concept:city:renton 0.518277
+concept:city:washington_d_c concept:atlocation concept:city:renton 2.125
+concept:city:washington_d_c concept:cityliesonriver concept:city:renton 1.25
+concept:city:washington_d_c concept:citylocatedincountry concept:city:renton 1
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:city:renton 1
+concept:city:washington_d_c concept:citylocatedinstate concept:city:renton 2
+concept:city:washington_d_c concept:lakeinstate concept:city:renton 0.5
+concept:city:washington_d_c concept:mutualproxyfor concept:city:renton 1.5
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:city:renton 1
+concept:city:washington_d_c concept:politicianrepresentslocation concept:city:renton 1
+concept:city:washington_d_c concept:proxyfor concept:city:renton 2.16667*
+concept:city:washington_d_c concept:subpartof concept:city:renton 4*
+concept:city:washington_d_c concept:subpartoforganization concept:city:renton 0.110863
+---------------------------------
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:city:yakima 3.625
+
+concept:city:washington_d_c concept:agentactsinlocation concept:city:yakima 0.141967
+concept:city:washington_d_c concept:agentbelongstoorganization concept:city:yakima 0.5
+concept:city:washington_d_c concept:agentcontrols concept:city:yakima 1
+concept:city:washington_d_c concept:atdate concept:city:yakima 0.518277
+concept:city:washington_d_c concept:atlocation concept:city:yakima 2.125
+concept:city:washington_d_c concept:cityliesonriver concept:city:yakima 1.25
+concept:city:washington_d_c concept:citylocatedincountry concept:city:yakima 1
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:city:yakima 1
+concept:city:washington_d_c concept:citylocatedinstate concept:city:yakima 2
+concept:city:washington_d_c concept:lakeinstate concept:city:yakima 0.5
+concept:city:washington_d_c concept:mutualproxyfor concept:city:yakima 1.5
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:city:yakima 1
+concept:city:washington_d_c concept:politicianrepresentslocation concept:city:yakima 1
+concept:city:washington_d_c concept:proxyfor concept:city:yakima 2.16667*
+concept:city:washington_d_c concept:subpartof concept:city:yakima 4*
+concept:city:washington_d_c concept:subpartoforganization concept:city:yakima 0.110863
+---------------------------------
+concept:city:denver concept:locationlocatedwithinlocation concept:stadiumoreventvenue:fillmore_auditorium 1.125
+
+concept:city:denver concept:atlocation concept:stadiumoreventvenue:fillmore_auditorium 1
+concept:city:denver concept:attractionofcity concept:stadiumoreventvenue:fillmore_auditorium 1
+concept:city:denver concept:cityliesonriver concept:stadiumoreventvenue:fillmore_auditorium 0.5
+concept:city:denver concept:mutualproxyfor concept:stadiumoreventvenue:fillmore_auditorium 1
+concept:city:denver concept:proxyfor concept:stadiumoreventvenue:fillmore_auditorium 1
+concept:city:denver concept:subpartof concept:stadiumoreventvenue:fillmore_auditorium 2
+---------------------------------
+concept:city:york concept:locationlocatedwithinlocation concept:river:arts 0.625
+
+concept:city:york concept:agentcontrols concept:river:arts 0.25
+concept:city:york concept:atlocation concept:river:arts 0.125
+concept:city:york concept:cityliesonriver concept:river:arts 2
+concept:city:york concept:hasofficeincountry concept:river:arts 0.75
+concept:city:york concept:lakeinstate concept:river:arts 0.5
+concept:city:york concept:mutualproxyfor concept:river:arts 1.5
+concept:city:york concept:proxyfor concept:river:arts 1
+concept:city:york concept:sportsgameteam concept:river:arts 0.5
+concept:city:york concept:subpartof concept:river:arts 2
+---------------------------------
+concept:geopoliticallocation:national concept:locationlocatedwithinlocation concept:city:washington_d_c 0.625
+
+concept:geopoliticallocation:national concept:agentactsinlocation concept:city:washington_d_c 0.141967
+concept:geopoliticallocation:national concept:atlocation concept:city:washington_d_c 1.125
+concept:geopoliticallocation:national concept:citylocatedinstate concept:city:washington_d_c 0.357143
+concept:geopoliticallocation:national concept:subpartof concept:city:washington_d_c 1
+---------------------------------
+concept:aquarium:u__s_ concept:locationlocatedwithinlocation concept:city:york 0.625
+
+concept:aquarium:u__s_ concept:atdate concept:city:york 0.0161079
+concept:aquarium:u__s_ concept:mutualproxyfor concept:city:york 0.5
+concept:aquarium:u__s_ concept:proxyfor concept:city:york 0.5
+concept:aquarium:u__s_ concept:subpartof concept:city:york 1
+---------------------------------
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:room:kent 1.625
+
+concept:city:washington_d_c concept:atdate concept:room:kent 0.020447
+concept:city:washington_d_c concept:atlocation concept:room:kent 0.125
+concept:city:washington_d_c concept:cityliesonriver concept:room:kent 0.5
+concept:city:washington_d_c concept:mutualproxyfor concept:room:kent 0.5*
+concept:city:washington_d_c concept:subpartof concept:room:kent 1.5
+concept:city:washington_d_c concept:subpartoforganization concept:room:kent 0.109162
+---------------------------------
+concept:retailstore:ut concept:locationlocatedwithinlocation concept:shoppingmall:memphis 0.125
+
+concept:retailstore:ut concept:subpartof concept:shoppingmall:memphis 1
+---------------------------------
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:city:edmonds 3.625
+
+concept:city:washington_d_c concept:agentbelongstoorganization concept:city:edmonds 0.5
+concept:city:washington_d_c concept:agentcontrols concept:city:edmonds 1
+concept:city:washington_d_c concept:atdate concept:city:edmonds 0.518277
+concept:city:washington_d_c concept:atlocation concept:city:edmonds 2.125
+concept:city:washington_d_c concept:cityliesonriver concept:city:edmonds 1.25
+concept:city:washington_d_c concept:citylocatedincountry concept:city:edmonds 1
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:city:edmonds 1
+concept:city:washington_d_c concept:citylocatedinstate concept:city:edmonds 2
+concept:city:washington_d_c concept:lakeinstate concept:city:edmonds 0.5
+concept:city:washington_d_c concept:mutualproxyfor concept:city:edmonds 1.5
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:city:edmonds 1
+concept:city:washington_d_c concept:politicianrepresentslocation concept:city:edmonds 1
+concept:city:washington_d_c concept:proxyfor concept:city:edmonds 1.5*
+concept:city:washington_d_c concept:subpartof concept:city:edmonds 3
+concept:city:washington_d_c concept:subpartoforganization concept:city:edmonds 0.110863
+---------------------------------
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:city:everett 2.625
+
+concept:city:washington_d_c concept:agentbelongstoorganization concept:city:everett 0.5
+concept:city:washington_d_c concept:agentcontrols concept:city:everett 1
+concept:city:washington_d_c concept:atdate concept:city:everett 0.518277
+concept:city:washington_d_c concept:atlocation concept:city:everett 1.125
+concept:city:washington_d_c concept:cityliesonriver concept:city:everett 1.25
+concept:city:washington_d_c concept:citylocatedincountry concept:city:everett 1
+concept:city:washington_d_c concept:citylocatedinstate concept:city:everett 1
+concept:city:washington_d_c concept:lakeinstate concept:city:everett 0.5
+concept:city:washington_d_c concept:mutualproxyfor concept:city:everett 0.5
+concept:city:washington_d_c concept:politicianrepresentslocation concept:city:everett 1
+concept:city:washington_d_c concept:subpartof concept:city:everett 2
+concept:city:washington_d_c concept:subpartoforganization concept:city:everett 0.110863
+---------------------------------
+concept:geopoliticallocation:sam_houston concept:locationlocatedwithinlocation concept:city:huntsville 0.125
+
+concept:geopoliticallocation:sam_houston concept:subpartof concept:city:huntsville 1
+---------------------------------
+concept:beach:vermont concept:locationlocatedwithinlocation concept:retailstore:burlington 1.625
+
+concept:beach:vermont concept:agentcontrols concept:retailstore:burlington 1
+concept:beach:vermont concept:atdate concept:retailstore:burlington 0.0161079
+concept:beach:vermont concept:atlocation concept:retailstore:burlington 0.75
+concept:beach:vermont concept:citylocatedincountry concept:retailstore:burlington 1
+concept:beach:vermont concept:citylocatedinstate concept:retailstore:burlington 1
+concept:beach:vermont concept:mutualproxyfor concept:retailstore:burlington 0.5
+concept:beach:vermont concept:politicianrepresentslocation concept:retailstore:burlington 1
+concept:beach:vermont concept:subpartof concept:retailstore:burlington 2
+---------------------------------
+concept:city:phoenix concept:locationlocatedwithinlocation concept:stadiumoreventvenue:chase_field 1.125
+
+concept:city:phoenix concept:atlocation concept:stadiumoreventvenue:chase_field 1
+concept:city:phoenix concept:attractionofcity concept:stadiumoreventvenue:chase_field 1
+concept:city:phoenix concept:cityliesonriver concept:stadiumoreventvenue:chase_field 0.5
+concept:city:phoenix concept:mutualproxyfor concept:stadiumoreventvenue:chase_field 1
+concept:city:phoenix concept:proxyfor concept:stadiumoreventvenue:chase_field 1
+concept:city:phoenix concept:subpartof concept:stadiumoreventvenue:chase_field 2
+---------------------------------
+concept:city:denver concept:locationlocatedwithinlocation concept:stadiumoreventvenue:ogden_theatre 1.125
+
+concept:city:denver concept:atlocation concept:stadiumoreventvenue:ogden_theatre 1
+concept:city:denver concept:attractionofcity concept:stadiumoreventvenue:ogden_theatre 1
+concept:city:denver concept:cityliesonriver concept:stadiumoreventvenue:ogden_theatre 0.5
+concept:city:denver concept:mutualproxyfor concept:stadiumoreventvenue:ogden_theatre 1
+concept:city:denver concept:proxyfor concept:stadiumoreventvenue:ogden_theatre 1
+concept:city:denver concept:subpartof concept:stadiumoreventvenue:ogden_theatre 2
+---------------------------------
+concept:city:vegas concept:locationlocatedwithinlocation concept:city:new_york 0.625
+
+concept:city:vegas concept:atlocation concept:city:new_york 0.125
+concept:city:vegas concept:hasofficeincountry concept:city:new_york 0.5
+concept:city:vegas concept:subpartof concept:city:new_york 1
+---------------------------------
+concept:aquarium:u__s_ concept:locationlocatedwithinlocation concept:city:washington_d_c 1.625
+
+concept:aquarium:u__s_ concept:agentcontrols concept:city:washington_d_c 1.75
+concept:aquarium:u__s_ concept:atdate concept:city:washington_d_c 0.0161079
+concept:aquarium:u__s_ concept:atlocation concept:city:washington_d_c 0.875
+concept:aquarium:u__s_ concept:citylocatedincountry concept:city:washington_d_c 1
+concept:aquarium:u__s_ concept:citylocatedinstate concept:city:washington_d_c 1
+concept:aquarium:u__s_ concept:mutualproxyfor concept:city:washington_d_c 0.5
+concept:aquarium:u__s_ concept:politicianrepresentslocation concept:city:washington_d_c 1
+concept:aquarium:u__s_ concept:proxyfor concept:city:washington_d_c 1.16667*
+concept:aquarium:u__s_ concept:subpartof concept:city:washington_d_c 2*
+---------------------------------
+concept:highway:the_new concept:locationlocatedwithinlocation concept:river:arts 2.125
+
+concept:highway:the_new concept:agentactsinlocation concept:river:arts 1
+concept:highway:the_new concept:agentcollaborateswithagent concept:river:arts 1
+concept:highway:the_new concept:agentcontrols concept:river:arts 1.5
+concept:highway:the_new concept:atdate concept:river:arts 0.0161079
+concept:highway:the_new concept:atlocation concept:river:arts 0.875
+concept:highway:the_new concept:citylocatedincountry concept:river:arts 1
+concept:highway:the_new concept:citylocatedinstate concept:river:arts 1
+concept:highway:the_new concept:hasofficeincountry concept:river:arts 0.75
+concept:highway:the_new concept:lakeinstate concept:river:arts 0.5
+concept:highway:the_new concept:mutualproxyfor concept:river:arts 2.5
+concept:highway:the_new concept:politicianrepresentslocation concept:river:arts 1
+concept:highway:the_new concept:proxyfor concept:river:arts 1*
+concept:highway:the_new concept:subpartof concept:river:arts 2
+---------------------------------
+concept:geopoliticallocation:national concept:locationlocatedwithinlocation concept:city:washington_dc 0.625
+
+concept:geopoliticallocation:national concept:citylocatedinstate concept:city:washington_dc 0.357143
+concept:geopoliticallocation:national concept:subpartof concept:city:washington_dc 1
+---------------------------------
+concept:newspaper:the_national concept:locationlocatedwithinlocation concept:city:washington_d_c 0.125
+
+concept:newspaper:the_national concept:agentcompeteswithagent concept:city:washington_d_c 1
+concept:newspaper:the_national concept:atlocation concept:city:washington_d_c 0.125
+concept:newspaper:the_national concept:organizationheadquarteredincity concept:city:washington_d_c 0.5
+concept:newspaper:the_national concept:subpartof concept:city:washington_d_c 1
+---------------------------------
+concept:river:arts concept:locationlocatedwithinlocation concept:highway:the_new 1.625
+
+concept:river:arts concept:agentactsinlocation concept:highway:the_new 1
+concept:river:arts concept:agentcollaborateswithagent concept:highway:the_new 1
+concept:river:arts concept:atdate concept:highway:the_new 0.504339
+concept:river:arts concept:atlocation concept:highway:the_new 1
+concept:river:arts concept:attractionofcity concept:highway:the_new 1
+concept:river:arts concept:cityalsoknownas concept:highway:the_new 0.5
+concept:river:arts concept:hasofficeincountry concept:highway:the_new 0.25
+concept:river:arts concept:mutualproxyfor concept:highway:the_new 2.5
+concept:river:arts concept:proxyfor concept:highway:the_new 3
+concept:river:arts concept:subpartof concept:highway:the_new 2
+---------------------------------
+concept:city:detroit concept:locationlocatedwithinlocation concept:stadiumoreventvenue:saint_andrews_hall 1.125
+
+concept:city:detroit concept:atlocation concept:stadiumoreventvenue:saint_andrews_hall 1
+concept:city:detroit concept:attractionofcity concept:stadiumoreventvenue:saint_andrews_hall 1
+concept:city:detroit concept:mutualproxyfor concept:stadiumoreventvenue:saint_andrews_hall 1
+concept:city:detroit concept:proxyfor concept:stadiumoreventvenue:saint_andrews_hall 1
+concept:city:detroit concept:subpartof concept:stadiumoreventvenue:saint_andrews_hall 2
+---------------------------------
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:city:wenatchee 3.625
+
+concept:city:washington_d_c concept:agentbelongstoorganization concept:city:wenatchee 0.5
+concept:city:washington_d_c concept:agentcontrols concept:city:wenatchee 1
+concept:city:washington_d_c concept:atdate concept:city:wenatchee 0.518277
+concept:city:washington_d_c concept:atlocation concept:city:wenatchee 2.125
+concept:city:washington_d_c concept:cityliesonriver concept:city:wenatchee 1.25
+concept:city:washington_d_c concept:citylocatedincountry concept:city:wenatchee 1
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:city:wenatchee 1
+concept:city:washington_d_c concept:citylocatedinstate concept:city:wenatchee 2
+concept:city:washington_d_c concept:lakeinstate concept:city:wenatchee 0.5
+concept:city:washington_d_c concept:mutualproxyfor concept:city:wenatchee 1.5
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:city:wenatchee 1
+concept:city:washington_d_c concept:politicianrepresentslocation concept:city:wenatchee 1
+concept:city:washington_d_c concept:proxyfor concept:city:wenatchee 1.5*
+concept:city:washington_d_c concept:subpartof concept:city:wenatchee 3
+concept:city:washington_d_c concept:subpartoforganization concept:city:wenatchee 0.110863
+---------------------------------
+concept:hospital:louisiana_state_university concept:locationlocatedwithinlocation concept:city:shreveport 0.125
+
+concept:hospital:louisiana_state_university concept:subpartof concept:city:shreveport 1
+---------------------------------
+concept:stateorprovince:new_jersey concept:locationlocatedwithinlocation concept:city:newark 0.625
+
+concept:stateorprovince:new_jersey concept:atdate concept:city:newark 0.518277
+concept:stateorprovince:new_jersey concept:atlocation concept:city:newark 0.75
+concept:stateorprovince:new_jersey concept:citylocatedinstate concept:city:newark 0.714286
+concept:stateorprovince:new_jersey concept:lakeinstate concept:city:newark 0.5
+concept:stateorprovince:new_jersey concept:subpartof concept:city:newark 1
+---------------------------------
+concept:politicsblog:tennis_magazine concept:locationlocatedwithinlocation concept:highway:the_new 0.125
+
+concept:politicsblog:tennis_magazine concept:subpartof concept:highway:the_new 1
+---------------------------------
+concept:retailstore:ut concept:locationlocatedwithinlocation concept:island:san_antonio 0.125
+
+concept:retailstore:ut concept:subpartof concept:island:san_antonio 1
+---------------------------------
+concept:stateorprovince:washington_state concept:locationlocatedwithinlocation concept:county:olympia 0.125
+
+concept:stateorprovince:washington_state concept:subpartof concept:county:olympia 1
+---------------------------------
+concept:beach:massachusetts concept:locationlocatedwithinlocation concept:city:lowell 1.625
+
+concept:beach:massachusetts concept:agentcontrols concept:city:lowell 1
+concept:beach:massachusetts concept:atlocation concept:city:lowell 0.75
+concept:beach:massachusetts concept:citylocatedincountry concept:city:lowell 1
+concept:beach:massachusetts concept:citylocatedinstate concept:city:lowell 1
+concept:beach:massachusetts concept:lakeinstate concept:city:lowell 0.5
+concept:beach:massachusetts concept:politicianrepresentslocation concept:city:lowell 1
+concept:beach:massachusetts concept:subpartof concept:city:lowell 2
+---------------------------------
+concept:city:las_vegas concept:locationlocatedwithinlocation concept:city:vegas 0.125
+
+concept:city:las_vegas concept:subpartof concept:city:vegas 1
+---------------------------------
+concept:landscapefeatures:old concept:locationlocatedwithinlocation concept:county:baton_rouge 0.125
+
+concept:landscapefeatures:old concept:subpartof concept:county:baton_rouge 1
+---------------------------------
+concept:city:guyana concept:locationlocatedwithinlocation concept:monument:georgetown 0.125
+
+concept:city:guyana concept:subpartof concept:monument:georgetown 1
+---------------------------------
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:county:olympia 3.625
+
+concept:city:washington_d_c concept:agentactsinlocation concept:county:olympia 0.141967
+concept:city:washington_d_c concept:agentbelongstoorganization concept:county:olympia 0.5
+concept:city:washington_d_c concept:agentcontrols concept:county:olympia 1
+concept:city:washington_d_c concept:atdate concept:county:olympia 0.518277
+concept:city:washington_d_c concept:atlocation concept:county:olympia 2.125
+concept:city:washington_d_c concept:cityliesonriver concept:county:olympia 1.25
+concept:city:washington_d_c concept:citylocatedincountry concept:county:olympia 1
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:county:olympia 1
+concept:city:washington_d_c concept:citylocatedinstate concept:county:olympia 2
+concept:city:washington_d_c concept:lakeinstate concept:county:olympia 0.5
+concept:city:washington_d_c concept:mutualproxyfor concept:county:olympia 1.5
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:county:olympia 1
+concept:city:washington_d_c concept:politicianrepresentslocation concept:county:olympia 1
+concept:city:washington_d_c concept:proxyfor concept:county:olympia 2.16667*
+concept:city:washington_d_c concept:subpartof concept:county:olympia 4*
+concept:city:washington_d_c concept:subpartoforganization concept:county:olympia 0.110863
+---------------------------------
+concept:stateorprovince:new_jersey concept:locationlocatedwithinlocation concept:city:camden 0.625
+
+concept:stateorprovince:new_jersey concept:subpartof concept:city:camden 1
+---------------------------------
+concept:city:nj concept:locationlocatedwithinlocation concept:highway:trenton 2.625
+
+concept:city:nj concept:agentcontrols concept:highway:trenton 1
+concept:city:nj concept:atlocation concept:highway:trenton 1.75
+concept:city:nj concept:citylocatedincountry concept:highway:trenton 1
+concept:city:nj concept:citylocatedingeopoliticallocation concept:highway:trenton 1
+concept:city:nj concept:citylocatedinstate concept:highway:trenton 2
+concept:city:nj concept:lakeinstate concept:highway:trenton 0.5
+concept:city:nj concept:mutualproxyfor concept:highway:trenton 1.5
+concept:city:nj concept:personleadsgeopoliticalorganization concept:highway:trenton 1
+concept:city:nj concept:politicianrepresentslocation concept:highway:trenton 1
+concept:city:nj concept:proxyfor concept:highway:trenton 2.16667*
+concept:city:nj concept:subpartof concept:highway:trenton 3.18254*
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.125 0.125 0.125 0.125
+HITS@3: 0.9 0.9 0.9 0.9
+HITS@10: 1 1 1 1
+MRR: 0.527083 0.525833 0.525833 0.527083
+MR: 2.175 2.2 2.2 2.175
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.275 0.275 0.275 0.275
+HITS@3: 0.9 0.9 0.9 0.9
+HITS@10: 1 1 1 1
+MRR: 0.60625 0.605 0.605 0.60625
+MR: 2 2.025 2.025 2
+relation_mr_mrr_1_3_10_n_rf 81.00000000000000000 24.19999999999999929 11.00000000000000000 36.00000000000000000 40.00000000000000000 40 40

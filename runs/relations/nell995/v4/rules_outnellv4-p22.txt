@@ -1,0 +1,1 @@
+1	concept:coachesinleague(A,B) <= concept:athleteplaysinleague(A,B)

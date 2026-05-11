@@ -1,0 +1,2 @@
+1	/organization/organization_founder/organizations_founded(A,B) <= /people/person/employment_history./business/employment_tenure/company(A,B)
+1	/organization/organization_founder/organizations_founded(A,C) <= /film/film/executive_produced_by(B,A), /film/film/production_companies(B,C)

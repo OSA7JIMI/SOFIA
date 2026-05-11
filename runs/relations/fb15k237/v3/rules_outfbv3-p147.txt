@@ -1,0 +1,1 @@
+1	/olympics/olympic_games/participating_countries(A,B) <= /olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics(B,A)

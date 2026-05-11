@@ -1,0 +1,8 @@
+1	concept:animaleatvegetable(A,C) <= concept:agriculturalproductcookedwithagriculturalproduct(B,A), concept:agriculturalproductcookedwithagriculturalproduct(B,C)
+1	concept:animaleatvegetable(A,D) <= concept:animaleatfood(A,B), concept:agriculturalproductcutintogeometricshape(B,C), concept:agriculturalproductcutintogeometricshape(D,C)
+1	concept:animaleatvegetable(A,D) <= concept:animaleatvegetable(A,B), concept:agriculturalproductcookedwithagriculturalproduct(B,C), concept:agriculturalproductcookedwithagriculturalproduct(C,D)
+1	concept:animaleatvegetable(A,D) <= concept:agriculturalproductcomingfromvertebrate(B,A), concept:agriculturalproductcookedwithagriculturalproduct(B,C), concept:agriculturalproductcookedwithagriculturalproduct(C,D)
+1	concept:animaleatvegetable(A,D) <= concept:animaleatfood(A,B), concept:fishservedwithfood(C,B), concept:fishservedwithfood(C,D)
+1	concept:animaleatvegetable(A,D) <= concept:fishservedwithfood(A,B), concept:animaleatfood(C,B), concept:animaleatvegetable(C,D)
+1	concept:animaleatvegetable(A,D) <= concept:animaleatfood(A,B), concept:fishservedwithfood(C,B), concept:animaleatvegetable(C,D)
+1	concept:animaleatvegetable(A,C) <= concept:mammalsuchasmammal(B,A), concept:animaleatvegetable(B,C)

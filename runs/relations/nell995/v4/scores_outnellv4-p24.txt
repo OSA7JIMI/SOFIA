@@ -1,0 +1,177 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:companyeconomicsector
+---------------------------------
+concept:economicsector:computer concept:companyeconomicsector concept:company:sun_microsystems001 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:company:forbes001 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:website:washington_post 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:newspaper:newsday 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:magazine:u_s__news___world_report 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:company:cnn_ 0
+
+---------------------------------
+concept:economicsector:insurance_coverage concept:companyeconomicsector concept:creditunion:kansas 0
+
+---------------------------------
+concept:economicsector:insurance_coverage concept:companyeconomicsector concept:company:nebraska 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:website:the_washington_post 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:company:abc_news 0
+
+---------------------------------
+concept:economicsector:budget concept:companyeconomicsector concept:company:ryanair001 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:newspaper:the_detroit_free_press 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:company:usa_today001 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:televisionnetwork:cbs 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:company:fox 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:newspaper:philadelphia_inquirer 0
+
+---------------------------------
+concept:economicsector:insurance_coverage concept:companyeconomicsector concept:newspaper:alabama 0
+
+---------------------------------
+concept:economicsector:insurance_coverage concept:companyeconomicsector concept:company:missouri 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:website:the_houston_chronicle 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:company:fortune001 0
+
+---------------------------------
+concept:economicsector:computer concept:companyeconomicsector concept:company:apple 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:website:cnn__fox 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:website:associated_press 0
+
+---------------------------------
+concept:economicsector:insurance_coverage concept:companyeconomicsector concept:radiostation:new_jersey 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:company:sun 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:newspaper:journal 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:company:national_public_radio 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:website:washington_times 0
+
+---------------------------------
+concept:economicsector:computer concept:companyeconomicsector concept:biotechcompany:apple 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:company:christian_science_monitor 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:newspaper:la_times 0
+
+---------------------------------
+concept:economicsector:insurance_coverage concept:companyeconomicsector concept:magazine:life 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:website:chicago_tribune 0
+
+---------------------------------
+concept:economicsector:insurance_coverage concept:companyeconomicsector concept:newspaper:new_hampshire 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:company:npr 0
+
+---------------------------------
+concept:economicsector:insurance_coverage concept:companyeconomicsector concept:company:new_york 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:blog:time_magazine 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:website:nbc_news 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:website:cbs_evening_news 0
+
+---------------------------------
+concept:economicsector:computer concept:companyeconomicsector concept:company:ibm 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:newspaper:times 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:televisionnetwork:abc 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:newspaper:sacramento_bee 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:company:fox_news_channel 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:magazine:the_wall_street_journal 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:newspaper:new_york_post 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:company:boston_globe001 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:company:bbc 0
+
+---------------------------------
+concept:economicsector:insurance_coverage concept:companyeconomicsector concept:company:arizona 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:publication:espn 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:company:globe_and_mail 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:website:new_york_times 0
+
+---------------------------------
+concept:academicfield:news concept:companyeconomicsector concept:website:the_san_francisco_chronicle 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.0260357 0.0264399 0.0131579
+MR: 1 38.4151 38.3585 76
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.0259975 0.0264399 0.0131579
+MR: 1 38.4717 38.3585 76
+relation_mr_mrr_1_3_10_n_rf 2033.00000000000000000 1.40131366504342703 0.00000000000000000 0.00000000000000000 0.00000000000000000 53 0

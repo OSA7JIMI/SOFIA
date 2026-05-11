@@ -1,0 +1,4 @@
+1	/film/film/story_by(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(B,A)
+1	/film/film/story_by(A,D) <= /award/award_category/nominees./award/award_nomination/nominated_for(B,A), /award/award_winning_work/awards_won./award/award_honor/award(C,B), /film/film/story_by(C,D)
+1	/film/film/story_by(A,E) <= /film/film/language(A,B), /education/field_of_study/students_majoring./education/education/student(B,C), /people/person/gender(C,D), /people/person/gender(E,D)
+1	/film/film/story_by(A,D) <= /award/award_winning_work/awards_won./award/award_honor/award_winner(A,B), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/person/spouse_s./people/marriage/type_of_union(D,C)

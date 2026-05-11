@@ -1,0 +1,3 @@
+1	/film/film/country(A,B) <= /film/film/release_date_s./film/film_regional_release_date/film_release_region(A,B)
+1	/film/film/country(A,D) <= /film/film/genre(A,B), /media_common/netflix_genre/titles(B,C), /film/film/release_date_s./film/film_regional_release_date/film_release_region(C,D)
+1	/film/film/country(A,D) <= /film/film/language(A,B), /film/film/language(C,B), /film/film/release_date_s./film/film_regional_release_date/film_release_region(C,D)

@@ -1,0 +1,1 @@
+1	/education/educational_institution/colors(A,D) <= /education/educational_degree/people_with_this_degree./education/education/institution(B,A), /education/educational_degree/people_with_this_degree./education/education/institution(B,C), /education/educational_institution/colors(C,D)

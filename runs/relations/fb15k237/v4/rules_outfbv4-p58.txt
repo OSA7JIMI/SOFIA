@@ -1,0 +1,5 @@
+1	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency(A,B) <= /education/university/international_tuition./measurement_unit/dated_money_value/currency(A,B)
+1	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency(A,B) <= /education/university/local_tuition./measurement_unit/dated_money_value/currency(A,B)
+1	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency(A,B) <= /organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency(A,B)
+1	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency(A,D) <= /location/location/contains(B,A), /media_common/netflix_genre/titles(B,C), /film/film/estimated_budget./measurement_unit/dated_money_value/currency(C,D)
+1	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency(A,D) <= /education/educational_degree/people_with_this_degree./education/education/institution(B,A), /education/educational_degree/people_with_this_degree./education/education/institution(B,C), /organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency(C,D)

@@ -1,0 +1,1 @@
+1	_similar_to(A,B) <= _similar_to(B,A)

@@ -1,0 +1,2 @@
+1	/location/country/official_language(A,B) <= /language/human_language/countries_spoken_in(B,A)
+1	/location/country/official_language(A,E) <= /location/country/form_of_government(A,B), /location/country/form_of_government(C,B), /film/film/release_date_s./film/film_regional_release_date/film_release_region(D,C), /film/film/language(D,E)

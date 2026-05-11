@@ -1,0 +1,3 @@
+1	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(A,B)
+1	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(A,D) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,B), /people/person/languages(B,C), /tv/tv_program/languages(D,C)
+1	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(A,D) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B), /tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(C,D)

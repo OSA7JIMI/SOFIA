@@ -1,0 +1,6 @@
+1	concept:objectfoundinscene(A,D) <= concept:proxyfor(A,B), concept:mutualproxyfor(B,C), concept:objectfoundinscene(C,D)
+1	concept:objectfoundinscene(A,D) <= concept:mutualproxyfor(A,B), concept:mutualproxyfor(B,C), concept:objectfoundinscene(C,D)
+1	concept:objectfoundinscene(A,D) <= concept:objectfoundinscene(A,B), concept:objectfoundinscene(C,B), concept:objectfoundinscene(C,D)
+1	concept:objectfoundinscene(A,D) <= concept:atlocation(B,A), concept:atlocation(B,C), concept:objectfoundinscene(C,D)
+1	concept:objectfoundinscene(A,D) <= concept:fishservedwithfood(B,A), concept:fishservedwithfood(B,C), concept:objectfoundinscene(C,D)
+1	concept:objectfoundinscene(A,E) <= concept:proxyfor(A,B), concept:mutualproxyfor(B,C), concept:atdate(D,C), concept:locationlocatedwithinlocation(E,D)

@@ -1,0 +1,2 @@
+1	concept:thinghascolor(A,C) <= concept:plantgrowinginplant(A,B), concept:thinghascolor(B,C)
+1	concept:thinghascolor(A,D) <= concept:thinghascolor(A,B), concept:thinghascolor(C,B), concept:thinghascolor(C,D)

@@ -1,0 +1,1 @@
+1	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to(A,C) <= /olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics(A,B), /olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics(C,B)

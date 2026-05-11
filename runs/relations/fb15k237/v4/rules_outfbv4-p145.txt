@@ -1,0 +1,2 @@
+1	/music/performance_role/guest_performances./music/recording_contribution/performance_role(A,C) <= /music/performance_role/track_performances./music/track_contribution/role(A,B), /music/performance_role/track_performances./music/track_contribution/role(C,B)
+1	/music/performance_role/guest_performances./music/recording_contribution/performance_role(A,B) <= /music/performance_role/guest_performances./music/recording_contribution/performance_role(B,A)

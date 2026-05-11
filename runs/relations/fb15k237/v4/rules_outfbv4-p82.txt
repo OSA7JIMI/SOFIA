@@ -1,0 +1,3 @@
+1	/film/film/other_crew./film/film_crew_gig/crewmember(A,D) <= /film/film/other_crew./film/film_crew_gig/film_crew_role(A,B), /film/film/other_crew./film/film_crew_gig/film_crew_role(C,B), /film/film/other_crew./film/film_crew_gig/crewmember(C,D)
+1	/film/film/other_crew./film/film_crew_gig/crewmember(A,D) <= /film/film/language(A,B), /film/film/language(C,B), /award/award_nominee/award_nominations./award/award_nomination/nominated_for(D,C)
+1	/film/film/other_crew./film/film_crew_gig/crewmember(A,D) <= /film/film/produced_by(A,B), /people/person/gender(B,C), /people/person/gender(D,C)

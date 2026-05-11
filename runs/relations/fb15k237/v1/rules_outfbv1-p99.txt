@@ -1,0 +1,2 @@
+1	/location/location/partially_contains(A,C) <= /location/location/adjoin_s./location/adjoining_relationship/adjoins(A,B), /location/location/partially_contains(B,C)
+1	/location/location/partially_contains(A,C) <= /military/military_combatant/military_conflicts./military/military_combatant_group/combatants(A,B), /location/location/partially_contains(B,C)

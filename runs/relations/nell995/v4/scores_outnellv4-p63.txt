@@ -1,0 +1,222 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:stadiumlocatedincity
+---------------------------------
+concept:city:anaheim concept:stadiumlocatedincity concept:stadiumoreventvenue:angel_stadium 0
+
+---------------------------------
+concept:county:los_angeles_county concept:stadiumlocatedincity concept:stadiumoreventvenue:staples_center 0
+
+---------------------------------
+concept:city:miami concept:stadiumlocatedincity concept:stadiumoreventvenue:pro_player_stadium 0
+
+---------------------------------
+concept:city:san_diego concept:stadiumlocatedincity concept:stadiumoreventvenue:qualcomm_stadium 0
+
+---------------------------------
+concept:city:buffalo concept:stadiumlocatedincity concept:stadiumoreventvenue:ralph_wilson_stadium 0
+
+---------------------------------
+concept:city:san_francisco concept:stadiumlocatedincity concept:stadiumoreventvenue:sbc_bricktown_ballpark 0
+
+---------------------------------
+concept:county:kansas_city concept:stadiumlocatedincity concept:stadiumoreventvenue:arrowhead_stadium 0
+
+---------------------------------
+concept:county:kansas_city concept:stadiumlocatedincity concept:stadiumoreventvenue:kauffman_stadium 0
+
+---------------------------------
+concept:city:saint_louis concept:stadiumlocatedincity concept:stadiumoreventvenue:edward_jones_dome 0
+
+---------------------------------
+concept:city:detroit concept:stadiumlocatedincity concept:stadiumoreventvenue:comerica 0
+
+---------------------------------
+concept:city:san_diego concept:stadiumlocatedincity concept:stadiumoreventvenue:petco_park 0
+
+---------------------------------
+concept:city:minneapolis concept:stadiumlocatedincity concept:stadiumoreventvenue:target_center 0
+
+---------------------------------
+concept:city:houston concept:stadiumlocatedincity concept:stadiumoreventvenue:minute_maid_park 0
+
+---------------------------------
+concept:city:denver concept:stadiumlocatedincity concept:stadiumoreventvenue:coors_field 0
+
+---------------------------------
+concept:city:san_francisco concept:stadiumlocatedincity concept:stadiumoreventvenue:candlestick_park 0
+
+---------------------------------
+concept:city:newark concept:stadiumlocatedincity concept:stadiumoreventvenue:prudential_center_2 0
+
+---------------------------------
+concept:city:san_francisco concept:stadiumlocatedincity concept:stadiumoreventvenue:pacific_bell_park 0
+
+---------------------------------
+concept:city:indianapolis concept:stadiumlocatedincity concept:stadiumoreventvenue:rca_dome 0
+
+---------------------------------
+concept:city:flushing concept:stadiumlocatedincity concept:stadiumoreventvenue:shea_stadium 0
+
+---------------------------------
+concept:city:detroit concept:stadiumlocatedincity concept:stadiumoreventvenue:joe_louis_arena 0
+
+---------------------------------
+concept:city:denver concept:stadiumlocatedincity concept:stadiumoreventvenue:pepsi_center 0
+
+---------------------------------
+concept:city:minneapolis concept:stadiumlocatedincity concept:stadiumoreventvenue:metrodome 0
+
+---------------------------------
+concept:city:baltimore concept:stadiumlocatedincity concept:stadiumoreventvenue:camden_yards 0
+
+---------------------------------
+concept:city:philadelphia concept:stadiumlocatedincity concept:stadiumoreventvenue:air_canada_center 0
+
+---------------------------------
+concept:city:chicago concept:stadiumlocatedincity concept:stadiumoreventvenue:united_center 0
+
+---------------------------------
+concept:city:atlanta concept:stadiumlocatedincity concept:stadiumoreventvenue:philips_arena 0
+
+---------------------------------
+concept:city:denver concept:stadiumlocatedincity concept:stadiumoreventvenue:mile_high_stadium 0
+
+---------------------------------
+concept:city:chicago concept:stadiumlocatedincity concept:stadiumoreventvenue:comiskey 0
+
+---------------------------------
+concept:city:cincinnati concept:stadiumlocatedincity concept:stadiumoreventvenue:paul_brown_stadium 0
+
+---------------------------------
+concept:county:salt_lake concept:stadiumlocatedincity concept:stadiumoreventvenue:energysolutions_arena 0
+
+---------------------------------
+concept:city:st_louis concept:stadiumlocatedincity concept:stadiumoreventvenue:busch_memorial_stadium 0
+
+---------------------------------
+concept:city:anaheim concept:stadiumlocatedincity concept:stadiumoreventvenue:edison_field 0
+
+---------------------------------
+concept:city:honolulu concept:stadiumlocatedincity concept:stadiumoreventvenue:aloha_stadium 0
+
+---------------------------------
+concept:city:cleveland concept:stadiumlocatedincity concept:stadiumoreventvenue:quicken_loans_arena 0
+
+---------------------------------
+concept:city:denver concept:stadiumlocatedincity concept:stadiumoreventvenue:invesco_field 0
+
+---------------------------------
+concept:city:washington_d_c concept:stadiumlocatedincity concept:stadiumoreventvenue:verizon_center 0
+
+---------------------------------
+concept:city:atlanta concept:stadiumlocatedincity concept:stadiumoreventvenue:turner_field 0
+
+---------------------------------
+concept:city:oklahoma_city concept:stadiumlocatedincity concept:stadiumoreventvenue:ford_center 0
+
+---------------------------------
+concept:city:cleveland concept:stadiumlocatedincity concept:stadiumoreventvenue:jacobs_field 0
+
+---------------------------------
+concept:city:phoenix concept:stadiumlocatedincity concept:stadiumoreventvenue:us_airways_center 0
+
+---------------------------------
+concept:city:houston concept:stadiumlocatedincity concept:stadiumoreventvenue:reliant_stadium 0
+
+---------------------------------
+concept:city:miami concept:stadiumlocatedincity concept:stadiumoreventvenue:dolphin_stadium 0
+
+---------------------------------
+concept:city:little_rock concept:stadiumlocatedincity concept:stadiumoreventvenue:war_memorial_stadium 0
+
+---------------------------------
+concept:city:raleigh concept:stadiumlocatedincity concept:stadiumoreventvenue:rbc_center 0
+
+---------------------------------
+concept:city:new_york concept:stadiumlocatedincity concept:stadiumoreventvenue:giants_stadium 0
+
+---------------------------------
+concept:city:saint_louis concept:stadiumlocatedincity concept:stadiumoreventvenue:scottrade_center 0
+
+---------------------------------
+concept:city:madison concept:stadiumlocatedincity concept:stadiumoreventvenue:camp_randall 0
+
+---------------------------------
+concept:city:buffalo concept:stadiumlocatedincity concept:stadiumoreventvenue:hsbc_arena 0
+
+---------------------------------
+concept:city:chicago concept:stadiumlocatedincity concept:stadiumoreventvenue:wrigley_field 0
+
+---------------------------------
+concept:city:columbus concept:stadiumlocatedincity concept:stadiumoreventvenue:nationwide_arena 0
+
+---------------------------------
+concept:city:cleveland concept:stadiumlocatedincity concept:stadiumoreventvenue:browns_stadium 0
+
+---------------------------------
+concept:city:houston concept:stadiumlocatedincity concept:stadiumoreventvenue:toyota_center 0
+
+---------------------------------
+concept:city:cincinnati concept:stadiumlocatedincity concept:stadiumoreventvenue:great_american_ball_park 0
+
+---------------------------------
+concept:city:edmonton concept:stadiumlocatedincity concept:stadiumoreventvenue:rexall_place 0
+
+---------------------------------
+concept:city:san_antonio concept:stadiumlocatedincity concept:stadiumoreventvenue:at_t_center 0
+
+---------------------------------
+concept:city:sacramento concept:stadiumlocatedincity concept:stadiumoreventvenue:arco_arena 0
+
+---------------------------------
+concept:city:indianapolis concept:stadiumlocatedincity concept:stadiumoreventvenue:conseco_fieldhouse 0
+
+---------------------------------
+concept:county:los_angeles_county concept:stadiumlocatedincity concept:stadiumoreventvenue:exposition_park 0
+
+---------------------------------
+concept:city:anaheim concept:stadiumlocatedincity concept:stadiumoreventvenue:honda_center 0
+
+---------------------------------
+concept:city:new_york concept:stadiumlocatedincity concept:stadiumoreventvenue:yankee_stadium 0
+
+---------------------------------
+concept:city:washington_d_c concept:stadiumlocatedincity concept:stadiumoreventvenue:rfk_memorial_stadium 0
+
+---------------------------------
+concept:city:detroit concept:stadiumlocatedincity concept:stadiumoreventvenue:ford_field 0
+
+---------------------------------
+concept:city:san_francisco concept:stadiumlocatedincity concept:stadiumoreventvenue:at_t_park 0
+
+---------------------------------
+concept:city:phoenix concept:stadiumlocatedincity concept:stadiumoreventvenue:sun_devil_stadium 0
+
+---------------------------------
+concept:city:cleveland concept:stadiumlocatedincity concept:stadiumoreventvenue:progressive_field 0
+
+---------------------------------
+concept:city:milwaukee concept:stadiumlocatedincity concept:stadiumoreventvenue:bradley_center 0
+
+---------------------------------
+concept:city:milwaukee concept:stadiumlocatedincity concept:stadiumoreventvenue:county_stadium 0
+
+---------------------------------
+concept:city:milwaukee concept:stadiumlocatedincity concept:stadiumoreventvenue:miller_motorsports_park 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.0260181 0.0265842 0.0131579
+MR: 1 38.4412 38.1471 76
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.0259883 0.0265842 0.0131579
+MR: 1 38.4853 38.1471 76
+relation_mr_mrr_1_3_10_n_rf 2594.00000000000000000 1.80772403540763071 0.00000000000000000 0.00000000000000000 0.00000000000000000 68 0

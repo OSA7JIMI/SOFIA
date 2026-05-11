@@ -1,0 +1,2 @@
+1	concept:politicianusmemberofpoliticalgroup(A,C) <= concept:agentcollaborateswithagent(A,B), concept:personbelongstoorganization(B,C)
+1	concept:politicianusmemberofpoliticalgroup(A,C) <= concept:agentcollaborateswithagent(B,A), concept:agentcollaborateswithagent(B,C)

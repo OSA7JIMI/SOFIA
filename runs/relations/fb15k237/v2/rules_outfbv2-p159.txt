@@ -1,0 +1,6 @@
+1	/people/person/nationality(A,C) <= /film/actor/film./film/performance/film(A,B), /film/film/country(B,C)
+1	/people/person/nationality(A,C) <= /people/person/places_lived./people/place_lived/location(A,B), /base/biblioness/bibs_location/country(B,C)
+1	/people/person/nationality(A,E) <= /people/person/gender(A,B), /people/person/gender(C,B), /film/actor/film./film/performance/film(C,D), /film/film/release_date_s./film/film_regional_release_date/film_release_region(D,E)
+1	/people/person/nationality(A,E) <= /people/person/profession(A,B), /people/person/profession(C,B), /film/actor/film./film/performance/film(C,D), /film/film/release_date_s./film/film_regional_release_date/film_release_region(D,E)
+1	/people/person/nationality(A,E) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(B,C), /location/country/official_language(C,D), /location/country/official_language(E,D)
+1	/people/person/nationality(A,D) <= /award/award_nominee/award_nominations./award/award_nomination/award(A,B), /award/award_category/nominees./award/award_nomination/nominated_for(B,C), /film/film/country(C,D)

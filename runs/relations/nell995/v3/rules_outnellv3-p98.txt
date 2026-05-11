@@ -1,0 +1,2 @@
+1	concept:persondiedatage(A,E) <= concept:agentcollaborateswithagent(B,A), concept:persongraduatedschool(B,C), concept:persongraduatedschool(D,C), concept:persondiedatage(D,E)
+1	concept:persondiedatage(A,E) <= concept:persongraduatedschool(A,B), concept:persongraduatedschool(C,B), concept:agentcollaborateswithagent(C,D), concept:persondiedatage(D,E)

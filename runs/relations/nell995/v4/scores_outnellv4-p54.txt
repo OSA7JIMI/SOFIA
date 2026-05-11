@@ -1,0 +1,43 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:personleadsgeopoliticalorganization
+---------------------------------
+concept:county:jersey_city concept:personleadsgeopoliticalorganization concept:politician:bret_schundler 1
+
+concept:county:jersey_city concept:atlocation concept:politician:bret_schundler 1
+concept:county:jersey_city concept:citylocatedingeopoliticallocation concept:politician:bret_schundler 1
+concept:county:jersey_city concept:citylocatedinstate concept:politician:bret_schundler 1
+concept:county:jersey_city concept:locationlocatedwithinlocation concept:politician:bret_schundler 1
+concept:county:jersey_city concept:mutualproxyfor concept:politician:bret_schundler 1
+concept:county:jersey_city concept:proxyfor concept:politician:bret_schundler 1.5
+concept:county:jersey_city concept:subpartof concept:politician:bret_schundler 1
+---------------------------------
+concept:city:york concept:personleadsgeopoliticalorganization concept:person:ed_koch001 1
+
+concept:city:york concept:atlocation concept:person:ed_koch001 1
+concept:city:york concept:citylocatedingeopoliticallocation concept:person:ed_koch001 1
+concept:city:york concept:citylocatedinstate concept:person:ed_koch001 1
+concept:city:york concept:locationlocatedwithinlocation concept:person:ed_koch001 1
+concept:city:york concept:mutualproxyfor concept:person:ed_koch001 1
+concept:city:york concept:proxyfor concept:person:ed_koch001 1.5
+concept:city:york concept:subpartof concept:person:ed_koch001 1
+---------------------------------
+concept:city:new_york concept:personleadsgeopoliticalorganization concept:politicianus:giuliani 0
+
+concept:city:new_york concept:personhasresidenceingeopoliticallocation concept:politicianus:giuliani 1
+concept:city:new_york concept:worksfor concept:politicianus:giuliani 1
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0 0 0 0
+HITS@3: 1 0 0 0.666667
+HITS@10: 1 0.666667 0.666667 0.666667
+MRR: 0.444444 0.141667 0.111947 0.337719
+MR: 2.33333 16.6667 17 26.6667
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0 0 0 0
+HITS@3: 1 0 0 0.666667
+HITS@10: 1 0.666667 0.666667 0.666667
+MRR: 0.444444 0.14188 0.112184 0.337778
+MR: 2.33333 16.3333 16.6667 26.3333
+relation_mr_mrr_1_3_10_n_rf 50.00000000000000000 0.33655083655083656 0.00000000000000000 0.00000000000000000 2.00000000000000000 3 2

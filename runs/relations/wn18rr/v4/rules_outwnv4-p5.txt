@@ -1,0 +1,8 @@
+1	_member_meronym(A,C) <= _derivationally_related_form(A,B), _derivationally_related_form(C,B)
+1	_member_meronym(A,C) <= _has_part(A,B), _hypernym(C,B)
+1	_member_meronym(A,C) <= _has_part(B,A), _derivationally_related_form(B,C)
+1	_member_meronym(A,C) <= _synset_domain_topic_of(A,B), _synset_domain_topic_of(C,B)
+1	_member_meronym(A,D) <= _member_meronym(A,B), _hypernym(B,C), _hypernym(D,C)
+1	_member_meronym(A,G) <= _member_meronym(B,A), _derivationally_related_form(B,C), _derivationally_related_form(C,D), _synset_domain_topic_of(E,D), _member_meronym(E,F), _hypernym(F,G)
+1	_member_meronym(A,G) <= _hypernym(B,A), _derivationally_related_form(B,C), _derivationally_related_form(C,D), _hypernym(D,E), _hypernym(E,F), _hypernym(F,G)
+1	_member_meronym(A,E) <= _derivationally_related_form(A,B), _derivationally_related_form(B,C), _hypernym(C,D), _hypernym(E,D)

@@ -1,0 +1,139 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:personleadsorganization
+---------------------------------
+concept:company:sun_microsystems001 concept:personleadsorganization concept:personafrica:jonathan_schwartz 0
+
+concept:company:sun_microsystems001 concept:agentcontrols concept:personafrica:jonathan_schwartz 0.199549
+concept:company:sun_microsystems001 concept:personhasresidenceingeopoliticallocation concept:personafrica:jonathan_schwartz 1
+concept:company:sun_microsystems001 concept:worksfor concept:personafrica:jonathan_schwartz 1
+---------------------------------
+concept:city:abc concept:personleadsorganization concept:person:mcpherson 1
+
+concept:city:abc concept:personhasresidenceingeopoliticallocation concept:person:mcpherson 1
+concept:city:abc concept:worksfor concept:person:mcpherson 1
+---------------------------------
+concept:university:google concept:personleadsorganization concept:ceo:eric_schmidt 1
+
+concept:university:google concept:agentcollaborateswithagent concept:ceo:eric_schmidt 1.40897
+concept:university:google concept:agentcontrols concept:ceo:eric_schmidt 1
+concept:university:google concept:atdate concept:ceo:eric_schmidt 0.518277
+concept:university:google concept:atlocation concept:ceo:eric_schmidt 0.75
+concept:university:google concept:citylocatedincountry concept:ceo:eric_schmidt 1
+concept:university:google concept:citylocatedinstate concept:ceo:eric_schmidt 1
+concept:university:google concept:competeswith concept:ceo:eric_schmidt 0.25
+concept:university:google concept:locationlocatedwithinlocation concept:ceo:eric_schmidt 1
+concept:university:google concept:personbelongstoorganization concept:ceo:eric_schmidt 1
+concept:university:google concept:personhasresidenceingeopoliticallocation concept:ceo:eric_schmidt 1
+concept:university:google concept:politicianrepresentslocation concept:ceo:eric_schmidt 1
+concept:university:google concept:subpartof concept:ceo:eric_schmidt 1
+concept:university:google concept:worksfor concept:ceo:eric_schmidt 2*
+---------------------------------
+concept:recordlabel:walt_disney concept:personleadsorganization concept:politician:jobs 1
+
+concept:recordlabel:walt_disney concept:organizationterminatedperson concept:politician:jobs 0.5
+concept:recordlabel:walt_disney concept:personhasresidenceingeopoliticallocation concept:politician:jobs 1
+concept:recordlabel:walt_disney concept:worksfor concept:politician:jobs 1*
+---------------------------------
+concept:company:next_computer concept:personleadsorganization concept:politician:jobs 1
+
+concept:company:next_computer concept:personhasresidenceingeopoliticallocation concept:politician:jobs 1
+concept:company:next_computer concept:worksfor concept:politician:jobs 1*
+---------------------------------
+concept:recordlabel:walt_disney concept:personleadsorganization concept:personeurope:disney 1
+
+concept:recordlabel:walt_disney concept:personhasresidenceingeopoliticallocation concept:personeurope:disney 1
+concept:recordlabel:walt_disney concept:worksfor concept:personeurope:disney 1
+---------------------------------
+concept:university:microsoft concept:personleadsorganization concept:personus:steve_ballmer 1
+
+concept:university:microsoft concept:agentcollaborateswithagent concept:personus:steve_ballmer 1
+concept:university:microsoft concept:personbelongstoorganization concept:personus:steve_ballmer 1
+concept:university:microsoft concept:personhasresidenceingeopoliticallocation concept:personus:steve_ballmer 1
+concept:university:microsoft concept:worksfor concept:personus:steve_ballmer 2*
+---------------------------------
+concept:sportsteam:harvard_divinity_school concept:personleadsorganization concept:person:bill 0
+
+concept:sportsteam:harvard_divinity_school concept:personhasresidenceingeopoliticallocation concept:person:bill 1
+concept:sportsteam:harvard_divinity_school concept:worksfor concept:person:bill 1
+---------------------------------
+concept:city:new_york concept:personleadsorganization concept:politician:guiliani 1
+
+concept:city:new_york concept:coachesteam concept:politician:guiliani 1
+concept:city:new_york concept:personbelongstoorganization concept:politician:guiliani 1
+concept:city:new_york concept:personhasresidenceingeopoliticallocation concept:politician:guiliani 2
+concept:city:new_york concept:personleadsgeopoliticalorganization concept:politician:guiliani 1
+concept:city:new_york concept:worksfor concept:politician:guiliani 2
+---------------------------------
+concept:university:microsoft concept:personleadsorganization concept:person:bill 1
+
+concept:university:microsoft concept:agentbelongstoorganization concept:person:bill 0.235732
+concept:university:microsoft concept:agentcontrols concept:person:bill 0.199549
+concept:university:microsoft concept:personhasresidenceingeopoliticallocation concept:person:bill 1
+concept:university:microsoft concept:worksfor concept:person:bill 1*
+---------------------------------
+concept:nongovorganization:u_s_ concept:personleadsorganization concept:ceo:bernard_l__madoff 1
+
+concept:nongovorganization:u_s_ concept:coachesteam concept:ceo:bernard_l__madoff 1
+concept:nongovorganization:u_s_ concept:personbelongstoorganization concept:ceo:bernard_l__madoff 1
+concept:nongovorganization:u_s_ concept:personhasresidenceingeopoliticallocation concept:ceo:bernard_l__madoff 2
+concept:nongovorganization:u_s_ concept:personleadsgeopoliticalorganization concept:ceo:bernard_l__madoff 1
+concept:nongovorganization:u_s_ concept:worksfor concept:ceo:bernard_l__madoff 2
+---------------------------------
+concept:nongovorganization:indian_affairs_committee concept:personleadsorganization concept:politicianus:mccain 0
+
+concept:nongovorganization:indian_affairs_committee concept:personhasresidenceingeopoliticallocation concept:politicianus:mccain 1
+concept:nongovorganization:indian_affairs_committee concept:worksfor concept:politicianus:mccain 1
+---------------------------------
+concept:sportsteam:end concept:personleadsorganization concept:person:mugabe 0
+
+concept:sportsteam:end concept:personhasresidenceingeopoliticallocation concept:person:mugabe 1
+concept:sportsteam:end concept:worksfor concept:person:mugabe 1
+---------------------------------
+concept:sportsteam:end concept:personleadsorganization concept:politician:jobs 0
+
+concept:sportsteam:end concept:agentparticipatedinevent concept:politician:jobs 1
+concept:sportsteam:end concept:personhasresidenceingeopoliticallocation concept:politician:jobs 1
+concept:sportsteam:end concept:worksfor concept:politician:jobs 1
+---------------------------------
+concept:city:new_york concept:personleadsorganization concept:politicianus:giuliani 0
+
+concept:city:new_york concept:personhasresidenceingeopoliticallocation concept:politicianus:giuliani 1
+concept:city:new_york concept:worksfor concept:politicianus:giuliani 1
+---------------------------------
+concept:university:microsoft concept:personleadsorganization concept:politician:jobs 1
+
+concept:university:microsoft concept:agentbelongstoorganization concept:politician:jobs 0.235732
+concept:university:microsoft concept:agentcollaborateswithagent concept:politician:jobs 0.908968
+concept:university:microsoft concept:agentcontrols concept:politician:jobs 0.199549
+concept:university:microsoft concept:personhasresidenceingeopoliticallocation concept:politician:jobs 1
+concept:university:microsoft concept:worksfor concept:politician:jobs 1*
+---------------------------------
+concept:nongovorganization:u_s_ concept:personleadsorganization concept:personus:warren_buffet 1
+
+concept:nongovorganization:u_s_ concept:agentcollaborateswithagent concept:personus:warren_buffet 0.908968
+concept:nongovorganization:u_s_ concept:atdate concept:personus:warren_buffet 0.518277
+concept:nongovorganization:u_s_ concept:coachesteam concept:personus:warren_buffet 1
+concept:nongovorganization:u_s_ concept:lakeinstate concept:personus:warren_buffet 0.5
+concept:nongovorganization:u_s_ concept:mutualproxyfor concept:personus:warren_buffet 0.5
+concept:nongovorganization:u_s_ concept:organizationterminatedperson concept:personus:warren_buffet 0.5
+concept:nongovorganization:u_s_ concept:personbelongstoorganization concept:personus:warren_buffet 1
+concept:nongovorganization:u_s_ concept:personhasresidenceingeopoliticallocation concept:personus:warren_buffet 2
+concept:nongovorganization:u_s_ concept:personleadsgeopoliticalorganization concept:personus:warren_buffet 1
+concept:nongovorganization:u_s_ concept:subpartof concept:personus:warren_buffet 0.182539
+concept:nongovorganization:u_s_ concept:worksfor concept:personus:warren_buffet 2
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.352941 0 0.0588235 0.352941
+HITS@3: 0.882353 0.352941 0.352941 0.647059
+HITS@10: 1 0.647059 0.647059 0.647059
+MRR: 0.568627 0.246752 0.249412 0.465428
+MR: 2.35294 16.1176 17.1176 28
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.411765 0.117647 0.117647 0.411765
+HITS@3: 0.882353 0.411765 0.411765 0.647059
+HITS@10: 1 0.647059 0.647059 0.647059
+MRR: 0.607843 0.311878 0.304176 0.504665
+MR: 2.23529 15.8824 16.7647 27.7647
+relation_mr_mrr_1_3_10_n_rf 285.00000000000000000 5.17098991616000614 2.00000000000000000 7.00000000000000000 11.00000000000000000 17 11

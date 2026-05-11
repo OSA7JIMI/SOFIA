@@ -1,0 +1,3 @@
+1	/location/location/partially_contains(A,C) <= /location/location/adjoin_s./location/adjoining_relationship/adjoins(A,B), /location/location/partially_contains(B,C)
+1	/location/location/partially_contains(A,D) <= /olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics(A,B), /olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics(C,B), /location/location/partially_contains(C,D)
+1	/location/location/partially_contains(A,D) <= /people/deceased_person/place_of_burial(B,A), /film/actor/film./film/performance/film(B,C), /film/film/release_date_s./film/film_regional_release_date/film_release_region(C,D)

@@ -1,0 +1,8 @@
+1	concept:beveragemadefrombeverage(A,C) <= concept:agriculturalproductcookedwithagriculturalproduct(A,B), concept:agriculturalproductcookedwithagriculturalproduct(C,B)
+1	concept:beveragemadefrombeverage(A,D) <= concept:beveragemadefrombeverage(B,A), concept:beveragemadefrombeverage(B,C), concept:beveragemadefrombeverage(C,D)
+1	concept:beveragemadefrombeverage(A,D) <= concept:beveragemadefrombeverage(A,B), concept:beveragemadefrombeverage(C,B), concept:beveragemadefrombeverage(C,D)
+1	concept:beveragemadefrombeverage(A,E) <= concept:bakedgoodservedwithbeverage(B,A), concept:bakedgoodservedwithbeverage(B,C), concept:bakedgoodservedwithbeverage(D,C), concept:bakedgoodservedwithbeverage(D,E)
+1	concept:beveragemadefrombeverage(A,C) <= concept:agriculturalproductincludingagriculturalproduct(A,B), concept:beveragemadefrombeverage(B,C)
+1	concept:beveragemadefrombeverage(A,D) <= concept:animaleatfood(B,A), concept:animaleatfood(B,C), concept:beveragemadefrombeverage(C,D)
+1	concept:beveragemadefrombeverage(A,D) <= concept:beveragemadefrombeverage(A,B), concept:beveragemadefrombeverage(B,C), concept:beveragemadefrombeverage(D,C)
+1	concept:beveragemadefrombeverage(A,D) <= concept:fishservedwithfood(B,A), concept:fishservedwithfood(B,C), concept:beveragemadefrombeverage(C,D)

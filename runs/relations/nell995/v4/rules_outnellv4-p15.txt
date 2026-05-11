@@ -1,0 +1,2 @@
+1	concept:buildinglocatedincity(A,B) <= concept:attractionofcity(A,B)
+1	concept:buildinglocatedincity(A,D) <= concept:atlocation(B,A), concept:atlocation(B,C), concept:istallerthan(D,C)

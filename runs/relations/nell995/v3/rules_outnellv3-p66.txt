@@ -1,0 +1,5 @@
+1	concept:hasofficeincountry(A,C) <= concept:locationlocatedwithinlocation(B,A), concept:locationlocatedwithinlocation(B,C)
+1	concept:hasofficeincountry(A,D) <= concept:agentactsinlocation(A,B), concept:locationlocatedwithinlocation(C,B), concept:locationlocatedwithinlocation(C,D)
+1	concept:hasofficeincountry(A,D) <= concept:organizationhiredperson(A,B), concept:personleadsorganization(B,C), concept:countrylocatedingeopoliticallocation(D,C)
+1	concept:hasofficeincountry(A,D) <= concept:competeswith(B,A), concept:hasofficeincity(B,C), concept:proxyfor(C,D)
+1	concept:hasofficeincountry(A,D) <= concept:atdate(A,B), concept:proxyfor(B,C), concept:locationlocatedwithinlocation(C,D)

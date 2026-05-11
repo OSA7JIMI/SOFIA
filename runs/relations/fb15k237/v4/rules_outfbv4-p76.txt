@@ -1,0 +1,7 @@
+1	/film/film/film_festivals(A,B) <= /film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue(A,B)
+1	/film/film/film_festivals(A,D) <= /film/film/other_crew./film/film_crew_gig/film_crew_role(A,B), /film/film/other_crew./film/film_crew_gig/film_crew_role(C,B), /film/film/film_festivals(C,D)
+1	/film/film/film_festivals(A,D) <= /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(A,B), /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency(C,B), /film/film/film_festivals(C,D)
+1	/film/film/film_festivals(A,D) <= /award/award_category/nominees./award/award_nomination/nominated_for(B,A), /award/award_category/nominees./award/award_nomination/nominated_for(B,C), /film/film/film_festivals(C,D)
+1	/film/film/film_festivals(A,D) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B), /film/film/film_festivals(C,D)
+1	/film/film/film_festivals(A,E) <= /award/award_category/winners./award/award_honor/award_winner(A,B), /base/popstra/celebrity/dated./base/popstra/dated/participant(B,C), /base/popstra/celebrity/dated./base/popstra/dated/participant(C,D), /film/film/film_festivals(D,E)
+1	/film/film/film_festivals(A,D) <= /film/film/estimated_budget./measurement_unit/dated_money_value/currency(A,B), /film/film/estimated_budget./measurement_unit/dated_money_value/currency(C,B), /film/film/film_festivals(C,D)

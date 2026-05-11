@@ -1,0 +1,4 @@
+1	/language/human_language/countries_spoken_in(A,B) <= /location/country/official_language(B,A)
+0.5	/language/human_language/countries_spoken_in(A,D) <= /film/film/language(B,A), /film/film/estimated_budget./measurement_unit/dated_money_value/currency(B,C), /location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency(D,C)
+0.5	/language/human_language/countries_spoken_in(A,D) <= /film/film/language(B,A), /film/film/estimated_budget./measurement_unit/dated_money_value/currency(B,C), /location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency(D,C)
+0.5	/language/human_language/countries_spoken_in(A,E) <= /film/film/language(B,A), /film/film/other_crew./film/film_crew_gig/film_crew_role(B,C), /film/film/other_crew./film/film_crew_gig/film_crew_role(D,C), /film/film/release_date_s./film/film_regional_release_date/film_release_region(D,E)

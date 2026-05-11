@@ -1,0 +1,1 @@
+1	concept:awardtrophytournamentisthechampionshipgameofthenationalsport(A,C) <= concept:teamwontrophy(B,A), concept:teamplayssport(B,C)

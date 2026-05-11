@@ -1,0 +1,1 @@
+1	concept:academicprogramatuniversity(A,D) <= concept:companyeconomicsector(B,A), concept:worksfor(C,B), concept:persongraduatedschool(C,D)

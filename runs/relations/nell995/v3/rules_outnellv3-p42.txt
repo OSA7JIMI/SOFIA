@@ -1,0 +1,1 @@
+1	concept:buildingfeaturemadefrombuildingmaterial(A,D) <= concept:buildingfeaturemadefrombuildingmaterial(A,B), concept:buildingfeaturemadefrombuildingmaterial(C,B), concept:buildingfeaturemadefrombuildingmaterial(C,D)

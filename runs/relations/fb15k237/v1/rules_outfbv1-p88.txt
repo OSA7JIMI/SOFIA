@@ -1,0 +1,1 @@
+1	/influence/influence_node/peers./influence/peer_relationship/peers(A,B) <= /influence/influence_node/peers./influence/peer_relationship/peers(B,A)

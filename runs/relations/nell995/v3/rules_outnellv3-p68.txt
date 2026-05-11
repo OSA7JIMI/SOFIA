@@ -1,0 +1,1 @@
+1	concept:haswife(A,D) <= concept:hassibling(A,B), concept:personborninlocation(B,C), concept:personbornincity(D,C)

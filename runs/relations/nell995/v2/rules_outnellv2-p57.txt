@@ -1,0 +1,1 @@
+1	concept:personhasresidenceingeopoliticallocation(A,B) <= concept:mutualproxyfor(B,A)

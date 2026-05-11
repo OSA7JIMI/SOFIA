@@ -1,0 +1,2 @@
+1	concept:leaguestadiums(A,D) <= concept:subpartoforganization(B,A), concept:agentactsinlocation(B,C), concept:locationlocatedwithinlocation(C,D)
+1	concept:leaguestadiums(A,E) <= concept:subpartoforganization(B,A), concept:proxyfor(B,C), concept:proxyfor(D,C), concept:proxyfor(D,E)

@@ -1,0 +1,7 @@
+1	/people/cause_of_death/people(A,D) <= /people/cause_of_death/people(A,B), /people/person/gender(B,C), /people/person/gender(D,C)
+1	/people/cause_of_death/people(A,D) <= /people/cause_of_death/people(A,B), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/person/spouse_s./people/marriage/type_of_union(D,C)
+1	/people/cause_of_death/people(A,E) <= /people/cause_of_death/people(A,B), /award/award_winner/awards_won./award/award_honor/award_winner(B,C), /people/person/profession(C,D), /people/person/profession(E,D)
+1	/people/cause_of_death/people(A,E) <= /people/cause_of_death/people(A,B), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(C,D), /people/deceased_person/place_of_death(E,D)
+1	/people/cause_of_death/people(A,D) <= /people/cause_of_death/people(A,B), /people/person/profession(B,C), /people/person/profession(D,C)
+1	/people/cause_of_death/people(A,E) <= /medicine/symptom/symptom_of(B,A), /medicine/symptom/symptom_of(B,C), /medicine/disease/risk_factors(C,D), /people/person/gender(E,D)
+1	/people/cause_of_death/people(A,E) <= /people/cause_of_death/people(A,B), /people/person/gender(B,C), /people/person/gender(D,C), /award/award_nominee/award_nominations./award/award_nomination/award_nominee(E,D)

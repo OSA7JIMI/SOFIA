@@ -1,0 +1,102 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:newspaperincity
+---------------------------------
+concept:city:l_a_ concept:newspaperincity concept:newspaper:journal 0
+
+concept:city:l_a_ concept:agentbelongstoorganization concept:newspaper:journal 1
+concept:city:l_a_ concept:agentcompeteswithagent concept:newspaper:journal 1.5
+concept:city:l_a_ concept:agentcontrols concept:newspaper:journal 1
+concept:city:l_a_ concept:competeswith concept:newspaper:journal 0.5
+concept:city:l_a_ concept:hasofficeincity concept:newspaper:journal 1*
+concept:city:l_a_ concept:organizationheadquarteredincity concept:newspaper:journal 1
+concept:city:l_a_ concept:subpartoforganization concept:newspaper:journal 1
+---------------------------------
+concept:city:washington_d_c concept:newspaperincity concept:newspaper:the_san_francisco_examiner 0
+
+---------------------------------
+concept:city:chicago concept:newspaperincity concept:website:chicago_tribune 0
+
+---------------------------------
+concept:city:new_york concept:newspaperincity concept:newspaper:guardian 0
+
+---------------------------------
+concept:county:los_angeles_county concept:newspaperincity concept:website:daily_news 0
+
+---------------------------------
+concept:city:hackensack concept:newspaperincity concept:newspaper:record 0
+
+---------------------------------
+concept:city:paris concept:newspaperincity concept:newspaper:the_international_herald_tribune 0
+
+---------------------------------
+concept:city:washington_d_c concept:newspaperincity concept:website:washington_times 0
+
+concept:city:washington_d_c concept:competeswith concept:website:washington_times 0.5
+concept:city:washington_d_c concept:hasofficeincity concept:website:washington_times 1
+---------------------------------
+concept:city:san_diego concept:newspaperincity concept:website:the_san_francisco_chronicle 0
+
+---------------------------------
+concept:city:washington_d_c concept:newspaperincity concept:website:new_york_daily 0
+
+concept:city:washington_d_c concept:competeswith concept:website:new_york_daily 0.5
+---------------------------------
+concept:city:washington_d_c concept:newspaperincity concept:newspaper:the_national 0
+
+concept:city:washington_d_c concept:agentactsinlocation concept:newspaper:the_national 1
+concept:city:washington_d_c concept:agentcollaborateswithagent concept:newspaper:the_national 1.09103
+concept:city:washington_d_c concept:atdate concept:newspaper:the_national 0.5
+concept:city:washington_d_c concept:cityalsoknownas concept:newspaper:the_national 0.5
+concept:city:washington_d_c concept:cityliesonriver concept:newspaper:the_national 0.25
+concept:city:washington_d_c concept:hasofficeincountry concept:newspaper:the_national 0.25
+concept:city:washington_d_c concept:headquarteredin concept:newspaper:the_national 1*
+concept:city:washington_d_c concept:mutualproxyfor concept:newspaper:the_national 1.5
+concept:city:washington_d_c concept:organizationhiredperson concept:newspaper:the_national 0.5
+concept:city:washington_d_c concept:proxyfor concept:newspaper:the_national 1.5
+---------------------------------
+concept:city:washington_d_c concept:newspaperincity concept:website:buffalo_news 0
+
+---------------------------------
+concept:city:newark concept:newspaperincity concept:newspaper:star_ledger 0
+
+---------------------------------
+concept:city:washington_d_c concept:newspaperincity concept:website:nbc_news 0
+
+concept:city:washington_d_c concept:competeswith concept:website:nbc_news 0.5
+concept:city:washington_d_c concept:hasofficeincity concept:website:nbc_news 1
+---------------------------------
+concept:city:new_york concept:newspaperincity concept:newspaper:sunday_times 0
+
+---------------------------------
+concept:county:los_angeles_county concept:newspaperincity concept:newspaper:la_times 0
+
+concept:county:los_angeles_county concept:competeswith concept:newspaper:la_times 0.5
+concept:county:los_angeles_county concept:hasofficeincity concept:newspaper:la_times 1
+---------------------------------
+concept:city:new_york concept:newspaperincity concept:newspaper:new_york_post 0
+
+concept:city:new_york concept:agentactsinlocation concept:newspaper:new_york_post 0.5
+concept:city:new_york concept:hasofficeincity concept:newspaper:new_york_post 1
+concept:city:new_york concept:headquarteredin concept:newspaper:new_york_post 1*
+---------------------------------
+concept:city:new_york concept:newspaperincity concept:newspaper:newsday 0
+
+concept:city:new_york concept:agentactsinlocation concept:newspaper:newsday 0.5
+concept:city:new_york concept:competeswith concept:newspaper:newsday 0.5
+concept:city:new_york concept:hasofficeincity concept:newspaper:newsday 1*
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.555556 0 0 0
+HITS@3: 0.777778 0 0 0
+HITS@10: 0.944444 0 0 0
+MRR: 0.678662 0.0255267 0.0248695 0.0131579
+MR: 2.66667 39.2222 40.7222 76
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.555556 0 0 0
+HITS@3: 0.888889 0 0 0
+HITS@10: 1 0 0 0
+MRR: 0.689418 0.0256216 0.025063 0.0132364
+MR: 2.44444 39.0556 40.3889 75.5556
+relation_mr_mrr_1_3_10_n_rf 727.00000000000000000 0.45113428699378599 0.00000000000000000 0.00000000000000000 0.00000000000000000 18 0

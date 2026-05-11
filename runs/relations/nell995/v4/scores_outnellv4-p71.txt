@@ -1,0 +1,638 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:teamalsoknownas
+---------------------------------
+concept:sportsteam:new_york_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:new_york_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:eagles concept:teamalsoknownas concept:sportsteam:steelers 1
+
+concept:sportsteam:eagles concept:agentcompeteswithagent concept:sportsteam:steelers 1
+concept:sportsteam:eagles concept:organizationhiredperson concept:sportsteam:steelers 0.75
+concept:sportsteam:eagles concept:subpartoforganization concept:sportsteam:steelers 1
+concept:sportsteam:eagles concept:teamplaysagainstteam concept:sportsteam:steelers 1*
+---------------------------------
+concept:sportsteam:falcons concept:teamalsoknownas concept:sportsteam:broncos 1
+
+concept:sportsteam:falcons concept:agentcollaborateswithagent concept:sportsteam:broncos 1
+concept:sportsteam:falcons concept:organizationhiredperson concept:sportsteam:broncos 0.5
+concept:sportsteam:falcons concept:teamplaysagainstteam concept:sportsteam:broncos 1*
+---------------------------------
+concept:sportsteam:eastern_kentucky_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:eastern_kentucky_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:northwestern 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:northwestern 1
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:boise_state_broncos 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:boise_state_broncos 1
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:huskers 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:huskers 1
+---------------------------------
+concept:sportsteam:detroit_lions concept:teamalsoknownas concept:sportsteam:packers 1
+
+concept:sportsteam:detroit_lions concept:organizationhiredperson concept:sportsteam:packers 0.75
+concept:sportsteam:detroit_lions concept:teamplaysagainstteam concept:sportsteam:packers 1*
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:seminoles 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:seminoles 1
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:kansas_state 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:kansas_state 1
+---------------------------------
+concept:sportsteam:ucla concept:teamalsoknownas concept:sportsteam:suny_fredonia_blue_devils 0
+
+concept:sportsteam:ucla concept:teamplaysagainstteam concept:sportsteam:suny_fredonia_blue_devils 1
+---------------------------------
+concept:sportsteam:buckeyes concept:teamalsoknownas concept:sportsteam:spartans 1
+
+concept:sportsteam:buckeyes concept:teamplaysagainstteam concept:sportsteam:spartans 2*
+---------------------------------
+concept:sportsteam:michigan_technological_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:michigan_technological_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:northern_michigan_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:northern_michigan_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:bills concept:teamalsoknownas concept:sportsteam:new_york_giants 1
+
+concept:sportsteam:bills concept:organizationhiredperson concept:sportsteam:new_york_giants 0.75
+concept:sportsteam:bills concept:teamplaysagainstteam concept:sportsteam:new_york_giants 1*
+---------------------------------
+concept:sportsteam:ravens concept:teamalsoknownas concept:sportsteam:baltimore_colts 0
+
+concept:sportsteam:ravens concept:agentbelongstoorganization concept:sportsteam:baltimore_colts 1
+concept:sportsteam:ravens concept:agentcollaborateswithagent concept:sportsteam:baltimore_colts 0.5
+concept:sportsteam:ravens concept:agentcompeteswithagent concept:sportsteam:baltimore_colts 2*
+concept:sportsteam:ravens concept:agentcontrols concept:sportsteam:baltimore_colts 1
+concept:sportsteam:ravens concept:organizationheadquarteredincity concept:sportsteam:baltimore_colts 1
+concept:sportsteam:ravens concept:organizationhiredperson concept:sportsteam:baltimore_colts 0.75
+concept:sportsteam:ravens concept:subpartoforganization concept:sportsteam:baltimore_colts 1
+concept:sportsteam:ravens concept:synonymfor concept:sportsteam:baltimore_colts 0.5
+concept:sportsteam:ravens concept:teamplaysagainstteam concept:sportsteam:baltimore_colts 2
+---------------------------------
+concept:sportsteam:seahawks concept:teamalsoknownas concept:sportsteam:packers 1
+
+concept:sportsteam:seahawks concept:agentcollaborateswithagent concept:sportsteam:packers 0.5
+concept:sportsteam:seahawks concept:organizationhiredperson concept:sportsteam:packers 0.75
+concept:sportsteam:seahawks concept:teamplaysagainstteam concept:sportsteam:packers 2*
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:penn_state 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:penn_state 2
+---------------------------------
+concept:sportsteam:eagles concept:teamalsoknownas concept:sportsteam:falcons 1
+
+concept:sportsteam:eagles concept:organizationhiredperson concept:sportsteam:falcons 0.5
+concept:sportsteam:eagles concept:teamplaysagainstteam concept:sportsteam:falcons 1*
+---------------------------------
+concept:sportsteam:jackson_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:jackson_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:davenport_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:davenport_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:pittsburgh_pirates concept:teamalsoknownas concept:sportsteam:white_sox 0
+
+concept:sportsteam:pittsburgh_pirates concept:teamplaysagainstteam concept:sportsteam:white_sox 1
+---------------------------------
+concept:sportsteam:ohio_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:ohio_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 2
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:michigan_state 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:michigan_state 2
+---------------------------------
+concept:sportsteam:mississippi_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:mississippi_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 2
+---------------------------------
+concept:sportsteam:college concept:teamalsoknownas concept:sportsteam:pennsylvania_state_university 0
+
+concept:sportsteam:college concept:teamplaysagainstteam concept:sportsteam:pennsylvania_state_university 1
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:penn_state_nittany_lions 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:penn_state_nittany_lions 1
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:oklahoma_state_university 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:oklahoma_state_university 2
+---------------------------------
+concept:sportsteam:texas_tech_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:texas_tech_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:miami_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:miami_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:colorado_state 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:colorado_state 1
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:northwestern_university 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:northwestern_university 2
+---------------------------------
+concept:sportsteam:columbia_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:columbia_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:ferris_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:ferris_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:montana_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:montana_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:northern_illinois_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:northern_illinois_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:byu 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:byu 1
+---------------------------------
+concept:sportsteam:southwest_texas_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:southwest_texas_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:new_york_giants concept:teamalsoknownas concept:sportsteam:packers 1
+
+concept:sportsteam:new_york_giants concept:agentcompeteswithagent concept:sportsteam:packers 0.619059
+concept:sportsteam:new_york_giants concept:organizationhiredperson concept:sportsteam:packers 0.75
+concept:sportsteam:new_york_giants concept:teamplaysagainstteam concept:sportsteam:packers 1*
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:texas_christian_university 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:texas_christian_university 1
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:iowa_state 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:iowa_state 1
+---------------------------------
+concept:sportsteam:titans concept:teamalsoknownas concept:sportsteam:rams 1
+
+concept:sportsteam:titans concept:agentcollaborateswithagent concept:sportsteam:rams 0.5
+concept:sportsteam:titans concept:organizationhiredperson concept:sportsteam:rams 0.5
+concept:sportsteam:titans concept:teamplaysagainstteam concept:sportsteam:rams 1*
+---------------------------------
+concept:sportsteam:akron_pros concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:akron_pros concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:ucla concept:teamalsoknownas concept:sportsteam:bruins 0
+
+concept:sportsteam:ucla concept:agentbelongstoorganization concept:sportsteam:bruins 1
+concept:sportsteam:ucla concept:agentcollaborateswithagent concept:sportsteam:bruins 0.5
+concept:sportsteam:ucla concept:organizationacronymhasname concept:sportsteam:bruins 1
+concept:sportsteam:ucla concept:organizationhiredperson concept:sportsteam:bruins 0.5
+concept:sportsteam:ucla concept:teamplaysagainstteam concept:sportsteam:bruins 1
+---------------------------------
+concept:sportsteam:baltimore_colts concept:teamalsoknownas concept:sportsteam:colts 0
+
+concept:sportsteam:baltimore_colts concept:agentbelongstoorganization concept:sportsteam:colts 1
+concept:sportsteam:baltimore_colts concept:agentcompeteswithagent concept:sportsteam:colts 2*
+concept:sportsteam:baltimore_colts concept:agentcontrols concept:sportsteam:colts 1
+concept:sportsteam:baltimore_colts concept:organizationheadquarteredincity concept:sportsteam:colts 1
+concept:sportsteam:baltimore_colts concept:organizationhiredperson concept:sportsteam:colts 0.75
+concept:sportsteam:baltimore_colts concept:subpartoforganization concept:sportsteam:colts 1
+concept:sportsteam:baltimore_colts concept:teamplaysagainstteam concept:sportsteam:colts 2
+---------------------------------
+concept:sportsteam:baltimore_colts concept:teamalsoknownas concept:sportsteam:ravens 0
+
+concept:sportsteam:baltimore_colts concept:agentbelongstoorganization concept:sportsteam:ravens 1
+concept:sportsteam:baltimore_colts concept:agentcompeteswithagent concept:sportsteam:ravens 2.05953*
+concept:sportsteam:baltimore_colts concept:agentcontrols concept:sportsteam:ravens 1
+concept:sportsteam:baltimore_colts concept:organizationheadquarteredincity concept:sportsteam:ravens 1
+concept:sportsteam:baltimore_colts concept:organizationhiredperson concept:sportsteam:ravens 0.75
+concept:sportsteam:baltimore_colts concept:subpartoforganization concept:sportsteam:ravens 1
+concept:sportsteam:baltimore_colts concept:teamplaysagainstteam concept:sportsteam:ravens 2
+---------------------------------
+concept:sportsteam:kent_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:kent_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:illinois_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:illinois_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:mississippi_state_university 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:mississippi_state_university 2
+---------------------------------
+concept:sportsteam:kent_state concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:kent_state concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:indiana_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:indiana_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:liverpool concept:teamalsoknownas concept:sportsteam:chelsea 1
+
+concept:sportsteam:liverpool concept:teamplaysagainstteam concept:sportsteam:chelsea 1*
+---------------------------------
+concept:sportsteam:washington_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:washington_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:eastern_michigan_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:eastern_michigan_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:syracuse_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:syracuse_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:indiana_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:indiana_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:bills concept:teamalsoknownas concept:sportsteam:dallas_cowboys 1
+
+concept:sportsteam:bills concept:organizationhiredperson concept:sportsteam:dallas_cowboys 0.5
+concept:sportsteam:bills concept:teamplaysagainstteam concept:sportsteam:dallas_cowboys 1*
+---------------------------------
+concept:sportsteam:olde_towne_team concept:teamalsoknownas concept:sportsteam:red_sox 0
+
+concept:sportsteam:olde_towne_team concept:teamplaysagainstteam concept:sportsteam:red_sox 1
+---------------------------------
+concept:sportsteam:ottawa_senators concept:teamalsoknownas concept:sportsteam:pittsburgh_penguins 1
+
+concept:sportsteam:ottawa_senators concept:teamplaysagainstteam concept:sportsteam:pittsburgh_penguins 1*
+---------------------------------
+concept:sportsteam:duquesne_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:duquesne_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:notre_dame 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:notre_dame 2
+---------------------------------
+concept:sportsteam:penn_state concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:penn_state concept:teamplaysagainstteam concept:sportsteam:state_university 2
+---------------------------------
+concept:sportsteam:chowan_braves concept:teamalsoknownas concept:sportsteam:houston_astros 1
+
+concept:sportsteam:chowan_braves concept:teamplaysagainstteam concept:sportsteam:houston_astros 1*
+---------------------------------
+concept:sportsteam:louisiana_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:louisiana_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:notre_dame concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:notre_dame concept:teamplaysagainstteam concept:sportsteam:state_university 2
+---------------------------------
+concept:sportsteam:eagles concept:teamalsoknownas concept:sportsteam:redskins 1
+
+concept:sportsteam:eagles concept:organizationhiredperson concept:sportsteam:redskins 0.5
+concept:sportsteam:eagles concept:teamplaysagainstteam concept:sportsteam:redskins 1*
+---------------------------------
+concept:sportsteam:kansas_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:kansas_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:ole_miss 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:ole_miss 1
+---------------------------------
+concept:sportsteam:pennsylvania_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:pennsylvania_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:kansas_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:kansas_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:bowling_green_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:bowling_green_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:college concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:college concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:southern_utah_thunderbirds concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:southern_utah_thunderbirds concept:teamplaysagainstteam concept:sportsteam:state_university 2
+---------------------------------
+concept:sportsteam:ucla concept:teamalsoknownas concept:sportsteam:sun_devils 0
+
+concept:sportsteam:ucla concept:teamplaysagainstteam concept:sportsteam:sun_devils 1
+---------------------------------
+concept:sportsteam:north_carolina_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:north_carolina_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:falcons concept:teamalsoknownas concept:sportsteam:packers 1
+
+concept:sportsteam:falcons concept:agentcollaborateswithagent concept:sportsteam:packers 0.5
+concept:sportsteam:falcons concept:organizationhiredperson concept:sportsteam:packers 0.75
+concept:sportsteam:falcons concept:teamplaysagainstteam concept:sportsteam:packers 1*
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:baylor_bears 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:baylor_bears 1
+---------------------------------
+concept:sportsteam:utah_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:utah_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 2
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:southern_utah_thunderbirds 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:southern_utah_thunderbirds 2
+---------------------------------
+concept:sportsteam:spartans concept:teamalsoknownas concept:sportsteam:buckeyes 1
+
+concept:sportsteam:spartans concept:teamplaysagainstteam concept:sportsteam:buckeyes 2*
+---------------------------------
+concept:sportsteam:northern_arizona_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:northern_arizona_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:eagles concept:teamalsoknownas concept:sportsteam:minnesota_vikings 1
+
+concept:sportsteam:eagles concept:organizationhiredperson concept:sportsteam:minnesota_vikings 0.5
+concept:sportsteam:eagles concept:teamplaysagainstteam concept:sportsteam:minnesota_vikings 1*
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:hawkeyes 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:hawkeyes 1
+---------------------------------
+concept:sportsteam:ucla concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:ucla concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:oakland_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:oakland_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:virginia_commonwealth_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:virginia_commonwealth_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:eagles concept:teamalsoknownas concept:sportsteam:new_york_giants 1
+
+concept:sportsteam:eagles concept:agentcompeteswithagent concept:sportsteam:new_york_giants 1
+concept:sportsteam:eagles concept:organizationhiredperson concept:sportsteam:new_york_giants 0.75
+concept:sportsteam:eagles concept:subpartoforganization concept:sportsteam:new_york_giants 1
+concept:sportsteam:eagles concept:teamplaysagainstteam concept:sportsteam:new_york_giants 1*
+---------------------------------
+concept:sportsteam:oregon_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:oregon_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:western_michigan_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:western_michigan_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:seahawks concept:teamalsoknownas concept:sportsteam:steelers 1
+
+concept:sportsteam:seahawks concept:agentcollaborateswithagent concept:sportsteam:steelers 0.5
+concept:sportsteam:seahawks concept:organizationhiredperson concept:sportsteam:steelers 0.75
+concept:sportsteam:seahawks concept:teamplaysagainstteam concept:sportsteam:steelers 1*
+---------------------------------
+concept:sportsteam:maryland concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:maryland concept:atdate concept:sportsteam:state_university 0.25
+concept:sportsteam:maryland concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:packers concept:teamalsoknownas concept:sportsteam:seahawks 1
+
+concept:sportsteam:packers concept:organizationhiredperson concept:sportsteam:seahawks 0.5
+concept:sportsteam:packers concept:teamplaysagainstteam concept:sportsteam:seahawks 2*
+---------------------------------
+concept:sportsteam:ravens concept:teamalsoknownas concept:sportsteam:colts 1
+
+concept:sportsteam:ravens concept:agentcollaborateswithagent concept:sportsteam:colts 0.5
+concept:sportsteam:ravens concept:agentcompeteswithagent concept:sportsteam:colts 1
+concept:sportsteam:ravens concept:organizationhiredperson concept:sportsteam:colts 0.75
+concept:sportsteam:ravens concept:subpartoforganization concept:sportsteam:colts 1
+concept:sportsteam:ravens concept:synonymfor concept:sportsteam:colts 0.5
+concept:sportsteam:ravens concept:teamplaysagainstteam concept:sportsteam:colts 2*
+---------------------------------
+concept:sportsteam:boston_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:boston_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:texas_a_m_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:texas_a_m_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:colts concept:teamalsoknownas concept:sportsteam:ravens 1
+
+concept:sportsteam:colts concept:agentcompeteswithagent concept:sportsteam:ravens 1.05953
+concept:sportsteam:colts concept:organizationhiredperson concept:sportsteam:ravens 0.75
+concept:sportsteam:colts concept:subpartoforganization concept:sportsteam:ravens 1
+concept:sportsteam:colts concept:teamplaysagainstteam concept:sportsteam:ravens 2*
+---------------------------------
+concept:sportsteam:wichita_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:wichita_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:arizona_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:arizona_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:michigan_state concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:michigan_state concept:teamplaysagainstteam concept:sportsteam:state_university 2
+---------------------------------
+concept:sportsteam:chowan_braves concept:teamalsoknownas concept:sportsteam:yankees 1
+
+concept:sportsteam:chowan_braves concept:teamplaysagainstteam concept:sportsteam:yankees 1*
+---------------------------------
+concept:sportsteam:buffalo_sabres concept:teamalsoknownas concept:sportsteam:pittsburgh_penguins 1
+
+concept:sportsteam:buffalo_sabres concept:organizationhiredperson concept:sportsteam:pittsburgh_penguins 0.5
+concept:sportsteam:buffalo_sabres concept:teamplaysagainstteam concept:sportsteam:pittsburgh_penguins 1*
+---------------------------------
+concept:sportsteam:community concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:community concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:michigan_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:michigan_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:western_kentucky_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:western_kentucky_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:cuyahoga_community_college concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:cuyahoga_community_college concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:emory_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:emory_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:oberlin_college concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:oberlin_college concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:youngstown_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:youngstown_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:wesleyan_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:wesleyan_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:urbana_champaign concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:urbana_champaign concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:central_michigan_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:central_michigan_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:ohio_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:ohio_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:hope_college concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:hope_college concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:florida_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:florida_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:colorado_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:colorado_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:texas_a_m concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:texas_a_m concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:sportsteam:new_orleans_saints concept:teamalsoknownas concept:sportsteam:packers 1
+
+concept:sportsteam:new_orleans_saints concept:organizationhiredperson concept:sportsteam:packers 0.75
+concept:sportsteam:new_orleans_saints concept:teamplaysagainstteam concept:sportsteam:packers 1*
+---------------------------------
+concept:sportsteam:oklahoma_state_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:oklahoma_state_university concept:teamplaysagainstteam concept:sportsteam:state_university 2
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:boston_college 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:boston_college 1
+---------------------------------
+concept:sportsteam:falcons concept:teamalsoknownas concept:sportsteam:new_orleans_saints 1
+
+concept:sportsteam:falcons concept:agentcollaborateswithagent concept:sportsteam:new_orleans_saints 0.5
+concept:sportsteam:falcons concept:organizationhiredperson concept:sportsteam:new_orleans_saints 0.5
+concept:sportsteam:falcons concept:teamplaysagainstteam concept:sportsteam:new_orleans_saints 1*
+---------------------------------
+concept:sportsteam:falcons concept:teamalsoknownas concept:sportsteam:minnesota_vikings 1
+
+concept:sportsteam:falcons concept:agentcollaborateswithagent concept:sportsteam:minnesota_vikings 0.5
+concept:sportsteam:falcons concept:organizationhiredperson concept:sportsteam:minnesota_vikings 0.5
+concept:sportsteam:falcons concept:teamplaysagainstteam concept:sportsteam:minnesota_vikings 1*
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:byu_hawaii 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:byu_hawaii 1
+---------------------------------
+concept:sportsteam:chowan_braves concept:teamalsoknownas concept:sportsteam:philadelphia_phillies 1
+
+concept:sportsteam:chowan_braves concept:teamplaysagainstteam concept:sportsteam:philadelphia_phillies 1*
+---------------------------------
+concept:sportsteam:chowan_braves concept:teamalsoknownas concept:sportsteam:phillies 1
+
+concept:sportsteam:chowan_braves concept:teamplaysagainstteam concept:sportsteam:phillies 1*
+---------------------------------
+concept:sportsteam:colts concept:teamalsoknownas concept:sportsteam:baltimore_colts 0
+
+concept:sportsteam:colts concept:agentbelongstoorganization concept:sportsteam:baltimore_colts 1
+concept:sportsteam:colts concept:agentcompeteswithagent concept:sportsteam:baltimore_colts 2*
+concept:sportsteam:colts concept:agentcontrols concept:sportsteam:baltimore_colts 1
+concept:sportsteam:colts concept:organizationheadquarteredincity concept:sportsteam:baltimore_colts 1
+concept:sportsteam:colts concept:organizationhiredperson concept:sportsteam:baltimore_colts 0.75
+concept:sportsteam:colts concept:subpartoforganization concept:sportsteam:baltimore_colts 1
+concept:sportsteam:colts concept:teamplaysagainstteam concept:sportsteam:baltimore_colts 2
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:red_raiders 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:red_raiders 1
+---------------------------------
+concept:sportsteam:northwestern_university concept:teamalsoknownas concept:sportsteam:state_university 0
+
+concept:sportsteam:northwestern_university concept:teamplaysagainstteam concept:sportsteam:state_university 2
+---------------------------------
+concept:sportsteam:jags concept:teamalsoknownas concept:sportsteam:jacksonville_jaguars 0
+
+concept:sportsteam:jags concept:teamplaysagainstteam concept:sportsteam:jacksonville_jaguars 1
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:fresno_state_bulldogs 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:fresno_state_bulldogs 1
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:ohio_state_university 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:ohio_state_university 2
+---------------------------------
+concept:sportsteam:sd_chargers concept:teamalsoknownas concept:sportsteam:steelers 1
+
+concept:sportsteam:sd_chargers concept:agentcompeteswithagent concept:sportsteam:steelers 0.5
+concept:sportsteam:sd_chargers concept:organizationhiredperson concept:sportsteam:steelers 0.75
+concept:sportsteam:sd_chargers concept:teamplaysagainstteam concept:sportsteam:steelers 1*
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:utah_state_university 0
+
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:utah_state_university 2
+---------------------------------
+concept:sportsteam:eagles concept:teamalsoknownas concept:sportsteam:dallas_cowboys 1
+
+concept:sportsteam:eagles concept:organizationhiredperson concept:sportsteam:dallas_cowboys 0.5
+concept:sportsteam:eagles concept:teamplaysagainstteam concept:sportsteam:dallas_cowboys 1*
+---------------------------------
+concept:sportsteam:state_university concept:teamalsoknownas concept:sportsteam:mary_hardin_baylor_crusaders 0
+
+concept:sportsteam:state_university concept:synonymfor concept:sportsteam:mary_hardin_baylor_crusaders 1
+concept:sportsteam:state_university concept:teamplaysagainstteam concept:sportsteam:mary_hardin_baylor_crusaders 1
+---------------------------------
+concept:sportsteam:flyers_playoff_tickets concept:teamalsoknownas concept:sportsteam:pittsburgh_penguins 1
+
+concept:sportsteam:flyers_playoff_tickets concept:organizationhiredperson concept:sportsteam:pittsburgh_penguins 0.5
+concept:sportsteam:flyers_playoff_tickets concept:synonymfor concept:sportsteam:pittsburgh_penguins 0.5
+concept:sportsteam:flyers_playoff_tickets concept:teamplaysagainstteam concept:sportsteam:pittsburgh_penguins 1*
+---------------------------------
+concept:sportsteam:college concept:teamalsoknownas concept:sportsteam:penn_state 0
+
+concept:sportsteam:college concept:teamplaysagainstteam concept:sportsteam:penn_state 1
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.191176 0.117647 0.110294 0.191176
+HITS@3: 0.963235 0.227941 0.227941 0.235294
+HITS@10: 1 0.235294 0.235294 0.235294
+MRR: 0.578248 0.191717 0.187029 0.222072
+MR: 2.05147 30.3235 30.3529 58.4044
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.227941 0.205882 0.198529 0.227941
+HITS@3: 0.963235 0.235294 0.235294 0.235294
+HITS@10: 1 0.235294 0.235294 0.235294
+MRR: 0.598331 0.240146 0.235455 0.241685
+MR: 1.97794 30.1691 30.2059 58.3309
+relation_mr_mrr_1_3_10_n_rf 4108.00000000000000000 32.02184644323504870 27.00000000000000000 32.00000000000000000 32.00000000000000000 136 32

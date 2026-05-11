@@ -1,0 +1,1573 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:subpartof
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:politicsissue:laws 1
+
+concept:weatherphenomenon:air concept:agentcontrols concept:politicsissue:laws 0.25
+concept:weatherphenomenon:air concept:proxyfor concept:politicsissue:laws 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:profession:employees 0
+
+concept:weatherphenomenon:water concept:proxyfor concept:profession:employees 0.666667
+---------------------------------
+concept:weatherphenomenon:sun concept:subpartof concept:actor:scott_mcnealy 1
+
+concept:weatherphenomenon:sun concept:agentcontrols concept:actor:scott_mcnealy 1
+concept:weatherphenomenon:sun concept:atlocation concept:actor:scott_mcnealy 0.75
+concept:weatherphenomenon:sun concept:citylocatedincountry concept:actor:scott_mcnealy 1
+concept:weatherphenomenon:sun concept:citylocatedinstate concept:actor:scott_mcnealy 1
+concept:weatherphenomenon:sun concept:locationlocatedwithinlocation concept:actor:scott_mcnealy 1
+concept:weatherphenomenon:sun concept:politicianrepresentslocation concept:actor:scott_mcnealy 1
+concept:weatherphenomenon:sun concept:proxyfor concept:actor:scott_mcnealy 0.666667*
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:charactertrait:institutions 1
+
+concept:weatherphenomenon:water concept:agentcontrols concept:charactertrait:institutions 0.25
+concept:weatherphenomenon:water concept:proxyfor concept:charactertrait:institutions 0.666667
+---------------------------------
+concept:musicsong:louisiana concept:subpartof concept:person:monroe 2
+
+concept:musicsong:louisiana concept:agentcontrols concept:person:monroe 1
+concept:musicsong:louisiana concept:atlocation concept:person:monroe 1.75
+concept:musicsong:louisiana concept:citylocatedincountry concept:person:monroe 1
+concept:musicsong:louisiana concept:citylocatedingeopoliticallocation concept:person:monroe 1
+concept:musicsong:louisiana concept:citylocatedinstate concept:person:monroe 2
+concept:musicsong:louisiana concept:lakeinstate concept:person:monroe 0.5
+concept:musicsong:louisiana concept:locationlocatedwithinlocation concept:person:monroe 2
+concept:musicsong:louisiana concept:mutualproxyfor concept:person:monroe 1
+concept:musicsong:louisiana concept:personleadsgeopoliticalorganization concept:person:monroe 1
+concept:musicsong:louisiana concept:politicianrepresentslocation concept:person:monroe 1
+concept:musicsong:louisiana concept:proxyfor concept:person:monroe 1.66667*
+---------------------------------
+concept:creditunion:north_carolina concept:subpartof concept:beach:greenville 1
+
+concept:creditunion:north_carolina concept:agentbelongstoorganization concept:beach:greenville 0.5
+concept:creditunion:north_carolina concept:agentcontrols concept:beach:greenville 1
+concept:creditunion:north_carolina concept:atlocation concept:beach:greenville 0.75
+concept:creditunion:north_carolina concept:citylocatedincountry concept:beach:greenville 1
+concept:creditunion:north_carolina concept:citylocatedinstate concept:beach:greenville 1
+concept:creditunion:north_carolina concept:locationlocatedwithinlocation concept:beach:greenville 1
+concept:creditunion:north_carolina concept:politicianrepresentslocation concept:beach:greenville 1
+concept:creditunion:north_carolina concept:proxyfor concept:beach:greenville 0.666667*
+concept:creditunion:north_carolina concept:subpartoforganization concept:beach:greenville 0.110863
+---------------------------------
+concept:room:way concept:subpartof concept:bedroomitem:new 0
+
+concept:room:way concept:proxyfor concept:bedroomitem:new 0.666667
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:politicsissue:processes 0
+
+concept:weatherphenomenon:air concept:proxyfor concept:politicsissue:processes 0.666667
+---------------------------------
+concept:sportsleague:new concept:subpartof concept:coach:rex_ryan 0
+
+concept:sportsleague:new concept:agentbelongstoorganization concept:coach:rex_ryan 1*
+concept:sportsleague:new concept:agentcollaborateswithagent concept:coach:rex_ryan 1*
+concept:sportsleague:new concept:agentcontrols concept:coach:rex_ryan 1
+concept:sportsleague:new concept:proxyfor concept:coach:rex_ryan 0.666667
+---------------------------------
+concept:company:north_carolina concept:subpartof concept:hotel:salisbury 1
+
+concept:company:north_carolina concept:agentcontrols concept:hotel:salisbury 1
+concept:company:north_carolina concept:atdate concept:hotel:salisbury 0.518277
+concept:company:north_carolina concept:atlocation concept:hotel:salisbury 0.75
+concept:company:north_carolina concept:citylocatedincountry concept:hotel:salisbury 1
+concept:company:north_carolina concept:citylocatedinstate concept:hotel:salisbury 1
+concept:company:north_carolina concept:lakeinstate concept:hotel:salisbury 0.5
+concept:company:north_carolina concept:locationlocatedwithinlocation concept:hotel:salisbury 1
+concept:company:north_carolina concept:politicianrepresentslocation concept:hotel:salisbury 1
+concept:company:north_carolina concept:proxyfor concept:hotel:salisbury 0.666667*
+---------------------------------
+concept:beach:massachusetts concept:subpartof concept:visualizablething:brockton 0.317461
+
+concept:beach:massachusetts concept:proxyfor concept:visualizablething:brockton 0.666667
+---------------------------------
+concept:color:ny concept:subpartof concept:county:brooklyn 0
+
+concept:color:ny concept:proxyfor concept:county:brooklyn 0.666667
+---------------------------------
+concept:company:missouri concept:subpartof concept:city:rolla 2
+
+concept:company:missouri concept:agentcontrols concept:city:rolla 1
+concept:company:missouri concept:atlocation concept:city:rolla 1.75
+concept:company:missouri concept:citylocatedincountry concept:city:rolla 1
+concept:company:missouri concept:citylocatedingeopoliticallocation concept:city:rolla 1
+concept:company:missouri concept:citylocatedinstate concept:city:rolla 2
+concept:company:missouri concept:lakeinstate concept:city:rolla 0.5
+concept:company:missouri concept:locationlocatedwithinlocation concept:city:rolla 2
+concept:company:missouri concept:mutualproxyfor concept:city:rolla 1
+concept:company:missouri concept:personleadsgeopoliticalorganization concept:city:rolla 1
+concept:company:missouri concept:politicianrepresentslocation concept:city:rolla 1
+concept:company:missouri concept:proxyfor concept:city:rolla 1.66667*
+---------------------------------
+concept:university:ohio concept:subpartof concept:radiostation:canton 1
+
+concept:university:ohio concept:atdate concept:radiostation:canton 0.0161079
+concept:university:ohio concept:atlocation concept:radiostation:canton 1
+concept:university:ohio concept:citylocatedingeopoliticallocation concept:radiostation:canton 1
+concept:university:ohio concept:citylocatedinstate concept:radiostation:canton 1
+concept:university:ohio concept:locationlocatedwithinlocation concept:radiostation:canton 1
+concept:university:ohio concept:mutualproxyfor concept:radiostation:canton 1.5*
+concept:university:ohio concept:personleadsgeopoliticalorganization concept:radiostation:canton 1
+concept:university:ohio concept:proxyfor concept:radiostation:canton 1.66667
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:buildingfeature:organizations 1
+
+concept:weatherphenomenon:air concept:agentcontrols concept:buildingfeature:organizations 0.25
+concept:weatherphenomenon:air concept:proxyfor concept:buildingfeature:organizations 0.666667
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:vehicle:units 0
+
+concept:weatherphenomenon:air concept:proxyfor concept:vehicle:units 0.666667
+---------------------------------
+concept:musicalbum:nebraska concept:subpartof concept:newspaper:grand_island 0
+
+concept:musicalbum:nebraska concept:proxyfor concept:newspaper:grand_island 0.666667
+---------------------------------
+concept:website:amazon concept:subpartof concept:automobilemaker:jeff_bezos 2
+
+concept:website:amazon concept:agentcollaborateswithagent concept:automobilemaker:jeff_bezos 1
+concept:website:amazon concept:agentcompeteswithagent concept:automobilemaker:jeff_bezos 1
+concept:website:amazon concept:agentcontrols concept:automobilemaker:jeff_bezos 1*
+concept:website:amazon concept:atlocation concept:automobilemaker:jeff_bezos 0.75
+concept:website:amazon concept:citylocatedincountry concept:automobilemaker:jeff_bezos 1
+concept:website:amazon concept:citylocatedinstate concept:automobilemaker:jeff_bezos 1
+concept:website:amazon concept:competeswith concept:automobilemaker:jeff_bezos 0.25
+concept:website:amazon concept:locationlocatedwithinlocation concept:automobilemaker:jeff_bezos 1
+concept:website:amazon concept:politicianrepresentslocation concept:automobilemaker:jeff_bezos 1
+concept:website:amazon concept:proxyfor concept:automobilemaker:jeff_bezos 0.666667*
+concept:website:amazon concept:specializationof concept:automobilemaker:jeff_bezos 1
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:mlalgorithm:solutions 0
+
+concept:weatherphenomenon:air concept:proxyfor concept:mlalgorithm:solutions 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:profession:professionals 0
+
+concept:weatherphenomenon:water concept:proxyfor concept:profession:professionals 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:programminglanguage:state 1
+
+concept:weatherphenomenon:water concept:agentcontrols concept:programminglanguage:state 0.25
+concept:weatherphenomenon:water concept:proxyfor concept:programminglanguage:state 0.666667
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartof concept:personmexico:ncaa 0
+
+concept:sportsteam:ncaa_mens_midwest_regionals concept:agentactsinlocation concept:personmexico:ncaa 0.5
+concept:sportsteam:ncaa_mens_midwest_regionals concept:proxyfor concept:personmexico:ncaa 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:profession:law 0
+
+concept:weatherphenomenon:water concept:proxyfor concept:profession:law 0.666667
+---------------------------------
+concept:musicsong:oklahoma concept:subpartof concept:musicsong:norman 2
+
+concept:musicsong:oklahoma concept:agentcontrols concept:musicsong:norman 1
+concept:musicsong:oklahoma concept:atlocation concept:musicsong:norman 1.75
+concept:musicsong:oklahoma concept:citylocatedincountry concept:musicsong:norman 1
+concept:musicsong:oklahoma concept:citylocatedingeopoliticallocation concept:musicsong:norman 1
+concept:musicsong:oklahoma concept:citylocatedinstate concept:musicsong:norman 2
+concept:musicsong:oklahoma concept:lakeinstate concept:musicsong:norman 0.5
+concept:musicsong:oklahoma concept:locationlocatedwithinlocation concept:musicsong:norman 2
+concept:musicsong:oklahoma concept:mutualproxyfor concept:musicsong:norman 1
+concept:musicsong:oklahoma concept:personleadsgeopoliticalorganization concept:musicsong:norman 1
+concept:musicsong:oklahoma concept:politicianrepresentslocation concept:musicsong:norman 1
+concept:musicsong:oklahoma concept:proxyfor concept:musicsong:norman 1.66667*
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartof concept:comedian:oklahoma 0
+
+concept:sportsteam:ncaa_mens_midwest_regionals concept:proxyfor concept:comedian:oklahoma 0.666667
+---------------------------------
+concept:retailstore:berkshire_hathaway concept:subpartof concept:personus:warren_buffet 1
+
+concept:retailstore:berkshire_hathaway concept:agentcollaborateswithagent concept:personus:warren_buffet 1
+concept:retailstore:berkshire_hathaway concept:agentcontrols concept:personus:warren_buffet 1*
+concept:retailstore:berkshire_hathaway concept:atlocation concept:personus:warren_buffet 0.75
+concept:retailstore:berkshire_hathaway concept:citylocatedincountry concept:personus:warren_buffet 1
+concept:retailstore:berkshire_hathaway concept:citylocatedinstate concept:personus:warren_buffet 1
+concept:retailstore:berkshire_hathaway concept:locationlocatedwithinlocation concept:personus:warren_buffet 1
+concept:retailstore:berkshire_hathaway concept:politicianrepresentslocation concept:personus:warren_buffet 1
+concept:retailstore:berkshire_hathaway concept:proxyfor concept:personus:warren_buffet 0.666667*
+---------------------------------
+concept:musicsong:louisiana concept:subpartof concept:criminal:baton_rouge 2
+
+concept:musicsong:louisiana concept:agentcontrols concept:criminal:baton_rouge 1
+concept:musicsong:louisiana concept:atlocation concept:criminal:baton_rouge 1.75
+concept:musicsong:louisiana concept:citylocatedincountry concept:criminal:baton_rouge 1
+concept:musicsong:louisiana concept:citylocatedingeopoliticallocation concept:criminal:baton_rouge 1
+concept:musicsong:louisiana concept:citylocatedinstate concept:criminal:baton_rouge 2
+concept:musicsong:louisiana concept:lakeinstate concept:criminal:baton_rouge 0.5
+concept:musicsong:louisiana concept:locationlocatedwithinlocation concept:criminal:baton_rouge 2
+concept:musicsong:louisiana concept:mutualproxyfor concept:criminal:baton_rouge 1
+concept:musicsong:louisiana concept:personleadsgeopoliticalorganization concept:criminal:baton_rouge 1
+concept:musicsong:louisiana concept:politicianrepresentslocation concept:criminal:baton_rouge 1
+concept:musicsong:louisiana concept:proxyfor concept:criminal:baton_rouge 1.66667*
+---------------------------------
+concept:musicsong:oklahoma concept:subpartof concept:coach:bob_stoops 0
+
+concept:musicsong:oklahoma concept:proxyfor concept:coach:bob_stoops 0.666667
+---------------------------------
+concept:company:west_virginia concept:subpartof concept:university:parkersburg 2
+
+concept:company:west_virginia concept:agentbelongstoorganization concept:university:parkersburg 0.5
+concept:company:west_virginia concept:agentcontrols concept:university:parkersburg 1
+concept:company:west_virginia concept:atlocation concept:university:parkersburg 1.75
+concept:company:west_virginia concept:citylocatedincountry concept:university:parkersburg 1
+concept:company:west_virginia concept:citylocatedingeopoliticallocation concept:university:parkersburg 1
+concept:company:west_virginia concept:citylocatedinstate concept:university:parkersburg 2
+concept:company:west_virginia concept:competeswith concept:university:parkersburg 0.25
+concept:company:west_virginia concept:lakeinstate concept:university:parkersburg 0.5
+concept:company:west_virginia concept:locationlocatedwithinlocation concept:university:parkersburg 2
+concept:company:west_virginia concept:mutualproxyfor concept:university:parkersburg 1
+concept:company:west_virginia concept:personleadsgeopoliticalorganization concept:university:parkersburg 1
+concept:company:west_virginia concept:politicianrepresentslocation concept:university:parkersburg 1
+concept:company:west_virginia concept:proxyfor concept:university:parkersburg 1.66667*
+concept:company:west_virginia concept:subpartoforganization concept:university:parkersburg 0.110863
+---------------------------------
+concept:company:new_york concept:subpartof concept:personmexico:adrian_gonzalez 0.182539
+
+concept:company:new_york concept:agentactsinlocation concept:personmexico:adrian_gonzalez 0.141967
+concept:company:new_york concept:agentcollaborateswithagent concept:personmexico:adrian_gonzalez 1
+concept:company:new_york concept:personbelongstoorganization concept:personmexico:adrian_gonzalez 1*
+concept:company:new_york concept:proxyfor concept:personmexico:adrian_gonzalez 0.666667
+concept:company:new_york concept:worksfor concept:personmexico:adrian_gonzalez 1
+---------------------------------
+concept:sportsleague:nfl concept:subpartof concept:coach:new_england_patriots 0
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:new_england_patriots 2*
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:new_england_patriots 2*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:new_england_patriots 0.119059
+concept:sportsleague:nfl concept:agentcontrols concept:coach:new_england_patriots 1.19955
+concept:sportsleague:nfl concept:organizationhiredperson concept:coach:new_england_patriots 0.25
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:new_england_patriots 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:new_england_patriots 0.666667
+concept:sportsleague:nfl concept:worksfor concept:coach:new_england_patriots 1
+---------------------------------
+concept:color:ny concept:subpartof concept:company:new_york 0
+
+concept:color:ny concept:agentcontrols concept:company:new_york 0.25
+concept:color:ny concept:proxyfor concept:company:new_york 0.666667
+---------------------------------
+concept:politicsissue:oregon concept:subpartof concept:county:salem 1.18254
+
+concept:politicsissue:oregon concept:agentcontrols concept:county:salem 1
+concept:politicsissue:oregon concept:atlocation concept:county:salem 0.75
+concept:politicsissue:oregon concept:citylocatedincountry concept:county:salem 1
+concept:politicsissue:oregon concept:citylocatedinstate concept:county:salem 1
+concept:politicsissue:oregon concept:lakeinstate concept:county:salem 0.5
+concept:politicsissue:oregon concept:locationlocatedwithinlocation concept:county:salem 1
+concept:politicsissue:oregon concept:mutualproxyfor concept:county:salem 0.5
+concept:politicsissue:oregon concept:politicianrepresentslocation concept:county:salem 1
+concept:politicsissue:oregon concept:proxyfor concept:county:salem 1.21667*
+---------------------------------
+concept:programminglanguage:state concept:subpartof concept:buildingfeature:organizations 0.75
+
+concept:programminglanguage:state concept:agentcontrols concept:buildingfeature:organizations 2
+concept:programminglanguage:state concept:agentparticipatedinevent concept:buildingfeature:organizations 1
+concept:programminglanguage:state concept:atdate concept:buildingfeature:organizations 0.5
+concept:programminglanguage:state concept:citycapitalofcountry concept:buildingfeature:organizations 1
+concept:programminglanguage:state concept:istallerthan concept:buildingfeature:organizations 1
+concept:programminglanguage:state concept:personleadsgeopoliticalorganization concept:buildingfeature:organizations 1
+concept:programminglanguage:state concept:proxyfor concept:buildingfeature:organizations 1.33333
+concept:programminglanguage:state concept:synonymfor concept:buildingfeature:organizations 0.5
+---------------------------------
+concept:company:missouri concept:subpartof concept:visualizablescene:joplin 2
+
+concept:company:missouri concept:agentcontrols concept:visualizablescene:joplin 1
+concept:company:missouri concept:atlocation concept:visualizablescene:joplin 1.75
+concept:company:missouri concept:citylocatedincountry concept:visualizablescene:joplin 1
+concept:company:missouri concept:citylocatedingeopoliticallocation concept:visualizablescene:joplin 1
+concept:company:missouri concept:citylocatedinstate concept:visualizablescene:joplin 2
+concept:company:missouri concept:lakeinstate concept:visualizablescene:joplin 0.5
+concept:company:missouri concept:locationlocatedwithinlocation concept:visualizablescene:joplin 2
+concept:company:missouri concept:mutualproxyfor concept:visualizablescene:joplin 1
+concept:company:missouri concept:personleadsgeopoliticalorganization concept:visualizablescene:joplin 1
+concept:company:missouri concept:politicianrepresentslocation concept:visualizablescene:joplin 1
+concept:company:missouri concept:proxyfor concept:visualizablescene:joplin 1.66667*
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:sport:initiatives 1
+
+concept:weatherphenomenon:air concept:agentcontrols concept:sport:initiatives 0.25
+concept:weatherphenomenon:air concept:proxyfor concept:sport:initiatives 0.666667
+---------------------------------
+concept:sportsleague:nfl concept:subpartof concept:coach:new_york_jets 1
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:new_york_jets 3.5
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:new_york_jets 1
+concept:sportsleague:nfl concept:organizationhiredperson concept:coach:new_york_jets 0.25
+concept:sportsleague:nfl concept:organizationterminatedperson concept:coach:new_york_jets 0.5
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:new_york_jets 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:new_york_jets 0.666667
+concept:sportsleague:nfl concept:worksfor concept:coach:new_york_jets 1
+---------------------------------
+concept:company:north_carolina concept:subpartof concept:website:concord 2
+
+concept:company:north_carolina concept:agentcontrols concept:website:concord 1
+concept:company:north_carolina concept:atdate concept:website:concord 0.518277
+concept:company:north_carolina concept:atlocation concept:website:concord 1.75
+concept:company:north_carolina concept:citylocatedincountry concept:website:concord 1
+concept:company:north_carolina concept:citylocatedingeopoliticallocation concept:website:concord 1
+concept:company:north_carolina concept:citylocatedinstate concept:website:concord 2
+concept:company:north_carolina concept:lakeinstate concept:website:concord 0.5
+concept:company:north_carolina concept:locationlocatedwithinlocation concept:website:concord 2
+concept:company:north_carolina concept:mutualproxyfor concept:website:concord 1
+concept:company:north_carolina concept:personleadsgeopoliticalorganization concept:website:concord 1
+concept:company:north_carolina concept:politicianrepresentslocation concept:website:concord 1
+concept:company:north_carolina concept:proxyfor concept:website:concord 1.66667*
+---------------------------------
+concept:building:ohio_state concept:subpartof concept:coach:jim_tressel 0
+
+concept:building:ohio_state concept:proxyfor concept:coach:jim_tressel 0.666667
+---------------------------------
+concept:wine:kentucky concept:subpartof concept:stadiumoreventvenue:lexington 0
+
+concept:wine:kentucky concept:proxyfor concept:stadiumoreventvenue:lexington 0.666667
+---------------------------------
+concept:company:apple concept:subpartof concept:politician:jobs 1
+
+concept:company:apple concept:agentcontrols concept:politician:jobs 0.199549
+concept:company:apple concept:atlocation concept:politician:jobs 1
+concept:company:apple concept:citylocatedingeopoliticallocation concept:politician:jobs 1
+concept:company:apple concept:citylocatedinstate concept:politician:jobs 1
+concept:company:apple concept:companyeconomicsector concept:politician:jobs 0.5
+concept:company:apple concept:lakeinstate concept:politician:jobs 0.5
+concept:company:apple concept:locationlocatedwithinlocation concept:politician:jobs 1
+concept:company:apple concept:mutualproxyfor concept:politician:jobs 1*
+concept:company:apple concept:organizationterminatedperson concept:politician:jobs 0.5
+concept:company:apple concept:personleadsgeopoliticalorganization concept:politician:jobs 1
+concept:company:apple concept:personleadsorganization concept:politician:jobs 1
+concept:company:apple concept:proxyfor concept:politician:jobs 1.66667
+---------------------------------
+concept:creditunion:kansas concept:subpartof concept:coach:mark_mangino 0
+
+concept:creditunion:kansas concept:coachesteam concept:coach:mark_mangino 1
+concept:creditunion:kansas concept:personbelongstoorganization concept:coach:mark_mangino 1*
+concept:creditunion:kansas concept:personhasresidenceingeopoliticallocation concept:coach:mark_mangino 1
+concept:creditunion:kansas concept:personleadsgeopoliticalorganization concept:coach:mark_mangino 1
+concept:creditunion:kansas concept:personleadsorganization concept:coach:mark_mangino 1
+concept:creditunion:kansas concept:proxyfor concept:coach:mark_mangino 0.666667
+concept:creditunion:kansas concept:worksfor concept:coach:mark_mangino 1
+---------------------------------
+concept:company:north_carolina concept:subpartof concept:museum:wilmington 0
+
+concept:company:north_carolina concept:proxyfor concept:museum:wilmington 0.666667
+---------------------------------
+concept:sportsleague:nfl concept:subpartof concept:coach:san_diego_chargers 1
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:san_diego_chargers 1*
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:san_diego_chargers 2*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:san_diego_chargers 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:san_diego_chargers 1.19955
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:san_diego_chargers 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:san_diego_chargers 0.666667
+concept:sportsleague:nfl concept:worksfor concept:coach:san_diego_chargers 1
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:buildingfeature:organizations 1
+
+concept:weatherphenomenon:water concept:agentcontrols concept:buildingfeature:organizations 0.25
+concept:weatherphenomenon:water concept:proxyfor concept:buildingfeature:organizations 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:vehicle:units 0
+
+concept:weatherphenomenon:water concept:proxyfor concept:vehicle:units 0.666667
+---------------------------------
+concept:musicsong:louisiana concept:subpartof concept:book:alexandria 1
+
+concept:musicsong:louisiana concept:agentcontrols concept:book:alexandria 0.75
+concept:musicsong:louisiana concept:atdate concept:book:alexandria 0.0161079
+concept:musicsong:louisiana concept:atlocation concept:book:alexandria 1
+concept:musicsong:louisiana concept:citylocatedingeopoliticallocation concept:book:alexandria 1
+concept:musicsong:louisiana concept:citylocatedinstate concept:book:alexandria 1
+concept:musicsong:louisiana concept:locationlocatedwithinlocation concept:book:alexandria 1
+concept:musicsong:louisiana concept:mutualproxyfor concept:book:alexandria 2*
+concept:musicsong:louisiana concept:personleadsgeopoliticalorganization concept:book:alexandria 1
+concept:musicsong:louisiana concept:proxyfor concept:book:alexandria 1.66667
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:profession:personnel 0
+
+concept:weatherphenomenon:air concept:proxyfor concept:profession:personnel 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:room:development 0
+
+concept:weatherphenomenon:water concept:proxyfor concept:room:development 0.666667
+---------------------------------
+concept:company:north_carolina concept:subpartof concept:person:monroe 0
+
+concept:company:north_carolina concept:atdate concept:person:monroe 0.518277
+concept:company:north_carolina concept:lakeinstate concept:person:monroe 0.5
+concept:company:north_carolina concept:proxyfor concept:person:monroe 0.666667
+---------------------------------
+concept:city:washington_d_c concept:subpartof concept:county:bellingham 4
+
+concept:city:washington_d_c concept:agentactsinlocation concept:county:bellingham 0.141967
+concept:city:washington_d_c concept:agentbelongstoorganization concept:county:bellingham 0.5
+concept:city:washington_d_c concept:agentcontrols concept:county:bellingham 1
+concept:city:washington_d_c concept:atdate concept:county:bellingham 0.518277
+concept:city:washington_d_c concept:atlocation concept:county:bellingham 2.125
+concept:city:washington_d_c concept:cityliesonriver concept:county:bellingham 1.25
+concept:city:washington_d_c concept:citylocatedincountry concept:county:bellingham 1
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:county:bellingham 1
+concept:city:washington_d_c concept:citylocatedinstate concept:county:bellingham 2
+concept:city:washington_d_c concept:lakeinstate concept:county:bellingham 0.5
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:county:bellingham 3.625*
+concept:city:washington_d_c concept:mutualproxyfor concept:county:bellingham 1.5
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:county:bellingham 1
+concept:city:washington_d_c concept:politicianrepresentslocation concept:county:bellingham 1
+concept:city:washington_d_c concept:proxyfor concept:county:bellingham 2.16667*
+concept:city:washington_d_c concept:subpartoforganization concept:county:bellingham 0.110863
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:geometricshape:activities 1
+
+concept:weatherphenomenon:water concept:agentcontrols concept:geometricshape:activities 0.25
+concept:weatherphenomenon:water concept:proxyfor concept:geometricshape:activities 0.666667
+---------------------------------
+concept:sportsleague:new concept:subpartof concept:personus:jason_giambi 0
+
+concept:sportsleague:new concept:proxyfor concept:personus:jason_giambi 0.666667
+---------------------------------
+concept:sportsleague:nfl concept:subpartof concept:coach:kansas_city_chiefs 1
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:kansas_city_chiefs 1*
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:kansas_city_chiefs 2*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:kansas_city_chiefs 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:kansas_city_chiefs 1.19955
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:kansas_city_chiefs 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:kansas_city_chiefs 0.666667
+concept:sportsleague:nfl concept:worksfor concept:coach:kansas_city_chiefs 1
+---------------------------------
+concept:company:west_virginia concept:subpartof concept:winery:huntington 1
+
+concept:company:west_virginia concept:atdate concept:winery:huntington 0.0161079
+concept:company:west_virginia concept:atlocation concept:winery:huntington 1
+concept:company:west_virginia concept:citylocatedingeopoliticallocation concept:winery:huntington 1
+concept:company:west_virginia concept:citylocatedinstate concept:winery:huntington 1
+concept:company:west_virginia concept:locationlocatedwithinlocation concept:winery:huntington 1
+concept:company:west_virginia concept:mutualproxyfor concept:winery:huntington 1.5*
+concept:company:west_virginia concept:personleadsgeopoliticalorganization concept:winery:huntington 1
+concept:company:west_virginia concept:proxyfor concept:winery:huntington 1.66667
+concept:company:west_virginia concept:subpartoforganization concept:winery:huntington 0.109162
+---------------------------------
+concept:city:washington_d_c concept:subpartof concept:personnorthamerica:everett 3.5
+
+concept:city:washington_d_c concept:agentactsinlocation concept:personnorthamerica:everett 1.14197
+concept:city:washington_d_c concept:agentbelongstoorganization concept:personnorthamerica:everett 1
+concept:city:washington_d_c concept:atdate concept:personnorthamerica:everett 0.520447
+concept:city:washington_d_c concept:atlocation concept:personnorthamerica:everett 2*
+concept:city:washington_d_c concept:cityliesonriver concept:personnorthamerica:everett 0.2
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:personnorthamerica:everett 1
+concept:city:washington_d_c concept:citylocatedinstate concept:personnorthamerica:everett 1
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:personnorthamerica:everett 1
+concept:city:washington_d_c concept:mutualproxyfor concept:personnorthamerica:everett 1.5*
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:personnorthamerica:everett 1
+concept:city:washington_d_c concept:proxyfor concept:personnorthamerica:everett 3.21667
+concept:city:washington_d_c concept:subpartoforganization concept:personnorthamerica:everett 0.109162
+---------------------------------
+concept:musicartist:delaware concept:subpartof concept:chemical:wilmington 1
+
+concept:musicartist:delaware concept:atdate concept:chemical:wilmington 0.00433913
+concept:musicartist:delaware concept:atlocation concept:chemical:wilmington 1
+concept:musicartist:delaware concept:citylocatedingeopoliticallocation concept:chemical:wilmington 1
+concept:musicartist:delaware concept:citylocatedinstate concept:chemical:wilmington 1
+concept:musicartist:delaware concept:locationlocatedwithinlocation concept:chemical:wilmington 1
+concept:musicartist:delaware concept:mutualproxyfor concept:chemical:wilmington 1*
+concept:musicartist:delaware concept:personleadsgeopoliticalorganization concept:chemical:wilmington 1
+concept:musicartist:delaware concept:proxyfor concept:chemical:wilmington 1.66667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:geometricshape:property 1
+
+concept:weatherphenomenon:water concept:agentcontrols concept:geometricshape:property 0.25
+concept:weatherphenomenon:water concept:proxyfor concept:geometricshape:property 0.666667
+---------------------------------
+concept:city:washington_d_c concept:subpartof concept:county:olympia 4
+
+concept:city:washington_d_c concept:agentactsinlocation concept:county:olympia 0.141967
+concept:city:washington_d_c concept:agentbelongstoorganization concept:county:olympia 0.5
+concept:city:washington_d_c concept:agentcontrols concept:county:olympia 1
+concept:city:washington_d_c concept:atdate concept:county:olympia 0.518277
+concept:city:washington_d_c concept:atlocation concept:county:olympia 2.125
+concept:city:washington_d_c concept:cityliesonriver concept:county:olympia 1.25
+concept:city:washington_d_c concept:citylocatedincountry concept:county:olympia 1
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:county:olympia 1
+concept:city:washington_d_c concept:citylocatedinstate concept:county:olympia 2
+concept:city:washington_d_c concept:lakeinstate concept:county:olympia 0.5
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:county:olympia 3.625*
+concept:city:washington_d_c concept:mutualproxyfor concept:county:olympia 1.5
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:county:olympia 1
+concept:city:washington_d_c concept:politicianrepresentslocation concept:county:olympia 1
+concept:city:washington_d_c concept:proxyfor concept:county:olympia 2.16667*
+concept:city:washington_d_c concept:subpartoforganization concept:county:olympia 0.110863
+---------------------------------
+concept:sportsleague:nfl concept:subpartof concept:coach:miami_dolphins 1
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:miami_dolphins 2
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:miami_dolphins 1
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:miami_dolphins 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:miami_dolphins 0.666667
+concept:sportsleague:nfl concept:worksfor concept:coach:miami_dolphins 1
+---------------------------------
+concept:sportsleague:nfl concept:subpartof concept:coach:baltimore_colts 1
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:baltimore_colts 1
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:baltimore_colts 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:baltimore_colts 0.666667
+---------------------------------
+concept:university:ohio concept:subpartof concept:city:elyria 2
+
+concept:university:ohio concept:agentcontrols concept:city:elyria 1
+concept:university:ohio concept:atlocation concept:city:elyria 1.75
+concept:university:ohio concept:citylocatedincountry concept:city:elyria 1
+concept:university:ohio concept:citylocatedingeopoliticallocation concept:city:elyria 1
+concept:university:ohio concept:citylocatedinstate concept:city:elyria 2
+concept:university:ohio concept:lakeinstate concept:city:elyria 0.5
+concept:university:ohio concept:locationlocatedwithinlocation concept:city:elyria 2
+concept:university:ohio concept:mutualproxyfor concept:city:elyria 1
+concept:university:ohio concept:personleadsgeopoliticalorganization concept:city:elyria 1
+concept:university:ohio concept:politicianrepresentslocation concept:city:elyria 1
+concept:university:ohio concept:proxyfor concept:city:elyria 1.66667*
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:museum:facilities 0
+
+concept:weatherphenomenon:water concept:proxyfor concept:museum:facilities 0.666667
+---------------------------------
+concept:beach:massachusetts concept:subpartof concept:politician:norwood 2.31746
+
+concept:beach:massachusetts concept:agentactsinlocation concept:politician:norwood 1
+concept:beach:massachusetts concept:agentbelongstoorganization concept:politician:norwood 1
+concept:beach:massachusetts concept:atlocation concept:politician:norwood 1*
+concept:beach:massachusetts concept:citylocatedingeopoliticallocation concept:politician:norwood 1
+concept:beach:massachusetts concept:citylocatedinstate concept:politician:norwood 1
+concept:beach:massachusetts concept:locationlocatedwithinlocation concept:politician:norwood 1
+concept:beach:massachusetts concept:mutualproxyfor concept:politician:norwood 1
+concept:beach:massachusetts concept:personleadsgeopoliticalorganization concept:politician:norwood 1
+concept:beach:massachusetts concept:proxyfor concept:politician:norwood 2.66667
+---------------------------------
+concept:city:washington_d_c concept:subpartof concept:city:bellevue 3.5
+
+concept:city:washington_d_c concept:agentactsinlocation concept:city:bellevue 0.141967
+concept:city:washington_d_c concept:agentbelongstoorganization concept:city:bellevue 0.5
+concept:city:washington_d_c concept:agentcontrols concept:city:bellevue 1
+concept:city:washington_d_c concept:atdate concept:city:bellevue 0.538724
+concept:city:washington_d_c concept:atlocation concept:city:bellevue 2.25
+concept:city:washington_d_c concept:cityliesonriver concept:city:bellevue 0.75
+concept:city:washington_d_c concept:citylocatedincountry concept:city:bellevue 1
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:city:bellevue 1*
+concept:city:washington_d_c concept:citylocatedinstate concept:city:bellevue 2
+concept:city:washington_d_c concept:lakeinstate concept:city:bellevue 0.5
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:city:bellevue 2
+concept:city:washington_d_c concept:mutualproxyfor concept:city:bellevue 2
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:city:bellevue 1
+concept:city:washington_d_c concept:politicianrepresentslocation concept:city:bellevue 1
+concept:city:washington_d_c concept:proxyfor concept:city:bellevue 2.16667*
+concept:city:washington_d_c concept:subpartoforganization concept:city:bellevue 0.220025
+---------------------------------
+concept:city:york concept:subpartof concept:county:brooklyn 1.18254
+
+concept:city:york concept:proxyfor concept:county:brooklyn 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:sportsteamposition:coordinator 0
+
+concept:weatherphenomenon:water concept:proxyfor concept:sportsteamposition:coordinator 0.666667
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:jobposition:agency 1
+
+concept:weatherphenomenon:air concept:agentcontrols concept:jobposition:agency 0.25
+concept:weatherphenomenon:air concept:proxyfor concept:jobposition:agency 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:programminglanguage:procedures 0
+
+concept:weatherphenomenon:water concept:proxyfor concept:programminglanguage:procedures 0.666667
+---------------------------------
+concept:city:washington_d_c concept:subpartof concept:city:renton 4
+
+concept:city:washington_d_c concept:agentactsinlocation concept:city:renton 0.141967
+concept:city:washington_d_c concept:agentbelongstoorganization concept:city:renton 0.5
+concept:city:washington_d_c concept:agentcontrols concept:city:renton 1
+concept:city:washington_d_c concept:atdate concept:city:renton 0.518277
+concept:city:washington_d_c concept:atlocation concept:city:renton 2.125
+concept:city:washington_d_c concept:cityliesonriver concept:city:renton 1.25
+concept:city:washington_d_c concept:citylocatedincountry concept:city:renton 1
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:city:renton 1
+concept:city:washington_d_c concept:citylocatedinstate concept:city:renton 2
+concept:city:washington_d_c concept:lakeinstate concept:city:renton 0.5
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:city:renton 3.625*
+concept:city:washington_d_c concept:mutualproxyfor concept:city:renton 1.5
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:city:renton 1
+concept:city:washington_d_c concept:politicianrepresentslocation concept:city:renton 1
+concept:city:washington_d_c concept:proxyfor concept:city:renton 2.16667*
+concept:city:washington_d_c concept:subpartoforganization concept:city:renton 0.110863
+---------------------------------
+concept:musician:streets concept:subpartof concept:buildingfeature:systems 0
+
+concept:musician:streets concept:proxyfor concept:buildingfeature:systems 0.666667
+---------------------------------
+concept:company:new_york concept:subpartof concept:personus:jason_giambi 0.182539
+
+concept:company:new_york concept:agentactsinlocation concept:personus:jason_giambi 0.141967
+concept:company:new_york concept:agentcollaborateswithagent concept:personus:jason_giambi 1
+concept:company:new_york concept:personbelongstoorganization concept:personus:jason_giambi 1*
+concept:company:new_york concept:proxyfor concept:personus:jason_giambi 0.666667
+concept:company:new_york concept:worksfor concept:personus:jason_giambi 1
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:profession:division 1
+
+concept:weatherphenomenon:air concept:agentcontrols concept:profession:division 0.25
+concept:weatherphenomenon:air concept:proxyfor concept:profession:division 0.666667
+---------------------------------
+concept:university:ohio concept:subpartof concept:university:akron 2
+
+concept:university:ohio concept:agentcontrols concept:university:akron 1
+concept:university:ohio concept:atlocation concept:university:akron 1.75
+concept:university:ohio concept:citylocatedincountry concept:university:akron 1
+concept:university:ohio concept:citylocatedingeopoliticallocation concept:university:akron 1
+concept:university:ohio concept:citylocatedinstate concept:university:akron 2
+concept:university:ohio concept:lakeinstate concept:university:akron 0.5
+concept:university:ohio concept:locationlocatedwithinlocation concept:university:akron 2
+concept:university:ohio concept:mutualproxyfor concept:university:akron 1
+concept:university:ohio concept:personleadsgeopoliticalorganization concept:university:akron 1
+concept:university:ohio concept:politicianrepresentslocation concept:university:akron 1
+concept:university:ohio concept:proxyfor concept:university:akron 1.66667*
+---------------------------------
+concept:creditunion:iowa concept:subpartof concept:county:newton 0
+
+concept:creditunion:iowa concept:proxyfor concept:county:newton 0.666667
+---------------------------------
+concept:musicsong:oklahoma concept:subpartof concept:movie:broken_arrow 1
+
+concept:musicsong:oklahoma concept:atlocation concept:movie:broken_arrow 1
+concept:musicsong:oklahoma concept:citylocatedingeopoliticallocation concept:movie:broken_arrow 1
+concept:musicsong:oklahoma concept:citylocatedinstate concept:movie:broken_arrow 1
+concept:musicsong:oklahoma concept:locationlocatedwithinlocation concept:movie:broken_arrow 1
+concept:musicsong:oklahoma concept:mutualproxyfor concept:movie:broken_arrow 1
+concept:musicsong:oklahoma concept:personleadsgeopoliticalorganization concept:movie:broken_arrow 1
+concept:musicsong:oklahoma concept:proxyfor concept:movie:broken_arrow 1.66667
+---------------------------------
+concept:city:abc concept:subpartof concept:skyscraper:wftv 1.25
+
+concept:city:abc concept:agentcompeteswithagent concept:skyscraper:wftv 1
+concept:city:abc concept:proxyfor concept:skyscraper:wftv 0.666667
+---------------------------------
+concept:company:new_york concept:subpartof concept:city:york 0.682539
+
+concept:company:new_york concept:agentactsinlocation concept:city:york 0.141967
+concept:company:new_york concept:agentcollaborateswithagent concept:city:york 0.408968
+concept:company:new_york concept:agentparticipatedinevent concept:city:york 0.5
+concept:company:new_york concept:atdate concept:city:york 1.03872
+concept:company:new_york concept:atlocation concept:city:york 0.5
+concept:company:new_york concept:citylocatedinstate concept:city:york 0.357143
+concept:company:new_york concept:companyeconomicsector concept:city:york 0.75
+concept:company:new_york concept:istallerthan concept:city:york 1
+concept:company:new_york concept:lakeinstate concept:city:york 0.5
+concept:company:new_york concept:locationlocatedwithinlocation concept:city:york 1
+concept:company:new_york concept:mutualproxyfor concept:city:york 2
+concept:company:new_york concept:organizationhiredperson concept:city:york 0.5
+concept:company:new_york concept:proxyfor concept:city:york 1.16667
+---------------------------------
+concept:company:new_york concept:subpartof concept:person:alex_rodriguez 0.182539
+
+concept:company:new_york concept:agentactsinlocation concept:person:alex_rodriguez 0.141967
+concept:company:new_york concept:agentcollaborateswithagent concept:person:alex_rodriguez 1
+concept:company:new_york concept:personbelongstoorganization concept:person:alex_rodriguez 1*
+concept:company:new_york concept:proxyfor concept:person:alex_rodriguez 0.666667
+concept:company:new_york concept:worksfor concept:person:alex_rodriguez 1
+---------------------------------
+concept:stateorprovince:district_of_columbia concept:subpartof concept:city:washington_d_c 3.31746
+
+concept:stateorprovince:district_of_columbia concept:agentactsinlocation concept:city:washington_d_c 1
+concept:stateorprovince:district_of_columbia concept:agentbelongstoorganization concept:city:washington_d_c 1
+concept:stateorprovince:district_of_columbia concept:agentcontrols concept:city:washington_d_c 1.75
+concept:stateorprovince:district_of_columbia concept:atdate concept:city:washington_d_c 0.0161079
+concept:stateorprovince:district_of_columbia concept:atlocation concept:city:washington_d_c 1.75*
+concept:stateorprovince:district_of_columbia concept:cityalsoknownas concept:city:washington_d_c 0.5
+concept:stateorprovince:district_of_columbia concept:citylocatedincountry concept:city:washington_d_c 1
+concept:stateorprovince:district_of_columbia concept:citylocatedingeopoliticallocation concept:city:washington_d_c 1
+concept:stateorprovince:district_of_columbia concept:citylocatedinstate concept:city:washington_d_c 2
+concept:stateorprovince:district_of_columbia concept:lakeinstate concept:city:washington_d_c 0.5
+concept:stateorprovince:district_of_columbia concept:locationlocatedwithinlocation concept:city:washington_d_c 2.5
+concept:stateorprovince:district_of_columbia concept:mutualproxyfor concept:city:washington_d_c 2.5
+concept:stateorprovince:district_of_columbia concept:personleadsgeopoliticalorganization concept:city:washington_d_c 1
+concept:stateorprovince:district_of_columbia concept:politicianrepresentslocation concept:city:washington_d_c 1
+concept:stateorprovince:district_of_columbia concept:proxyfor concept:city:washington_d_c 3.16667*
+---------------------------------
+concept:city:washington_d_c concept:subpartof concept:city:yakima 4
+
+concept:city:washington_d_c concept:agentactsinlocation concept:city:yakima 0.141967
+concept:city:washington_d_c concept:agentbelongstoorganization concept:city:yakima 0.5
+concept:city:washington_d_c concept:agentcontrols concept:city:yakima 1
+concept:city:washington_d_c concept:atdate concept:city:yakima 0.518277
+concept:city:washington_d_c concept:atlocation concept:city:yakima 2.125
+concept:city:washington_d_c concept:cityliesonriver concept:city:yakima 1.25
+concept:city:washington_d_c concept:citylocatedincountry concept:city:yakima 1
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:city:yakima 1
+concept:city:washington_d_c concept:citylocatedinstate concept:city:yakima 2
+concept:city:washington_d_c concept:lakeinstate concept:city:yakima 0.5
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:city:yakima 3.625*
+concept:city:washington_d_c concept:mutualproxyfor concept:city:yakima 1.5
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:city:yakima 1
+concept:city:washington_d_c concept:politicianrepresentslocation concept:city:yakima 1
+concept:city:washington_d_c concept:proxyfor concept:city:yakima 2.16667*
+concept:city:washington_d_c concept:subpartoforganization concept:city:yakima 0.110863
+---------------------------------
+concept:sportsleague:nfl concept:subpartof concept:coach:new_york_giants 1
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:new_york_giants 1*
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:new_york_giants 3.5*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:new_york_giants 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:new_york_giants 1.19955*
+concept:sportsleague:nfl concept:organizationterminatedperson concept:coach:new_york_giants 0.5
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:new_york_giants 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:new_york_giants 0.666667
+concept:sportsleague:nfl concept:worksfor concept:coach:new_york_giants 1
+---------------------------------
+concept:university:ohio concept:subpartof concept:radiostation:newark 1
+
+concept:university:ohio concept:atdate concept:radiostation:newark 0.0161079
+concept:university:ohio concept:atlocation concept:radiostation:newark 1
+concept:university:ohio concept:citylocatedingeopoliticallocation concept:radiostation:newark 1
+concept:university:ohio concept:citylocatedinstate concept:radiostation:newark 1
+concept:university:ohio concept:locationlocatedwithinlocation concept:radiostation:newark 1
+concept:university:ohio concept:mutualproxyfor concept:radiostation:newark 1.5*
+concept:university:ohio concept:personleadsgeopoliticalorganization concept:radiostation:newark 1
+concept:university:ohio concept:proxyfor concept:radiostation:newark 1.66667
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:politicsissue:requirements 0
+
+concept:weatherphenomenon:air concept:proxyfor concept:politicsissue:requirements 0.666667
+---------------------------------
+concept:sport:heating_and_air concept:subpartof concept:city:denver 0
+
+concept:sport:heating_and_air concept:agentcontrols concept:city:denver 0.25
+concept:sport:heating_and_air concept:proxyfor concept:city:denver 1.16667
+---------------------------------
+concept:sportsleague:nfl concept:subpartof concept:coach:baltimore_ravens 1
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:baltimore_ravens 1*
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:baltimore_ravens 3.5*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:baltimore_ravens 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:baltimore_ravens 1.19955*
+concept:sportsleague:nfl concept:organizationterminatedperson concept:coach:baltimore_ravens 0.5
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:baltimore_ravens 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:baltimore_ravens 0.666667
+concept:sportsleague:nfl concept:worksfor concept:coach:baltimore_ravens 1
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:city:design 1
+
+concept:weatherphenomenon:water concept:agentcontrols concept:city:design 0.25
+concept:weatherphenomenon:water concept:proxyfor concept:city:design 0.666667
+---------------------------------
+concept:sportsteam:broncos concept:subpartof concept:coach:mike_shanahan 0
+
+concept:sportsteam:broncos concept:coachesteam concept:coach:mike_shanahan 1
+concept:sportsteam:broncos concept:personbelongstoorganization concept:coach:mike_shanahan 1*
+concept:sportsteam:broncos concept:personhasresidenceingeopoliticallocation concept:coach:mike_shanahan 1
+concept:sportsteam:broncos concept:personleadsgeopoliticalorganization concept:coach:mike_shanahan 1
+concept:sportsteam:broncos concept:personleadsorganization concept:coach:mike_shanahan 1
+concept:sportsteam:broncos concept:proxyfor concept:coach:mike_shanahan 0.666667
+concept:sportsteam:broncos concept:worksfor concept:coach:mike_shanahan 1
+---------------------------------
+concept:company:new_york concept:subpartof concept:county:utica 2.18254
+
+concept:company:new_york concept:agentactsinlocation concept:county:utica 0.141967
+concept:company:new_york concept:agentcollaborateswithagent concept:county:utica 0.408968
+concept:company:new_york concept:agentcontrols concept:county:utica 1
+concept:company:new_york concept:atdate concept:county:utica 0.518277
+concept:company:new_york concept:atlocation concept:county:utica 2.125
+concept:company:new_york concept:citylocatedincountry concept:county:utica 1
+concept:company:new_york concept:citylocatedingeopoliticallocation concept:county:utica 1
+concept:company:new_york concept:citylocatedinstate concept:county:utica 2
+concept:company:new_york concept:lakeinstate concept:county:utica 0.5
+concept:company:new_york concept:locationlocatedwithinlocation concept:county:utica 2
+concept:company:new_york concept:mutualproxyfor concept:county:utica 1.5
+concept:company:new_york concept:personleadsgeopoliticalorganization concept:county:utica 1
+concept:company:new_york concept:politicianrepresentslocation concept:county:utica 1
+concept:company:new_york concept:proxyfor concept:county:utica 2.16667*
+---------------------------------
+concept:university:ohio concept:subpartof concept:county:columbus 2
+
+concept:university:ohio concept:agentcontrols concept:county:columbus 1
+concept:university:ohio concept:atlocation concept:county:columbus 1.75
+concept:university:ohio concept:citylocatedincountry concept:county:columbus 1
+concept:university:ohio concept:citylocatedingeopoliticallocation concept:county:columbus 1
+concept:university:ohio concept:citylocatedinstate concept:county:columbus 2
+concept:university:ohio concept:lakeinstate concept:county:columbus 1
+concept:university:ohio concept:locationlocatedwithinlocation concept:county:columbus 2
+concept:university:ohio concept:mutualproxyfor concept:county:columbus 1
+concept:university:ohio concept:personleadsgeopoliticalorganization concept:county:columbus 1
+concept:university:ohio concept:politicianrepresentslocation concept:county:columbus 1
+concept:university:ohio concept:proxyfor concept:county:columbus 1.66667*
+---------------------------------
+concept:musicsong:louisiana concept:subpartof concept:stateorprovince:metairie 1
+
+concept:musicsong:louisiana concept:agentcontrols concept:stateorprovince:metairie 1
+concept:musicsong:louisiana concept:atlocation concept:stateorprovince:metairie 0.75
+concept:musicsong:louisiana concept:citylocatedincountry concept:stateorprovince:metairie 1
+concept:musicsong:louisiana concept:citylocatedinstate concept:stateorprovince:metairie 1
+concept:musicsong:louisiana concept:lakeinstate concept:stateorprovince:metairie 0.5
+concept:musicsong:louisiana concept:locationlocatedwithinlocation concept:stateorprovince:metairie 1
+concept:musicsong:louisiana concept:politicianrepresentslocation concept:stateorprovince:metairie 1
+concept:musicsong:louisiana concept:proxyfor concept:stateorprovince:metairie 0.666667*
+---------------------------------
+concept:sportsteamposition:louis_rams concept:subpartof concept:coach:scott_linehan 0
+
+concept:sportsteamposition:louis_rams concept:proxyfor concept:coach:scott_linehan 0.666667
+---------------------------------
+concept:retailstore:apple_computer_inc_ concept:subpartof concept:politician:jobs 1
+
+concept:retailstore:apple_computer_inc_ concept:agentcollaborateswithagent concept:politician:jobs 1
+concept:retailstore:apple_computer_inc_ concept:agentcontrols concept:politician:jobs 1*
+concept:retailstore:apple_computer_inc_ concept:atdate concept:politician:jobs 0.0161079
+concept:retailstore:apple_computer_inc_ concept:atlocation concept:politician:jobs 0.75
+concept:retailstore:apple_computer_inc_ concept:citylocatedincountry concept:politician:jobs 1
+concept:retailstore:apple_computer_inc_ concept:citylocatedinstate concept:politician:jobs 1
+concept:retailstore:apple_computer_inc_ concept:locationlocatedwithinlocation concept:politician:jobs 1
+concept:retailstore:apple_computer_inc_ concept:mutualproxyfor concept:politician:jobs 0.5
+concept:retailstore:apple_computer_inc_ concept:politicianrepresentslocation concept:politician:jobs 1
+concept:retailstore:apple_computer_inc_ concept:proxyfor concept:politician:jobs 0.666667*
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:website:pages 1
+
+concept:weatherphenomenon:air concept:agentcontrols concept:website:pages 0.25
+concept:weatherphenomenon:air concept:proxyfor concept:website:pages 0.666667
+---------------------------------
+concept:beach:massachusetts concept:subpartof concept:person:lawrence001 0.317461
+
+concept:beach:massachusetts concept:atdate concept:person:lawrence001 0.0161079
+concept:beach:massachusetts concept:lakeinstate concept:person:lawrence001 0.5
+concept:beach:massachusetts concept:mutualproxyfor concept:person:lawrence001 0.5*
+concept:beach:massachusetts concept:proxyfor concept:person:lawrence001 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:sport:initiatives 1
+
+concept:weatherphenomenon:water concept:agentcontrols concept:sport:initiatives 0.25
+concept:weatherphenomenon:water concept:proxyfor concept:sport:initiatives 0.666667
+---------------------------------
+concept:city:washington_d_c concept:subpartof concept:city:richland 4
+
+concept:city:washington_d_c concept:agentactsinlocation concept:city:richland 1.14197
+concept:city:washington_d_c concept:agentbelongstoorganization concept:city:richland 1.5
+concept:city:washington_d_c concept:agentcontrols concept:city:richland 1
+concept:city:washington_d_c concept:atdate concept:city:richland 1.01828
+concept:city:washington_d_c concept:atlocation concept:city:richland 3*
+concept:city:washington_d_c concept:cityliesonriver concept:city:richland 0.95
+concept:city:washington_d_c concept:citylocatedincountry concept:city:richland 1
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:city:richland 1
+concept:city:washington_d_c concept:citylocatedinstate concept:city:richland 2
+concept:city:washington_d_c concept:lakeinstate concept:city:richland 0.5
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:city:richland 2
+concept:city:washington_d_c concept:mutualproxyfor concept:city:richland 1.5
+concept:city:washington_d_c concept:parkincity concept:city:richland 1
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:city:richland 1
+concept:city:washington_d_c concept:politicianrepresentslocation concept:city:richland 1
+concept:city:washington_d_c concept:proxyfor concept:city:richland 3.21667*
+concept:city:washington_d_c concept:stadiumlocatedincity concept:city:richland 1
+concept:city:washington_d_c concept:subpartoforganization concept:city:richland 0.110863
+---------------------------------
+concept:city:nj concept:subpartof concept:highway:trenton 3.18254
+
+concept:city:nj concept:agentcontrols concept:highway:trenton 1
+concept:city:nj concept:atlocation concept:highway:trenton 1.75
+concept:city:nj concept:citylocatedincountry concept:highway:trenton 1
+concept:city:nj concept:citylocatedingeopoliticallocation concept:highway:trenton 1
+concept:city:nj concept:citylocatedinstate concept:highway:trenton 2
+concept:city:nj concept:lakeinstate concept:highway:trenton 0.5
+concept:city:nj concept:locationlocatedwithinlocation concept:highway:trenton 2.625*
+concept:city:nj concept:mutualproxyfor concept:highway:trenton 1.5
+concept:city:nj concept:personleadsgeopoliticalorganization concept:highway:trenton 1
+concept:city:nj concept:politicianrepresentslocation concept:highway:trenton 1
+concept:city:nj concept:proxyfor concept:highway:trenton 2.16667*
+---------------------------------
+concept:radiostation:new_jersey concept:subpartof concept:televisionstation:jersey_city 2
+
+concept:radiostation:new_jersey concept:agentcontrols concept:televisionstation:jersey_city 1
+concept:radiostation:new_jersey concept:atdate concept:televisionstation:jersey_city 0.0161079
+concept:radiostation:new_jersey concept:atlocation concept:televisionstation:jersey_city 1.75
+concept:radiostation:new_jersey concept:citylocatedincountry concept:televisionstation:jersey_city 1
+concept:radiostation:new_jersey concept:citylocatedingeopoliticallocation concept:televisionstation:jersey_city 1
+concept:radiostation:new_jersey concept:citylocatedinstate concept:televisionstation:jersey_city 2
+concept:radiostation:new_jersey concept:companyeconomicsector concept:televisionstation:jersey_city 0.5
+concept:radiostation:new_jersey concept:lakeinstate concept:televisionstation:jersey_city 0.5
+concept:radiostation:new_jersey concept:locationlocatedwithinlocation concept:televisionstation:jersey_city 2
+concept:radiostation:new_jersey concept:mutualproxyfor concept:televisionstation:jersey_city 1.5
+concept:radiostation:new_jersey concept:personleadsgeopoliticalorganization concept:televisionstation:jersey_city 1
+concept:radiostation:new_jersey concept:politicianrepresentslocation concept:televisionstation:jersey_city 1
+concept:radiostation:new_jersey concept:proxyfor concept:televisionstation:jersey_city 1.66667*
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:room:development 0
+
+concept:weatherphenomenon:air concept:proxyfor concept:room:development 0.666667
+---------------------------------
+concept:sportsteam:ravens concept:subpartof concept:athlete:joe_flacco 0
+
+concept:sportsteam:ravens concept:agentcollaborateswithagent concept:athlete:joe_flacco 1
+concept:sportsteam:ravens concept:personbelongstoorganization concept:athlete:joe_flacco 1*
+concept:sportsteam:ravens concept:proxyfor concept:athlete:joe_flacco 0.666667
+concept:sportsteam:ravens concept:worksfor concept:athlete:joe_flacco 1
+---------------------------------
+concept:stateorprovince:auburn concept:subpartof concept:coach:tommy_tuberville 0.5
+
+concept:stateorprovince:auburn concept:agentcollaborateswithagent concept:coach:tommy_tuberville 1
+concept:stateorprovince:auburn concept:proxyfor concept:coach:tommy_tuberville 0.666667
+---------------------------------
+concept:sportsleague:nfl concept:subpartof concept:coach:new_orleans_saints 1
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:new_orleans_saints 1*
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:new_orleans_saints 2*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:new_orleans_saints 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:new_orleans_saints 1.19955
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:new_orleans_saints 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:new_orleans_saints 0.666667
+concept:sportsleague:nfl concept:worksfor concept:coach:new_orleans_saints 1
+---------------------------------
+concept:company:north_carolina concept:subpartof concept:person:raleigh 1.5
+
+concept:company:north_carolina concept:atdate concept:person:raleigh 0.538724
+concept:company:north_carolina concept:atlocation concept:person:raleigh 1
+concept:company:north_carolina concept:citylocatedingeopoliticallocation concept:person:raleigh 1
+concept:company:north_carolina concept:citylocatedinstate concept:person:raleigh 1
+concept:company:north_carolina concept:lakeinstate concept:person:raleigh 0.5
+concept:company:north_carolina concept:locationlocatedwithinlocation concept:person:raleigh 1
+concept:company:north_carolina concept:mutualproxyfor concept:person:raleigh 1.5*
+concept:company:north_carolina concept:personleadsgeopoliticalorganization concept:person:raleigh 1
+concept:company:north_carolina concept:proxyfor concept:person:raleigh 1.66667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:bodypart:affected_areas 0
+
+concept:weatherphenomenon:water concept:proxyfor concept:bodypart:affected_areas 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:mlalgorithm:solutions 0
+
+concept:weatherphenomenon:water concept:proxyfor concept:mlalgorithm:solutions 0.666667
+---------------------------------
+concept:female:yankees concept:subpartof concept:island:rodriguez 1
+
+concept:female:yankees concept:agentcompeteswithagent concept:island:rodriguez 1
+concept:female:yankees concept:proxyfor concept:island:rodriguez 0.666667
+---------------------------------
+concept:stadiumoreventvenue:acc concept:subpartof concept:sportsteam:wake_forest 0
+
+concept:stadiumoreventvenue:acc concept:proxyfor concept:sportsteam:wake_forest 0.666667
+---------------------------------
+concept:sportsleague:nfl concept:subpartof concept:coach:carolina_panthers 1
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:carolina_panthers 1
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:carolina_panthers 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:carolina_panthers 0.666667
+---------------------------------
+concept:company:north_carolina concept:subpartof concept:room:cary 1.5
+
+concept:company:north_carolina concept:atdate concept:room:cary 0.020447
+concept:company:north_carolina concept:atlocation concept:room:cary 1
+concept:company:north_carolina concept:citylocatedingeopoliticallocation concept:room:cary 1
+concept:company:north_carolina concept:citylocatedinstate concept:room:cary 1
+concept:company:north_carolina concept:locationlocatedwithinlocation concept:room:cary 1
+concept:company:north_carolina concept:mutualproxyfor concept:room:cary 1.5*
+concept:company:north_carolina concept:personleadsgeopoliticalorganization concept:room:cary 1
+concept:company:north_carolina concept:proxyfor concept:room:cary 1.66667
+---------------------------------
+concept:university:ohio concept:subpartof concept:coach:cincinnati 1
+
+concept:university:ohio concept:atdate concept:coach:cincinnati 0.0161079
+concept:university:ohio concept:atlocation concept:coach:cincinnati 1
+concept:university:ohio concept:citylocatedingeopoliticallocation concept:coach:cincinnati 1
+concept:university:ohio concept:citylocatedinstate concept:coach:cincinnati 1
+concept:university:ohio concept:locationlocatedwithinlocation concept:coach:cincinnati 1
+concept:university:ohio concept:mutualproxyfor concept:coach:cincinnati 1.5*
+concept:university:ohio concept:personleadsgeopoliticalorganization concept:coach:cincinnati 1
+concept:university:ohio concept:proxyfor concept:coach:cincinnati 1.66667
+---------------------------------
+concept:sportsleague:nfl concept:subpartof concept:coach:cleveland_browns 1
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:cleveland_browns 1*
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:cleveland_browns 2*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:cleveland_browns 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:cleveland_browns 1.19955
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:cleveland_browns 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:cleveland_browns 0.666667
+concept:sportsleague:nfl concept:worksfor concept:coach:cleveland_browns 1
+---------------------------------
+concept:nongovorganization:u_s_ concept:subpartof concept:city:washington_d_c 1.18254
+
+concept:nongovorganization:u_s_ concept:agentactsinlocation concept:city:washington_d_c 0.141967
+concept:nongovorganization:u_s_ concept:agentcollaborateswithagent concept:city:washington_d_c 1.5
+concept:nongovorganization:u_s_ concept:agentcontrols concept:city:washington_d_c 2.75
+concept:nongovorganization:u_s_ concept:agentparticipatedinevent concept:city:washington_d_c 2
+concept:nongovorganization:u_s_ concept:atdate concept:city:washington_d_c 2.28872
+concept:nongovorganization:u_s_ concept:atlocation concept:city:washington_d_c 0.75
+concept:nongovorganization:u_s_ concept:citycapitalofcountry concept:city:washington_d_c 1
+concept:nongovorganization:u_s_ concept:citylocatedincountry concept:city:washington_d_c 1
+concept:nongovorganization:u_s_ concept:citylocatedinstate concept:city:washington_d_c 1
+concept:nongovorganization:u_s_ concept:istallerthan concept:city:washington_d_c 1
+concept:nongovorganization:u_s_ concept:lakeinstate concept:city:washington_d_c 0.5
+concept:nongovorganization:u_s_ concept:locationlocatedwithinlocation concept:city:washington_d_c 1.5
+concept:nongovorganization:u_s_ concept:mutualproxyfor concept:city:washington_d_c 2
+concept:nongovorganization:u_s_ concept:organizationhiredperson concept:city:washington_d_c 1.25
+concept:nongovorganization:u_s_ concept:personleadsgeopoliticalorganization concept:city:washington_d_c 1
+concept:nongovorganization:u_s_ concept:politicianrepresentslocation concept:city:washington_d_c 1
+concept:nongovorganization:u_s_ concept:proxyfor concept:city:washington_d_c 2.88333*
+concept:nongovorganization:u_s_ concept:sportsgameteam concept:city:washington_d_c 0.5
+---------------------------------
+concept:creditunion:kansas concept:subpartof concept:person:lawrence001 2
+
+concept:creditunion:kansas concept:agentbelongstoorganization concept:person:lawrence001 0.5
+concept:creditunion:kansas concept:agentcontrols concept:person:lawrence001 1
+concept:creditunion:kansas concept:atdate concept:person:lawrence001 0.0161079
+concept:creditunion:kansas concept:atlocation concept:person:lawrence001 1.75
+concept:creditunion:kansas concept:citylocatedincountry concept:person:lawrence001 1
+concept:creditunion:kansas concept:citylocatedingeopoliticallocation concept:person:lawrence001 1
+concept:creditunion:kansas concept:citylocatedinstate concept:person:lawrence001 2
+concept:creditunion:kansas concept:companyeconomicsector concept:person:lawrence001 0.5
+concept:creditunion:kansas concept:competeswith concept:person:lawrence001 0.25
+concept:creditunion:kansas concept:lakeinstate concept:person:lawrence001 0.5
+concept:creditunion:kansas concept:locationlocatedwithinlocation concept:person:lawrence001 2
+concept:creditunion:kansas concept:mutualproxyfor concept:person:lawrence001 1.5
+concept:creditunion:kansas concept:personleadsgeopoliticalorganization concept:person:lawrence001 1
+concept:creditunion:kansas concept:politicianrepresentslocation concept:person:lawrence001 1
+concept:creditunion:kansas concept:proxyfor concept:person:lawrence001 1.66667*
+concept:creditunion:kansas concept:subpartoforganization concept:person:lawrence001 0.220025
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:academicfield:businesses 1
+
+concept:weatherphenomenon:water concept:agentcontrols concept:academicfield:businesses 0.25
+concept:weatherphenomenon:water concept:proxyfor concept:academicfield:businesses 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:politicsissue:laws 1
+
+concept:weatherphenomenon:water concept:agentcontrols concept:politicsissue:laws 0.25
+concept:weatherphenomenon:water concept:proxyfor concept:politicsissue:laws 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:buildingfeature:systems 0
+
+concept:weatherphenomenon:water concept:proxyfor concept:buildingfeature:systems 0.666667
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:profession:professionals 0
+
+concept:weatherphenomenon:air concept:proxyfor concept:profession:professionals 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:academicfield:certification 1
+
+concept:weatherphenomenon:water concept:agentcontrols concept:academicfield:certification 0.25
+concept:weatherphenomenon:water concept:proxyfor concept:academicfield:certification 0.666667
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:museum:facilities 0
+
+concept:weatherphenomenon:air concept:proxyfor concept:museum:facilities 0.666667
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:academicfield:businesses 1
+
+concept:weatherphenomenon:air concept:agentcontrols concept:academicfield:businesses 0.25
+concept:weatherphenomenon:air concept:proxyfor concept:academicfield:businesses 0.666667
+---------------------------------
+concept:sportsleague:new concept:subpartof concept:personus:joe_dimaggio 0
+
+concept:sportsleague:new concept:proxyfor concept:personus:joe_dimaggio 0.666667
+---------------------------------
+concept:company:new_york concept:subpartof concept:county:brooklyn 0.682539
+
+concept:company:new_york concept:agentactsinlocation concept:county:brooklyn 0.141967
+concept:company:new_york concept:agentparticipatedinevent concept:county:brooklyn 1
+concept:company:new_york concept:atdate concept:county:brooklyn 0.020447
+concept:company:new_york concept:atlocation concept:county:brooklyn 0.125
+concept:company:new_york concept:companyeconomicsector concept:county:brooklyn 0.5
+concept:company:new_york concept:mutualproxyfor concept:county:brooklyn 0.5*
+concept:company:new_york concept:proxyfor concept:county:brooklyn 0.666667
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:geometricshape:activities 1
+
+concept:weatherphenomenon:air concept:agentcontrols concept:geometricshape:activities 0.25
+concept:weatherphenomenon:air concept:proxyfor concept:geometricshape:activities 0.666667
+---------------------------------
+concept:buildingmaterial:head concept:subpartof concept:visualartist:meyer 0
+
+concept:buildingmaterial:head concept:proxyfor concept:visualartist:meyer 0.666667
+---------------------------------
+concept:beach:massachusetts concept:subpartof concept:city:pittsfield 1.31746
+
+concept:beach:massachusetts concept:atdate concept:city:pittsfield 0.0161079
+concept:beach:massachusetts concept:atlocation concept:city:pittsfield 1
+concept:beach:massachusetts concept:citylocatedingeopoliticallocation concept:city:pittsfield 1
+concept:beach:massachusetts concept:citylocatedinstate concept:city:pittsfield 1
+concept:beach:massachusetts concept:locationlocatedwithinlocation concept:city:pittsfield 1
+concept:beach:massachusetts concept:mutualproxyfor concept:city:pittsfield 1.5*
+concept:beach:massachusetts concept:personleadsgeopoliticalorganization concept:city:pittsfield 1
+concept:beach:massachusetts concept:proxyfor concept:city:pittsfield 1.66667
+---------------------------------
+concept:company:new_york concept:subpartof concept:winery:huntington 0.682539
+
+concept:company:new_york concept:agentactsinlocation concept:winery:huntington 0.141967
+concept:company:new_york concept:agentparticipatedinevent concept:winery:huntington 0.5
+concept:company:new_york concept:atdate concept:winery:huntington 0.020447
+concept:company:new_york concept:atlocation concept:winery:huntington 0.125
+concept:company:new_york concept:companyeconomicsector concept:winery:huntington 0.5
+concept:company:new_york concept:mutualproxyfor concept:winery:huntington 0.5
+concept:company:new_york concept:proxyfor concept:winery:huntington 1.16667
+---------------------------------
+concept:building:ohio_state concept:subpartof concept:personmexico:woody_hayes 0
+
+concept:building:ohio_state concept:proxyfor concept:personmexico:woody_hayes 0.666667
+---------------------------------
+concept:creditunion:kansas concept:subpartof concept:museum:wichita 2
+
+concept:creditunion:kansas concept:agentbelongstoorganization concept:museum:wichita 0.5
+concept:creditunion:kansas concept:agentcontrols concept:museum:wichita 1
+concept:creditunion:kansas concept:atlocation concept:museum:wichita 1.75
+concept:creditunion:kansas concept:citylocatedincountry concept:museum:wichita 1
+concept:creditunion:kansas concept:citylocatedingeopoliticallocation concept:museum:wichita 1
+concept:creditunion:kansas concept:citylocatedinstate concept:museum:wichita 2
+concept:creditunion:kansas concept:competeswith concept:museum:wichita 0.25
+concept:creditunion:kansas concept:lakeinstate concept:museum:wichita 0.5
+concept:creditunion:kansas concept:locationlocatedwithinlocation concept:museum:wichita 2
+concept:creditunion:kansas concept:mutualproxyfor concept:museum:wichita 1
+concept:creditunion:kansas concept:personleadsgeopoliticalorganization concept:museum:wichita 1
+concept:creditunion:kansas concept:politicianrepresentslocation concept:museum:wichita 1
+concept:creditunion:kansas concept:proxyfor concept:museum:wichita 1.66667*
+concept:creditunion:kansas concept:subpartoforganization concept:museum:wichita 0.110863
+---------------------------------
+concept:company:new_york concept:subpartof concept:musicinstrument:buffalo 1.68254
+
+concept:company:new_york concept:agentactsinlocation concept:musicinstrument:buffalo 0.141967
+concept:company:new_york concept:agentparticipatedinevent concept:musicinstrument:buffalo 0.5
+concept:company:new_york concept:atdate concept:musicinstrument:buffalo 0.020447
+concept:company:new_york concept:atlocation concept:musicinstrument:buffalo 1.125
+concept:company:new_york concept:citylocatedingeopoliticallocation concept:musicinstrument:buffalo 1
+concept:company:new_york concept:citylocatedinstate concept:musicinstrument:buffalo 1
+concept:company:new_york concept:companyeconomicsector concept:musicinstrument:buffalo 0.5
+concept:company:new_york concept:locationlocatedwithinlocation concept:musicinstrument:buffalo 1
+concept:company:new_york concept:mutualproxyfor concept:musicinstrument:buffalo 1.5*
+concept:company:new_york concept:personleadsgeopoliticalorganization concept:musicinstrument:buffalo 1
+concept:company:new_york concept:proxyfor concept:musicinstrument:buffalo 2.16667
+---------------------------------
+concept:sportsleague:nhl concept:subpartof concept:city:sabres 0
+
+concept:sportsleague:nhl concept:proxyfor concept:city:sabres 0.666667
+---------------------------------
+concept:coach:new_york_jets concept:subpartof concept:coach:eric_mangini 1.25
+
+concept:coach:new_york_jets concept:agentcompeteswithagent concept:coach:eric_mangini 1
+concept:coach:new_york_jets concept:proxyfor concept:coach:eric_mangini 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:buildingfeature:gear 0
+
+concept:weatherphenomenon:water concept:proxyfor concept:buildingfeature:gear 0.666667
+---------------------------------
+concept:sportsleague:mlb concept:subpartof concept:athlete:rockies 1
+
+concept:sportsleague:mlb concept:agentcompeteswithagent concept:athlete:rockies 1
+concept:sportsleague:mlb concept:agentcontrols concept:athlete:rockies 0.199549
+concept:sportsleague:mlb concept:proxyfor concept:athlete:rockies 0.666667
+---------------------------------
+concept:musicsong:louisiana concept:subpartof concept:bedroomitem:new 0
+
+concept:musicsong:louisiana concept:proxyfor concept:bedroomitem:new 0.666667
+---------------------------------
+concept:personeurope:disney concept:subpartof concept:city:abc 0
+
+concept:personeurope:disney concept:proxyfor concept:city:abc 0.666667
+---------------------------------
+concept:university:national concept:subpartof concept:city:washington_d_c 0
+
+concept:university:national concept:agentactsinlocation concept:city:washington_d_c 0.141967
+concept:university:national concept:agentcontrols concept:city:washington_d_c 0.25
+concept:university:national concept:atlocation concept:city:washington_d_c 1
+concept:university:national concept:citylocatedinstate concept:city:washington_d_c 0.357143
+concept:university:national concept:locationlocatedwithinlocation concept:city:washington_d_c 0.5
+concept:university:national concept:proxyfor concept:city:washington_d_c 1.16667
+---------------------------------
+concept:river:arts concept:subpartof concept:programminglanguage:the_new 3
+
+concept:river:arts concept:agentactsinlocation concept:programminglanguage:the_new 1
+concept:river:arts concept:agentbelongstoorganization concept:programminglanguage:the_new 1
+concept:river:arts concept:atdate concept:programminglanguage:the_new 0.5
+concept:river:arts concept:atlocation concept:programminglanguage:the_new 1.5*
+concept:river:arts concept:citylocatedingeopoliticallocation concept:programminglanguage:the_new 1
+concept:river:arts concept:citylocatedinstate concept:programminglanguage:the_new 1
+concept:river:arts concept:locationlocatedwithinlocation concept:programminglanguage:the_new 1
+concept:river:arts concept:mutualproxyfor concept:programminglanguage:the_new 1
+concept:river:arts concept:personleadsgeopoliticalorganization concept:programminglanguage:the_new 1
+concept:river:arts concept:proxyfor concept:programminglanguage:the_new 3.21667
+---------------------------------
+concept:musicsong:oklahoma concept:subpartof concept:stateorprovince:ardmore 1
+
+concept:musicsong:oklahoma concept:agentcontrols concept:stateorprovince:ardmore 1
+concept:musicsong:oklahoma concept:atlocation concept:stateorprovince:ardmore 0.75
+concept:musicsong:oklahoma concept:citylocatedincountry concept:stateorprovince:ardmore 1
+concept:musicsong:oklahoma concept:citylocatedinstate concept:stateorprovince:ardmore 1
+concept:musicsong:oklahoma concept:lakeinstate concept:stateorprovince:ardmore 0.5
+concept:musicsong:oklahoma concept:locationlocatedwithinlocation concept:stateorprovince:ardmore 1
+concept:musicsong:oklahoma concept:politicianrepresentslocation concept:stateorprovince:ardmore 1
+concept:musicsong:oklahoma concept:proxyfor concept:stateorprovince:ardmore 0.666667*
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartof concept:coach:cincinnati 0
+
+concept:sportsteam:ncaa_mens_midwest_regionals concept:proxyfor concept:coach:cincinnati 0.666667
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:city:design 1
+
+concept:weatherphenomenon:air concept:agentcontrols concept:city:design 0.25
+concept:weatherphenomenon:air concept:proxyfor concept:city:design 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:politicsissue:requirements 0
+
+concept:weatherphenomenon:water concept:proxyfor concept:politicsissue:requirements 0.666667
+---------------------------------
+concept:medicalprocedure:d_c concept:subpartof concept:sportsequipment:new 0
+
+concept:medicalprocedure:d_c concept:proxyfor concept:sportsequipment:new 0.666667
+---------------------------------
+concept:traditionalgame:vegas concept:subpartof concept:company:new_york 0
+
+concept:traditionalgame:vegas concept:agentcontrols concept:company:new_york 0.25
+concept:traditionalgame:vegas concept:proxyfor concept:company:new_york 0.666667
+---------------------------------
+concept:bodypart:law concept:subpartof concept:programminglanguage:state 0
+
+concept:bodypart:law concept:agentcontrols concept:programminglanguage:state 0.25
+concept:bodypart:law concept:proxyfor concept:programminglanguage:state 0.666667
+---------------------------------
+concept:academicfield:federal concept:subpartof concept:city:york 0
+
+concept:academicfield:federal concept:proxyfor concept:city:york 1.16667
+---------------------------------
+concept:sportsleague:mlb concept:subpartof concept:personmexico:colorado_rockies 0
+
+concept:sportsleague:mlb concept:agentbelongstoorganization concept:personmexico:colorado_rockies 1*
+concept:sportsleague:mlb concept:agentcollaborateswithagent concept:personmexico:colorado_rockies 1
+concept:sportsleague:mlb concept:proxyfor concept:personmexico:colorado_rockies 0.666667
+---------------------------------
+concept:aquarium:u__s_ concept:subpartof concept:city:washington_d_c 2
+
+concept:aquarium:u__s_ concept:agentcontrols concept:city:washington_d_c 1.75
+concept:aquarium:u__s_ concept:atdate concept:city:washington_d_c 0.0161079
+concept:aquarium:u__s_ concept:atlocation concept:city:washington_d_c 0.875
+concept:aquarium:u__s_ concept:citylocatedincountry concept:city:washington_d_c 1
+concept:aquarium:u__s_ concept:citylocatedinstate concept:city:washington_d_c 1
+concept:aquarium:u__s_ concept:locationlocatedwithinlocation concept:city:washington_d_c 1.625*
+concept:aquarium:u__s_ concept:mutualproxyfor concept:city:washington_d_c 0.5
+concept:aquarium:u__s_ concept:politicianrepresentslocation concept:city:washington_d_c 1
+concept:aquarium:u__s_ concept:proxyfor concept:city:washington_d_c 1.16667*
+---------------------------------
+concept:company:new_york concept:subpartof concept:personus:joe_dimaggio 0.182539
+
+concept:company:new_york concept:agentactsinlocation concept:personus:joe_dimaggio 0.141967
+concept:company:new_york concept:agentcollaborateswithagent concept:personus:joe_dimaggio 1
+concept:company:new_york concept:personbelongstoorganization concept:personus:joe_dimaggio 1*
+concept:company:new_york concept:proxyfor concept:personus:joe_dimaggio 0.666667
+concept:company:new_york concept:worksfor concept:personus:joe_dimaggio 1
+---------------------------------
+concept:musicartist:delaware concept:subpartof concept:writer:dover 1
+
+concept:musicartist:delaware concept:atdate concept:writer:dover 0.522616
+concept:musicartist:delaware concept:atlocation concept:writer:dover 1
+concept:musicartist:delaware concept:citylocatedingeopoliticallocation concept:writer:dover 1
+concept:musicartist:delaware concept:citylocatedinstate concept:writer:dover 1
+concept:musicartist:delaware concept:lakeinstate concept:writer:dover 0.5
+concept:musicartist:delaware concept:locationlocatedwithinlocation concept:writer:dover 1
+concept:musicartist:delaware concept:mutualproxyfor concept:writer:dover 1*
+concept:musicartist:delaware concept:personleadsgeopoliticalorganization concept:writer:dover 1
+concept:musicartist:delaware concept:proxyfor concept:writer:dover 1.66667
+---------------------------------
+concept:professionalorganization:apple_inc concept:subpartof concept:politician:jobs 1
+
+concept:professionalorganization:apple_inc concept:agentcontrols concept:politician:jobs 1
+concept:professionalorganization:apple_inc concept:atdate concept:politician:jobs 0.0161079
+concept:professionalorganization:apple_inc concept:atlocation concept:politician:jobs 0.75
+concept:professionalorganization:apple_inc concept:citylocatedincountry concept:politician:jobs 1
+concept:professionalorganization:apple_inc concept:citylocatedinstate concept:politician:jobs 1
+concept:professionalorganization:apple_inc concept:locationlocatedwithinlocation concept:politician:jobs 1
+concept:professionalorganization:apple_inc concept:mutualproxyfor concept:politician:jobs 0.5
+concept:professionalorganization:apple_inc concept:politicianrepresentslocation concept:politician:jobs 1
+concept:professionalorganization:apple_inc concept:proxyfor concept:politician:jobs 0.666667*
+---------------------------------
+concept:company:west_virginia concept:subpartof concept:company:charleston 2
+
+concept:company:west_virginia concept:agentbelongstoorganization concept:company:charleston 0.5
+concept:company:west_virginia concept:agentcontrols concept:company:charleston 1
+concept:company:west_virginia concept:atlocation concept:company:charleston 1.75
+concept:company:west_virginia concept:citylocatedincountry concept:company:charleston 1
+concept:company:west_virginia concept:citylocatedingeopoliticallocation concept:company:charleston 1
+concept:company:west_virginia concept:citylocatedinstate concept:company:charleston 2
+concept:company:west_virginia concept:competeswith concept:company:charleston 0.25
+concept:company:west_virginia concept:lakeinstate concept:company:charleston 0.5
+concept:company:west_virginia concept:locationlocatedwithinlocation concept:company:charleston 2
+concept:company:west_virginia concept:mutualproxyfor concept:company:charleston 1
+concept:company:west_virginia concept:personleadsgeopoliticalorganization concept:company:charleston 1
+concept:company:west_virginia concept:politicianrepresentslocation concept:company:charleston 1
+concept:company:west_virginia concept:proxyfor concept:company:charleston 1.66667*
+concept:company:west_virginia concept:subpartoforganization concept:company:charleston 0.110863
+---------------------------------
+concept:sportsleague:nfl concept:subpartof concept:coach:philadelphia_eagles 1
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:philadelphia_eagles 2*
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:philadelphia_eagles 2*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:philadelphia_eagles 1.11906
+concept:sportsleague:nfl concept:agentcontrols concept:coach:philadelphia_eagles 1.19955
+concept:sportsleague:nfl concept:organizationhiredperson concept:coach:philadelphia_eagles 0.25
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:philadelphia_eagles 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:philadelphia_eagles 0.666667
+concept:sportsleague:nfl concept:worksfor concept:coach:philadelphia_eagles 1
+---------------------------------
+concept:politicsissue:energy concept:subpartof concept:room:development 0
+
+concept:politicsissue:energy concept:proxyfor concept:room:development 0.666667
+---------------------------------
+concept:university:ohio concept:subpartof concept:radiostation:cleveland 2
+
+concept:university:ohio concept:agentcontrols concept:radiostation:cleveland 1
+concept:university:ohio concept:atlocation concept:radiostation:cleveland 1.75
+concept:university:ohio concept:citylocatedincountry concept:radiostation:cleveland 1
+concept:university:ohio concept:citylocatedingeopoliticallocation concept:radiostation:cleveland 1
+concept:university:ohio concept:citylocatedinstate concept:radiostation:cleveland 2
+concept:university:ohio concept:lakeinstate concept:radiostation:cleveland 0.5
+concept:university:ohio concept:locationlocatedwithinlocation concept:radiostation:cleveland 2
+concept:university:ohio concept:mutualproxyfor concept:radiostation:cleveland 1
+concept:university:ohio concept:organizationhiredperson concept:radiostation:cleveland 0.5
+concept:university:ohio concept:personleadsgeopoliticalorganization concept:radiostation:cleveland 1
+concept:university:ohio concept:politicianrepresentslocation concept:radiostation:cleveland 1
+concept:university:ohio concept:proxyfor concept:radiostation:cleveland 1.66667*
+---------------------------------
+concept:company:missouri concept:subpartof concept:sociopolitical:independence 2
+
+concept:company:missouri concept:agentcontrols concept:sociopolitical:independence 1.75
+concept:company:missouri concept:atlocation concept:sociopolitical:independence 1.75
+concept:company:missouri concept:citylocatedincountry concept:sociopolitical:independence 1
+concept:company:missouri concept:citylocatedingeopoliticallocation concept:sociopolitical:independence 1
+concept:company:missouri concept:citylocatedinstate concept:sociopolitical:independence 2
+concept:company:missouri concept:lakeinstate concept:sociopolitical:independence 0.5
+concept:company:missouri concept:locationlocatedwithinlocation concept:sociopolitical:independence 2
+concept:company:missouri concept:mutualproxyfor concept:sociopolitical:independence 1.5
+concept:company:missouri concept:personleadsgeopoliticalorganization concept:sociopolitical:independence 1
+concept:company:missouri concept:politicianrepresentslocation concept:sociopolitical:independence 1
+concept:company:missouri concept:proxyfor concept:sociopolitical:independence 1.66667*
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:jobposition:agency 1
+
+concept:weatherphenomenon:water concept:agentcontrols concept:jobposition:agency 0.25
+concept:weatherphenomenon:water concept:proxyfor concept:jobposition:agency 0.666667
+---------------------------------
+concept:city:washington_d_c concept:subpartof concept:stateorprovince:auburn 2
+
+concept:city:washington_d_c concept:agentactsinlocation concept:stateorprovince:auburn 0.141967
+concept:city:washington_d_c concept:agentbelongstoorganization concept:stateorprovince:auburn 0.5
+concept:city:washington_d_c concept:agentcontrols concept:stateorprovince:auburn 1
+concept:city:washington_d_c concept:atdate concept:stateorprovince:auburn 0.518277
+concept:city:washington_d_c concept:atlocation concept:stateorprovince:auburn 1.125
+concept:city:washington_d_c concept:cityliesonriver concept:stateorprovince:auburn 0.75
+concept:city:washington_d_c concept:citylocatedincountry concept:stateorprovince:auburn 1
+concept:city:washington_d_c concept:citylocatedinstate concept:stateorprovince:auburn 1
+concept:city:washington_d_c concept:lakeinstate concept:stateorprovince:auburn 0.5
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:stateorprovince:auburn 1
+concept:city:washington_d_c concept:mutualproxyfor concept:stateorprovince:auburn 0.5
+concept:city:washington_d_c concept:politicianrepresentslocation concept:stateorprovince:auburn 1
+concept:city:washington_d_c concept:proxyfor concept:stateorprovince:auburn 1.16667*
+concept:city:washington_d_c concept:subpartoforganization concept:stateorprovince:auburn 0.110863
+---------------------------------
+concept:radiostation:new_jersey concept:subpartof concept:county:edison 2
+
+concept:radiostation:new_jersey concept:agentcontrols concept:county:edison 1
+concept:radiostation:new_jersey concept:atlocation concept:county:edison 1.75
+concept:radiostation:new_jersey concept:citylocatedincountry concept:county:edison 1
+concept:radiostation:new_jersey concept:citylocatedingeopoliticallocation concept:county:edison 1
+concept:radiostation:new_jersey concept:citylocatedinstate concept:county:edison 2
+concept:radiostation:new_jersey concept:lakeinstate concept:county:edison 0.5
+concept:radiostation:new_jersey concept:locationlocatedwithinlocation concept:county:edison 2
+concept:radiostation:new_jersey concept:mutualproxyfor concept:county:edison 1
+concept:radiostation:new_jersey concept:personleadsgeopoliticalorganization concept:county:edison 1
+concept:radiostation:new_jersey concept:politicianrepresentslocation concept:county:edison 1
+concept:radiostation:new_jersey concept:proxyfor concept:county:edison 1.66667*
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:programminglanguage:state 1
+
+concept:weatherphenomenon:air concept:agentcontrols concept:programminglanguage:state 0.25
+concept:weatherphenomenon:air concept:proxyfor concept:programminglanguage:state 0.666667
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartof concept:company:north_carolina 0
+
+concept:sportsteam:ncaa_mens_midwest_regionals concept:agentcontrols concept:company:north_carolina 0.25
+concept:sportsteam:ncaa_mens_midwest_regionals concept:proxyfor concept:company:north_carolina 0.666667
+---------------------------------
+concept:sportsleague:nfl concept:subpartof concept:coach:green_bay_packers 1
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:green_bay_packers 1
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:green_bay_packers 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:green_bay_packers 0.666667
+---------------------------------
+concept:newspaper:alabama concept:subpartof concept:county:florence 1
+
+concept:newspaper:alabama concept:agentcontrols concept:county:florence 1
+concept:newspaper:alabama concept:atlocation concept:county:florence 0.75
+concept:newspaper:alabama concept:citylocatedincountry concept:county:florence 1
+concept:newspaper:alabama concept:citylocatedinstate concept:county:florence 1
+concept:newspaper:alabama concept:locationlocatedwithinlocation concept:county:florence 1
+concept:newspaper:alabama concept:politicianrepresentslocation concept:county:florence 1
+concept:newspaper:alabama concept:proxyfor concept:county:florence 0.666667*
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:profession:division 1
+
+concept:weatherphenomenon:water concept:agentcontrols concept:profession:division 0.25
+concept:weatherphenomenon:water concept:proxyfor concept:profession:division 0.666667
+---------------------------------
+concept:company:north_carolina concept:subpartof concept:magazine:charlotte 2
+
+concept:company:north_carolina concept:agentcontrols concept:magazine:charlotte 1
+concept:company:north_carolina concept:atdate concept:magazine:charlotte 0.518277
+concept:company:north_carolina concept:atlocation concept:magazine:charlotte 1.75
+concept:company:north_carolina concept:citylocatedincountry concept:magazine:charlotte 1
+concept:company:north_carolina concept:citylocatedingeopoliticallocation concept:magazine:charlotte 1
+concept:company:north_carolina concept:citylocatedinstate concept:magazine:charlotte 2
+concept:company:north_carolina concept:lakeinstate concept:magazine:charlotte 0.5
+concept:company:north_carolina concept:locationlocatedwithinlocation concept:magazine:charlotte 2
+concept:company:north_carolina concept:mutualproxyfor concept:magazine:charlotte 1
+concept:company:north_carolina concept:personleadsgeopoliticalorganization concept:magazine:charlotte 1
+concept:company:north_carolina concept:politicianrepresentslocation concept:magazine:charlotte 1
+concept:company:north_carolina concept:proxyfor concept:magazine:charlotte 1.66667*
+---------------------------------
+concept:university:ohio concept:subpartof concept:radiostation:lima 2
+
+concept:university:ohio concept:agentcontrols concept:radiostation:lima 1
+concept:university:ohio concept:atlocation concept:radiostation:lima 1.75
+concept:university:ohio concept:citylocatedincountry concept:radiostation:lima 1
+concept:university:ohio concept:citylocatedingeopoliticallocation concept:radiostation:lima 1
+concept:university:ohio concept:citylocatedinstate concept:radiostation:lima 2
+concept:university:ohio concept:lakeinstate concept:radiostation:lima 0.5
+concept:university:ohio concept:locationlocatedwithinlocation concept:radiostation:lima 2
+concept:university:ohio concept:mutualproxyfor concept:radiostation:lima 1
+concept:university:ohio concept:personleadsgeopoliticalorganization concept:radiostation:lima 1
+concept:university:ohio concept:politicianrepresentslocation concept:radiostation:lima 1
+concept:university:ohio concept:proxyfor concept:radiostation:lima 1.66667*
+---------------------------------
+concept:city:washington_d_c concept:subpartof concept:city:kennewick 4
+
+concept:city:washington_d_c concept:agentactsinlocation concept:city:kennewick 0.141967
+concept:city:washington_d_c concept:agentbelongstoorganization concept:city:kennewick 0.5
+concept:city:washington_d_c concept:agentcontrols concept:city:kennewick 1
+concept:city:washington_d_c concept:atdate concept:city:kennewick 0.518277
+concept:city:washington_d_c concept:atlocation concept:city:kennewick 2.125
+concept:city:washington_d_c concept:cityliesonriver concept:city:kennewick 1.75
+concept:city:washington_d_c concept:citylocatedincountry concept:city:kennewick 1
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:city:kennewick 1
+concept:city:washington_d_c concept:citylocatedinstate concept:city:kennewick 2.35714
+concept:city:washington_d_c concept:lakeinstate concept:city:kennewick 0.5
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:city:kennewick 3.625*
+concept:city:washington_d_c concept:mutualproxyfor concept:city:kennewick 1.5
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:city:kennewick 1
+concept:city:washington_d_c concept:politicianrepresentslocation concept:city:kennewick 1
+concept:city:washington_d_c concept:proxyfor concept:city:kennewick 2.16667*
+concept:city:washington_d_c concept:subpartoforganization concept:city:kennewick 0.220025
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:politicsissue:processes 0
+
+concept:weatherphenomenon:water concept:proxyfor concept:politicsissue:processes 0.666667
+---------------------------------
+concept:retailstore:apple_computers concept:subpartof concept:politician:jobs 2
+
+concept:retailstore:apple_computers concept:agentcollaborateswithagent concept:politician:jobs 1
+concept:retailstore:apple_computers concept:agentcontrols concept:politician:jobs 1*
+concept:retailstore:apple_computers concept:atdate concept:politician:jobs 0.0161079
+concept:retailstore:apple_computers concept:atlocation concept:politician:jobs 1.75
+concept:retailstore:apple_computers concept:citylocatedincountry concept:politician:jobs 1
+concept:retailstore:apple_computers concept:citylocatedingeopoliticallocation concept:politician:jobs 1
+concept:retailstore:apple_computers concept:citylocatedinstate concept:politician:jobs 2
+concept:retailstore:apple_computers concept:lakeinstate concept:politician:jobs 0.5
+concept:retailstore:apple_computers concept:locationlocatedwithinlocation concept:politician:jobs 2
+concept:retailstore:apple_computers concept:mutualproxyfor concept:politician:jobs 1.5
+concept:retailstore:apple_computers concept:personleadsgeopoliticalorganization concept:politician:jobs 1
+concept:retailstore:apple_computers concept:politicianrepresentslocation concept:politician:jobs 1
+concept:retailstore:apple_computers concept:proxyfor concept:politician:jobs 1.66667*
+---------------------------------
+concept:creditunion:kansas concept:subpartof concept:musicsong:salina 2
+
+concept:creditunion:kansas concept:agentbelongstoorganization concept:musicsong:salina 0.5
+concept:creditunion:kansas concept:agentcontrols concept:musicsong:salina 1
+concept:creditunion:kansas concept:atlocation concept:musicsong:salina 1.75
+concept:creditunion:kansas concept:citylocatedincountry concept:musicsong:salina 1
+concept:creditunion:kansas concept:citylocatedingeopoliticallocation concept:musicsong:salina 1
+concept:creditunion:kansas concept:citylocatedinstate concept:musicsong:salina 2
+concept:creditunion:kansas concept:competeswith concept:musicsong:salina 0.25
+concept:creditunion:kansas concept:lakeinstate concept:musicsong:salina 0.5
+concept:creditunion:kansas concept:locationlocatedwithinlocation concept:musicsong:salina 2
+concept:creditunion:kansas concept:mutualproxyfor concept:musicsong:salina 1
+concept:creditunion:kansas concept:personleadsgeopoliticalorganization concept:musicsong:salina 1
+concept:creditunion:kansas concept:politicianrepresentslocation concept:musicsong:salina 1
+concept:creditunion:kansas concept:proxyfor concept:musicsong:salina 1.66667*
+concept:creditunion:kansas concept:subpartoforganization concept:musicsong:salina 0.110863
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:sportsequipment:board 0
+
+concept:weatherphenomenon:water concept:proxyfor concept:sportsequipment:board 0.666667
+---------------------------------
+concept:sportsteam:ncaa_mens_midwest_regionals concept:subpartof concept:university:usc 0
+
+concept:sportsteam:ncaa_mens_midwest_regionals concept:proxyfor concept:university:usc 0.666667
+---------------------------------
+concept:creditunion:wisconsin concept:subpartof concept:person:monroe 0
+
+concept:creditunion:wisconsin concept:agentbelongstoorganization concept:person:monroe 0.5
+concept:creditunion:wisconsin concept:competeswith concept:person:monroe 0.25
+concept:creditunion:wisconsin concept:proxyfor concept:person:monroe 0.666667
+concept:creditunion:wisconsin concept:subpartoforganization concept:person:monroe 0.110863
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:geometricshape:property 1
+
+concept:weatherphenomenon:air concept:agentcontrols concept:geometricshape:property 0.25
+concept:weatherphenomenon:air concept:proxyfor concept:geometricshape:property 0.666667
+---------------------------------
+concept:sportsleague:mlb concept:subpartof concept:athlete:boston_red_sox 1
+
+concept:sportsleague:mlb concept:agentcollaborateswithagent concept:athlete:boston_red_sox 1
+concept:sportsleague:mlb concept:agentcompeteswithagent concept:athlete:boston_red_sox 1
+concept:sportsleague:mlb concept:proxyfor concept:athlete:boston_red_sox 0.666667
+---------------------------------
+concept:creditunion:kansas concept:subpartof concept:radiostation:topeka 2
+
+concept:creditunion:kansas concept:agentbelongstoorganization concept:radiostation:topeka 0.5
+concept:creditunion:kansas concept:agentcontrols concept:radiostation:topeka 1
+concept:creditunion:kansas concept:atlocation concept:radiostation:topeka 1.75
+concept:creditunion:kansas concept:citylocatedincountry concept:radiostation:topeka 1
+concept:creditunion:kansas concept:citylocatedingeopoliticallocation concept:radiostation:topeka 1
+concept:creditunion:kansas concept:citylocatedinstate concept:radiostation:topeka 2
+concept:creditunion:kansas concept:competeswith concept:radiostation:topeka 0.25
+concept:creditunion:kansas concept:lakeinstate concept:radiostation:topeka 0.5
+concept:creditunion:kansas concept:locationlocatedwithinlocation concept:radiostation:topeka 2
+concept:creditunion:kansas concept:mutualproxyfor concept:radiostation:topeka 1
+concept:creditunion:kansas concept:personleadsgeopoliticalorganization concept:radiostation:topeka 1
+concept:creditunion:kansas concept:politicianrepresentslocation concept:radiostation:topeka 1
+concept:creditunion:kansas concept:proxyfor concept:radiostation:topeka 1.66667*
+concept:creditunion:kansas concept:subpartoforganization concept:radiostation:topeka 0.110863
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:programminglanguage:procedures 0
+
+concept:weatherphenomenon:air concept:proxyfor concept:programminglanguage:procedures 0.666667
+---------------------------------
+concept:weatherphenomenon:air concept:subpartof concept:buildingfeature:systems 0
+
+concept:weatherphenomenon:air concept:proxyfor concept:buildingfeature:systems 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:profession:personnel 0
+
+concept:weatherphenomenon:water concept:proxyfor concept:profession:personnel 0.666667
+---------------------------------
+concept:weatherphenomenon:water concept:subpartof concept:wallitem:effort 1
+
+concept:weatherphenomenon:water concept:agentcontrols concept:wallitem:effort 0.25
+concept:weatherphenomenon:water concept:proxyfor concept:wallitem:effort 0.666667
+---------------------------------
+concept:sportsleague:nfl concept:subpartof concept:coach:indianapolis_colts 1
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:indianapolis_colts 2.5
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:indianapolis_colts 1
+concept:sportsleague:nfl concept:organizationterminatedperson concept:coach:indianapolis_colts 0.5
+concept:sportsleague:nfl concept:proxyfor concept:coach:indianapolis_colts 0.666667
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.430939 0.237569 0.298343 0.430939
+HITS@3: 0.900552 0.464088 0.469613 0.59116
+HITS@10: 1 0.640884 0.640884 0.640884
+MRR: 0.666211 0.389863 0.414464 0.512903
+MR: 2.0663 15.7569 15.5967 28.4033
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.447514 0.237569 0.303867 0.447514
+HITS@3: 0.922652 0.513812 0.497238 0.60221
+HITS@10: 1 0.640884 0.640884 0.640884
+MRR: 0.689772 0.401481 0.426587 0.534628
+MR: 1.89503 15.5525 15.3923 28.221
+relation_mr_mrr_1_3_10_n_rf 2786.00000000000000000 77.21220109079969518 55.00000000000000000 90.00000000000000000 116.00000000000000000 181 116

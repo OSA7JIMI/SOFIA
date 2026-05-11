@@ -1,0 +1,4 @@
+1	/award/award_category/winners./award/award_honor/ceremony(A,C) <= /award/award_category/category_of(A,B), /time/event/instance_of_recurring_event(C,B)
+1	/award/award_category/winners./award/award_honor/ceremony(A,E) <= /award/award_category/winners./award/award_honor/award_winner(A,B), /people/person/gender(B,C), /people/person/gender(D,C), /award/award_ceremony/awards_presented./award/award_honor/award_winner(E,D)
+1	/award/award_category/winners./award/award_honor/ceremony(A,E) <= /award/award_category/nominees./award/award_nomination/nominated_for(A,B), /film/film/language(B,C), /people/person/languages(D,C), /award/award_ceremony/awards_presented./award/award_honor/award_winner(E,D)
+1	/award/award_category/winners./award/award_honor/ceremony(A,D) <= /award/award_category/winners./award/award_honor/ceremony(A,B), /award/award_ceremony/awards_presented./award/award_honor/honored_for(B,C), /award/award_ceremony/awards_presented./award/award_honor/honored_for(D,C)

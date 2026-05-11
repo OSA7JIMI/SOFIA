@@ -1,0 +1,1 @@
+1	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month(A,D) <= /travel/travel_destination/climate./travel/travel_destination_monthly_climate/month(A,B), /travel/travel_destination/climate./travel/travel_destination_monthly_climate/month(C,B), /travel/travel_destination/climate./travel/travel_destination_monthly_climate/month(C,D)

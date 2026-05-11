@@ -1,0 +1,425 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:agentcompeteswithagent
+---------------------------------
+concept:sportsteam:steelers concept:agentcompeteswithagent concept:sportsteam:arizona_cardinals_27_23 2.05953
+
+concept:sportsteam:steelers concept:agentbelongstoorganization concept:sportsteam:arizona_cardinals_27_23 2
+concept:sportsteam:steelers concept:agentcontrols concept:sportsteam:arizona_cardinals_27_23 1
+concept:sportsteam:steelers concept:organizationacronymhasname concept:sportsteam:arizona_cardinals_27_23 1
+concept:sportsteam:steelers concept:organizationheadquarteredincity concept:sportsteam:arizona_cardinals_27_23 1
+concept:sportsteam:steelers concept:organizationhiredperson concept:sportsteam:arizona_cardinals_27_23 0.75
+concept:sportsteam:steelers concept:subpartoforganization concept:sportsteam:arizona_cardinals_27_23 2
+concept:sportsteam:steelers concept:synonymfor concept:sportsteam:arizona_cardinals_27_23 1
+---------------------------------
+concept:sportsteam:red_sox_this_season concept:agentcompeteswithagent concept:personmexico:seattle_mariners 2
+
+concept:sportsteam:red_sox_this_season concept:agentbelongstoorganization concept:personmexico:seattle_mariners 1
+concept:sportsteam:red_sox_this_season concept:agentcontrols concept:personmexico:seattle_mariners 1
+concept:sportsteam:red_sox_this_season concept:organizationheadquarteredincity concept:personmexico:seattle_mariners 1
+concept:sportsteam:red_sox_this_season concept:subpartoforganization concept:personmexico:seattle_mariners 1
+---------------------------------
+concept:website:daily_news concept:agentcompeteswithagent concept:city:denver 0.5
+
+concept:website:daily_news concept:competeswith concept:city:denver 0.25
+concept:website:daily_news concept:organizationheadquarteredincity concept:city:denver 0.5
+---------------------------------
+concept:coach:philadelphia_eagles concept:agentcompeteswithagent concept:sportsteam:arizona_cardinals_27_23 1.05953
+
+concept:coach:philadelphia_eagles concept:agentbelongstoorganization concept:sportsteam:arizona_cardinals_27_23 0.5
+concept:coach:philadelphia_eagles concept:agentcollaborateswithagent concept:sportsteam:arizona_cardinals_27_23 1.5
+concept:coach:philadelphia_eagles concept:politicianusmemberofpoliticalgroup concept:sportsteam:arizona_cardinals_27_23 1
+concept:coach:philadelphia_eagles concept:subpartof concept:sportsteam:arizona_cardinals_27_23 0.25
+concept:coach:philadelphia_eagles concept:subpartoforganization concept:sportsteam:arizona_cardinals_27_23 0.5
+concept:coach:philadelphia_eagles concept:synonymfor concept:sportsteam:arizona_cardinals_27_23 1
+---------------------------------
+concept:sportsteam:eagles concept:agentcompeteswithagent concept:sportsteam:arizona_cardinals_27_23 2.05953
+
+concept:sportsteam:eagles concept:agentbelongstoorganization concept:sportsteam:arizona_cardinals_27_23 1
+concept:sportsteam:eagles concept:agentcontrols concept:sportsteam:arizona_cardinals_27_23 1
+concept:sportsteam:eagles concept:countryalsoknownas concept:sportsteam:arizona_cardinals_27_23 1
+concept:sportsteam:eagles concept:organizationacronymhasname concept:sportsteam:arizona_cardinals_27_23 1
+concept:sportsteam:eagles concept:organizationheadquarteredincity concept:sportsteam:arizona_cardinals_27_23 1
+concept:sportsteam:eagles concept:organizationhiredperson concept:sportsteam:arizona_cardinals_27_23 0.75
+concept:sportsteam:eagles concept:subpartoforganization concept:sportsteam:arizona_cardinals_27_23 1
+---------------------------------
+concept:personmexico:texas_rangers concept:agentcompeteswithagent concept:sportsteam:red_sox_this_season 2
+
+concept:personmexico:texas_rangers concept:agentbelongstoorganization concept:sportsteam:red_sox_this_season 1.5
+concept:personmexico:texas_rangers concept:agentcontrols concept:sportsteam:red_sox_this_season 1
+concept:personmexico:texas_rangers concept:organizationheadquarteredincity concept:sportsteam:red_sox_this_season 1
+concept:personmexico:texas_rangers concept:subpartoforganization concept:sportsteam:red_sox_this_season 1
+---------------------------------
+concept:sportsteam:tampa concept:agentcompeteswithagent concept:sportsteam:new_england_patriots 0.5
+
+---------------------------------
+concept:coach:new_england_patriots concept:agentcompeteswithagent concept:sportsteam:new_york_giants 2
+
+concept:coach:new_england_patriots concept:agentbelongstoorganization concept:sportsteam:new_york_giants 1.5
+concept:coach:new_england_patriots concept:agentcollaborateswithagent concept:sportsteam:new_york_giants 1
+concept:coach:new_england_patriots concept:agentcontrols concept:sportsteam:new_york_giants 1
+concept:coach:new_england_patriots concept:organizationheadquarteredincity concept:sportsteam:new_york_giants 1
+concept:coach:new_england_patriots concept:subpartof concept:sportsteam:new_york_giants 0.25
+concept:coach:new_england_patriots concept:subpartoforganization concept:sportsteam:new_york_giants 1
+---------------------------------
+concept:female:yankees concept:agentcompeteswithagent concept:sportsteam:florida_marlins 0.5
+
+concept:female:yankees concept:agentbelongstoorganization concept:sportsteam:florida_marlins 0.5
+---------------------------------
+concept:sportsteam:philadelphia_athletics concept:agentcompeteswithagent concept:coach:new_york_jets 0.5
+
+---------------------------------
+concept:male:sun concept:agentcompeteswithagent concept:city:washington_d_c 0.5
+
+concept:male:sun concept:agentcollaborateswithagent concept:city:washington_d_c 1.90897
+concept:male:sun concept:agentcontrols concept:city:washington_d_c 0.425451
+concept:male:sun concept:agentcreated concept:city:washington_d_c 1
+concept:male:sun concept:agentinvolvedwithitem concept:city:washington_d_c 0.5
+concept:male:sun concept:competeswith concept:city:washington_d_c 0.25
+---------------------------------
+concept:sportsteam:new_england_patriots concept:agentcompeteswithagent concept:sportsteam:sd_chargers 0.5
+
+concept:sportsteam:new_england_patriots concept:organizationhiredperson concept:sportsteam:sd_chargers 0.75
+---------------------------------
+concept:personmexico:colorado_rockies concept:agentcompeteswithagent concept:sportsteam:red_sox_this_season 2
+
+concept:personmexico:colorado_rockies concept:agentbelongstoorganization concept:sportsteam:red_sox_this_season 1.5
+concept:personmexico:colorado_rockies concept:agentcontrols concept:sportsteam:red_sox_this_season 1
+concept:personmexico:colorado_rockies concept:organizationheadquarteredincity concept:sportsteam:red_sox_this_season 1
+concept:personmexico:colorado_rockies concept:subpartoforganization concept:sportsteam:red_sox_this_season 1
+---------------------------------
+concept:coach:philadelphia_eagles concept:agentcompeteswithagent concept:sportsteam:new_york_giants 2
+
+concept:coach:philadelphia_eagles concept:agentbelongstoorganization concept:sportsteam:new_york_giants 1.5
+concept:coach:philadelphia_eagles concept:agentcollaborateswithagent concept:sportsteam:new_york_giants 1
+concept:coach:philadelphia_eagles concept:agentcontrols concept:sportsteam:new_york_giants 1
+concept:coach:philadelphia_eagles concept:organizationheadquarteredincity concept:sportsteam:new_york_giants 1
+concept:coach:philadelphia_eagles concept:subpartof concept:sportsteam:new_york_giants 0.25
+concept:coach:philadelphia_eagles concept:subpartoforganization concept:sportsteam:new_york_giants 2
+---------------------------------
+concept:personcanada:post concept:agentcompeteswithagent concept:city:l_a_ 0.5
+
+---------------------------------
+concept:sportsteam:new_york_giants concept:agentcompeteswithagent concept:sportsteam:new_england_patriots 2
+
+concept:sportsteam:new_york_giants concept:agentbelongstoorganization concept:sportsteam:new_england_patriots 2
+concept:sportsteam:new_york_giants concept:agentcontrols concept:sportsteam:new_england_patriots 1
+concept:sportsteam:new_york_giants concept:organizationacronymhasname concept:sportsteam:new_england_patriots 1
+concept:sportsteam:new_york_giants concept:organizationheadquarteredincity concept:sportsteam:new_england_patriots 1
+concept:sportsteam:new_york_giants concept:organizationhiredperson concept:sportsteam:new_england_patriots 0.75
+concept:sportsteam:new_york_giants concept:subpartoforganization concept:sportsteam:new_england_patriots 2
+concept:sportsteam:new_york_giants concept:synonymfor concept:sportsteam:new_england_patriots 1
+---------------------------------
+concept:company:west_virginia concept:agentcompeteswithagent concept:personmexico:ncaa 0.5
+
+concept:company:west_virginia concept:agentactsinlocation concept:personmexico:ncaa 0.141967
+concept:company:west_virginia concept:organizationhiredperson concept:personmexico:ncaa 0.25
+---------------------------------
+concept:company:city_paper001 concept:agentcompeteswithagent concept:city:washington_d_c 1.5
+
+concept:company:city_paper001 concept:competeswith concept:city:washington_d_c 0.25
+---------------------------------
+concept:sportsteam:new_york_giants concept:agentcompeteswithagent concept:personnorthamerica:bills 2
+
+concept:sportsteam:new_york_giants concept:agentbelongstoorganization concept:personnorthamerica:bills 1
+concept:sportsteam:new_york_giants concept:agentcontrols concept:personnorthamerica:bills 1
+concept:sportsteam:new_york_giants concept:organizationheadquarteredincity concept:personnorthamerica:bills 1
+concept:sportsteam:new_york_giants concept:organizationhiredperson concept:personnorthamerica:bills 0.25
+concept:sportsteam:new_york_giants concept:subpartoforganization concept:personnorthamerica:bills 1
+---------------------------------
+concept:sportsteam:dundee_united concept:agentcompeteswithagent concept:coach:new_york_jets 0.5
+
+---------------------------------
+concept:invertebrate:loggers concept:agentcompeteswithagent concept:sportsteam:east_carolina 0.5
+
+---------------------------------
+concept:creditunion:wisconsin concept:agentcompeteswithagent concept:personmexico:ncaa 0.5
+
+concept:creditunion:wisconsin concept:organizationhiredperson concept:personmexico:ncaa 0.25
+concept:creditunion:wisconsin concept:organizationterminatedperson concept:personmexico:ncaa 0.5
+---------------------------------
+concept:sportsteam:new_york_giants concept:agentcompeteswithagent concept:coach:washington_redskins 0.5
+
+concept:sportsteam:new_york_giants concept:organizationhiredperson concept:coach:washington_redskins 0.25
+---------------------------------
+concept:newspaper:journal concept:agentcompeteswithagent concept:city:l_a_ 0.5
+
+---------------------------------
+concept:sportsteam:colts concept:agentcompeteswithagent concept:sportsteam:baltimore_colts 2
+
+concept:sportsteam:colts concept:agentbelongstoorganization concept:sportsteam:baltimore_colts 1
+concept:sportsteam:colts concept:agentcontrols concept:sportsteam:baltimore_colts 1
+concept:sportsteam:colts concept:organizationheadquarteredincity concept:sportsteam:baltimore_colts 1
+concept:sportsteam:colts concept:organizationhiredperson concept:sportsteam:baltimore_colts 0.75
+concept:sportsteam:colts concept:subpartoforganization concept:sportsteam:baltimore_colts 1
+concept:sportsteam:colts concept:teamplaysagainstteam concept:sportsteam:baltimore_colts 2
+---------------------------------
+concept:sportsteam:red_sox_this_season concept:agentcompeteswithagent concept:coach:toronto_blue_jays 2
+
+concept:sportsteam:red_sox_this_season concept:agentbelongstoorganization concept:coach:toronto_blue_jays 1
+concept:sportsteam:red_sox_this_season concept:agentcontrols concept:coach:toronto_blue_jays 1
+concept:sportsteam:red_sox_this_season concept:organizationheadquarteredincity concept:coach:toronto_blue_jays 1
+concept:sportsteam:red_sox_this_season concept:subpartoforganization concept:coach:toronto_blue_jays 1
+---------------------------------
+concept:professionalorganization:avs concept:agentcompeteswithagent concept:sportsteam:red_wings 0.5
+
+---------------------------------
+concept:sportsteam:undefeated_new_england_patriots concept:agentcompeteswithagent concept:coach:new_york_jets 0.5
+
+---------------------------------
+concept:sportsteam:ravens concept:agentcompeteswithagent concept:sportsteam:baltimore_colts 2
+
+concept:sportsteam:ravens concept:agentbelongstoorganization concept:sportsteam:baltimore_colts 1
+concept:sportsteam:ravens concept:agentcollaborateswithagent concept:sportsteam:baltimore_colts 0.5
+concept:sportsteam:ravens concept:agentcontrols concept:sportsteam:baltimore_colts 1
+concept:sportsteam:ravens concept:organizationheadquarteredincity concept:sportsteam:baltimore_colts 1
+concept:sportsteam:ravens concept:organizationhiredperson concept:sportsteam:baltimore_colts 0.75
+concept:sportsteam:ravens concept:subpartoforganization concept:sportsteam:baltimore_colts 1
+concept:sportsteam:ravens concept:synonymfor concept:sportsteam:baltimore_colts 0.5
+concept:sportsteam:ravens concept:teamplaysagainstteam concept:sportsteam:baltimore_colts 2
+---------------------------------
+concept:sportsteam:red_sox_this_season concept:agentcompeteswithagent concept:personmexico:texas_rangers 2
+
+concept:sportsteam:red_sox_this_season concept:agentbelongstoorganization concept:personmexico:texas_rangers 1
+concept:sportsteam:red_sox_this_season concept:agentcontrols concept:personmexico:texas_rangers 1
+concept:sportsteam:red_sox_this_season concept:organizationheadquarteredincity concept:personmexico:texas_rangers 1
+concept:sportsteam:red_sox_this_season concept:subpartoforganization concept:personmexico:texas_rangers 1
+---------------------------------
+concept:sportsteam:los_angeles_raiders concept:agentcompeteswithagent concept:coach:washington_redskins 0.5
+
+---------------------------------
+concept:coach:kentucky_wildcats concept:agentcompeteswithagent concept:sportsteam:lsu 0.5
+
+---------------------------------
+concept:sportsteam:new_york_giants concept:agentcompeteswithagent concept:sportsteam:arizona_cardinals_27_23 1.05953
+
+concept:sportsteam:new_york_giants concept:organizationhiredperson concept:sportsteam:arizona_cardinals_27_23 0.75
+concept:sportsteam:new_york_giants concept:specializationof concept:sportsteam:arizona_cardinals_27_23 1
+---------------------------------
+concept:sportsteam:new_york_giants concept:agentcompeteswithagent concept:coach:philadelphia_eagles 2
+
+concept:sportsteam:new_york_giants concept:agentbelongstoorganization concept:coach:philadelphia_eagles 1
+concept:sportsteam:new_york_giants concept:agentcontrols concept:coach:philadelphia_eagles 1
+concept:sportsteam:new_york_giants concept:organizationheadquarteredincity concept:coach:philadelphia_eagles 1
+concept:sportsteam:new_york_giants concept:organizationhiredperson concept:coach:philadelphia_eagles 0.25
+concept:sportsteam:new_york_giants concept:subpartoforganization concept:coach:philadelphia_eagles 2
+---------------------------------
+concept:female:yankees concept:agentcompeteswithagent concept:sportsteam:new_york_giants 2
+
+concept:female:yankees concept:agentbelongstoorganization concept:sportsteam:new_york_giants 1.5
+concept:female:yankees concept:agentcollaborateswithagent concept:sportsteam:new_york_giants 0.5
+concept:female:yankees concept:agentcontrols concept:sportsteam:new_york_giants 1.42545
+concept:female:yankees concept:organizationheadquarteredincity concept:sportsteam:new_york_giants 1
+concept:female:yankees concept:subpartoforganization concept:sportsteam:new_york_giants 1
+---------------------------------
+concept:sportsteam:new_england_patriots concept:agentcompeteswithagent concept:sportsteam:packers 0.5
+
+concept:sportsteam:new_england_patriots concept:organizationhiredperson concept:sportsteam:packers 0.75
+---------------------------------
+concept:newspaper:times concept:agentcompeteswithagent concept:city:denver 0.5
+
+concept:newspaper:times concept:companyeconomicsector concept:city:denver 0.5
+concept:newspaper:times concept:competeswith concept:city:denver 0.25
+concept:newspaper:times concept:organizationheadquarteredincity concept:city:denver 0.5
+---------------------------------
+concept:creditunion:kansas concept:agentcompeteswithagent concept:personmexico:ncaa 0.5
+
+concept:creditunion:kansas concept:agentactsinlocation concept:personmexico:ncaa 0.141967
+concept:creditunion:kansas concept:companyeconomicsector concept:personmexico:ncaa 0.5
+concept:creditunion:kansas concept:organizationhiredperson concept:personmexico:ncaa 0.25
+---------------------------------
+concept:male:notre_dame concept:agentcompeteswithagent concept:personmexico:ncaa 0.5
+
+concept:male:notre_dame concept:agentactsinlocation concept:personmexico:ncaa 0.5
+concept:male:notre_dame concept:agentcollaborateswithagent concept:personmexico:ncaa 0.5
+concept:male:notre_dame concept:agentcontrols concept:personmexico:ncaa 0.199549
+---------------------------------
+concept:coach:toronto_blue_jays concept:agentcompeteswithagent concept:sportsteam:red_sox_this_season 2
+
+concept:coach:toronto_blue_jays concept:agentbelongstoorganization concept:sportsteam:red_sox_this_season 1.5
+concept:coach:toronto_blue_jays concept:agentcontrols concept:sportsteam:red_sox_this_season 1
+concept:coach:toronto_blue_jays concept:organizationheadquarteredincity concept:sportsteam:red_sox_this_season 1
+concept:coach:toronto_blue_jays concept:subpartoforganization concept:sportsteam:red_sox_this_season 1
+---------------------------------
+concept:sportsteam:new_york_islanders concept:agentcompeteswithagent concept:city:sabres 0.5
+
+concept:sportsteam:new_york_islanders concept:organizationhiredperson concept:city:sabres 0.25
+---------------------------------
+concept:sportsteam:new_england_patriots concept:agentcompeteswithagent concept:sportsteam:new_york_giants 2
+
+concept:sportsteam:new_england_patriots concept:agentbelongstoorganization concept:sportsteam:new_york_giants 2
+concept:sportsteam:new_england_patriots concept:agentcontrols concept:sportsteam:new_york_giants 1
+concept:sportsteam:new_england_patriots concept:organizationacronymhasname concept:sportsteam:new_york_giants 1
+concept:sportsteam:new_england_patriots concept:organizationheadquarteredincity concept:sportsteam:new_york_giants 2
+concept:sportsteam:new_england_patriots concept:organizationhiredperson concept:sportsteam:new_york_giants 0.75
+concept:sportsteam:new_england_patriots concept:subpartoforganization concept:sportsteam:new_york_giants 1
+---------------------------------
+concept:sportsteam:baltimore_colts concept:agentcompeteswithagent concept:sportsteam:colts 2
+
+concept:sportsteam:baltimore_colts concept:agentbelongstoorganization concept:sportsteam:colts 1
+concept:sportsteam:baltimore_colts concept:agentcontrols concept:sportsteam:colts 1
+concept:sportsteam:baltimore_colts concept:organizationheadquarteredincity concept:sportsteam:colts 1
+concept:sportsteam:baltimore_colts concept:organizationhiredperson concept:sportsteam:colts 0.75
+concept:sportsteam:baltimore_colts concept:subpartoforganization concept:sportsteam:colts 1
+concept:sportsteam:baltimore_colts concept:teamplaysagainstteam concept:sportsteam:colts 2
+---------------------------------
+concept:visualartist:johns_hopkins concept:agentcompeteswithagent concept:personmexico:ncaa 0.5
+
+---------------------------------
+concept:radiostation:ball_state_university concept:agentcompeteswithagent concept:sportsteam:chicago_bulls 0.5
+
+---------------------------------
+concept:university:yahoo concept:agentcompeteswithagent concept:university:google 0.5
+
+---------------------------------
+concept:sportsteam:arizona_cardinals_27_23 concept:agentcompeteswithagent concept:sportsteam:steelers 2
+
+concept:sportsteam:arizona_cardinals_27_23 concept:agentbelongstoorganization concept:sportsteam:steelers 2
+concept:sportsteam:arizona_cardinals_27_23 concept:agentcollaborateswithagent concept:sportsteam:steelers 0.5
+concept:sportsteam:arizona_cardinals_27_23 concept:agentcontrols concept:sportsteam:steelers 1
+concept:sportsteam:arizona_cardinals_27_23 concept:organizationacronymhasname concept:sportsteam:steelers 1
+concept:sportsteam:arizona_cardinals_27_23 concept:organizationheadquarteredincity concept:sportsteam:steelers 2
+concept:sportsteam:arizona_cardinals_27_23 concept:organizationhiredperson concept:sportsteam:steelers 0.75
+concept:sportsteam:arizona_cardinals_27_23 concept:subpartoforganization concept:sportsteam:steelers 1
+concept:sportsteam:arizona_cardinals_27_23 concept:synonymfor concept:sportsteam:steelers 0.5*
+---------------------------------
+concept:personnorthamerica:bills concept:agentcompeteswithagent concept:sportsteam:new_york_jets 0.5
+
+---------------------------------
+concept:university:google concept:agentcompeteswithagent concept:company:yahoo001 0.5
+
+---------------------------------
+concept:city:herald concept:agentcompeteswithagent concept:company:new_york 0.5
+
+concept:city:herald concept:agentactsinlocation concept:company:new_york 1.64197
+concept:city:herald concept:atlocation concept:company:new_york 1
+concept:city:herald concept:competeswith concept:company:new_york 0.25
+---------------------------------
+concept:personmexico:seattle_mariners concept:agentcompeteswithagent concept:sportsteam:red_sox_this_season 2
+
+concept:personmexico:seattle_mariners concept:agentbelongstoorganization concept:sportsteam:red_sox_this_season 1.5
+concept:personmexico:seattle_mariners concept:agentcontrols concept:sportsteam:red_sox_this_season 1
+concept:personmexico:seattle_mariners concept:organizationheadquarteredincity concept:sportsteam:red_sox_this_season 1
+concept:personmexico:seattle_mariners concept:subpartoforganization concept:sportsteam:red_sox_this_season 1
+---------------------------------
+concept:sportsteam:arizona_cardinals_27_23 concept:agentcompeteswithagent concept:sportsteam:eagles 2
+
+concept:sportsteam:arizona_cardinals_27_23 concept:agentbelongstoorganization concept:sportsteam:eagles 1
+concept:sportsteam:arizona_cardinals_27_23 concept:agentcollaborateswithagent concept:sportsteam:eagles 0.5
+concept:sportsteam:arizona_cardinals_27_23 concept:agentcontrols concept:sportsteam:eagles 1
+concept:sportsteam:arizona_cardinals_27_23 concept:organizationheadquarteredincity concept:sportsteam:eagles 1
+concept:sportsteam:arizona_cardinals_27_23 concept:organizationhiredperson concept:sportsteam:eagles 0.75
+concept:sportsteam:arizona_cardinals_27_23 concept:subpartoforganization concept:sportsteam:eagles 1
+concept:sportsteam:arizona_cardinals_27_23 concept:synonymfor concept:sportsteam:eagles 0.5
+---------------------------------
+concept:automobilemaker:dallas_cowboys concept:agentcompeteswithagent concept:sportsteam:new_york_giants 0.5
+
+concept:automobilemaker:dallas_cowboys concept:organizationhiredperson concept:sportsteam:new_york_giants 0.75
+---------------------------------
+concept:bird:star concept:agentcompeteswithagent concept:company:new_york 0.5
+
+concept:bird:star concept:agentparticipatedinevent concept:company:new_york 1.5
+concept:bird:star concept:competeswith concept:company:new_york 0.25
+---------------------------------
+concept:radiostation:ball_state_university concept:agentcompeteswithagent concept:sportsteam:knicks 0.5
+
+---------------------------------
+concept:musicartist:times concept:agentcompeteswithagent concept:company:los_angeles 0.5
+
+concept:musicartist:times concept:agentparticipatedinevent concept:company:los_angeles 1.5
+---------------------------------
+concept:sportsteam:tampa concept:agentcompeteswithagent concept:sportsteam:colts 0.5
+
+---------------------------------
+concept:male:sun concept:agentcompeteswithagent concept:company:los_angeles 0.5
+
+concept:male:sun concept:agentcreated concept:company:los_angeles 1
+---------------------------------
+concept:personnorthamerica:bills concept:agentcompeteswithagent concept:sportsteam:new_york_giants 2
+
+concept:personnorthamerica:bills concept:agentbelongstoorganization concept:sportsteam:new_york_giants 1
+concept:personnorthamerica:bills concept:agentcontrols concept:sportsteam:new_york_giants 1
+concept:personnorthamerica:bills concept:organizationheadquarteredincity concept:sportsteam:new_york_giants 1
+concept:personnorthamerica:bills concept:subpartoforganization concept:sportsteam:new_york_giants 1
+---------------------------------
+concept:musicartist:times concept:agentcompeteswithagent concept:company:new_york 0.5
+
+concept:musicartist:times concept:agentactsinlocation concept:company:new_york 1
+concept:musicartist:times concept:agentparticipatedinevent concept:company:new_york 1.5
+concept:musicartist:times concept:competeswith concept:company:new_york 0.25
+---------------------------------
+concept:website:amazon concept:agentcompeteswithagent concept:university:google 0.5
+
+concept:website:amazon concept:agentcontrols concept:university:google 0.94955
+---------------------------------
+concept:company:arizona concept:agentcompeteswithagent concept:personmexico:ncaa 0.5
+
+concept:company:arizona concept:companyeconomicsector concept:personmexico:ncaa 0.5
+concept:company:arizona concept:organizationhiredperson concept:personmexico:ncaa 0.25
+---------------------------------
+concept:sportsteam:red_sox_this_season concept:agentcompeteswithagent concept:personmexico:colorado_rockies 2
+
+concept:sportsteam:red_sox_this_season concept:agentbelongstoorganization concept:personmexico:colorado_rockies 1
+concept:sportsteam:red_sox_this_season concept:agentcontrols concept:personmexico:colorado_rockies 1
+concept:sportsteam:red_sox_this_season concept:organizationheadquarteredincity concept:personmexico:colorado_rockies 1
+concept:sportsteam:red_sox_this_season concept:subpartoforganization concept:personmexico:colorado_rockies 1
+---------------------------------
+concept:male:sun concept:agentcompeteswithagent concept:company:new_york 0.5
+
+concept:male:sun concept:agentactsinlocation concept:company:new_york 1
+concept:male:sun concept:agentcollaborateswithagent concept:company:new_york 1.90897
+concept:male:sun concept:agentcontrols concept:company:new_york 0.625
+concept:male:sun concept:agentcreated concept:company:new_york 1
+concept:male:sun concept:agentinvolvedwithitem concept:company:new_york 0.5
+concept:male:sun concept:competeswith concept:company:new_york 0.25
+---------------------------------
+concept:sportsteam:new_york_giants concept:agentcompeteswithagent concept:coach:new_england_patriots 2
+
+concept:sportsteam:new_york_giants concept:agentbelongstoorganization concept:coach:new_england_patriots 1
+concept:sportsteam:new_york_giants concept:agentcontrols concept:coach:new_england_patriots 1
+concept:sportsteam:new_york_giants concept:organizationheadquarteredincity concept:coach:new_england_patriots 1
+concept:sportsteam:new_york_giants concept:organizationhiredperson concept:coach:new_england_patriots 0.25
+concept:sportsteam:new_york_giants concept:subpartoforganization concept:coach:new_england_patriots 1
+---------------------------------
+concept:sportsteam:new_england_patriots concept:agentcompeteswithagent concept:sportsteam:miami_dolphins 0.5
+
+concept:sportsteam:new_england_patriots concept:organizationhiredperson concept:sportsteam:miami_dolphins 0.75
+---------------------------------
+concept:bank:iowa_state concept:agentcompeteswithagent concept:personmexico:ncaa 0.5
+
+concept:bank:iowa_state concept:organizationhiredperson concept:personmexico:ncaa 0.25
+---------------------------------
+concept:city:sabres concept:agentcompeteswithagent concept:sportsteam:flyers_playoff_tickets 0.55953
+
+---------------------------------
+concept:sportsteam:new_york_giants concept:agentcompeteswithagent concept:female:yankees 2
+
+concept:sportsteam:new_york_giants concept:agentbelongstoorganization concept:female:yankees 1
+concept:sportsteam:new_york_giants concept:agentcontrols concept:female:yankees 1
+concept:sportsteam:new_york_giants concept:organizationheadquarteredincity concept:female:yankees 1
+concept:sportsteam:new_york_giants concept:organizationhiredperson concept:female:yankees 0.25
+concept:sportsteam:new_york_giants concept:subpartoforganization concept:female:yankees 1
+---------------------------------
+concept:sportsteam:baltimore_colts concept:agentcompeteswithagent concept:sportsteam:ravens 2.05953
+
+concept:sportsteam:baltimore_colts concept:agentbelongstoorganization concept:sportsteam:ravens 1
+concept:sportsteam:baltimore_colts concept:agentcontrols concept:sportsteam:ravens 1
+concept:sportsteam:baltimore_colts concept:organizationheadquarteredincity concept:sportsteam:ravens 1
+concept:sportsteam:baltimore_colts concept:organizationhiredperson concept:sportsteam:ravens 0.75
+concept:sportsteam:baltimore_colts concept:subpartoforganization concept:sportsteam:ravens 1
+concept:sportsteam:baltimore_colts concept:teamplaysagainstteam concept:sportsteam:ravens 2
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.814286 0.642857 0.714286 0.814286
+HITS@3: 0.985714 0.971429 0.971429 0.985714
+HITS@10: 1 1 1 1
+MRR: 0.895714 0.80881 0.839286 0.895714
+MR: 1.27143 1.45714 1.42857 1.27143
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.814286 0.671429 0.714286 0.814286
+HITS@3: 0.985714 0.985714 0.971429 0.985714
+HITS@10: 1 1 1 1
+MRR: 0.895714 0.824286 0.839286 0.895714
+MR: 1.27143 1.41429 1.42857 1.27143
+relation_mr_mrr_1_3_10_n_rf 100.00000000000000000 58.75000000000000711 50.00000000000000000 68.00000000000000000 70.00000000000000000 70 70

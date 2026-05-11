@@ -1,0 +1,3 @@
+1	/language/human_language/countries_spoken_in(A,B) <= /location/country/official_language(B,A)
+1	/language/human_language/countries_spoken_in(A,C) <= /location/country/official_language(B,A), /location/location/adjoin_s./location/adjoining_relationship/adjoins(C,B)
+1	/language/human_language/countries_spoken_in(A,E) <= /film/film/language(B,A), /film/film/release_date_s./film/film_regional_release_date/film_release_region(B,C), /film/film/release_date_s./film/film_regional_release_date/film_release_region(D,C), /film/film/release_date_s./film/film_regional_release_date/film_release_region(D,E)

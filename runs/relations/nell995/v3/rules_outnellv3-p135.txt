@@ -1,0 +1,1 @@
+1	concept:teamwontrophy(A,C) <= concept:teamplaysagainstteam(A,B), concept:teamwontrophy(B,C)

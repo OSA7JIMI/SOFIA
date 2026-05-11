@@ -1,0 +1,74 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:athleteplaysinleague
+---------------------------------
+concept:sportsleague:nfl concept:athleteplaysinleague concept:athlete:matt_ryan 0
+
+concept:sportsleague:nfl concept:coachesinleague concept:athlete:matt_ryan 1
+---------------------------------
+concept:sportsleague:mlb concept:athleteplaysinleague concept:coach:cal_ripken 0
+
+concept:sportsleague:mlb concept:coachesinleague concept:coach:cal_ripken 1
+---------------------------------
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:brad_childress 1
+
+concept:sportsleague:nfl concept:coachesinleague concept:coach:brad_childress 1*
+---------------------------------
+concept:sportsleague:mlb concept:athleteplaysinleague concept:personmexico:carlos_santana001 0
+
+concept:sportsleague:mlb concept:coachesinleague concept:personmexico:carlos_santana001 1
+---------------------------------
+concept:sportsleague:mlb concept:athleteplaysinleague concept:athlete:carlos_beltran 0
+
+concept:sportsleague:mlb concept:coachesinleague concept:athlete:carlos_beltran 1
+---------------------------------
+concept:sportsleague:mlb concept:athleteplaysinleague concept:athlete:carl_crawford 0
+
+concept:sportsleague:mlb concept:coachesinleague concept:athlete:carl_crawford 1
+---------------------------------
+concept:sportsleague:mlb concept:athleteplaysinleague concept:athlete:lorenzen_wright 0
+
+concept:sportsleague:mlb concept:coachesinleague concept:athlete:lorenzen_wright 1
+---------------------------------
+concept:sportsleague:mlb concept:athleteplaysinleague concept:personmexico:craig_counsell 0
+
+concept:sportsleague:mlb concept:coachesinleague concept:personmexico:craig_counsell 1
+---------------------------------
+concept:sportsleague:mlb concept:athleteplaysinleague concept:coach:mitch_williams 0
+
+concept:sportsleague:mlb concept:coachesinleague concept:coach:mitch_williams 1
+---------------------------------
+concept:sportsleague:nfl concept:athleteplaysinleague concept:athlete:joe_flacco 0
+
+concept:sportsleague:nfl concept:coachesinleague concept:athlete:joe_flacco 1
+---------------------------------
+concept:sportsleague:nfl concept:athleteplaysinleague concept:athlete:paul_brown 0
+
+concept:sportsleague:nfl concept:coachesinleague concept:athlete:paul_brown 1
+---------------------------------
+concept:sportsleague:mlb concept:athleteplaysinleague concept:athlete:vernon_wells 0
+
+concept:sportsleague:mlb concept:coachesinleague concept:athlete:vernon_wells 1
+---------------------------------
+concept:sportsleague:mlb concept:athleteplaysinleague concept:personmexico:adrian_gonzalez 0
+
+concept:sportsleague:mlb concept:coachesinleague concept:personmexico:adrian_gonzalez 1
+---------------------------------
+concept:sportsleague:mlb concept:athleteplaysinleague concept:athlete:ramirez 0
+
+concept:sportsleague:mlb concept:coachesinleague concept:athlete:ramirez 1
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.0714286 0.0714286 0.0714286 0.0714286
+HITS@3: 1 0.0714286 0.0714286 0.0714286
+HITS@10: 1 0.0714286 0.0714286 0.0714286
+MRR: 0.535714 0.0952381 0.0947077 0.0836466
+MR: 1.92857 36.2857 37.5 70.6429
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.0714286 0.0714286 0.0714286 0.0714286
+HITS@3: 1 0.0714286 0.0714286 0.0714286
+HITS@10: 1 0.0714286 0.0714286 0.0714286
+MRR: 0.535714 0.0952381 0.0947077 0.0836466
+MR: 1.92857 36.2857 37.5 70.6429
+relation_mr_mrr_1_3_10_n_rf 525.00000000000000000 1.32590821225551592 1.00000000000000000 1.00000000000000000 1.00000000000000000 14 1

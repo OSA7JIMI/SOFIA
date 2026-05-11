@@ -1,0 +1,5 @@
+1	concept:chemicalistypeofchemical(A,C) <= concept:chemicalistypeofchemical(A,B), concept:chemicalistypeofchemical(C,B)
+1	concept:chemicalistypeofchemical(A,D) <= concept:chemicalistypeofchemical(A,B), concept:chemicalistypeofchemical(C,B), concept:chemicalistypeofchemical(C,D)
+1	concept:chemicalistypeofchemical(A,E) <= concept:chemicalistypeofchemical(B,A), concept:agriculturalproductcontainchemical(C,B), concept:beveragemadefrombeverage(C,D), concept:agriculturalproductcontainchemical(D,E)
+1	concept:chemicalistypeofchemical(A,E) <= concept:agriculturalproductcontainchemical(B,A), concept:beveragemadefrombeverage(B,C), concept:agriculturalproductcontainchemical(C,D), concept:chemicalistypeofchemical(E,D)
+1	concept:chemicalistypeofchemical(A,C) <= concept:chemicalistypeofchemical(B,A), concept:chemicalistypeofchemical(B,C)

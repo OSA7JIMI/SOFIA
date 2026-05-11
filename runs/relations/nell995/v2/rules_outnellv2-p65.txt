@@ -1,0 +1,2 @@
+1	concept:specializationof(A,B) <= concept:plantincludeplant(A,B)
+1	concept:specializationof(A,C) <= concept:atlocation(B,A), concept:atlocation(B,C)

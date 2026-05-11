@@ -1,0 +1,2 @@
+1	concept:persongraduatedfromuniversity(A,B) <= concept:persongraduatedschool(A,B)
+1	concept:persongraduatedfromuniversity(A,E) <= concept:persongraduatedschool(A,B), concept:synonymfor(B,C), concept:agentcontrols(C,D), concept:organizationhiredperson(E,D)

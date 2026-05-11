@@ -1,0 +1,154 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:citylocatedinstate
+---------------------------------
+concept:stateorprovince:new_jersey concept:citylocatedinstate concept:city:franklin_park 0
+
+concept:stateorprovince:new_jersey concept:atdate concept:city:franklin_park 0.020447
+concept:stateorprovince:new_jersey concept:mutualproxyfor concept:city:franklin_park 0.5
+---------------------------------
+concept:stateorprovince:new_jersey concept:citylocatedinstate concept:city:bogota 0
+
+---------------------------------
+concept:stateorprovince:sonora concept:citylocatedinstate concept:city:tucson 0
+
+---------------------------------
+concept:stateorprovince:tx concept:citylocatedinstate concept:city:san_antonio 0
+
+---------------------------------
+concept:stateorprovince:new_jersey concept:citylocatedinstate concept:city:warren 0
+
+concept:stateorprovince:new_jersey concept:atdate concept:city:warren 0.518277
+concept:stateorprovince:new_jersey concept:lakeinstate concept:city:warren 0.5
+---------------------------------
+concept:stateorprovince:hawaii concept:citylocatedinstate concept:city:honolulu 1
+
+concept:stateorprovince:hawaii concept:agentcontrols concept:city:honolulu 1
+concept:stateorprovince:hawaii concept:atlocation concept:city:honolulu 0.75
+concept:stateorprovince:hawaii concept:citylocatedincountry concept:city:honolulu 1
+concept:stateorprovince:hawaii concept:locationlocatedwithinlocation concept:city:honolulu 1
+concept:stateorprovince:hawaii concept:politicianrepresentslocation concept:city:honolulu 1
+concept:stateorprovince:hawaii concept:subpartof concept:city:honolulu 1
+---------------------------------
+concept:stateorprovince:fl concept:citylocatedinstate concept:city:orlando 0
+
+---------------------------------
+concept:stateorprovince:oklahoma concept:citylocatedinstate concept:city:lawton 2
+
+concept:stateorprovince:oklahoma concept:agentbelongstoorganization concept:city:lawton 0.5
+concept:stateorprovince:oklahoma concept:agentcontrols concept:city:lawton 1
+concept:stateorprovince:oklahoma concept:atlocation concept:city:lawton 1.75
+concept:stateorprovince:oklahoma concept:citylocatedincountry concept:city:lawton 1
+concept:stateorprovince:oklahoma concept:citylocatedingeopoliticallocation concept:city:lawton 1
+concept:stateorprovince:oklahoma concept:lakeinstate concept:city:lawton 0.5
+concept:stateorprovince:oklahoma concept:locationlocatedwithinlocation concept:city:lawton 2
+concept:stateorprovince:oklahoma concept:mutualproxyfor concept:city:lawton 1
+concept:stateorprovince:oklahoma concept:personleadsgeopoliticalorganization concept:city:lawton 1
+concept:stateorprovince:oklahoma concept:politicianrepresentslocation concept:city:lawton 1
+concept:stateorprovince:oklahoma concept:proxyfor concept:city:lawton 1*
+concept:stateorprovince:oklahoma concept:subpartof concept:city:lawton 2
+concept:stateorprovince:oklahoma concept:subpartoforganization concept:city:lawton 0.110863
+---------------------------------
+concept:stateorprovince:new_jersey concept:citylocatedinstate concept:city:lakewood 1
+
+concept:stateorprovince:new_jersey concept:agentcontrols concept:city:lakewood 1
+concept:stateorprovince:new_jersey concept:atdate concept:city:lakewood 0.518277
+concept:stateorprovince:new_jersey concept:atlocation concept:city:lakewood 0.75
+concept:stateorprovince:new_jersey concept:citylocatedincountry concept:city:lakewood 1
+concept:stateorprovince:new_jersey concept:lakeinstate concept:city:lakewood 0.5
+concept:stateorprovince:new_jersey concept:locationlocatedwithinlocation concept:city:lakewood 1
+concept:stateorprovince:new_jersey concept:politicianrepresentslocation concept:city:lakewood 1
+concept:stateorprovince:new_jersey concept:subpartof concept:city:lakewood 1
+---------------------------------
+concept:stateorprovince:utah concept:citylocatedinstate concept:city:provo 1
+
+concept:stateorprovince:utah concept:agentcontrols concept:city:provo 1
+concept:stateorprovince:utah concept:atlocation concept:city:provo 0.75
+concept:stateorprovince:utah concept:citylocatedincountry concept:city:provo 1
+concept:stateorprovince:utah concept:locationlocatedwithinlocation concept:city:provo 1
+concept:stateorprovince:utah concept:politicianrepresentslocation concept:city:provo 1
+concept:stateorprovince:utah concept:subpartof concept:city:provo 1
+---------------------------------
+concept:stateorprovince:hawaii concept:citylocatedinstate concept:city:aiea 0
+
+---------------------------------
+concept:stateorprovince:hawaii concept:citylocatedinstate concept:city:kailua 1
+
+concept:stateorprovince:hawaii concept:agentcontrols concept:city:kailua 1
+concept:stateorprovince:hawaii concept:atlocation concept:city:kailua 0.75
+concept:stateorprovince:hawaii concept:citylocatedincountry concept:city:kailua 1
+concept:stateorprovince:hawaii concept:locationlocatedwithinlocation concept:city:kailua 1
+concept:stateorprovince:hawaii concept:politicianrepresentslocation concept:city:kailua 1
+concept:stateorprovince:hawaii concept:subpartof concept:city:kailua 1
+---------------------------------
+concept:stateorprovince:mi concept:citylocatedinstate concept:city:detroit 0
+
+---------------------------------
+concept:stateorprovince:oklahoma concept:citylocatedinstate concept:city:tulsa 2
+
+concept:stateorprovince:oklahoma concept:agentbelongstoorganization concept:city:tulsa 0.5
+concept:stateorprovince:oklahoma concept:agentcontrols concept:city:tulsa 1
+concept:stateorprovince:oklahoma concept:atlocation concept:city:tulsa 1.75
+concept:stateorprovince:oklahoma concept:citylocatedincountry concept:city:tulsa 1
+concept:stateorprovince:oklahoma concept:citylocatedingeopoliticallocation concept:city:tulsa 1
+concept:stateorprovince:oklahoma concept:lakeinstate concept:city:tulsa 0.5
+concept:stateorprovince:oklahoma concept:locationlocatedwithinlocation concept:city:tulsa 2
+concept:stateorprovince:oklahoma concept:mutualproxyfor concept:city:tulsa 1
+concept:stateorprovince:oklahoma concept:personleadsgeopoliticalorganization concept:city:tulsa 1
+concept:stateorprovince:oklahoma concept:politicianrepresentslocation concept:city:tulsa 1
+concept:stateorprovince:oklahoma concept:proxyfor concept:city:tulsa 1*
+concept:stateorprovince:oklahoma concept:subpartof concept:city:tulsa 2
+concept:stateorprovince:oklahoma concept:subpartoforganization concept:city:tulsa 0.110863
+---------------------------------
+concept:stateorprovince:tx concept:citylocatedinstate concept:city:houston 0
+
+---------------------------------
+concept:stateorprovince:oklahoma concept:citylocatedinstate concept:city:stillwater 2
+
+concept:stateorprovince:oklahoma concept:agentbelongstoorganization concept:city:stillwater 0.5
+concept:stateorprovince:oklahoma concept:agentcontrols concept:city:stillwater 1
+concept:stateorprovince:oklahoma concept:atlocation concept:city:stillwater 1.75
+concept:stateorprovince:oklahoma concept:citylocatedincountry concept:city:stillwater 1
+concept:stateorprovince:oklahoma concept:citylocatedingeopoliticallocation concept:city:stillwater 1
+concept:stateorprovince:oklahoma concept:lakeinstate concept:city:stillwater 0.5
+concept:stateorprovince:oklahoma concept:locationlocatedwithinlocation concept:city:stillwater 2
+concept:stateorprovince:oklahoma concept:mutualproxyfor concept:city:stillwater 1
+concept:stateorprovince:oklahoma concept:personleadsgeopoliticalorganization concept:city:stillwater 1
+concept:stateorprovince:oklahoma concept:politicianrepresentslocation concept:city:stillwater 1
+concept:stateorprovince:oklahoma concept:proxyfor concept:city:stillwater 1*
+concept:stateorprovince:oklahoma concept:subpartof concept:city:stillwater 2
+concept:stateorprovince:oklahoma concept:subpartoforganization concept:city:stillwater 0.220025
+---------------------------------
+concept:stateorprovince:oklahoma concept:citylocatedinstate concept:city:oklahoma_city 2
+
+concept:stateorprovince:oklahoma concept:agentbelongstoorganization concept:city:oklahoma_city 0.5
+concept:stateorprovince:oklahoma concept:agentcontrols concept:city:oklahoma_city 1
+concept:stateorprovince:oklahoma concept:atlocation concept:city:oklahoma_city 1.75
+concept:stateorprovince:oklahoma concept:citylocatedincountry concept:city:oklahoma_city 1
+concept:stateorprovince:oklahoma concept:citylocatedingeopoliticallocation concept:city:oklahoma_city 1
+concept:stateorprovince:oklahoma concept:lakeinstate concept:city:oklahoma_city 0.5
+concept:stateorprovince:oklahoma concept:locationlocatedwithinlocation concept:city:oklahoma_city 2
+concept:stateorprovince:oklahoma concept:mutualproxyfor concept:city:oklahoma_city 1
+concept:stateorprovince:oklahoma concept:personleadsgeopoliticalorganization concept:city:oklahoma_city 1
+concept:stateorprovince:oklahoma concept:politicianrepresentslocation concept:city:oklahoma_city 1
+concept:stateorprovince:oklahoma concept:proxyfor concept:city:oklahoma_city 1*
+concept:stateorprovince:oklahoma concept:subpartof concept:city:oklahoma_city 2
+concept:stateorprovince:oklahoma concept:subpartoforganization concept:city:oklahoma_city 0.110863
+---------------------------------
+concept:stateorprovince:alaska concept:citylocatedinstate concept:city:ambler 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.888889 0 0 0.444444
+HITS@3: 1 0.222222 0.333333 0.444444
+HITS@10: 1 0.444444 0.444444 0.444444
+MRR: 0.925926 0.181062 0.171424 0.451754
+MR: 1.22222 22.7778 23.8333 42.6667
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.888889 0 0 0.444444
+HITS@3: 1 0.333333 0.333333 0.444444
+HITS@10: 1 0.444444 0.444444 0.444444
+MRR: 0.925926 0.190285 0.171424 0.451754
+MR: 1.22222 22.7222 23.8333 42.6667
+relation_mr_mrr_1_3_10_n_rf 429.00000000000000000 3.08562409860024811 0.00000000000000000 6.00000000000000000 8.00000000000000000 18 8

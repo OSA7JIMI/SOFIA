@@ -1,0 +1,4 @@
+1	concept:sportsgameteam(A,D) <= concept:sportsgameteam(A,B), concept:teamplaysagainstteam(B,C), concept:teamplaysagainstteam(C,D)
+1	concept:sportsgameteam(A,D) <= concept:sportsgameteam(A,B), concept:organizationheadquarteredinstateorprovince(B,C), concept:organizationheadquarteredinstateorprovince(D,C)
+1	concept:sportsgameteam(A,D) <= concept:sportsgameteam(A,B), concept:teamplayssport(B,C), concept:teamplayssport(D,C)
+1	concept:sportsgameteam(A,D) <= concept:agentparticipatedinevent(B,A), concept:agentparticipatedinevent(B,C), concept:sportsgameteam(C,D)

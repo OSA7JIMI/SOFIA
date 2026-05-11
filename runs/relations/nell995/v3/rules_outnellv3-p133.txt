@@ -1,0 +1,1 @@
+1	concept:teamplaysinleague(A,C) <= concept:teamplaysagainstteam(A,B), concept:teamplaysinleague(B,C)

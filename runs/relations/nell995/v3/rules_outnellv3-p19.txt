@@ -1,0 +1,4 @@
+1	concept:animaldevelopdisease(A,E) <= concept:agriculturalproductcomingfromvertebrate(B,A), concept:agriculturalproductcomingfromvertebrate(B,C), concept:animalistypeofanimal(C,D), concept:animaldevelopdisease(D,E)
+1	concept:animaldevelopdisease(A,E) <= concept:animalpreyson(A,B), concept:animalsuchasfish(B,C), concept:fishservedwithfood(C,D), concept:foodcancausedisease(D,E)
+1	concept:animaldevelopdisease(A,E) <= concept:animaleatfood(A,B), concept:agriculturalproductcookedwithagriculturalproduct(C,B), concept:agriculturalproductcomingfromvertebrate(C,D), concept:animaldevelopdisease(D,E)
+1	concept:animaldevelopdisease(A,C) <= concept:animalistypeofanimal(A,B), concept:animaldevelopdisease(B,C)

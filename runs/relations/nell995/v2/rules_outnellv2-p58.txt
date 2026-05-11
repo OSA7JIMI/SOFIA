@@ -1,0 +1,3 @@
+1	concept:personleadsgeopoliticalorganization(A,B) <= concept:organizationhiredperson(B,A)
+1	concept:personleadsgeopoliticalorganization(A,B) <= concept:personleadsorganization(A,B)
+1	concept:personleadsgeopoliticalorganization(A,D) <= concept:personleadsgeopoliticalorganization(A,B), concept:proxyfor(B,C), concept:mutualproxyfor(C,D)

@@ -1,0 +1,3 @@
+1	concept:personchargedwithcrime(A,D) <= concept:personbornincity(A,B), concept:personbornincity(C,B), concept:personchargedwithcrime(C,D)
+1	concept:personchargedwithcrime(A,D) <= concept:agentcollaborateswithagent(A,B), concept:agentbelongstoorganization(B,C), concept:agentparticipatedinevent(C,D)
+1	concept:personchargedwithcrime(A,D) <= concept:worksfor(A,B), concept:agentcollaborateswithagent(B,C), concept:personchargedwithcrime(C,D)

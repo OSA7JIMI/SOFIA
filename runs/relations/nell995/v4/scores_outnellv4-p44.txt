@@ -1,0 +1,2258 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:organizationhiredperson
+---------------------------------
+concept:coach:steve_sarkisian concept:organizationhiredperson concept:city:washington_d_c 1
+
+concept:coach:steve_sarkisian concept:agentcollaborateswithagent concept:city:washington_d_c 1
+concept:coach:steve_sarkisian concept:agentcompeteswithagent concept:city:washington_d_c 0.0595295
+concept:coach:steve_sarkisian concept:organizationterminatedperson concept:city:washington_d_c 1
+---------------------------------
+concept:person:don_shula concept:organizationhiredperson concept:sportsteam:baltimore_colts 0
+
+concept:person:don_shula concept:agentcompeteswithagent concept:sportsteam:baltimore_colts 0.0595295
+concept:person:don_shula concept:organizationterminatedperson concept:sportsteam:baltimore_colts 1
+---------------------------------
+concept:coach:vince_lombardi concept:organizationhiredperson concept:sportsteam:redskins 1
+
+concept:coach:vince_lombardi concept:agentcollaborateswithagent concept:sportsteam:redskins 1
+concept:coach:vince_lombardi concept:organizationterminatedperson concept:sportsteam:redskins 1
+---------------------------------
+concept:coach:gregg_popovich concept:organizationhiredperson concept:sportsteam:spurs 1
+
+concept:coach:gregg_popovich concept:agentcollaborateswithagent concept:sportsteam:spurs 1
+concept:coach:gregg_popovich concept:organizationterminatedperson concept:sportsteam:spurs 1
+---------------------------------
+concept:coach:van_gundy concept:organizationhiredperson concept:company:new_york 0
+
+concept:coach:van_gundy concept:agentcompeteswithagent concept:company:new_york 0.0595295
+concept:coach:van_gundy concept:organizationterminatedperson concept:company:new_york 1
+---------------------------------
+concept:coach:petrino concept:organizationhiredperson concept:sportsteam:falcons 0
+
+concept:coach:petrino concept:organizationterminatedperson concept:sportsteam:falcons 1
+---------------------------------
+concept:coach:mike_brey concept:organizationhiredperson concept:sportsteam:notre_dame 0
+
+concept:coach:mike_brey concept:organizationterminatedperson concept:sportsteam:notre_dame 1
+---------------------------------
+concept:coach:nick_saban concept:organizationhiredperson concept:sportsteam:alabama_crimson_tide 1
+
+concept:coach:nick_saban concept:organizationterminatedperson concept:sportsteam:alabama_crimson_tide 1
+---------------------------------
+concept:coach:chris_petersen concept:organizationhiredperson concept:sportsteam:boise_state_broncos 1
+
+concept:coach:chris_petersen concept:organizationterminatedperson concept:sportsteam:boise_state_broncos 1
+---------------------------------
+concept:personus:warren_buffet concept:organizationhiredperson concept:nongovorganization:u_s_ 1
+
+concept:personus:warren_buffet concept:agentcollaborateswithagent concept:nongovorganization:u_s_ 1.40897
+concept:personus:warren_buffet concept:agentcontrols concept:nongovorganization:u_s_ 0.625
+concept:personus:warren_buffet concept:leaguestadiums concept:nongovorganization:u_s_ 0.25
+concept:personus:warren_buffet concept:mutualproxyfor concept:nongovorganization:u_s_ 0.5
+concept:personus:warren_buffet concept:organizationterminatedperson concept:nongovorganization:u_s_ 2
+concept:personus:warren_buffet concept:proxyfor concept:nongovorganization:u_s_ 1
+concept:personus:warren_buffet concept:sportsgameteam concept:nongovorganization:u_s_ 0.5
+concept:personus:warren_buffet concept:subpartof concept:nongovorganization:u_s_ 1
+---------------------------------
+concept:athlete:john_madden concept:organizationhiredperson concept:sportsteam:oakland_raiders 0
+
+concept:athlete:john_madden concept:organizationterminatedperson concept:sportsteam:oakland_raiders 1
+---------------------------------
+concept:coach:billick concept:organizationhiredperson concept:sportsteam:ravens 1
+
+concept:coach:billick concept:agentcollaborateswithagent concept:sportsteam:ravens 1
+concept:coach:billick concept:agentcompeteswithagent concept:sportsteam:ravens 0.0595295
+concept:coach:billick concept:organizationterminatedperson concept:sportsteam:ravens 1
+---------------------------------
+concept:coach:john_bunting concept:organizationhiredperson concept:company:north_carolina 1
+
+concept:coach:john_bunting concept:agentcollaborateswithagent concept:company:north_carolina 1
+concept:coach:john_bunting concept:organizationterminatedperson concept:company:north_carolina 1
+---------------------------------
+concept:coach:dale_brown concept:organizationhiredperson concept:sportsteam:lsu 0
+
+concept:coach:dale_brown concept:agentcompeteswithagent concept:sportsteam:lsu 0.0595295
+concept:coach:dale_brown concept:organizationterminatedperson concept:sportsteam:lsu 1
+---------------------------------
+concept:coach:jim_zorn concept:organizationhiredperson concept:sportsteam:seahawks 0
+
+concept:coach:jim_zorn concept:organizationterminatedperson concept:sportsteam:seahawks 1
+---------------------------------
+concept:coach:byron_scott concept:organizationhiredperson concept:sportsteam:new_orleans_saints 0
+
+concept:coach:byron_scott concept:organizationterminatedperson concept:sportsteam:new_orleans_saints 1
+---------------------------------
+concept:coach:ben_howland concept:organizationhiredperson concept:sportsteam:ucla 0
+
+concept:coach:ben_howland concept:organizationterminatedperson concept:sportsteam:ucla 1
+---------------------------------
+concept:coach:pat_hill concept:organizationhiredperson concept:sportsteam:fresno_state_bulldogs 1
+
+concept:coach:pat_hill concept:organizationterminatedperson concept:sportsteam:fresno_state_bulldogs 1
+---------------------------------
+concept:person:andy_reid concept:organizationhiredperson concept:city:philly 0
+
+concept:person:andy_reid concept:organizationterminatedperson concept:city:philly 1
+---------------------------------
+concept:coach:eric_mangini concept:organizationhiredperson concept:radiostation:cleveland 2
+
+concept:coach:eric_mangini concept:organizationterminatedperson concept:radiostation:cleveland 1*
+---------------------------------
+concept:athlete:larry_robinson concept:organizationhiredperson concept:sportsteam:devils 1
+
+concept:athlete:larry_robinson concept:organizationterminatedperson concept:sportsteam:devils 1
+---------------------------------
+concept:coach:steve_spurrier concept:organizationhiredperson concept:sportsteam:gamecocks 1
+
+concept:coach:steve_spurrier concept:organizationterminatedperson concept:sportsteam:gamecocks 1
+---------------------------------
+concept:coach:gary_kubiak concept:organizationhiredperson concept:sportsteam:texans 1
+
+concept:coach:gary_kubiak concept:organizationterminatedperson concept:sportsteam:texans 1
+---------------------------------
+concept:coach:scott_linehan concept:organizationhiredperson concept:city:st_louis 2
+
+concept:coach:scott_linehan concept:agentcollaborateswithagent concept:city:st_louis 1
+concept:coach:scott_linehan concept:organizationterminatedperson concept:city:st_louis 1
+concept:coach:scott_linehan concept:subpartof concept:city:st_louis 0.75
+---------------------------------
+concept:coach:steve_spurrier concept:organizationhiredperson concept:university:usc 1
+
+concept:coach:steve_spurrier concept:agentcollaborateswithagent concept:university:usc 1
+concept:coach:steve_spurrier concept:organizationterminatedperson concept:university:usc 1
+---------------------------------
+concept:athlete:paul_brown concept:organizationhiredperson concept:sportsteam:philadelphia_eagles 2
+
+concept:athlete:paul_brown concept:agentcollaborateswithagent concept:sportsteam:philadelphia_eagles 1
+concept:athlete:paul_brown concept:organizationterminatedperson concept:sportsteam:philadelphia_eagles 1
+---------------------------------
+concept:coach:jim_o_brien concept:organizationhiredperson concept:sportsteam:ohio_state_university 0
+
+concept:coach:jim_o_brien concept:organizationterminatedperson concept:sportsteam:ohio_state_university 1
+---------------------------------
+concept:coach:saban concept:organizationhiredperson concept:sportsteam:michigan_state 0
+
+concept:coach:saban concept:organizationterminatedperson concept:sportsteam:michigan_state 1
+---------------------------------
+concept:coach:john_harbaugh concept:organizationhiredperson concept:sportsteam:ravens 2
+
+concept:coach:john_harbaugh concept:agentcollaborateswithagent concept:sportsteam:ravens 1
+concept:coach:john_harbaugh concept:agentcompeteswithagent concept:sportsteam:ravens 0.0595295
+concept:coach:john_harbaugh concept:organizationterminatedperson concept:sportsteam:ravens 1
+---------------------------------
+concept:politician:michael_r__bloomberg concept:organizationhiredperson concept:company:new_york 0
+
+concept:politician:michael_r__bloomberg concept:agentcompeteswithagent concept:company:new_york 0.0595295
+concept:politician:michael_r__bloomberg concept:organizationterminatedperson concept:company:new_york 1
+---------------------------------
+concept:coach:bronco_mendenhall concept:organizationhiredperson concept:sportsteam:byu 2
+
+concept:coach:bronco_mendenhall concept:agentcollaborateswithagent concept:sportsteam:byu 1
+concept:coach:bronco_mendenhall concept:organizationterminatedperson concept:sportsteam:byu 1
+---------------------------------
+concept:coach:guy_carbonneau concept:organizationhiredperson concept:sportsteam:montreal_canadiens 0
+
+concept:coach:guy_carbonneau concept:organizationterminatedperson concept:sportsteam:montreal_canadiens 1
+---------------------------------
+concept:coach:bill_parcells concept:organizationhiredperson concept:sportsteam:dallas_cowboys 0
+
+concept:coach:bill_parcells concept:organizationterminatedperson concept:sportsteam:dallas_cowboys 1
+---------------------------------
+concept:coach:lindy_ruff concept:organizationhiredperson concept:sportsteam:buffalo_sabres 1
+
+concept:coach:lindy_ruff concept:organizationterminatedperson concept:sportsteam:buffalo_sabres 1
+---------------------------------
+concept:coach:gary_patterson concept:organizationhiredperson concept:sportsteam:texas_christian_university 1
+
+concept:coach:gary_patterson concept:organizationterminatedperson concept:sportsteam:texas_christian_university 1
+---------------------------------
+concept:coach:mike_martz concept:organizationhiredperson concept:city:st_louis 2
+
+concept:coach:mike_martz concept:agentcollaborateswithagent concept:city:st_louis 1
+concept:coach:mike_martz concept:organizationterminatedperson concept:city:st_louis 1
+---------------------------------
+concept:coach:martz concept:organizationhiredperson concept:sportsteam:rams 1
+
+concept:coach:martz concept:agentcollaborateswithagent concept:sportsteam:rams 1
+concept:coach:martz concept:organizationterminatedperson concept:sportsteam:rams 1
+---------------------------------
+concept:athlete:mike_smith concept:organizationhiredperson concept:sportsteam:falcons 1
+
+concept:athlete:mike_smith concept:organizationterminatedperson concept:sportsteam:falcons 1
+---------------------------------
+concept:coach:nick_saban concept:organizationhiredperson concept:sportsteam:michigan_state 1
+
+concept:coach:nick_saban concept:agentcollaborateswithagent concept:sportsteam:michigan_state 1
+concept:coach:nick_saban concept:organizationterminatedperson concept:sportsteam:michigan_state 1
+---------------------------------
+concept:coach:matt_doherty concept:organizationhiredperson concept:company:north_carolina 0
+
+concept:coach:matt_doherty concept:organizationterminatedperson concept:company:north_carolina 1
+---------------------------------
+concept:personus:willie_randolph concept:organizationhiredperson concept:sportsteam:new_york_mets 0
+
+concept:personus:willie_randolph concept:organizationterminatedperson concept:sportsteam:new_york_mets 1
+---------------------------------
+concept:coach:erik_spoelstra concept:organizationhiredperson concept:sportsteam:heat 1
+
+concept:coach:erik_spoelstra concept:agentcollaborateswithagent concept:sportsteam:heat 1
+concept:coach:erik_spoelstra concept:organizationterminatedperson concept:sportsteam:heat 1
+---------------------------------
+concept:coach:bill_herrion concept:organizationhiredperson concept:sportsteam:east_carolina 1
+
+concept:coach:bill_herrion concept:agentcollaborateswithagent concept:sportsteam:east_carolina 1
+concept:coach:bill_herrion concept:agentcompeteswithagent concept:sportsteam:east_carolina 0.0595295
+concept:coach:bill_herrion concept:organizationterminatedperson concept:sportsteam:east_carolina 1
+---------------------------------
+concept:coach:tony_dungy concept:organizationhiredperson concept:sportsteam:buccaneers 2
+
+concept:coach:tony_dungy concept:agentcollaborateswithagent concept:sportsteam:buccaneers 1
+concept:coach:tony_dungy concept:organizationterminatedperson concept:sportsteam:buccaneers 1
+---------------------------------
+concept:coach:saban concept:organizationhiredperson concept:university:alabama 1
+
+concept:coach:saban concept:organizationterminatedperson concept:university:alabama 1
+---------------------------------
+concept:coach:mitch_williams concept:organizationhiredperson concept:sportsteam:raptors 2
+
+concept:coach:mitch_williams concept:agentcollaborateswithagent concept:sportsteam:raptors 1
+concept:coach:mitch_williams concept:organizationterminatedperson concept:sportsteam:raptors 1
+---------------------------------
+concept:coach:jack_leggett concept:organizationhiredperson concept:university:clemson 0
+
+concept:coach:jack_leggett concept:organizationterminatedperson concept:university:clemson 1
+---------------------------------
+concept:person:montgomery concept:organizationhiredperson concept:sportsteam:stanford 1
+
+concept:person:montgomery concept:organizationterminatedperson concept:sportsteam:stanford 1
+---------------------------------
+concept:coach:cowher concept:organizationhiredperson concept:sportsleague:nfl 0
+
+concept:coach:cowher concept:organizationterminatedperson concept:sportsleague:nfl 1
+---------------------------------
+concept:politician:wellington_webb concept:organizationhiredperson concept:city:denver 0
+
+concept:politician:wellington_webb concept:agentcompeteswithagent concept:city:denver 0.0595295
+concept:politician:wellington_webb concept:organizationterminatedperson concept:city:denver 1
+---------------------------------
+concept:coach:raheem_morris concept:organizationhiredperson concept:sportsteam:bucs 0
+
+concept:coach:raheem_morris concept:organizationterminatedperson concept:sportsteam:bucs 1
+---------------------------------
+concept:coach:dungy concept:organizationhiredperson concept:sportsleague:nfl 1
+
+concept:coach:dungy concept:organizationterminatedperson concept:sportsleague:nfl 1
+---------------------------------
+concept:athlete:marty_schottenheimer concept:organizationhiredperson concept:sportsteam:sd_chargers 2
+
+concept:athlete:marty_schottenheimer concept:agentcollaborateswithagent concept:sportsteam:sd_chargers 1
+concept:athlete:marty_schottenheimer concept:agentcompeteswithagent concept:sportsteam:sd_chargers 0.0595295
+concept:athlete:marty_schottenheimer concept:organizationterminatedperson concept:sportsteam:sd_chargers 1
+---------------------------------
+concept:coach:eric_mangini concept:organizationhiredperson concept:sportsleague:new 2
+
+concept:coach:eric_mangini concept:agentcollaborateswithagent concept:sportsleague:new 1
+concept:coach:eric_mangini concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:coach:mangini concept:organizationhiredperson concept:radiostation:cleveland 1
+
+concept:coach:mangini concept:organizationterminatedperson concept:radiostation:cleveland 1
+---------------------------------
+concept:coach:dennis_franchione concept:organizationhiredperson concept:university:alabama 0
+
+concept:coach:dennis_franchione concept:organizationterminatedperson concept:university:alabama 1
+---------------------------------
+concept:coach:frank_beamer concept:organizationhiredperson concept:county:virginia_tech 1
+
+concept:coach:frank_beamer concept:agentcollaborateswithagent concept:county:virginia_tech 1
+concept:coach:frank_beamer concept:organizationterminatedperson concept:county:virginia_tech 1
+---------------------------------
+concept:coach:jim_tressel concept:organizationhiredperson concept:university:ohio_state 1
+
+concept:coach:jim_tressel concept:agentcollaborateswithagent concept:university:ohio_state 1
+concept:coach:jim_tressel concept:organizationterminatedperson concept:university:ohio_state 1
+---------------------------------
+concept:coach:sidney_lowe concept:organizationhiredperson concept:university:north_carolina_state 1
+
+concept:coach:sidney_lowe concept:organizationterminatedperson concept:university:north_carolina_state 1
+---------------------------------
+concept:coach:brett_carroll concept:organizationhiredperson concept:city:princeton 0
+
+concept:coach:brett_carroll concept:organizationterminatedperson concept:city:princeton 1
+---------------------------------
+concept:athlete:paul_brown concept:organizationhiredperson concept:sportsteam:kansas_city_chiefs 1
+
+concept:athlete:paul_brown concept:agentcollaborateswithagent concept:sportsteam:kansas_city_chiefs 1
+concept:athlete:paul_brown concept:organizationterminatedperson concept:sportsteam:kansas_city_chiefs 1
+---------------------------------
+concept:coach:d_antoni concept:organizationhiredperson concept:city:phoenix 1
+
+concept:coach:d_antoni concept:organizationterminatedperson concept:city:phoenix 1
+---------------------------------
+concept:coach:nate_mcmillan concept:organizationhiredperson concept:sportsteam:trail_blazers 0
+
+concept:coach:nate_mcmillan concept:organizationterminatedperson concept:sportsteam:trail_blazers 1
+---------------------------------
+concept:personmexico:stewart concept:organizationhiredperson concept:university:wvu 2
+
+concept:personmexico:stewart concept:agentcollaborateswithagent concept:university:wvu 1
+concept:personmexico:stewart concept:organizationterminatedperson concept:university:wvu 1
+---------------------------------
+concept:athlete:butch_davis concept:organizationhiredperson concept:company:north_carolina 1
+
+concept:athlete:butch_davis concept:agentcollaborateswithagent concept:company:north_carolina 1
+concept:athlete:butch_davis concept:organizationterminatedperson concept:company:north_carolina 1
+---------------------------------
+concept:coach:ara_parseghian concept:organizationhiredperson concept:sportsteam:notre_dame 0
+
+concept:coach:ara_parseghian concept:organizationterminatedperson concept:sportsteam:notre_dame 1
+---------------------------------
+concept:coach:tyrone_willingham concept:organizationhiredperson concept:sportsteam:notre_dame 1
+
+concept:coach:tyrone_willingham concept:organizationterminatedperson concept:sportsteam:notre_dame 1
+---------------------------------
+concept:coach:guy_morriss concept:organizationhiredperson concept:sportsteam:mary_hardin_baylor_crusaders 1
+
+concept:coach:guy_morriss concept:agentcollaborateswithagent concept:sportsteam:mary_hardin_baylor_crusaders 1
+concept:coach:guy_morriss concept:organizationterminatedperson concept:sportsteam:mary_hardin_baylor_crusaders 1
+---------------------------------
+concept:coach:mangini concept:organizationhiredperson concept:sportsteam:new_york_jets 2
+
+concept:coach:mangini concept:agentcollaborateswithagent concept:sportsteam:new_york_jets 1
+concept:coach:mangini concept:agentcompeteswithagent concept:sportsteam:new_york_jets 0.0595295
+concept:coach:mangini concept:organizationterminatedperson concept:sportsteam:new_york_jets 1
+---------------------------------
+concept:coach:tony_dicicco concept:organizationhiredperson concept:nongovorganization:u_s_ 1
+
+concept:coach:tony_dicicco concept:organizationterminatedperson concept:nongovorganization:u_s_ 1*
+---------------------------------
+concept:coach:romeo_crennel concept:organizationhiredperson concept:radiostation:cleveland 2
+
+concept:coach:romeo_crennel concept:agentcollaborateswithagent concept:radiostation:cleveland 1
+concept:coach:romeo_crennel concept:organizationterminatedperson concept:radiostation:cleveland 1
+---------------------------------
+concept:coach:bill_parcells concept:organizationhiredperson concept:sportsteam:new_england_patriots 1
+
+concept:coach:bill_parcells concept:agentcollaborateswithagent concept:sportsteam:new_england_patriots 1
+concept:coach:bill_parcells concept:agentcompeteswithagent concept:sportsteam:new_england_patriots 0.0595295
+concept:coach:bill_parcells concept:organizationterminatedperson concept:sportsteam:new_england_patriots 1
+---------------------------------
+concept:person:skip_bertman concept:organizationhiredperson concept:sportsteam:lsu 0
+
+concept:person:skip_bertman concept:agentcompeteswithagent concept:sportsteam:lsu 0.0595295
+concept:person:skip_bertman concept:organizationterminatedperson concept:sportsteam:lsu 1
+---------------------------------
+concept:coach:cowher concept:organizationhiredperson concept:sportsteam:steelers 1
+
+concept:coach:cowher concept:agentcompeteswithagent concept:sportsteam:steelers 0.0595295
+concept:coach:cowher concept:organizationterminatedperson concept:sportsteam:steelers 1
+---------------------------------
+concept:coach:steve_spagnuolo concept:organizationhiredperson concept:sportsleague:new 1
+
+concept:coach:steve_spagnuolo concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:coach:bruce_arena concept:organizationhiredperson concept:nongovorganization:u_s_ 1
+
+concept:coach:bruce_arena concept:agentcollaborateswithagent concept:nongovorganization:u_s_ 1
+concept:coach:bruce_arena concept:organizationterminatedperson concept:nongovorganization:u_s_ 1
+---------------------------------
+concept:coach:van_gundy concept:organizationhiredperson concept:sportsteam:heat 0
+
+concept:coach:van_gundy concept:organizationterminatedperson concept:sportsteam:heat 1
+---------------------------------
+concept:politician:fernando_ferrer concept:organizationhiredperson concept:city:new_york 0
+
+concept:politician:fernando_ferrer concept:organizationterminatedperson concept:city:new_york 1
+---------------------------------
+concept:coach:greg_mcmackin concept:organizationhiredperson concept:stateorprovince:hawaii 0
+
+concept:coach:greg_mcmackin concept:organizationterminatedperson concept:stateorprovince:hawaii 1
+---------------------------------
+concept:personmexico:eric_wedge concept:organizationhiredperson concept:sportsteam:cleveland_indians_organization 0
+
+concept:personmexico:eric_wedge concept:organizationterminatedperson concept:sportsteam:cleveland_indians_organization 1
+---------------------------------
+concept:coach:huggins concept:organizationhiredperson concept:university:kansas_state 0
+
+concept:coach:huggins concept:organizationterminatedperson concept:university:kansas_state 1
+---------------------------------
+concept:coach:chizik concept:organizationhiredperson concept:university:auburn 0
+
+concept:coach:chizik concept:organizationterminatedperson concept:university:auburn 1
+---------------------------------
+concept:coach:renney concept:organizationhiredperson concept:sportsteam:rangers 0
+
+concept:coach:renney concept:organizationterminatedperson concept:sportsteam:rangers 1
+---------------------------------
+concept:athlete:ovechkin concept:organizationhiredperson concept:sportsteam:capitals 0
+
+concept:athlete:ovechkin concept:organizationterminatedperson concept:sportsteam:capitals 1
+---------------------------------
+concept:coach:skip_holtz concept:organizationhiredperson concept:sportsteam:east_carolina 1
+
+concept:coach:skip_holtz concept:agentcollaborateswithagent concept:sportsteam:east_carolina 1
+concept:coach:skip_holtz concept:agentcompeteswithagent concept:sportsteam:east_carolina 0.0595295
+concept:coach:skip_holtz concept:organizationterminatedperson concept:sportsteam:east_carolina 1
+---------------------------------
+concept:coach:john_wooden concept:organizationhiredperson concept:sportsteam:bruins 0
+
+concept:coach:john_wooden concept:organizationterminatedperson concept:sportsteam:bruins 1
+---------------------------------
+concept:coach:jim_grobe concept:organizationhiredperson concept:sportsteam:wake_forest 1
+
+concept:coach:jim_grobe concept:organizationterminatedperson concept:sportsteam:wake_forest 1
+---------------------------------
+concept:coach:bill_callahan concept:organizationhiredperson concept:sportsteam:oakland_raiders 0
+
+concept:coach:bill_callahan concept:organizationterminatedperson concept:sportsteam:oakland_raiders 1
+---------------------------------
+concept:personaustralia:bill_self concept:organizationhiredperson concept:university:ku 0
+
+concept:personaustralia:bill_self concept:organizationterminatedperson concept:university:ku 1
+---------------------------------
+concept:coach:rex_ryan concept:organizationhiredperson concept:sportsteam:new_york_jets 2
+
+concept:coach:rex_ryan concept:agentbelongstoorganization concept:sportsteam:new_york_jets 0.5
+concept:coach:rex_ryan concept:agentcollaborateswithagent concept:sportsteam:new_york_jets 2.5
+concept:coach:rex_ryan concept:agentcompeteswithagent concept:sportsteam:new_york_jets 0.0595295
+concept:coach:rex_ryan concept:organizationterminatedperson concept:sportsteam:new_york_jets 1
+---------------------------------
+concept:coach:grobe concept:organizationhiredperson concept:sportsteam:wake_forest 0
+
+concept:coach:grobe concept:organizationterminatedperson concept:sportsteam:wake_forest 1
+---------------------------------
+concept:personaustralia:tony_bennett concept:organizationhiredperson concept:sportsteam:washington_state 0
+
+concept:personaustralia:tony_bennett concept:organizationterminatedperson concept:sportsteam:washington_state 1
+---------------------------------
+concept:coach:raheem_morris concept:organizationhiredperson concept:sportsteam:buccaneers 2
+
+concept:coach:raheem_morris concept:agentcollaborateswithagent concept:sportsteam:buccaneers 1
+concept:coach:raheem_morris concept:organizationterminatedperson concept:sportsteam:buccaneers 1
+---------------------------------
+concept:politician:dodd concept:organizationhiredperson concept:sportsteam:georgia_tech 0
+
+concept:politician:dodd concept:organizationterminatedperson concept:sportsteam:georgia_tech 1
+---------------------------------
+concept:coach:dantonio concept:organizationhiredperson concept:sportsteam:michigan_state 0
+
+concept:coach:dantonio concept:organizationterminatedperson concept:sportsteam:michigan_state 1
+---------------------------------
+concept:coach:gene_chizik concept:organizationhiredperson concept:bank:iowa_state 0
+
+concept:coach:gene_chizik concept:organizationterminatedperson concept:bank:iowa_state 1
+concept:coach:gene_chizik concept:subpartoforganization concept:bank:iowa_state 0.5
+---------------------------------
+concept:coach:harbaugh concept:organizationhiredperson concept:sportsteam:ravens 1
+
+concept:coach:harbaugh concept:agentcollaborateswithagent concept:sportsteam:ravens 1
+concept:coach:harbaugh concept:agentcompeteswithagent concept:sportsteam:ravens 0.0595295
+concept:coach:harbaugh concept:organizationterminatedperson concept:sportsteam:ravens 1
+---------------------------------
+concept:coach:j_d__brookhart concept:organizationhiredperson concept:sportsteam:akron_pros 2
+
+concept:coach:j_d__brookhart concept:agentcollaborateswithagent concept:sportsteam:akron_pros 1
+concept:coach:j_d__brookhart concept:organizationterminatedperson concept:sportsteam:akron_pros 1
+---------------------------------
+concept:coach:todd_bowles concept:organizationhiredperson concept:sportsteam:miami_dolphins 0
+
+concept:coach:todd_bowles concept:agentcompeteswithagent concept:sportsteam:miami_dolphins 0.0595295
+concept:coach:todd_bowles concept:organizationterminatedperson concept:sportsteam:miami_dolphins 1
+---------------------------------
+concept:athlete:rick_pitino concept:organizationhiredperson concept:sportsteam:boston_celtics 2
+
+concept:athlete:rick_pitino concept:agentcollaborateswithagent concept:sportsteam:boston_celtics 1
+concept:athlete:rick_pitino concept:organizationterminatedperson concept:sportsteam:boston_celtics 1
+---------------------------------
+concept:person:belichick concept:organizationhiredperson concept:sportsteam:pats 1
+
+concept:person:belichick concept:agentcollaborateswithagent concept:sportsteam:pats 1
+concept:person:belichick concept:organizationterminatedperson concept:sportsteam:pats 1
+---------------------------------
+concept:coach:coach_scott_linehan concept:organizationhiredperson concept:sportsteam:rams 0
+
+concept:coach:coach_scott_linehan concept:organizationterminatedperson concept:sportsteam:rams 1
+---------------------------------
+concept:coach:tom_coughlin concept:organizationhiredperson concept:sportsteam:jaguars 0
+
+concept:coach:tom_coughlin concept:organizationterminatedperson concept:sportsteam:jaguars 1
+---------------------------------
+concept:personus:theo_epstein concept:organizationhiredperson concept:sportsteam:red_sox 2
+
+concept:personus:theo_epstein concept:agentcollaborateswithagent concept:sportsteam:red_sox 1
+concept:personus:theo_epstein concept:organizationterminatedperson concept:sportsteam:red_sox 1*
+---------------------------------
+concept:coach:bill_stewart concept:organizationhiredperson concept:university:wvu 0
+
+concept:coach:bill_stewart concept:organizationterminatedperson concept:university:wvu 1
+---------------------------------
+concept:coach:romeo_crennel concept:organizationhiredperson concept:sportsteam:cleveland_browns 1
+
+concept:coach:romeo_crennel concept:agentcollaborateswithagent concept:sportsteam:cleveland_browns 1
+concept:coach:romeo_crennel concept:organizationterminatedperson concept:sportsteam:cleveland_browns 1
+---------------------------------
+concept:writer:brian_billick concept:organizationhiredperson concept:sportsteam:ravens 1
+
+concept:writer:brian_billick concept:agentcollaborateswithagent concept:sportsteam:ravens 1
+concept:writer:brian_billick concept:agentcompeteswithagent concept:sportsteam:ravens 0.0595295
+concept:writer:brian_billick concept:organizationterminatedperson concept:sportsteam:ravens 1
+---------------------------------
+concept:coach:doug_martin concept:organizationhiredperson concept:university:kent_state 0
+
+concept:coach:doug_martin concept:organizationterminatedperson concept:university:kent_state 1
+---------------------------------
+concept:coach:carroll concept:organizationhiredperson concept:recordlabel:trojan 1
+
+concept:coach:carroll concept:agentcollaborateswithagent concept:recordlabel:trojan 1
+concept:coach:carroll concept:organizationterminatedperson concept:recordlabel:trojan 1
+---------------------------------
+concept:coach:tim_murphy concept:organizationhiredperson concept:sportsteam:harvard_divinity_school 2
+
+concept:coach:tim_murphy concept:agentcollaborateswithagent concept:sportsteam:harvard_divinity_school 1
+concept:coach:tim_murphy concept:organizationterminatedperson concept:sportsteam:harvard_divinity_school 1
+---------------------------------
+concept:coach:charlie_weis concept:organizationhiredperson concept:sportsteam:notre_dame 0
+
+concept:coach:charlie_weis concept:agentcollaborateswithagent concept:sportsteam:notre_dame 1
+concept:coach:charlie_weis concept:organizationterminatedperson concept:sportsteam:notre_dame 1
+---------------------------------
+concept:coach:sylvester_croom concept:organizationhiredperson concept:university:msu 1
+
+concept:coach:sylvester_croom concept:agentcollaborateswithagent concept:university:msu 1
+concept:coach:sylvester_croom concept:organizationterminatedperson concept:university:msu 1
+---------------------------------
+concept:coach:ken_whisenhunt concept:organizationhiredperson concept:sportsteam:arizona_cardinals_27_23 0
+
+concept:coach:ken_whisenhunt concept:agentcompeteswithagent concept:sportsteam:arizona_cardinals_27_23 0.0595295
+concept:coach:ken_whisenhunt concept:organizationterminatedperson concept:sportsteam:arizona_cardinals_27_23 1
+---------------------------------
+concept:athlete:rich_rodriguez concept:organizationhiredperson concept:company:west_virginia 1
+
+concept:athlete:rich_rodriguez concept:agentcollaborateswithagent concept:company:west_virginia 1
+concept:athlete:rich_rodriguez concept:organizationterminatedperson concept:company:west_virginia 1
+---------------------------------
+concept:coach:van_gundy concept:organizationhiredperson concept:sportsteam:rockets 1
+
+concept:coach:van_gundy concept:organizationterminatedperson concept:sportsteam:rockets 1
+---------------------------------
+concept:person:lane_kiffin concept:organizationhiredperson concept:sportsteam:vols 1
+
+concept:person:lane_kiffin concept:agentcollaborateswithagent concept:sportsteam:vols 1
+concept:person:lane_kiffin concept:organizationterminatedperson concept:sportsteam:vols 1
+---------------------------------
+concept:coach:mike_d_antoni concept:organizationhiredperson concept:sportsteam:suns 2
+
+concept:coach:mike_d_antoni concept:agentcollaborateswithagent concept:sportsteam:suns 1
+concept:coach:mike_d_antoni concept:organizationterminatedperson concept:sportsteam:suns 1
+---------------------------------
+concept:coach:johnny_dawkins concept:organizationhiredperson concept:sportsteam:stanford 1
+
+concept:coach:johnny_dawkins concept:organizationterminatedperson concept:sportsteam:stanford 1
+---------------------------------
+concept:athlete:craig_robinson concept:organizationhiredperson concept:sportsteam:oregon_state_beavers 0
+
+concept:athlete:craig_robinson concept:organizationterminatedperson concept:sportsteam:oregon_state_beavers 1
+---------------------------------
+concept:coach:george_perles concept:organizationhiredperson concept:sportsteam:michigan_state 1
+
+concept:coach:george_perles concept:agentcollaborateswithagent concept:sportsteam:michigan_state 1
+concept:coach:george_perles concept:organizationterminatedperson concept:sportsteam:michigan_state 1
+---------------------------------
+concept:politician:adrian_fenty concept:organizationhiredperson concept:city:washington_d_c 0
+
+concept:politician:adrian_fenty concept:agentcompeteswithagent concept:city:washington_d_c 0.0595295
+concept:politician:adrian_fenty concept:organizationterminatedperson concept:city:washington_d_c 1
+---------------------------------
+concept:coach:gary_pinkel concept:organizationhiredperson concept:company:missouri 0
+
+concept:coach:gary_pinkel concept:organizationterminatedperson concept:company:missouri 1
+---------------------------------
+concept:person:ty_willingham concept:organizationhiredperson concept:sportsteam:notre_dame 1
+
+concept:person:ty_willingham concept:organizationterminatedperson concept:sportsteam:notre_dame 1
+---------------------------------
+concept:coach:tom_cable concept:organizationhiredperson concept:sportsteam:oakland_raiders 0
+
+concept:coach:tom_cable concept:organizationterminatedperson concept:sportsteam:oakland_raiders 1
+---------------------------------
+concept:coach:travis_ford concept:organizationhiredperson concept:university:oklahoma_state 0
+
+concept:coach:travis_ford concept:organizationterminatedperson concept:university:oklahoma_state 1
+---------------------------------
+concept:coach:knute_rockne concept:organizationhiredperson concept:sportsteam:notre_dame 0
+
+concept:coach:knute_rockne concept:organizationterminatedperson concept:sportsteam:notre_dame 1
+---------------------------------
+concept:coach:mike_montgomery concept:organizationhiredperson concept:sportsteam:stanford 1
+
+concept:coach:mike_montgomery concept:agentcollaborateswithagent concept:sportsteam:stanford 1
+concept:coach:mike_montgomery concept:organizationterminatedperson concept:sportsteam:stanford 1
+---------------------------------
+concept:athlete:roy_williams concept:organizationhiredperson concept:university:unc 1
+
+concept:athlete:roy_williams concept:agentcollaborateswithagent concept:university:unc 1
+concept:athlete:roy_williams concept:organizationterminatedperson concept:university:unc 1
+---------------------------------
+concept:personeurope:john_fisher concept:organizationhiredperson concept:sportsteam:titans 1
+
+concept:personeurope:john_fisher concept:agentcollaborateswithagent concept:sportsteam:titans 1
+concept:personeurope:john_fisher concept:organizationterminatedperson concept:sportsteam:titans 1
+---------------------------------
+concept:personcanada:self concept:organizationhiredperson concept:creditunion:kansas 0
+
+concept:personcanada:self concept:organizationterminatedperson concept:creditunion:kansas 1
+---------------------------------
+concept:coach:stoops concept:organizationhiredperson concept:stateorprovince:oklahoma 0
+
+concept:coach:stoops concept:organizationterminatedperson concept:stateorprovince:oklahoma 1
+---------------------------------
+concept:coach:byron_scott concept:organizationhiredperson concept:sportsteam:new_orleans_hornets 1
+
+concept:coach:byron_scott concept:organizationterminatedperson concept:sportsteam:new_orleans_hornets 1
+---------------------------------
+concept:coach:spagnuolo concept:organizationhiredperson concept:sportsteam:new_york_giants 1
+
+concept:coach:spagnuolo concept:agentcollaborateswithagent concept:sportsteam:new_york_giants 1
+concept:coach:spagnuolo concept:agentcompeteswithagent concept:sportsteam:new_york_giants 0.0595295
+concept:coach:spagnuolo concept:organizationterminatedperson concept:sportsteam:new_york_giants 1
+---------------------------------
+concept:coach:jeff_jagodzinski concept:organizationhiredperson concept:sportsteam:boston_college 1
+
+concept:coach:jeff_jagodzinski concept:agentcollaborateswithagent concept:sportsteam:boston_college 1
+concept:coach:jeff_jagodzinski concept:organizationterminatedperson concept:sportsteam:boston_college 1
+---------------------------------
+concept:coach:kay_yow concept:organizationhiredperson concept:sportsteam:nc_state 1
+
+concept:coach:kay_yow concept:agentcollaborateswithagent concept:sportsteam:nc_state 1
+concept:coach:kay_yow concept:organizationterminatedperson concept:sportsteam:nc_state 1
+---------------------------------
+concept:athlete:williams concept:organizationhiredperson concept:sportsteam:bills 0
+
+concept:athlete:williams concept:organizationterminatedperson concept:sportsteam:bills 1
+---------------------------------
+concept:politician:michael_r__bloomberg concept:organizationhiredperson concept:city:new_york 0
+
+concept:politician:michael_r__bloomberg concept:organizationterminatedperson concept:city:new_york 1
+---------------------------------
+concept:personmexico:scotty_bowman concept:organizationhiredperson concept:sportsteam:red_wings 0
+
+concept:personmexico:scotty_bowman concept:agentcompeteswithagent concept:sportsteam:red_wings 0.0595295
+concept:personmexico:scotty_bowman concept:organizationterminatedperson concept:sportsteam:red_wings 1
+---------------------------------
+concept:person:andy_reid concept:organizationhiredperson concept:sportsteam:philadelphia_eagles 2
+
+concept:person:andy_reid concept:agentcollaborateswithagent concept:sportsteam:philadelphia_eagles 1
+concept:person:andy_reid concept:organizationterminatedperson concept:sportsteam:philadelphia_eagles 1
+---------------------------------
+concept:person:davis concept:organizationhiredperson concept:sportsteam:cleveland_browns 0
+
+concept:person:davis concept:organizationterminatedperson concept:sportsteam:cleveland_browns 1
+---------------------------------
+concept:person:andy_reid concept:organizationhiredperson concept:sportsteam:eagles 2
+
+concept:person:andy_reid concept:agentcollaborateswithagent concept:sportsteam:eagles 1
+concept:person:andy_reid concept:agentcompeteswithagent concept:sportsteam:eagles 0.0595295
+concept:person:andy_reid concept:organizationterminatedperson concept:sportsteam:eagles 1
+---------------------------------
+concept:politician:phil_gordon concept:organizationhiredperson concept:city:phoenix 0
+
+concept:politician:phil_gordon concept:organizationterminatedperson concept:city:phoenix 1
+---------------------------------
+concept:person:lane_kiffin concept:organizationhiredperson concept:sportsleague:new 1
+
+concept:person:lane_kiffin concept:agentcollaborateswithagent concept:sportsleague:new 1
+concept:person:lane_kiffin concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:coach:bobby_petrino concept:organizationhiredperson concept:sportsteam:falcons 0
+
+concept:coach:bobby_petrino concept:organizationterminatedperson concept:sportsteam:falcons 1
+---------------------------------
+concept:person:anderson concept:organizationhiredperson concept:company:missouri 0
+
+concept:person:anderson concept:organizationterminatedperson concept:company:missouri 1
+---------------------------------
+concept:coach:art_briles concept:organizationhiredperson concept:city:houston 1
+
+concept:coach:art_briles concept:agentcollaborateswithagent concept:city:houston 1
+concept:coach:art_briles concept:organizationterminatedperson concept:city:houston 1
+---------------------------------
+concept:coach:tommy_tuberville concept:organizationhiredperson concept:university:auburn 0
+
+concept:coach:tommy_tuberville concept:organizationterminatedperson concept:university:auburn 1
+concept:coach:tommy_tuberville concept:subpartoforganization concept:university:auburn 0.5
+---------------------------------
+concept:coach:brian_kelly concept:organizationhiredperson concept:geopoliticallocation:central_michigan 1
+
+concept:coach:brian_kelly concept:agentcollaborateswithagent concept:geopoliticallocation:central_michigan 1
+concept:coach:brian_kelly concept:organizationterminatedperson concept:geopoliticallocation:central_michigan 1
+---------------------------------
+concept:athlete:jeff_campbell concept:organizationhiredperson concept:stateorprovince:oklahoma 1
+
+concept:athlete:jeff_campbell concept:agentcollaborateswithagent concept:stateorprovince:oklahoma 1
+concept:athlete:jeff_campbell concept:organizationterminatedperson concept:stateorprovince:oklahoma 1
+---------------------------------
+concept:coach:jim_haslett concept:organizationhiredperson concept:sportsleague:new 1
+
+concept:coach:jim_haslett concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:coach:steve_spagnuolo concept:organizationhiredperson concept:city:st_louis 2
+
+concept:coach:steve_spagnuolo concept:agentcollaborateswithagent concept:city:st_louis 1
+concept:coach:steve_spagnuolo concept:organizationterminatedperson concept:city:st_louis 1
+---------------------------------
+concept:coach:frank_beamer concept:organizationhiredperson concept:sportsteam:hokies 2
+
+concept:coach:frank_beamer concept:agentcollaborateswithagent concept:sportsteam:hokies 1
+concept:coach:frank_beamer concept:organizationterminatedperson concept:sportsteam:hokies 1
+---------------------------------
+concept:musician:jimmy_johnson concept:organizationhiredperson concept:automobilemaker:dallas_cowboys 1
+
+concept:musician:jimmy_johnson concept:agentcollaborateswithagent concept:automobilemaker:dallas_cowboys 1
+concept:musician:jimmy_johnson concept:organizationterminatedperson concept:automobilemaker:dallas_cowboys 1
+---------------------------------
+concept:athlete:paul_brown concept:organizationhiredperson concept:sportsteam:eagles 2
+
+concept:athlete:paul_brown concept:agentcollaborateswithagent concept:sportsteam:eagles 1
+concept:athlete:paul_brown concept:agentcompeteswithagent concept:sportsteam:eagles 0.0595295
+concept:athlete:paul_brown concept:organizationterminatedperson concept:sportsteam:eagles 1
+---------------------------------
+concept:coach:bobby_petrino concept:organizationhiredperson concept:sportsteam:razorbacks 0
+
+concept:coach:bobby_petrino concept:organizationterminatedperson concept:sportsteam:razorbacks 1
+---------------------------------
+concept:coach:tom_coughlin concept:organizationhiredperson concept:sportsteam:new_york_giants 1
+
+concept:coach:tom_coughlin concept:agentcollaborateswithagent concept:sportsteam:new_york_giants 1
+concept:coach:tom_coughlin concept:agentcompeteswithagent concept:sportsteam:new_york_giants 0.0595295
+concept:coach:tom_coughlin concept:organizationterminatedperson concept:sportsteam:new_york_giants 1
+---------------------------------
+concept:coach:chuck_amato concept:organizationhiredperson concept:sportsteam:nevada_wolfpack 1
+
+concept:coach:chuck_amato concept:organizationterminatedperson concept:sportsteam:nevada_wolfpack 1
+---------------------------------
+concept:coach:gene_chizik concept:organizationhiredperson concept:sportsleague:new 1
+
+concept:coach:gene_chizik concept:agentcollaborateswithagent concept:sportsleague:new 1
+concept:coach:gene_chizik concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:coach:tomlin concept:organizationhiredperson concept:sportsteam:steelers 1
+
+concept:coach:tomlin concept:agentcollaborateswithagent concept:sportsteam:steelers 1
+concept:coach:tomlin concept:agentcompeteswithagent concept:sportsteam:steelers 0.0595295
+concept:coach:tomlin concept:organizationterminatedperson concept:sportsteam:steelers 1
+---------------------------------
+concept:athlete:butch_davis concept:organizationhiredperson concept:radiostation:cleveland 1
+
+concept:athlete:butch_davis concept:organizationterminatedperson concept:radiostation:cleveland 1
+---------------------------------
+concept:coach:skip_prosser concept:organizationhiredperson concept:sportsteam:wake_forest 0
+
+concept:coach:skip_prosser concept:organizationterminatedperson concept:sportsteam:wake_forest 1
+---------------------------------
+concept:coach:steve_fairchild concept:organizationhiredperson concept:sportsteam:colorado_state 0
+
+concept:coach:steve_fairchild concept:organizationterminatedperson concept:sportsteam:colorado_state 1
+---------------------------------
+concept:coach:steve_spurrier concept:organizationhiredperson concept:sportsteam:redskins 1
+
+concept:coach:steve_spurrier concept:agentcollaborateswithagent concept:sportsteam:redskins 1
+concept:coach:steve_spurrier concept:organizationterminatedperson concept:sportsteam:redskins 1
+---------------------------------
+concept:coach:tressel concept:organizationhiredperson concept:sportsteam:ohio_state_university 1
+
+concept:coach:tressel concept:agentcollaborateswithagent concept:sportsteam:ohio_state_university 1
+concept:coach:tressel concept:organizationterminatedperson concept:sportsteam:ohio_state_university 1
+---------------------------------
+concept:coach:steve_spagnuolo concept:organizationhiredperson concept:sportsteam:rams 1
+
+concept:coach:steve_spagnuolo concept:organizationterminatedperson concept:sportsteam:rams 1
+---------------------------------
+concept:athlete:jeremy_bates concept:organizationhiredperson concept:sportsteam:broncos 0
+
+concept:athlete:jeremy_bates concept:organizationterminatedperson concept:sportsteam:broncos 1
+---------------------------------
+concept:person:stevens001 concept:organizationhiredperson concept:sportsteam:flyers_playoff_tickets 1
+
+concept:person:stevens001 concept:agentcollaborateswithagent concept:sportsteam:flyers_playoff_tickets 1
+concept:person:stevens001 concept:agentcompeteswithagent concept:sportsteam:flyers_playoff_tickets 0.0595295
+concept:person:stevens001 concept:organizationterminatedperson concept:sportsteam:flyers_playoff_tickets 1
+---------------------------------
+concept:coach:bud_wilkinson concept:organizationhiredperson concept:stateorprovince:oklahoma 1
+
+concept:coach:bud_wilkinson concept:agentcollaborateswithagent concept:stateorprovince:oklahoma 1
+concept:coach:bud_wilkinson concept:organizationterminatedperson concept:stateorprovince:oklahoma 1
+---------------------------------
+concept:coach:kevin_sumlin concept:organizationhiredperson concept:city:houston 0
+
+concept:coach:kevin_sumlin concept:organizationterminatedperson concept:city:houston 1
+---------------------------------
+concept:coach:dantonio concept:organizationhiredperson concept:university:msu 1
+
+concept:coach:dantonio concept:organizationterminatedperson concept:university:msu 1
+---------------------------------
+concept:athlete:roy_williams concept:organizationhiredperson concept:company:north_carolina 1
+
+concept:athlete:roy_williams concept:agentcollaborateswithagent concept:company:north_carolina 1
+concept:athlete:roy_williams concept:organizationterminatedperson concept:company:north_carolina 1
+---------------------------------
+concept:coach:mike_sherman concept:organizationhiredperson concept:sportsteam:texas_a_m 2
+
+concept:coach:mike_sherman concept:agentcollaborateswithagent concept:sportsteam:texas_a_m 1
+concept:coach:mike_sherman concept:organizationterminatedperson concept:sportsteam:texas_a_m 1
+---------------------------------
+concept:coach:dabo_swinney concept:organizationhiredperson concept:university:clemson 0
+
+concept:coach:dabo_swinney concept:organizationterminatedperson concept:university:clemson 1
+---------------------------------
+concept:coach:muffet_mcgraw concept:organizationhiredperson concept:sportsteam:notre_dame 0
+
+concept:coach:muffet_mcgraw concept:organizationterminatedperson concept:sportsteam:notre_dame 1
+---------------------------------
+concept:personmexico:jim_valvano concept:organizationhiredperson concept:sportsteam:nc_state 0
+
+concept:personmexico:jim_valvano concept:organizationterminatedperson concept:sportsteam:nc_state 1
+---------------------------------
+concept:personmexico:marvin_lewis concept:organizationhiredperson concept:sportsteam:bengals 1
+
+concept:personmexico:marvin_lewis concept:agentcollaborateswithagent concept:sportsteam:bengals 1
+concept:personmexico:marvin_lewis concept:organizationterminatedperson concept:sportsteam:bengals 1
+---------------------------------
+concept:coach:thad_matta concept:organizationhiredperson concept:sportsteam:ohio_state_university 0
+
+concept:coach:thad_matta concept:organizationterminatedperson concept:sportsteam:ohio_state_university 1
+---------------------------------
+concept:athlete:frank_howard concept:organizationhiredperson concept:university:clemson 0
+
+concept:athlete:frank_howard concept:organizationterminatedperson concept:university:clemson 1
+---------------------------------
+concept:coach:barry_alvarez concept:organizationhiredperson concept:creditunion:wisconsin 1
+
+concept:coach:barry_alvarez concept:agentcollaborateswithagent concept:creditunion:wisconsin 1
+concept:coach:barry_alvarez concept:organizationterminatedperson concept:creditunion:wisconsin 1
+---------------------------------
+concept:celebrity:gary_williams concept:organizationhiredperson concept:sportsteam:terps 0
+
+concept:celebrity:gary_williams concept:organizationterminatedperson concept:sportsteam:terps 1
+---------------------------------
+concept:coach:ed_dechellis concept:organizationhiredperson concept:county:penn_state 0
+
+concept:coach:ed_dechellis concept:organizationterminatedperson concept:county:penn_state 1
+---------------------------------
+concept:personmexico:jim_valvano concept:organizationhiredperson concept:university:north_carolina_state 1
+
+concept:personmexico:jim_valvano concept:organizationterminatedperson concept:university:north_carolina_state 1
+---------------------------------
+concept:person:jose_juan_barea concept:organizationhiredperson concept:sportsteam:chicago_bulls 1
+
+concept:person:jose_juan_barea concept:agentcollaborateswithagent concept:sportsteam:chicago_bulls 1
+concept:person:jose_juan_barea concept:agentcompeteswithagent concept:sportsteam:chicago_bulls 0.0595295
+concept:person:jose_juan_barea concept:organizationterminatedperson concept:sportsteam:chicago_bulls 1
+---------------------------------
+concept:personmexico:stewart concept:organizationhiredperson concept:company:west_virginia 1
+
+concept:personmexico:stewart concept:agentcollaborateswithagent concept:company:west_virginia 1
+concept:personmexico:stewart concept:organizationterminatedperson concept:company:west_virginia 1
+---------------------------------
+concept:coach:mangini concept:organizationhiredperson concept:sportsteam:cleveland_browns 2
+
+concept:coach:mangini concept:agentcollaborateswithagent concept:sportsteam:cleveland_browns 1
+concept:coach:mangini concept:organizationterminatedperson concept:sportsteam:cleveland_browns 1
+---------------------------------
+concept:coach:sonny_lubick concept:organizationhiredperson concept:sportsteam:colorado_state 1
+
+concept:coach:sonny_lubick concept:agentcollaborateswithagent concept:sportsteam:colorado_state 1
+concept:coach:sonny_lubick concept:organizationterminatedperson concept:sportsteam:colorado_state 1
+---------------------------------
+concept:person:allen concept:organizationhiredperson concept:sportsteam:boston_celtics 0
+
+concept:person:allen concept:organizationterminatedperson concept:sportsteam:boston_celtics 1
+---------------------------------
+concept:coach:dungy concept:organizationhiredperson concept:sportsteam:colts 2
+
+concept:coach:dungy concept:agentcollaborateswithagent concept:sportsteam:colts 1
+concept:coach:dungy concept:agentcompeteswithagent concept:sportsteam:colts 0.0595295
+concept:coach:dungy concept:organizationterminatedperson concept:sportsteam:colts 1
+---------------------------------
+concept:coach:lou_holtz concept:organizationhiredperson concept:sportsteam:notre_dame 0
+
+concept:coach:lou_holtz concept:organizationterminatedperson concept:sportsteam:notre_dame 1
+---------------------------------
+concept:athlete:roy_williams concept:organizationhiredperson concept:creditunion:kansas 1
+
+concept:athlete:roy_williams concept:agentcollaborateswithagent concept:creditunion:kansas 1
+concept:athlete:roy_williams concept:organizationterminatedperson concept:creditunion:kansas 1
+---------------------------------
+concept:coach:joe_novak concept:organizationhiredperson concept:sportsteam:northern_illinois 1
+
+concept:coach:joe_novak concept:agentcollaborateswithagent concept:sportsteam:northern_illinois 1
+concept:coach:joe_novak concept:organizationterminatedperson concept:sportsteam:northern_illinois 1
+---------------------------------
+concept:coach:mike_d_antoni concept:organizationhiredperson concept:company:new_york 1
+
+concept:coach:mike_d_antoni concept:agentcompeteswithagent concept:company:new_york 0.0595295
+concept:coach:mike_d_antoni concept:organizationterminatedperson concept:company:new_york 1
+---------------------------------
+concept:coach:jim_zorn concept:organizationhiredperson concept:sportsteam:redskins 1
+
+concept:coach:jim_zorn concept:organizationterminatedperson concept:sportsteam:redskins 1
+---------------------------------
+concept:coach:shanahan concept:organizationhiredperson concept:city:denver 2
+
+concept:coach:shanahan concept:agentcollaborateswithagent concept:city:denver 1
+concept:coach:shanahan concept:agentcompeteswithagent concept:city:denver 0.0595295
+concept:coach:shanahan concept:organizationterminatedperson concept:city:denver 1
+---------------------------------
+concept:coach:tom_izzo concept:organizationhiredperson concept:university:msu 2
+
+concept:coach:tom_izzo concept:agentcollaborateswithagent concept:university:msu 1
+concept:coach:tom_izzo concept:organizationterminatedperson concept:university:msu 1
+---------------------------------
+concept:coach:mark_dantonio concept:organizationhiredperson concept:sportsteam:michigan_state 1
+
+concept:coach:mark_dantonio concept:agentcollaborateswithagent concept:sportsteam:michigan_state 1
+concept:coach:mark_dantonio concept:organizationterminatedperson concept:sportsteam:michigan_state 1
+---------------------------------
+concept:coach:john_beilein concept:organizationhiredperson concept:company:west_virginia 1
+
+concept:coach:john_beilein concept:agentcollaborateswithagent concept:company:west_virginia 1
+concept:coach:john_beilein concept:organizationterminatedperson concept:company:west_virginia 1
+---------------------------------
+concept:person:jackson001 concept:organizationhiredperson concept:sportsteam:chicago_bulls 1
+
+concept:person:jackson001 concept:agentcollaborateswithagent concept:sportsteam:chicago_bulls 1
+concept:person:jackson001 concept:agentcompeteswithagent concept:sportsteam:chicago_bulls 0.0595295
+concept:person:jackson001 concept:organizationterminatedperson concept:sportsteam:chicago_bulls 1
+---------------------------------
+concept:coach:brady_hoke concept:organizationhiredperson concept:sportsteam:ball_state_university 0
+
+concept:coach:brady_hoke concept:organizationterminatedperson concept:sportsteam:ball_state_university 1
+---------------------------------
+concept:coach:dan_reeves concept:organizationhiredperson concept:sportsteam:falcons 0
+
+concept:coach:dan_reeves concept:organizationterminatedperson concept:sportsteam:falcons 1
+---------------------------------
+concept:politician:schwartz concept:organizationhiredperson concept:sportsleague:new 0
+
+concept:politician:schwartz concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:person:pat_riley concept:organizationhiredperson concept:sportsteam:heat 1
+
+concept:person:pat_riley concept:agentcollaborateswithagent concept:sportsteam:heat 1
+concept:person:pat_riley concept:organizationterminatedperson concept:sportsteam:heat 1
+---------------------------------
+concept:coach:bear_bryant concept:organizationhiredperson concept:politicalparty:college 1
+
+concept:coach:bear_bryant concept:agentcollaborateswithagent concept:politicalparty:college 1
+concept:coach:bear_bryant concept:organizationterminatedperson concept:politicalparty:college 1
+---------------------------------
+concept:coach:scott_linehan concept:organizationhiredperson concept:sportsteam:rams 2
+
+concept:coach:scott_linehan concept:agentcollaborateswithagent concept:sportsteam:rams 1
+concept:coach:scott_linehan concept:organizationterminatedperson concept:sportsteam:rams 1
+---------------------------------
+concept:celebrity:sean_sutton concept:organizationhiredperson concept:university:oklahoma_state 0
+
+concept:celebrity:sean_sutton concept:organizationterminatedperson concept:university:oklahoma_state 1
+---------------------------------
+concept:coach:scott_stiles concept:organizationhiredperson concept:sportsteam:bucks 1
+
+concept:coach:scott_stiles concept:organizationterminatedperson concept:sportsteam:bucks 1
+---------------------------------
+concept:coach:dan_reeves concept:organizationhiredperson concept:sportsleague:nfl 0
+
+concept:coach:dan_reeves concept:organizationterminatedperson concept:sportsleague:nfl 1
+---------------------------------
+concept:coach:john_gruden concept:organizationhiredperson concept:sportsteam:buccaneers 1
+
+concept:coach:john_gruden concept:organizationterminatedperson concept:sportsteam:buccaneers 1
+---------------------------------
+concept:personcanada:ken_whisenhunt concept:organizationhiredperson concept:sportsteam:arizona_cardinals_27_23 0
+
+concept:personcanada:ken_whisenhunt concept:agentcompeteswithagent concept:sportsteam:arizona_cardinals_27_23 0.0595295
+concept:personcanada:ken_whisenhunt concept:organizationterminatedperson concept:sportsteam:arizona_cardinals_27_23 1
+---------------------------------
+concept:coach:mike_riley concept:organizationhiredperson concept:sportsteam:oregon_state_beavers 1
+
+concept:coach:mike_riley concept:organizationterminatedperson concept:sportsteam:oregon_state_beavers 1
+---------------------------------
+concept:person:riley001 concept:organizationhiredperson concept:sportsteam:sd_chargers 1
+
+concept:person:riley001 concept:agentcollaborateswithagent concept:sportsteam:sd_chargers 1
+concept:person:riley001 concept:agentcompeteswithagent concept:sportsteam:sd_chargers 0.0595295
+concept:person:riley001 concept:organizationterminatedperson concept:sportsteam:sd_chargers 1
+---------------------------------
+concept:person:snyder concept:organizationhiredperson concept:university:kansas_state 1
+
+concept:person:snyder concept:agentcollaborateswithagent concept:university:kansas_state 1
+concept:person:snyder concept:organizationterminatedperson concept:university:kansas_state 1
+---------------------------------
+concept:coach:jeff_fisher concept:organizationhiredperson concept:sportsteam:titans 2
+
+concept:coach:jeff_fisher concept:agentcollaborateswithagent concept:sportsteam:titans 1
+concept:coach:jeff_fisher concept:organizationterminatedperson concept:sportsteam:titans 1
+---------------------------------
+concept:coach:jagodzinski concept:organizationhiredperson concept:sportsteam:boston_college 1
+
+concept:coach:jagodzinski concept:agentcollaborateswithagent concept:sportsteam:boston_college 1
+concept:coach:jagodzinski concept:organizationterminatedperson concept:sportsteam:boston_college 1
+---------------------------------
+concept:coach:cheeks concept:organizationhiredperson concept:sportsteam:sixers 1
+
+concept:coach:cheeks concept:organizationterminatedperson concept:sportsteam:sixers 1
+---------------------------------
+concept:coach:mark_dantonio concept:organizationhiredperson concept:university:msu 2
+
+concept:coach:mark_dantonio concept:agentcollaborateswithagent concept:university:msu 1
+concept:coach:mark_dantonio concept:organizationterminatedperson concept:university:msu 1
+---------------------------------
+concept:coach:bob_huggins concept:organizationhiredperson concept:company:west_virginia 0
+
+concept:coach:bob_huggins concept:organizationterminatedperson concept:company:west_virginia 1
+---------------------------------
+concept:coach:tyrone_willingham concept:organizationhiredperson concept:city:washington_d_c 1
+
+concept:coach:tyrone_willingham concept:agentcollaborateswithagent concept:city:washington_d_c 1
+concept:coach:tyrone_willingham concept:agentcompeteswithagent concept:city:washington_d_c 0.0595295
+concept:coach:tyrone_willingham concept:organizationterminatedperson concept:city:washington_d_c 1
+---------------------------------
+concept:coach:kenny_natt concept:organizationhiredperson concept:sportsteam:kings_college 1
+
+concept:coach:kenny_natt concept:organizationterminatedperson concept:sportsteam:kings_college 1
+---------------------------------
+concept:coach:brent_guy concept:organizationhiredperson concept:university:utah_state 0
+
+concept:coach:brent_guy concept:organizationterminatedperson concept:university:utah_state 1
+---------------------------------
+concept:coach:claude_julien concept:organizationhiredperson concept:sportsteam:bruins 0
+
+concept:coach:claude_julien concept:organizationterminatedperson concept:sportsteam:bruins 1
+---------------------------------
+concept:person:sherman concept:organizationhiredperson concept:sportsteam:packers 2
+
+concept:person:sherman concept:agentcollaborateswithagent concept:sportsteam:packers 1
+concept:person:sherman concept:agentcompeteswithagent concept:sportsteam:packers 0.0595295
+concept:person:sherman concept:organizationterminatedperson concept:sportsteam:packers 1
+---------------------------------
+concept:coach:bill_snyder concept:organizationhiredperson concept:university:kansas_state 1
+
+concept:coach:bill_snyder concept:agentcollaborateswithagent concept:university:kansas_state 1
+concept:coach:bill_snyder concept:organizationterminatedperson concept:university:kansas_state 1
+---------------------------------
+concept:coach:bill_parcells concept:organizationhiredperson concept:sportsleague:nfl 0
+
+concept:coach:bill_parcells concept:organizationterminatedperson concept:sportsleague:nfl 1
+---------------------------------
+concept:coach:josh_mcdaniels concept:organizationhiredperson concept:sportsteam:broncos 2
+
+concept:coach:josh_mcdaniels concept:agentcollaborateswithagent concept:sportsteam:broncos 1
+concept:coach:josh_mcdaniels concept:organizationterminatedperson concept:sportsteam:broncos 1
+---------------------------------
+concept:coach:jim_schwartz concept:organizationhiredperson concept:sportsleague:new 0
+
+concept:coach:jim_schwartz concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:coach:d_antoni concept:organizationhiredperson concept:sportsteam:knicks 1
+
+concept:coach:d_antoni concept:agentcollaborateswithagent concept:sportsteam:knicks 1
+concept:coach:d_antoni concept:agentcompeteswithagent concept:sportsteam:knicks 0.0595295
+concept:coach:d_antoni concept:organizationterminatedperson concept:sportsteam:knicks 1
+---------------------------------
+concept:person:lawrence_frank concept:organizationhiredperson concept:sportsteam:new_jersey_nets 1
+
+concept:person:lawrence_frank concept:agentcollaborateswithagent concept:sportsteam:new_jersey_nets 1
+concept:person:lawrence_frank concept:organizationterminatedperson concept:sportsteam:new_jersey_nets 1
+---------------------------------
+concept:personaustralia:paul_johnson concept:organizationhiredperson concept:sportsteam:georgia_tech 0
+
+concept:personaustralia:paul_johnson concept:organizationterminatedperson concept:sportsteam:georgia_tech 1
+---------------------------------
+concept:coach:jeff_lebo concept:organizationhiredperson concept:university:auburn 0
+
+concept:coach:jeff_lebo concept:organizationterminatedperson concept:university:auburn 1
+---------------------------------
+concept:male:bobby_bowden concept:organizationhiredperson concept:sportsteam:seminoles 1
+
+concept:male:bobby_bowden concept:organizationterminatedperson concept:sportsteam:seminoles 1
+---------------------------------
+concept:coach:bill_parcells concept:organizationhiredperson concept:sportsteam:new_york_giants 1
+
+concept:coach:bill_parcells concept:agentcollaborateswithagent concept:sportsteam:new_york_giants 1
+concept:coach:bill_parcells concept:agentcompeteswithagent concept:sportsteam:new_york_giants 0.0595295
+concept:coach:bill_parcells concept:organizationterminatedperson concept:sportsteam:new_york_giants 1
+---------------------------------
+concept:coach:al_arbour concept:organizationhiredperson concept:sportsteam:san_jose_sharks 1
+
+concept:coach:al_arbour concept:agentcollaborateswithagent concept:sportsteam:san_jose_sharks 1
+concept:coach:al_arbour concept:organizationterminatedperson concept:sportsteam:san_jose_sharks 1
+---------------------------------
+concept:coach:gregg_popovich concept:organizationhiredperson concept:sportsteam:san_antonio 1
+
+concept:coach:gregg_popovich concept:organizationterminatedperson concept:sportsteam:san_antonio 1
+---------------------------------
+concept:coach:kevin_o_neill concept:organizationhiredperson concept:company:arizona 0
+
+concept:coach:kevin_o_neill concept:organizationterminatedperson concept:company:arizona 1
+---------------------------------
+concept:politicianus:haley concept:organizationhiredperson concept:sportsteam:kansas_city_chiefs 0
+
+concept:politicianus:haley concept:organizationterminatedperson concept:sportsteam:kansas_city_chiefs 1
+---------------------------------
+concept:coach:shanahan concept:organizationhiredperson concept:sportsteam:broncos 1
+
+concept:coach:shanahan concept:organizationterminatedperson concept:sportsteam:broncos 1
+---------------------------------
+concept:coach:dan_mullen concept:organizationhiredperson concept:stateorprovince:mississippi_state 0
+
+concept:coach:dan_mullen concept:organizationterminatedperson concept:stateorprovince:mississippi_state 1
+---------------------------------
+concept:actor:ron_prince concept:organizationhiredperson concept:university:kansas_state 0
+
+concept:actor:ron_prince concept:organizationterminatedperson concept:university:kansas_state 1
+---------------------------------
+concept:coach:cam_cameron concept:organizationhiredperson concept:sportsteam:miami_dolphins 3
+
+concept:coach:cam_cameron concept:agentcollaborateswithagent concept:sportsteam:miami_dolphins 1
+concept:coach:cam_cameron concept:agentcompeteswithagent concept:sportsteam:miami_dolphins 0.0595295
+concept:coach:cam_cameron concept:organizationterminatedperson concept:sportsteam:miami_dolphins 1
+---------------------------------
+concept:personaustralia:gary_pinkel concept:organizationhiredperson concept:company:missouri 1
+
+concept:personaustralia:gary_pinkel concept:organizationterminatedperson concept:company:missouri 1*
+---------------------------------
+concept:coach:don_nelson concept:organizationhiredperson concept:sportsteam:mavericks 0
+
+concept:coach:don_nelson concept:organizationterminatedperson concept:sportsteam:mavericks 1
+---------------------------------
+concept:person:belichick concept:organizationhiredperson concept:radiostation:cleveland 1
+
+concept:person:belichick concept:organizationterminatedperson concept:radiostation:cleveland 1
+---------------------------------
+concept:visualartist:meyer concept:organizationhiredperson concept:sportsteam:florida_gators 1
+
+concept:visualartist:meyer concept:organizationterminatedperson concept:sportsteam:florida_gators 1
+concept:visualartist:meyer concept:subpartof concept:sportsteam:florida_gators 0.25
+---------------------------------
+concept:coach:izzo concept:organizationhiredperson concept:sportsteam:michigan_state 0
+
+concept:coach:izzo concept:organizationterminatedperson concept:sportsteam:michigan_state 1
+---------------------------------
+concept:athlete:mike_mccarthy concept:organizationhiredperson concept:sportsteam:packers 1
+
+concept:athlete:mike_mccarthy concept:agentcollaborateswithagent concept:sportsteam:packers 1
+concept:athlete:mike_mccarthy concept:agentcompeteswithagent concept:sportsteam:packers 0.0595295
+concept:athlete:mike_mccarthy concept:organizationterminatedperson concept:sportsteam:packers 1
+---------------------------------
+concept:coach:todd_haley concept:organizationhiredperson concept:sportsteam:arizona_cardinals_27_23 0
+
+concept:coach:todd_haley concept:agentcompeteswithagent concept:sportsteam:arizona_cardinals_27_23 0.0595295
+concept:coach:todd_haley concept:organizationterminatedperson concept:sportsteam:arizona_cardinals_27_23 1
+---------------------------------
+concept:coach:d_antoni concept:organizationhiredperson concept:sportsteam:suns 1
+
+concept:coach:d_antoni concept:organizationterminatedperson concept:sportsteam:suns 1
+---------------------------------
+concept:coach:carroll concept:organizationhiredperson concept:university:southern_cal 1
+
+concept:coach:carroll concept:agentcollaborateswithagent concept:university:southern_cal 1
+concept:coach:carroll concept:organizationterminatedperson concept:university:southern_cal 1
+---------------------------------
+concept:person:willingham concept:organizationhiredperson concept:sportsteam:notre_dame 1
+
+concept:person:willingham concept:organizationterminatedperson concept:sportsteam:notre_dame 1
+---------------------------------
+concept:person:montgomery concept:organizationhiredperson concept:professionalorganization:cal 1
+
+concept:person:montgomery concept:organizationterminatedperson concept:professionalorganization:cal 1
+---------------------------------
+concept:person:belichick concept:organizationhiredperson concept:sportsteam:cleveland_browns 1
+
+concept:person:belichick concept:agentcollaborateswithagent concept:sportsteam:cleveland_browns 1
+concept:person:belichick concept:organizationterminatedperson concept:sportsteam:cleveland_browns 1
+---------------------------------
+concept:personmexico:isaiah_thomas concept:organizationhiredperson concept:sportsteam:knicks 1
+
+concept:personmexico:isaiah_thomas concept:agentcollaborateswithagent concept:sportsteam:knicks 1
+concept:personmexico:isaiah_thomas concept:agentcompeteswithagent concept:sportsteam:knicks 0.0595295
+concept:personmexico:isaiah_thomas concept:organizationterminatedperson concept:sportsteam:knicks 1
+---------------------------------
+concept:coach:kay_yow concept:organizationhiredperson concept:terroristorganization:state 1
+
+concept:coach:kay_yow concept:agentcollaborateswithagent concept:terroristorganization:state 1
+concept:coach:kay_yow concept:organizationterminatedperson concept:terroristorganization:state 1
+---------------------------------
+concept:coach:al_jefferson concept:organizationhiredperson concept:sportsteam:washington_wizards 1
+
+concept:coach:al_jefferson concept:organizationterminatedperson concept:sportsteam:washington_wizards 1
+---------------------------------
+concept:coach:nick_saban concept:organizationhiredperson concept:stateorprovince:ua 1
+
+concept:coach:nick_saban concept:agentcollaborateswithagent concept:stateorprovince:ua 1
+concept:coach:nick_saban concept:organizationterminatedperson concept:stateorprovince:ua 1
+---------------------------------
+concept:coach:eric_mangini concept:organizationhiredperson concept:sportsteam:new_york_jets 2
+
+concept:coach:eric_mangini concept:agentcollaborateswithagent concept:sportsteam:new_york_jets 1
+concept:coach:eric_mangini concept:agentcompeteswithagent concept:sportsteam:new_york_jets 0.0595295
+concept:coach:eric_mangini concept:organizationterminatedperson concept:sportsteam:new_york_jets 1
+---------------------------------
+concept:coach:mike_d_antoni concept:organizationhiredperson concept:city:phoenix 1
+
+concept:coach:mike_d_antoni concept:organizationterminatedperson concept:city:phoenix 1
+---------------------------------
+concept:coach:dan_devine concept:organizationhiredperson concept:sportsteam:notre_dame 0
+
+concept:coach:dan_devine concept:organizationterminatedperson concept:sportsteam:notre_dame 1
+---------------------------------
+concept:coach:oliver_purnell concept:organizationhiredperson concept:university:clemson 0
+
+concept:coach:oliver_purnell concept:organizationterminatedperson concept:university:clemson 1
+---------------------------------
+concept:coach:herm_edwards concept:organizationhiredperson concept:sportsteam:kansas_city_chiefs 1
+
+concept:coach:herm_edwards concept:agentcollaborateswithagent concept:sportsteam:kansas_city_chiefs 1
+concept:coach:herm_edwards concept:organizationterminatedperson concept:sportsteam:kansas_city_chiefs 1
+---------------------------------
+concept:coach:everett_withers concept:organizationhiredperson concept:company:north_carolina 0
+
+concept:coach:everett_withers concept:organizationterminatedperson concept:company:north_carolina 1
+---------------------------------
+concept:coach:sean_payton concept:organizationhiredperson concept:sportsleague:new 0
+
+concept:coach:sean_payton concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:coach:dave_doeren concept:organizationhiredperson concept:sportsteam:northern_illinois 0
+
+concept:coach:dave_doeren concept:organizationterminatedperson concept:sportsteam:northern_illinois 1
+---------------------------------
+concept:coach:ed_tapscott concept:organizationhiredperson concept:sportsteam:washington_wizards 0
+
+concept:coach:ed_tapscott concept:organizationterminatedperson concept:sportsteam:washington_wizards 1
+---------------------------------
+concept:coach:randy_walker concept:organizationhiredperson concept:sportsteam:northwestern 2
+
+concept:coach:randy_walker concept:agentcollaborateswithagent concept:sportsteam:northwestern 1
+concept:coach:randy_walker concept:organizationterminatedperson concept:sportsteam:northwestern 1
+---------------------------------
+concept:coach:dean_smith concept:organizationhiredperson concept:company:north_carolina 1
+
+concept:coach:dean_smith concept:organizationterminatedperson concept:company:north_carolina 1
+---------------------------------
+concept:coach:reggie_theus concept:organizationhiredperson concept:sportsteam:sacramento_kings 2
+
+concept:coach:reggie_theus concept:agentcollaborateswithagent concept:sportsteam:sacramento_kings 1
+concept:coach:reggie_theus concept:organizationterminatedperson concept:sportsteam:sacramento_kings 1
+---------------------------------
+concept:coach:brian_kelly concept:organizationhiredperson concept:city:cincinnati 1
+
+concept:coach:brian_kelly concept:agentcollaborateswithagent concept:city:cincinnati 1
+concept:coach:brian_kelly concept:organizationterminatedperson concept:city:cincinnati 1
+---------------------------------
+concept:coach:brady_hoke concept:organizationhiredperson concept:sportsteam:san_diego_padres 0
+
+concept:coach:brady_hoke concept:organizationterminatedperson concept:sportsteam:san_diego_padres 1
+---------------------------------
+concept:coach:paul_wulff concept:organizationhiredperson concept:sportsteam:washington_state 1
+
+concept:coach:paul_wulff concept:organizationterminatedperson concept:sportsteam:washington_state 1
+---------------------------------
+concept:person:riley001 concept:organizationhiredperson concept:sportsteam:oregon_state_beavers 1
+
+concept:person:riley001 concept:agentcollaborateswithagent concept:sportsteam:oregon_state_beavers 1
+concept:person:riley001 concept:organizationterminatedperson concept:sportsteam:oregon_state_beavers 1
+---------------------------------
+concept:visualizablething:vermeil concept:organizationhiredperson concept:sportsteam:rams 0
+
+concept:visualizablething:vermeil concept:organizationterminatedperson concept:sportsteam:rams 1
+---------------------------------
+concept:person:al_skinner concept:organizationhiredperson concept:sportsteam:boston_college 1
+
+concept:person:al_skinner concept:agentcollaborateswithagent concept:sportsteam:boston_college 1
+concept:person:al_skinner concept:organizationterminatedperson concept:sportsteam:boston_college 1
+---------------------------------
+concept:coach:eric_mangini concept:organizationhiredperson concept:company:new_york 1
+
+concept:coach:eric_mangini concept:agentcompeteswithagent concept:company:new_york 0.0595295
+concept:coach:eric_mangini concept:organizationterminatedperson concept:company:new_york 1
+concept:coach:eric_mangini concept:subpartof concept:company:new_york 1
+---------------------------------
+concept:coach:tim_floyd concept:organizationhiredperson concept:university:usc 1
+
+concept:coach:tim_floyd concept:agentcollaborateswithagent concept:university:usc 1
+concept:coach:tim_floyd concept:organizationterminatedperson concept:university:usc 1
+---------------------------------
+concept:coach:terry_porter concept:organizationhiredperson concept:sportsteam:suns 1
+
+concept:coach:terry_porter concept:organizationterminatedperson concept:sportsteam:suns 1
+---------------------------------
+concept:coach:eric_mangini concept:organizationhiredperson concept:sportsteam:cleveland_browns 2
+
+concept:coach:eric_mangini concept:agentcollaborateswithagent concept:sportsteam:cleveland_browns 1
+concept:coach:eric_mangini concept:organizationterminatedperson concept:sportsteam:cleveland_browns 1
+---------------------------------
+concept:celebrity:don_james concept:organizationhiredperson concept:city:washington_d_c 0
+
+concept:celebrity:don_james concept:agentcompeteswithagent concept:city:washington_d_c 0.0595295
+concept:celebrity:don_james concept:organizationterminatedperson concept:city:washington_d_c 1
+---------------------------------
+concept:coach:carroll concept:organizationhiredperson concept:sportsteam:usc 2
+
+concept:coach:carroll concept:agentcollaborateswithagent concept:sportsteam:usc 1
+concept:coach:carroll concept:organizationterminatedperson concept:sportsteam:usc 1
+---------------------------------
+concept:coach:van_gundy concept:organizationhiredperson concept:city:houston 1
+
+concept:coach:van_gundy concept:agentcollaborateswithagent concept:city:houston 1
+concept:coach:van_gundy concept:organizationterminatedperson concept:city:houston 1
+---------------------------------
+concept:person:murray concept:organizationhiredperson concept:sportsteam:kings_college 0
+
+concept:person:murray concept:organizationterminatedperson concept:sportsteam:kings_college 1
+---------------------------------
+concept:coach:josh_mcdaniels concept:organizationhiredperson concept:city:denver 0
+
+concept:coach:josh_mcdaniels concept:agentcompeteswithagent concept:city:denver 0.0595295
+concept:coach:josh_mcdaniels concept:organizationterminatedperson concept:city:denver 1
+---------------------------------
+concept:coach:chris_quinn concept:organizationhiredperson concept:sportsteam:los_angeles_lakers 0
+
+concept:coach:chris_quinn concept:organizationterminatedperson concept:sportsteam:los_angeles_lakers 1
+---------------------------------
+concept:coach:tuberville concept:organizationhiredperson concept:university:auburn 0
+
+concept:coach:tuberville concept:organizationterminatedperson concept:university:auburn 1
+---------------------------------
+concept:coach:don_nelson concept:organizationhiredperson concept:sportsteam:golden_state_warriors 2
+
+concept:coach:don_nelson concept:agentcollaborateswithagent concept:sportsteam:golden_state_warriors 1
+concept:coach:don_nelson concept:organizationterminatedperson concept:sportsteam:golden_state_warriors 1
+---------------------------------
+concept:coach:mike_d_antoni concept:organizationhiredperson concept:sportsleague:new 0
+
+concept:coach:mike_d_antoni concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:athlete:herman_edwards concept:organizationhiredperson concept:sportsteam:kansas_city_chiefs 2
+
+concept:athlete:herman_edwards concept:agentcollaborateswithagent concept:sportsteam:kansas_city_chiefs 1
+concept:athlete:herman_edwards concept:organizationterminatedperson concept:sportsteam:kansas_city_chiefs 1
+---------------------------------
+concept:coach:john_wooden concept:organizationhiredperson concept:sportsteam:ucla 1
+
+concept:coach:john_wooden concept:agentcollaborateswithagent concept:sportsteam:ucla 1
+concept:coach:john_wooden concept:organizationterminatedperson concept:sportsteam:ucla 1
+---------------------------------
+concept:coach:george_halas concept:organizationhiredperson concept:sportsteam:redskins 0
+
+concept:coach:george_halas concept:organizationterminatedperson concept:sportsteam:redskins 1
+---------------------------------
+concept:coach:chuck_long concept:organizationhiredperson concept:sportsteam:san_diego_padres 2
+
+concept:coach:chuck_long concept:agentcollaborateswithagent concept:sportsteam:san_diego_padres 1
+concept:coach:chuck_long concept:organizationterminatedperson concept:sportsteam:san_diego_padres 1
+---------------------------------
+concept:coach:dungy concept:organizationhiredperson concept:sportsteam:buccaneers 2
+
+concept:coach:dungy concept:agentcollaborateswithagent concept:sportsteam:buccaneers 1
+concept:coach:dungy concept:organizationterminatedperson concept:sportsteam:buccaneers 1
+---------------------------------
+concept:coach:tressel concept:organizationhiredperson concept:city:buckeye 1
+
+concept:coach:tressel concept:agentcollaborateswithagent concept:city:buckeye 1
+concept:coach:tressel concept:organizationterminatedperson concept:city:buckeye 1
+---------------------------------
+concept:coach:phil_jackson concept:organizationhiredperson concept:sportsteam:los_angeles_lakers 0
+
+concept:coach:phil_jackson concept:organizationterminatedperson concept:sportsteam:los_angeles_lakers 1
+---------------------------------
+concept:coach:fassel concept:organizationhiredperson concept:sportsteam:new_york_giants 1
+
+concept:coach:fassel concept:agentcollaborateswithagent concept:sportsteam:new_york_giants 1
+concept:coach:fassel concept:agentcompeteswithagent concept:sportsteam:new_york_giants 0.0595295
+concept:coach:fassel concept:organizationterminatedperson concept:sportsteam:new_york_giants 1
+---------------------------------
+concept:coach:bill_fennelly concept:organizationhiredperson concept:sportsteam:iowa_state 1
+
+concept:coach:bill_fennelly concept:agentcollaborateswithagent concept:sportsteam:iowa_state 1
+concept:coach:bill_fennelly concept:organizationterminatedperson concept:sportsteam:iowa_state 1
+---------------------------------
+concept:politicianus:rudy_giuliani concept:organizationhiredperson concept:city:new_york 1
+
+concept:politicianus:rudy_giuliani concept:agentcollaborateswithagent concept:city:new_york 1.40897
+concept:politicianus:rudy_giuliani concept:organizationterminatedperson concept:city:new_york 1*
+---------------------------------
+concept:coach:chan_gailey concept:organizationhiredperson concept:sportsteam:georgia_tech 1
+
+concept:coach:chan_gailey concept:organizationterminatedperson concept:sportsteam:georgia_tech 1
+---------------------------------
+concept:politicianus:rudy_guiliani concept:organizationhiredperson concept:city:new_york 0
+
+concept:politicianus:rudy_guiliani concept:organizationterminatedperson concept:city:new_york 1
+---------------------------------
+concept:coach:mike_d_antoni concept:organizationhiredperson concept:sportsteam:knicks 2
+
+concept:coach:mike_d_antoni concept:agentcollaborateswithagent concept:sportsteam:knicks 1
+concept:coach:mike_d_antoni concept:agentcompeteswithagent concept:sportsteam:knicks 0.0595295
+concept:coach:mike_d_antoni concept:organizationterminatedperson concept:sportsteam:knicks 1
+---------------------------------
+concept:coach:paul_rhoads concept:organizationhiredperson concept:bank:iowa_state 1
+
+concept:coach:paul_rhoads concept:agentcollaborateswithagent concept:bank:iowa_state 1
+concept:coach:paul_rhoads concept:organizationterminatedperson concept:bank:iowa_state 1
+---------------------------------
+concept:coach:sparano concept:organizationhiredperson concept:sportsteam:miami_dolphins 2
+
+concept:coach:sparano concept:agentcollaborateswithagent concept:sportsteam:miami_dolphins 1
+concept:coach:sparano concept:agentcompeteswithagent concept:sportsteam:miami_dolphins 0.0595295
+concept:coach:sparano concept:organizationterminatedperson concept:sportsteam:miami_dolphins 1
+---------------------------------
+concept:coach:stoops concept:organizationhiredperson concept:company:arizona 1
+
+concept:coach:stoops concept:agentcollaborateswithagent concept:company:arizona 1
+concept:coach:stoops concept:organizationterminatedperson concept:company:arizona 1
+---------------------------------
+concept:coach:spagnuolo concept:organizationhiredperson concept:sportsleague:new 2
+
+concept:coach:spagnuolo concept:agentcollaborateswithagent concept:sportsleague:new 1
+concept:coach:spagnuolo concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:coach:jim_harbaugh concept:organizationhiredperson concept:sportsteam:stanford 0
+
+concept:coach:jim_harbaugh concept:organizationterminatedperson concept:sportsteam:stanford 1
+---------------------------------
+concept:person:jose_juan_barea concept:organizationhiredperson concept:sportsteam:bucks 1
+
+concept:person:jose_juan_barea concept:agentcollaborateswithagent concept:sportsteam:bucks 1
+concept:person:jose_juan_barea concept:organizationterminatedperson concept:sportsteam:bucks 1
+---------------------------------
+concept:coach:greg_ryan concept:organizationhiredperson concept:nongovorganization:u_s_ 1
+
+concept:coach:greg_ryan concept:organizationterminatedperson concept:nongovorganization:u_s_ 1*
+---------------------------------
+concept:personnorthamerica:frank_leahy concept:organizationhiredperson concept:sportsteam:notre_dame 1
+
+concept:personnorthamerica:frank_leahy concept:organizationterminatedperson concept:sportsteam:notre_dame 1
+---------------------------------
+concept:coach:bill_tierney concept:organizationhiredperson concept:city:princeton 1
+
+concept:coach:bill_tierney concept:agentcollaborateswithagent concept:city:princeton 1
+concept:coach:bill_tierney concept:organizationterminatedperson concept:city:princeton 1
+---------------------------------
+concept:coach:coach_jon_gruden concept:organizationhiredperson concept:sportsteam:buccaneers 0
+
+concept:coach:coach_jon_gruden concept:organizationterminatedperson concept:sportsteam:buccaneers 1
+---------------------------------
+concept:person:phil_jackson concept:organizationhiredperson concept:sportsteam:chicago_bulls 1
+
+concept:person:phil_jackson concept:agentcollaborateswithagent concept:sportsteam:chicago_bulls 1
+concept:person:phil_jackson concept:agentcompeteswithagent concept:sportsteam:chicago_bulls 0.0595295
+concept:person:phil_jackson concept:organizationterminatedperson concept:sportsteam:chicago_bulls 1
+---------------------------------
+concept:athlete:butch_davis concept:organizationhiredperson concept:sportsteam:cleveland_browns 1
+
+concept:athlete:butch_davis concept:agentcollaborateswithagent concept:sportsteam:cleveland_browns 1
+concept:athlete:butch_davis concept:organizationterminatedperson concept:sportsteam:cleveland_browns 1
+---------------------------------
+concept:personaustralia:smith concept:organizationhiredperson concept:sportsteam:falcons 1
+
+concept:personaustralia:smith concept:agentcollaborateswithagent concept:sportsteam:falcons 1
+concept:personaustralia:smith concept:organizationterminatedperson concept:sportsteam:falcons 1
+---------------------------------
+concept:coach:john_cooper concept:organizationhiredperson concept:sportsteam:ohio_state_university 1
+
+concept:coach:john_cooper concept:agentcollaborateswithagent concept:sportsteam:ohio_state_university 1
+concept:coach:john_cooper concept:organizationterminatedperson concept:sportsteam:ohio_state_university 1
+---------------------------------
+concept:coach:urban_meyer concept:organizationhiredperson concept:sportsteam:florida_gators 1
+
+concept:coach:urban_meyer concept:organizationterminatedperson concept:sportsteam:florida_gators 1
+---------------------------------
+concept:coach:gruden concept:organizationhiredperson concept:sportsteam:buccaneers 0
+
+concept:coach:gruden concept:organizationterminatedperson concept:sportsteam:buccaneers 1
+---------------------------------
+concept:person:eric001 concept:organizationhiredperson concept:sportsteam:new_york_jets 0
+
+concept:person:eric001 concept:agentcompeteswithagent concept:sportsteam:new_york_jets 0.0595295
+concept:person:eric001 concept:organizationterminatedperson concept:sportsteam:new_york_jets 1
+---------------------------------
+concept:coach:vince_lombardi concept:organizationhiredperson concept:sportsteam:packers 2
+
+concept:coach:vince_lombardi concept:agentcollaborateswithagent concept:sportsteam:packers 1
+concept:coach:vince_lombardi concept:agentcompeteswithagent concept:sportsteam:packers 0.0595295
+concept:coach:vince_lombardi concept:organizationterminatedperson concept:sportsteam:packers 1
+---------------------------------
+concept:personmexico:woody_hayes concept:organizationhiredperson concept:university:ohio_state 0
+
+concept:personmexico:woody_hayes concept:agentcollaborateswithagent concept:university:ohio_state 1
+concept:personmexico:woody_hayes concept:organizationterminatedperson concept:university:ohio_state 1
+---------------------------------
+concept:personmexico:mack_brown concept:organizationhiredperson concept:sportsteam:longhorns 0
+
+concept:personmexico:mack_brown concept:organizationterminatedperson concept:sportsteam:longhorns 1
+---------------------------------
+concept:personaustralia:bill_self concept:organizationhiredperson concept:creditunion:kansas 0
+
+concept:personaustralia:bill_self concept:organizationterminatedperson concept:creditunion:kansas 1
+---------------------------------
+concept:coach:mike_shanahan concept:organizationhiredperson concept:sportsteam:broncos 2
+
+concept:coach:mike_shanahan concept:agentcollaborateswithagent concept:sportsteam:broncos 1
+concept:coach:mike_shanahan concept:agentcontrols concept:sportsteam:broncos 1
+concept:coach:mike_shanahan concept:organizationterminatedperson concept:sportsteam:broncos 1
+---------------------------------
+concept:professor:anson_dorrance concept:organizationhiredperson concept:company:north_carolina 0
+
+concept:professor:anson_dorrance concept:organizationterminatedperson concept:company:north_carolina 1
+---------------------------------
+concept:coach:jerry_sloan concept:organizationhiredperson concept:sportsteam:utah_jazz 1
+
+concept:coach:jerry_sloan concept:organizationterminatedperson concept:sportsteam:utah_jazz 1
+---------------------------------
+concept:coach:mangini concept:organizationhiredperson concept:sportsleague:new 2
+
+concept:coach:mangini concept:agentcollaborateswithagent concept:sportsleague:new 1
+concept:coach:mangini concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:coach:bob_stoops concept:organizationhiredperson concept:stateorprovince:oklahoma 1
+
+concept:coach:bob_stoops concept:agentcollaborateswithagent concept:stateorprovince:oklahoma 2.5
+concept:coach:bob_stoops concept:organizationterminatedperson concept:stateorprovince:oklahoma 1
+concept:coach:bob_stoops concept:subpartof concept:stateorprovince:oklahoma 0.5
+---------------------------------
+concept:personmexico:billy_gillispie concept:organizationhiredperson concept:sportsteam:texas_a_m 0
+
+concept:personmexico:billy_gillispie concept:organizationterminatedperson concept:sportsteam:texas_a_m 1
+---------------------------------
+concept:coach:sean_payton concept:organizationhiredperson concept:sportsteam:saints 1
+
+concept:coach:sean_payton concept:organizationterminatedperson concept:sportsteam:saints 1
+---------------------------------
+concept:coach:dino_gaudio concept:organizationhiredperson concept:sportsteam:wake_forest 0
+
+concept:coach:dino_gaudio concept:organizationterminatedperson concept:sportsteam:wake_forest 1
+---------------------------------
+concept:coach:michel_therrien concept:organizationhiredperson concept:sportsteam:pittsburgh_penguins 0
+
+concept:coach:michel_therrien concept:organizationterminatedperson concept:sportsteam:pittsburgh_penguins 1
+---------------------------------
+concept:coach:nick_saban concept:organizationhiredperson concept:sportsteam:lsu 0
+
+concept:coach:nick_saban concept:agentcompeteswithagent concept:sportsteam:lsu 0.0595295
+concept:coach:nick_saban concept:organizationterminatedperson concept:sportsteam:lsu 1
+---------------------------------
+concept:coach:bill_parcells concept:organizationhiredperson concept:sportsleague:new 2
+
+concept:coach:bill_parcells concept:agentcollaborateswithagent concept:sportsleague:new 1
+concept:coach:bill_parcells concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:coach:red_sanders concept:organizationhiredperson concept:sportsteam:ucla 0
+
+concept:coach:red_sanders concept:organizationterminatedperson concept:sportsteam:ucla 1
+---------------------------------
+concept:coach:john_fox concept:organizationhiredperson concept:sportsteam:florida_international 0
+
+concept:coach:john_fox concept:organizationterminatedperson concept:sportsteam:florida_international 1
+---------------------------------
+concept:coach:richard_hamilton concept:organizationhiredperson concept:sportsteam:pistons 0
+
+concept:coach:richard_hamilton concept:organizationterminatedperson concept:sportsteam:pistons 1
+---------------------------------
+concept:coach:frank_solich concept:organizationhiredperson concept:university:nebraska 1
+
+concept:coach:frank_solich concept:agentcollaborateswithagent concept:university:nebraska 1
+concept:coach:frank_solich concept:organizationterminatedperson concept:university:nebraska 1
+---------------------------------
+concept:coach:chuck_amato concept:organizationhiredperson concept:terroristorganization:state 1
+
+concept:coach:chuck_amato concept:agentcollaborateswithagent concept:terroristorganization:state 1
+concept:coach:chuck_amato concept:organizationterminatedperson concept:terroristorganization:state 1
+---------------------------------
+concept:coach:pat_fitzgerald concept:organizationhiredperson concept:sportsteam:northwestern 1
+
+concept:coach:pat_fitzgerald concept:agentcollaborateswithagent concept:sportsteam:northwestern 1
+concept:coach:pat_fitzgerald concept:organizationterminatedperson concept:sportsteam:northwestern 1
+---------------------------------
+concept:coach:bob_huggins concept:organizationhiredperson concept:university:kansas_state 1
+
+concept:coach:bob_huggins concept:agentcollaborateswithagent concept:university:kansas_state 1
+concept:coach:bob_huggins concept:organizationterminatedperson concept:university:kansas_state 1
+---------------------------------
+concept:personaustralia:jim_calhoun concept:organizationhiredperson concept:sportsteam:huskies 0
+
+concept:personaustralia:jim_calhoun concept:organizationterminatedperson concept:sportsteam:huskies 1
+---------------------------------
+concept:coach:wade_phillips concept:organizationhiredperson concept:sportsteam:dallas_cowboys 0
+
+concept:coach:wade_phillips concept:organizationterminatedperson concept:sportsteam:dallas_cowboys 1
+---------------------------------
+concept:coach:russ_grimm concept:organizationhiredperson concept:sportsteam:arizona_cardinals_27_23 1
+
+concept:coach:russ_grimm concept:agentcollaborateswithagent concept:sportsteam:arizona_cardinals_27_23 1
+concept:coach:russ_grimm concept:agentcompeteswithagent concept:sportsteam:arizona_cardinals_27_23 0.0595295
+concept:coach:russ_grimm concept:organizationterminatedperson concept:sportsteam:arizona_cardinals_27_23 1
+---------------------------------
+concept:coach:huggins concept:organizationhiredperson concept:company:west_virginia 2
+
+concept:coach:huggins concept:agentcollaborateswithagent concept:company:west_virginia 1
+concept:coach:huggins concept:organizationterminatedperson concept:company:west_virginia 1
+---------------------------------
+concept:coach:sparano concept:organizationhiredperson concept:sportsleague:new 2
+
+concept:coach:sparano concept:agentcollaborateswithagent concept:sportsleague:new 1
+concept:coach:sparano concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:coach:van_gundy concept:organizationhiredperson concept:sportsteam:orlando_magic 0
+
+concept:coach:van_gundy concept:organizationterminatedperson concept:sportsteam:orlando_magic 1
+---------------------------------
+concept:coach:carroll concept:organizationhiredperson concept:university:usc 1
+
+concept:coach:carroll concept:agentcollaborateswithagent concept:university:usc 1
+concept:coach:carroll concept:organizationterminatedperson concept:university:usc 1
+---------------------------------
+concept:coach:tressel concept:organizationhiredperson concept:sportsteam:buckeyes 0
+
+concept:coach:tressel concept:organizationterminatedperson concept:sportsteam:buckeyes 1
+---------------------------------
+concept:coach:gruden concept:organizationhiredperson concept:sportsteam:bucs 2
+
+concept:coach:gruden concept:agentcollaborateswithagent concept:sportsteam:bucs 1
+concept:coach:gruden concept:organizationterminatedperson concept:sportsteam:bucs 1
+---------------------------------
+concept:coach:lute_olson concept:organizationhiredperson concept:company:arizona 1
+
+concept:coach:lute_olson concept:agentcollaborateswithagent concept:company:arizona 1
+concept:coach:lute_olson concept:organizationterminatedperson concept:company:arizona 1
+---------------------------------
+concept:person:jeff_van_gundy concept:organizationhiredperson concept:sportsteam:knicks 1
+
+concept:person:jeff_van_gundy concept:agentcollaborateswithagent concept:sportsteam:knicks 1
+concept:person:jeff_van_gundy concept:agentcompeteswithagent concept:sportsteam:knicks 0.0595295
+concept:person:jeff_van_gundy concept:organizationterminatedperson concept:sportsteam:knicks 1
+---------------------------------
+concept:person:edwards concept:organizationhiredperson concept:sportsteam:new_york_jets 1
+
+concept:person:edwards concept:agentcollaborateswithagent concept:sportsteam:new_york_jets 2
+concept:person:edwards concept:agentcompeteswithagent concept:sportsteam:new_york_jets 0.0595295
+concept:person:edwards concept:organizationterminatedperson concept:sportsteam:new_york_jets 1
+---------------------------------
+concept:coach:glen_hanlon concept:organizationhiredperson concept:sportsteam:capitals 1
+
+concept:coach:glen_hanlon concept:organizationterminatedperson concept:sportsteam:capitals 1
+---------------------------------
+concept:coach:mike_sherman concept:organizationhiredperson concept:sportsteam:packers 2
+
+concept:coach:mike_sherman concept:agentcollaborateswithagent concept:sportsteam:packers 1
+concept:coach:mike_sherman concept:agentcompeteswithagent concept:sportsteam:packers 0.0595295
+concept:coach:mike_sherman concept:organizationterminatedperson concept:sportsteam:packers 1
+---------------------------------
+concept:coach:bob_stoops concept:organizationhiredperson concept:sportsteam:central_oklahoma_bronchos 2
+
+concept:coach:bob_stoops concept:agentcollaborateswithagent concept:sportsteam:central_oklahoma_bronchos 2
+concept:coach:bob_stoops concept:organizationterminatedperson concept:sportsteam:central_oklahoma_bronchos 1
+---------------------------------
+concept:politicianus:john_hickenlooper concept:organizationhiredperson concept:city:denver 0
+
+concept:politicianus:john_hickenlooper concept:agentcompeteswithagent concept:city:denver 0.0595295
+concept:politicianus:john_hickenlooper concept:organizationterminatedperson concept:city:denver 1
+---------------------------------
+concept:coach:les_miles concept:organizationhiredperson concept:sportsteam:lsu 0
+
+concept:coach:les_miles concept:agentcompeteswithagent concept:sportsteam:lsu 0.0595295
+concept:coach:les_miles concept:organizationterminatedperson concept:sportsteam:lsu 1
+---------------------------------
+concept:coach:tom_izzo concept:organizationhiredperson concept:sportsteam:michigan_state 1
+
+concept:coach:tom_izzo concept:agentcollaborateswithagent concept:sportsteam:michigan_state 1
+concept:coach:tom_izzo concept:organizationterminatedperson concept:sportsteam:michigan_state 1
+---------------------------------
+concept:personmexico:isaiah_thomas concept:organizationhiredperson concept:company:new_york 1
+
+concept:personmexico:isaiah_thomas concept:agentcompeteswithagent concept:company:new_york 0.0595295
+concept:personmexico:isaiah_thomas concept:organizationterminatedperson concept:company:new_york 1
+---------------------------------
+concept:male:bobby_bowden concept:organizationhiredperson concept:sportsteam:florida_state 1
+
+concept:male:bobby_bowden concept:agentcollaborateswithagent concept:sportsteam:florida_state 1
+concept:male:bobby_bowden concept:organizationterminatedperson concept:sportsteam:florida_state 1
+---------------------------------
+concept:coach:karl_dorrell concept:organizationhiredperson concept:sportsteam:ucla 0
+
+concept:coach:karl_dorrell concept:organizationterminatedperson concept:sportsteam:ucla 1
+---------------------------------
+concept:person:riley001 concept:organizationhiredperson concept:sportsteam:heat 1
+
+concept:person:riley001 concept:organizationterminatedperson concept:sportsteam:heat 1
+---------------------------------
+concept:coach:cam_cameron concept:organizationhiredperson concept:sportsleague:new 2
+
+concept:coach:cam_cameron concept:agentcollaborateswithagent concept:sportsleague:new 1
+concept:coach:cam_cameron concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:athlete:lidstrom concept:organizationhiredperson concept:sportsteam:red_wings 1
+
+concept:athlete:lidstrom concept:agentcollaborateswithagent concept:sportsteam:red_wings 1
+concept:athlete:lidstrom concept:agentcompeteswithagent concept:sportsteam:red_wings 0.0595295
+concept:athlete:lidstrom concept:organizationterminatedperson concept:sportsteam:red_wings 1
+---------------------------------
+concept:personmexico:billy_gillispie concept:organizationhiredperson concept:sportsteam:uk 1
+
+concept:personmexico:billy_gillispie concept:agentcollaborateswithagent concept:sportsteam:uk 1
+concept:personmexico:billy_gillispie concept:organizationterminatedperson concept:sportsteam:uk 1
+---------------------------------
+concept:coach:tony_dungy concept:organizationhiredperson concept:sportsleague:nfl 2
+
+concept:coach:tony_dungy concept:agentcollaborateswithagent concept:sportsleague:nfl 1
+concept:coach:tony_dungy concept:organizationterminatedperson concept:sportsleague:nfl 1
+---------------------------------
+concept:person:porter001 concept:organizationhiredperson concept:sportsteam:suns 0
+
+concept:person:porter001 concept:organizationterminatedperson concept:sportsteam:suns 1
+---------------------------------
+concept:coach:pat_dye concept:organizationhiredperson concept:university:auburn 1
+
+concept:coach:pat_dye concept:agentcollaborateswithagent concept:university:auburn 1
+concept:coach:pat_dye concept:organizationterminatedperson concept:university:auburn 1
+concept:coach:pat_dye concept:subpartoforganization concept:university:auburn 0.5
+---------------------------------
+concept:musician:jimmy_johnson concept:organizationhiredperson concept:sportsteam:dallas_cowboys 2
+
+concept:musician:jimmy_johnson concept:agentcollaborateswithagent concept:sportsteam:dallas_cowboys 1
+concept:musician:jimmy_johnson concept:organizationterminatedperson concept:sportsteam:dallas_cowboys 1
+---------------------------------
+concept:coach:mangino concept:organizationhiredperson concept:creditunion:kansas 0
+
+concept:coach:mangino concept:organizationterminatedperson concept:creditunion:kansas 1
+---------------------------------
+concept:coach:barry_switzer concept:organizationhiredperson concept:stateorprovince:oklahoma 0
+
+concept:coach:barry_switzer concept:organizationterminatedperson concept:stateorprovince:oklahoma 1
+---------------------------------
+concept:coach:buddy_teevens concept:organizationhiredperson concept:sportsteam:stanford 0
+
+concept:coach:buddy_teevens concept:organizationterminatedperson concept:sportsteam:stanford 1
+---------------------------------
+concept:actor:callahan concept:organizationhiredperson concept:sportsteam:oakland_raiders 0
+
+concept:actor:callahan concept:organizationterminatedperson concept:sportsteam:oakland_raiders 1
+---------------------------------
+concept:coach:linehan concept:organizationhiredperson concept:sportsteam:rams 0
+
+concept:coach:linehan concept:organizationterminatedperson concept:sportsteam:rams 1
+---------------------------------
+concept:writer:knight concept:organizationhiredperson concept:politicalparty:college 0
+
+concept:writer:knight concept:organizationterminatedperson concept:politicalparty:college 1
+---------------------------------
+concept:personaustralia:bill_white concept:organizationhiredperson concept:city:houston 0
+
+concept:personaustralia:bill_white concept:organizationterminatedperson concept:city:houston 1
+---------------------------------
+concept:personeurope:curry concept:organizationhiredperson concept:sportsteam:georgia_state 0
+
+concept:personeurope:curry concept:organizationterminatedperson concept:sportsteam:georgia_state 1
+---------------------------------
+concept:coach:butch_jones concept:organizationhiredperson concept:geopoliticallocation:central_michigan 0
+
+concept:coach:butch_jones concept:organizationterminatedperson concept:geopoliticallocation:central_michigan 1
+---------------------------------
+concept:coach:dick_bennett concept:organizationhiredperson concept:creditunion:wisconsin 0
+
+concept:coach:dick_bennett concept:organizationterminatedperson concept:creditunion:wisconsin 1
+---------------------------------
+concept:coach:therrien concept:organizationhiredperson concept:sportsteam:pittsburgh_penguins 0
+
+concept:coach:therrien concept:organizationterminatedperson concept:sportsteam:pittsburgh_penguins 1
+---------------------------------
+concept:personmexico:trent_johnson concept:organizationhiredperson concept:sportsteam:lsu 0
+
+concept:personmexico:trent_johnson concept:agentcompeteswithagent concept:sportsteam:lsu 0.0595295
+concept:personmexico:trent_johnson concept:organizationterminatedperson concept:sportsteam:lsu 1
+---------------------------------
+concept:personmexico:steve_nash concept:organizationhiredperson concept:sportsteam:suns 0
+
+concept:personmexico:steve_nash concept:organizationterminatedperson concept:sportsteam:suns 1
+---------------------------------
+concept:coach:beilein concept:organizationhiredperson concept:company:west_virginia 0
+
+concept:coach:beilein concept:organizationterminatedperson concept:company:west_virginia 1
+---------------------------------
+concept:personaustralia:martin_jol concept:organizationhiredperson concept:sportsteam:spurs 0
+
+concept:personaustralia:martin_jol concept:organizationterminatedperson concept:sportsteam:spurs 1
+---------------------------------
+concept:coach:tommy_bowden concept:organizationhiredperson concept:university:clemson 0
+
+concept:coach:tommy_bowden concept:organizationterminatedperson concept:university:clemson 1
+---------------------------------
+concept:coach:danny_ford concept:organizationhiredperson concept:university:clemson 0
+
+concept:coach:danny_ford concept:organizationterminatedperson concept:university:clemson 1
+---------------------------------
+concept:coach:jay_triano concept:organizationhiredperson concept:sportsteam:raptors 0
+
+concept:coach:jay_triano concept:organizationterminatedperson concept:sportsteam:raptors 1
+---------------------------------
+concept:coach:coughlin concept:organizationhiredperson concept:sportsteam:new_york_giants 0
+
+concept:coach:coughlin concept:agentcompeteswithagent concept:sportsteam:new_york_giants 0.0595295
+concept:coach:coughlin concept:organizationterminatedperson concept:sportsteam:new_york_giants 1
+---------------------------------
+concept:personmexico:eddie_sutton concept:organizationhiredperson concept:university:oklahoma_state 0
+
+concept:personmexico:eddie_sutton concept:organizationterminatedperson concept:university:oklahoma_state 1
+---------------------------------
+concept:person:rick_majerus concept:organizationhiredperson concept:televisionstation:saint_louis 1
+
+concept:person:rick_majerus concept:agentcollaborateswithagent concept:televisionstation:saint_louis 1
+concept:person:rick_majerus concept:organizationterminatedperson concept:televisionstation:saint_louis 1
+---------------------------------
+concept:coach:jim_schwartz concept:organizationhiredperson concept:sportsteam:detroit_lions 0
+
+concept:coach:jim_schwartz concept:organizationterminatedperson concept:sportsteam:detroit_lions 1
+---------------------------------
+concept:coach:mike_martz concept:organizationhiredperson concept:sportsteam:rams 2
+
+concept:coach:mike_martz concept:agentcollaborateswithagent concept:sportsteam:rams 1
+concept:coach:mike_martz concept:organizationterminatedperson concept:sportsteam:rams 1
+---------------------------------
+concept:personaustralia:jim_calhoun concept:organizationhiredperson concept:university:uconn 1
+
+concept:personaustralia:jim_calhoun concept:agentcollaborateswithagent concept:university:uconn 1
+concept:personaustralia:jim_calhoun concept:organizationterminatedperson concept:university:uconn 1
+---------------------------------
+concept:coach:mike_montgomery concept:organizationhiredperson concept:sportsteam:golden_state_warriors 0
+
+concept:coach:mike_montgomery concept:organizationterminatedperson concept:sportsteam:golden_state_warriors 1
+---------------------------------
+concept:person:jackson001 concept:organizationhiredperson concept:sportsteam:los_angeles_lakers 0
+
+concept:person:jackson001 concept:organizationterminatedperson concept:sportsteam:los_angeles_lakers 1
+---------------------------------
+concept:coach:mangini concept:organizationhiredperson concept:company:new_york 2
+
+concept:coach:mangini concept:agentcollaborateswithagent concept:company:new_york 1
+concept:coach:mangini concept:agentcompeteswithagent concept:company:new_york 0.0595295
+concept:coach:mangini concept:organizationterminatedperson concept:company:new_york 1
+---------------------------------
+concept:coach:scott_stiles concept:organizationhiredperson concept:sportsteam:chicago_bulls 1
+
+concept:coach:scott_stiles concept:agentcompeteswithagent concept:sportsteam:chicago_bulls 0.0595295
+concept:coach:scott_stiles concept:organizationterminatedperson concept:sportsteam:chicago_bulls 1
+---------------------------------
+concept:coach:dan_mullen concept:organizationhiredperson concept:sportsteam:mississippi_state_university 1
+
+concept:coach:dan_mullen concept:organizationterminatedperson concept:sportsteam:mississippi_state_university 1
+---------------------------------
+concept:athlete:john_brady concept:organizationhiredperson concept:sportsteam:lsu 2
+
+concept:athlete:john_brady concept:agentcollaborateswithagent concept:sportsteam:lsu 1
+concept:athlete:john_brady concept:agentcompeteswithagent concept:sportsteam:lsu 0.0595295
+concept:athlete:john_brady concept:organizationterminatedperson concept:sportsteam:lsu 1
+---------------------------------
+concept:coach:bobby_dodd concept:organizationhiredperson concept:sportsteam:georgia_tech 1
+
+concept:coach:bobby_dodd concept:agentcollaborateswithagent concept:sportsteam:georgia_tech 1
+concept:coach:bobby_dodd concept:organizationterminatedperson concept:sportsteam:georgia_tech 1
+---------------------------------
+concept:coach:urban_meyer concept:organizationhiredperson concept:university:uf 1
+
+concept:coach:urban_meyer concept:agentcollaborateswithagent concept:university:uf 1
+concept:coach:urban_meyer concept:organizationterminatedperson concept:university:uf 1
+---------------------------------
+concept:politician:guiliani concept:organizationhiredperson concept:city:new_york 1
+
+concept:politician:guiliani concept:organizationterminatedperson concept:city:new_york 2
+---------------------------------
+concept:person:sherman concept:organizationhiredperson concept:sportsteam:texas_a_m 2
+
+concept:person:sherman concept:agentcollaborateswithagent concept:sportsteam:texas_a_m 1
+concept:person:sherman concept:organizationterminatedperson concept:sportsteam:texas_a_m 1
+---------------------------------
+concept:coach:tom_renney concept:organizationhiredperson concept:sportsteam:rangers 2
+
+concept:coach:tom_renney concept:agentcollaborateswithagent concept:sportsteam:rangers 1
+concept:coach:tom_renney concept:organizationterminatedperson concept:sportsteam:rangers 1
+---------------------------------
+concept:coach:harbaugh concept:organizationhiredperson concept:sportsteam:stanford 1
+
+concept:coach:harbaugh concept:agentcollaborateswithagent concept:sportsteam:stanford 1
+concept:coach:harbaugh concept:organizationterminatedperson concept:sportsteam:stanford 1
+---------------------------------
+concept:person:mccarthy concept:organizationhiredperson concept:sportsteam:packers 1
+
+concept:person:mccarthy concept:agentcollaborateswithagent concept:sportsteam:packers 1
+concept:person:mccarthy concept:agentcompeteswithagent concept:sportsteam:packers 0.0595295
+concept:person:mccarthy concept:organizationterminatedperson concept:sportsteam:packers 1
+---------------------------------
+concept:coach:rick_neuheisel concept:organizationhiredperson concept:sportsteam:ucla 1
+
+concept:coach:rick_neuheisel concept:organizationterminatedperson concept:sportsteam:ucla 1
+---------------------------------
+concept:coach:sidney_lowe concept:organizationhiredperson concept:sportsteam:nc_state 0
+
+concept:coach:sidney_lowe concept:organizationterminatedperson concept:sportsteam:nc_state 1
+---------------------------------
+concept:coach:mike_montgomery concept:organizationhiredperson concept:professionalorganization:cal 1
+
+concept:coach:mike_montgomery concept:agentcollaborateswithagent concept:professionalorganization:cal 1
+concept:coach:mike_montgomery concept:organizationterminatedperson concept:professionalorganization:cal 1
+---------------------------------
+concept:person:belichick concept:organizationhiredperson concept:sportsteam:new_england_patriots 1
+
+concept:person:belichick concept:agentcollaborateswithagent concept:sportsteam:new_england_patriots 1
+concept:person:belichick concept:agentcompeteswithagent concept:sportsteam:new_england_patriots 0.0595295
+concept:person:belichick concept:organizationterminatedperson concept:sportsteam:new_england_patriots 1
+---------------------------------
+concept:person:lane_kiffin concept:organizationhiredperson concept:sportsteam:oakland_raiders 0
+
+concept:person:lane_kiffin concept:organizationterminatedperson concept:sportsteam:oakland_raiders 1
+---------------------------------
+concept:personaustralia:smith concept:organizationhiredperson concept:university:oklahoma_state 1
+
+concept:personaustralia:smith concept:agentcollaborateswithagent concept:university:oklahoma_state 1
+concept:personaustralia:smith concept:organizationterminatedperson concept:university:oklahoma_state 1
+---------------------------------
+concept:coach:bill_parcells concept:organizationhiredperson concept:sportsteam:new_york_jets 1.5
+
+concept:coach:bill_parcells concept:agentcollaborateswithagent concept:sportsteam:new_york_jets 1
+concept:coach:bill_parcells concept:agentcompeteswithagent concept:sportsteam:new_york_jets 0.0595295
+concept:coach:bill_parcells concept:organizationterminatedperson concept:sportsteam:new_york_jets 1
+---------------------------------
+concept:coach:gene_chizik concept:organizationhiredperson concept:university:auburn 1
+
+concept:coach:gene_chizik concept:agentcollaborateswithagent concept:university:auburn 1
+concept:coach:gene_chizik concept:organizationterminatedperson concept:university:auburn 1
+concept:coach:gene_chizik concept:subpartoforganization concept:university:auburn 0.5
+---------------------------------
+concept:person:terry_bowden concept:organizationhiredperson concept:university:auburn 0
+
+concept:person:terry_bowden concept:organizationterminatedperson concept:university:auburn 1
+---------------------------------
+concept:coach:terry_porter concept:organizationhiredperson concept:city:phoenix 0
+
+concept:coach:terry_porter concept:organizationterminatedperson concept:city:phoenix 1
+---------------------------------
+concept:person:ty_willingham concept:organizationhiredperson concept:city:washington_d_c 2
+
+concept:person:ty_willingham concept:agentcollaborateswithagent concept:city:washington_d_c 1
+concept:person:ty_willingham concept:agentcompeteswithagent concept:city:washington_d_c 0.0595295
+concept:person:ty_willingham concept:organizationterminatedperson concept:city:washington_d_c 1*
+---------------------------------
+concept:coach:gary_pinkel concept:organizationhiredperson concept:organization:tigers 1
+
+concept:coach:gary_pinkel concept:agentcollaborateswithagent concept:organization:tigers 1
+concept:coach:gary_pinkel concept:organizationterminatedperson concept:organization:tigers 1
+---------------------------------
+concept:coach:ted_nolan concept:organizationhiredperson concept:sportsteam:new_york_islanders 2
+
+concept:coach:ted_nolan concept:agentcollaborateswithagent concept:sportsteam:new_york_islanders 1
+concept:coach:ted_nolan concept:organizationterminatedperson concept:sportsteam:new_york_islanders 1
+---------------------------------
+concept:coach:mike_woodson concept:organizationhiredperson concept:sportsteam:hawks 1
+
+concept:coach:mike_woodson concept:organizationterminatedperson concept:sportsteam:hawks 1
+---------------------------------
+concept:athlete:roy_williams concept:organizationhiredperson concept:sportsteam:tar_heels 1
+
+concept:athlete:roy_williams concept:organizationterminatedperson concept:sportsteam:tar_heels 1
+---------------------------------
+concept:person:john_o_leary concept:organizationhiredperson concept:company:ryanair001 1
+
+concept:person:john_o_leary concept:agentcollaborateswithagent concept:company:ryanair001 0.5
+concept:person:john_o_leary concept:organizationterminatedperson concept:company:ryanair001 1*
+---------------------------------
+concept:coach:frank_solich concept:organizationhiredperson concept:university:ohio 1
+
+concept:coach:frank_solich concept:agentcollaborateswithagent concept:university:ohio 1
+concept:coach:frank_solich concept:organizationterminatedperson concept:university:ohio 1
+---------------------------------
+concept:coach:al_arbour concept:organizationhiredperson concept:sportsteam:leafs 2
+
+concept:coach:al_arbour concept:agentcollaborateswithagent concept:sportsteam:leafs 1
+concept:coach:al_arbour concept:organizationterminatedperson concept:sportsteam:leafs 1
+---------------------------------
+concept:coach:larry_eustachy concept:organizationhiredperson concept:sportsteam:iowa_state 1
+
+concept:coach:larry_eustachy concept:agentcollaborateswithagent concept:sportsteam:iowa_state 1
+concept:coach:larry_eustachy concept:organizationterminatedperson concept:sportsteam:iowa_state 1
+---------------------------------
+concept:coach:skip_holtz concept:organizationhiredperson concept:sportsteam:pirates 1
+
+concept:coach:skip_holtz concept:agentcollaborateswithagent concept:sportsteam:pirates 1
+concept:coach:skip_holtz concept:organizationterminatedperson concept:sportsteam:pirates 1
+---------------------------------
+concept:coach:josh_mcdaniels concept:organizationhiredperson concept:sportsleague:new 0
+
+concept:coach:josh_mcdaniels concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:coach:bill_walsh concept:organizationhiredperson concept:sportsleague:nfl 1
+
+concept:coach:bill_walsh concept:agentcollaborateswithagent concept:sportsleague:nfl 1
+concept:coach:bill_walsh concept:organizationterminatedperson concept:sportsleague:nfl 1
+---------------------------------
+concept:person:riley001 concept:organizationhiredperson concept:sportsteam:los_angeles_lakers 0
+
+concept:person:riley001 concept:organizationterminatedperson concept:sportsteam:los_angeles_lakers 1
+---------------------------------
+concept:coach:carroll concept:organizationhiredperson concept:sportsteam:new_england_patriots 0
+
+concept:coach:carroll concept:agentcompeteswithagent concept:sportsteam:new_england_patriots 0.0595295
+concept:coach:carroll concept:organizationterminatedperson concept:sportsteam:new_england_patriots 1
+---------------------------------
+concept:coach:dean_smith concept:organizationhiredperson concept:university:unc 1
+
+concept:coach:dean_smith concept:organizationterminatedperson concept:university:unc 1
+---------------------------------
+concept:coach:ken_whisenhunt concept:organizationhiredperson concept:sportsteam:steelers 1
+
+concept:coach:ken_whisenhunt concept:agentcollaborateswithagent concept:sportsteam:steelers 1
+concept:coach:ken_whisenhunt concept:agentcompeteswithagent concept:sportsteam:steelers 0.0595295
+concept:coach:ken_whisenhunt concept:organizationterminatedperson concept:sportsteam:steelers 1
+---------------------------------
+concept:coach:van_gundy concept:organizationhiredperson concept:sportsteam:magic 1
+
+concept:coach:van_gundy concept:agentcollaborateswithagent concept:sportsteam:magic 1
+concept:coach:van_gundy concept:organizationterminatedperson concept:sportsteam:magic 1
+---------------------------------
+concept:coach:steve_spurrier concept:organizationhiredperson concept:sportsteam:florida_gators 1
+
+concept:coach:steve_spurrier concept:agentcollaborateswithagent concept:sportsteam:florida_gators 1
+concept:coach:steve_spurrier concept:organizationterminatedperson concept:sportsteam:florida_gators 1
+---------------------------------
+concept:person:willingham concept:organizationhiredperson concept:city:washington_d_c 0
+
+concept:person:willingham concept:agentcompeteswithagent concept:city:washington_d_c 0.0595295
+concept:person:willingham concept:organizationterminatedperson concept:city:washington_d_c 1
+---------------------------------
+concept:person:anderson concept:organizationhiredperson concept:sportsleague:new 0
+
+concept:person:anderson concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:coach:joe_paterno concept:organizationhiredperson concept:county:penn_state 0
+
+concept:coach:joe_paterno concept:organizationterminatedperson concept:county:penn_state 1
+---------------------------------
+concept:coach:todd_haley concept:organizationhiredperson concept:sportsteam:kansas_city_chiefs 0
+
+concept:coach:todd_haley concept:organizationterminatedperson concept:sportsteam:kansas_city_chiefs 1
+---------------------------------
+concept:coach:doc_rivers concept:organizationhiredperson concept:sportsteam:boston_celtics 1
+
+concept:coach:doc_rivers concept:agentcollaborateswithagent concept:sportsteam:boston_celtics 1
+concept:coach:doc_rivers concept:organizationterminatedperson concept:sportsteam:boston_celtics 1
+---------------------------------
+concept:person:don_shula concept:organizationhiredperson concept:sportsteam:miami_dolphins 1
+
+concept:person:don_shula concept:agentcollaborateswithagent concept:sportsteam:miami_dolphins 1
+concept:person:don_shula concept:agentcompeteswithagent concept:sportsteam:miami_dolphins 0.0595295
+concept:person:don_shula concept:organizationterminatedperson concept:sportsteam:miami_dolphins 1
+---------------------------------
+concept:coach:reggie_theus concept:organizationhiredperson concept:university:new_mexico_state 1
+
+concept:coach:reggie_theus concept:agentcollaborateswithagent concept:university:new_mexico_state 1
+concept:coach:reggie_theus concept:organizationterminatedperson concept:university:new_mexico_state 1
+---------------------------------
+concept:coach:mark_mangino concept:organizationhiredperson concept:creditunion:kansas 1
+
+concept:coach:mark_mangino concept:agentcollaborateswithagent concept:creditunion:kansas 1
+concept:coach:mark_mangino concept:agentcontrols concept:creditunion:kansas 1
+concept:coach:mark_mangino concept:organizationterminatedperson concept:creditunion:kansas 1
+concept:coach:mark_mangino concept:subpartof concept:creditunion:kansas 0.5
+---------------------------------
+concept:coach:mike_stoops concept:organizationhiredperson concept:company:arizona 1
+
+concept:coach:mike_stoops concept:agentcollaborateswithagent concept:company:arizona 1
+concept:coach:mike_stoops concept:organizationterminatedperson concept:company:arizona 1
+---------------------------------
+concept:professor:john_l__smith concept:organizationhiredperson concept:sportsteam:michigan_state 2
+
+concept:professor:john_l__smith concept:agentcollaborateswithagent concept:sportsteam:michigan_state 1
+concept:professor:john_l__smith concept:organizationterminatedperson concept:sportsteam:michigan_state 1
+---------------------------------
+concept:coach:chuck_noll concept:organizationhiredperson concept:sportsteam:steelers 0
+
+concept:coach:chuck_noll concept:agentcompeteswithagent concept:sportsteam:steelers 0.0595295
+concept:coach:chuck_noll concept:organizationterminatedperson concept:sportsteam:steelers 1
+---------------------------------
+concept:coach:jim_haslett concept:organizationhiredperson concept:city:st_louis 2
+
+concept:coach:jim_haslett concept:agentcollaborateswithagent concept:city:st_louis 1
+concept:coach:jim_haslett concept:organizationterminatedperson concept:city:st_louis 1
+---------------------------------
+concept:person:juan_carlos_osorio concept:organizationhiredperson concept:city:new_york 1
+
+concept:person:juan_carlos_osorio concept:organizationterminatedperson concept:city:new_york 1*
+---------------------------------
+concept:coach:norv_turner concept:organizationhiredperson concept:sportsteam:sd_chargers 1
+
+concept:coach:norv_turner concept:agentcollaborateswithagent concept:sportsteam:sd_chargers 1
+concept:coach:norv_turner concept:agentcompeteswithagent concept:sportsteam:sd_chargers 0.0595295
+concept:coach:norv_turner concept:organizationterminatedperson concept:sportsteam:sd_chargers 1
+---------------------------------
+concept:coach:tony_dungy concept:organizationhiredperson concept:sportsteam:colts 3
+
+concept:coach:tony_dungy concept:agentcollaborateswithagent concept:sportsteam:colts 1
+concept:coach:tony_dungy concept:agentcompeteswithagent concept:sportsteam:colts 0.0595295
+concept:coach:tony_dungy concept:organizationterminatedperson concept:sportsteam:colts 1
+---------------------------------
+concept:coach:jim_haslett concept:organizationhiredperson concept:sportsteam:rams 2
+
+concept:coach:jim_haslett concept:organizationterminatedperson concept:sportsteam:rams 1
+---------------------------------
+concept:person:don_shula concept:organizationhiredperson concept:sportsleague:nfl 0
+
+concept:person:don_shula concept:organizationterminatedperson concept:sportsleague:nfl 1
+---------------------------------
+concept:coach:bear_bryant concept:organizationhiredperson concept:university:alabama 0
+
+concept:coach:bear_bryant concept:organizationterminatedperson concept:university:alabama 1
+---------------------------------
+concept:coach:sylvester_croom concept:organizationhiredperson concept:stateorprovince:mississippi_state 0
+
+concept:coach:sylvester_croom concept:organizationterminatedperson concept:stateorprovince:mississippi_state 1
+---------------------------------
+concept:coach:june_jones concept:organizationhiredperson concept:stateorprovince:hawaii 1
+
+concept:coach:june_jones concept:agentcollaborateswithagent concept:stateorprovince:hawaii 1
+concept:coach:june_jones concept:organizationterminatedperson concept:stateorprovince:hawaii 1
+---------------------------------
+concept:coach:mike_shanahan concept:organizationhiredperson concept:city:denver 1
+
+concept:coach:mike_shanahan concept:agentcompeteswithagent concept:city:denver 0.0595295
+concept:coach:mike_shanahan concept:organizationterminatedperson concept:city:denver 1
+concept:coach:mike_shanahan concept:subpartof concept:city:denver 0.5
+---------------------------------
+concept:actor:callahan concept:organizationhiredperson concept:university:nebraska 0
+
+concept:actor:callahan concept:organizationterminatedperson concept:university:nebraska 1
+---------------------------------
+concept:person:pat_riley concept:organizationhiredperson concept:sportsteam:knicks 0
+
+concept:person:pat_riley concept:agentcompeteswithagent concept:sportsteam:knicks 0.0595295
+concept:person:pat_riley concept:organizationterminatedperson concept:sportsteam:knicks 1
+---------------------------------
+concept:coach:tom_o_brien concept:organizationhiredperson concept:sportsteam:boston_college 2
+
+concept:coach:tom_o_brien concept:agentcollaborateswithagent concept:sportsteam:boston_college 1
+concept:coach:tom_o_brien concept:organizationterminatedperson concept:sportsteam:boston_college 1
+---------------------------------
+concept:personaustralia:paul_hewitt concept:organizationhiredperson concept:sportsteam:georgia_tech 1
+
+concept:personaustralia:paul_hewitt concept:agentcollaborateswithagent concept:sportsteam:georgia_tech 1
+concept:personaustralia:paul_hewitt concept:organizationterminatedperson concept:sportsteam:georgia_tech 1
+---------------------------------
+concept:athlete:paul_brown concept:organizationhiredperson concept:city:st_louis 1
+
+concept:athlete:paul_brown concept:agentcollaborateswithagent concept:city:st_louis 1
+concept:athlete:paul_brown concept:organizationterminatedperson concept:city:st_louis 1
+---------------------------------
+concept:coach:kay_yow concept:organizationhiredperson concept:university:north_carolina_state 0
+
+concept:coach:kay_yow concept:organizationterminatedperson concept:university:north_carolina_state 1
+---------------------------------
+concept:coach:brad_childress concept:organizationhiredperson concept:sportsteam:minnesota_vikings 1
+
+concept:coach:brad_childress concept:organizationterminatedperson concept:sportsteam:minnesota_vikings 1
+---------------------------------
+concept:coach:scott_linehan concept:organizationhiredperson concept:sportsleague:new 2
+
+concept:coach:scott_linehan concept:agentcollaborateswithagent concept:sportsleague:new 1
+concept:coach:scott_linehan concept:organizationterminatedperson concept:sportsleague:new 1
+---------------------------------
+concept:coach:spagnuolo concept:organizationhiredperson concept:sportsteam:rams 1
+
+concept:coach:spagnuolo concept:organizationterminatedperson concept:sportsteam:rams 1
+---------------------------------
+concept:ceo:bernard_l__madoff concept:organizationhiredperson concept:nongovorganization:u_s_ 1
+
+concept:ceo:bernard_l__madoff concept:organizationterminatedperson concept:nongovorganization:u_s_ 2
+---------------------------------
+concept:coach:bill_stewart concept:organizationhiredperson concept:company:west_virginia 1
+
+concept:coach:bill_stewart concept:agentcollaborateswithagent concept:company:west_virginia 1
+concept:coach:bill_stewart concept:organizationterminatedperson concept:company:west_virginia 1
+---------------------------------
+concept:visualartist:meyer concept:organizationhiredperson concept:university:uf 0
+
+concept:visualartist:meyer concept:organizationterminatedperson concept:university:uf 1
+---------------------------------
+concept:personus:norm_stewart concept:organizationhiredperson concept:company:missouri 1
+
+concept:personus:norm_stewart concept:organizationterminatedperson concept:company:missouri 1*
+---------------------------------
+concept:coach:bill_carmody concept:organizationhiredperson concept:sportsteam:northwestern 1
+
+concept:coach:bill_carmody concept:agentcollaborateswithagent concept:sportsteam:northwestern 1
+concept:coach:bill_carmody concept:organizationterminatedperson concept:sportsteam:northwestern 1
+---------------------------------
+concept:coach:nick_saban concept:organizationhiredperson concept:university:alabama 1
+
+concept:coach:nick_saban concept:agentcollaborateswithagent concept:university:alabama 1
+concept:coach:nick_saban concept:organizationterminatedperson concept:university:alabama 1
+---------------------------------
+concept:personcanada:self concept:organizationhiredperson concept:university:ku 1
+
+concept:personcanada:self concept:agentcollaborateswithagent concept:university:ku 1
+concept:personcanada:self concept:organizationterminatedperson concept:university:ku 1
+---------------------------------
+concept:coach:art_briles concept:organizationhiredperson concept:sportsteam:mary_hardin_baylor_crusaders 0
+
+concept:coach:art_briles concept:organizationterminatedperson concept:sportsteam:mary_hardin_baylor_crusaders 1
+---------------------------------
+concept:person:red_auerbach concept:organizationhiredperson concept:sportsteam:boston_celtics 1
+
+concept:person:red_auerbach concept:agentcollaborateswithagent concept:sportsteam:boston_celtics 1
+concept:person:red_auerbach concept:organizationterminatedperson concept:sportsteam:boston_celtics 1
+---------------------------------
+concept:coach:ralph_friedgen concept:organizationhiredperson concept:sportsteam:maryland 1
+
+concept:coach:ralph_friedgen concept:organizationterminatedperson concept:sportsteam:maryland 1
+---------------------------------
+concept:person:jeff_van_gundy concept:organizationhiredperson concept:company:new_york 2
+
+concept:person:jeff_van_gundy concept:agentcompeteswithagent concept:company:new_york 0.0595295
+concept:person:jeff_van_gundy concept:organizationterminatedperson concept:company:new_york 1*
+---------------------------------
+concept:athlete:vinny_del_negro concept:organizationhiredperson concept:sportsteam:chicago_bulls 2
+
+concept:athlete:vinny_del_negro concept:agentcollaborateswithagent concept:sportsteam:chicago_bulls 1
+concept:athlete:vinny_del_negro concept:agentcompeteswithagent concept:sportsteam:chicago_bulls 0.0595295
+concept:athlete:vinny_del_negro concept:organizationterminatedperson concept:sportsteam:chicago_bulls 1
+---------------------------------
+concept:politicianus:richard_riordan concept:organizationhiredperson concept:county:los_angeles_county 1
+
+concept:politicianus:richard_riordan concept:organizationterminatedperson concept:county:los_angeles_county 1
+---------------------------------
+concept:coach:dennis_franchione concept:organizationhiredperson concept:sportsteam:texas_a_m 2
+
+concept:coach:dennis_franchione concept:agentcollaborateswithagent concept:sportsteam:texas_a_m 1
+concept:coach:dennis_franchione concept:organizationterminatedperson concept:sportsteam:texas_a_m 1
+---------------------------------
+concept:coach:paul_maurice concept:organizationhiredperson concept:sportsteam:leafs 1
+
+concept:coach:paul_maurice concept:agentcollaborateswithagent concept:sportsteam:leafs 1
+concept:coach:paul_maurice concept:organizationterminatedperson concept:sportsteam:leafs 1
+---------------------------------
+concept:coach:dennis_felton concept:organizationhiredperson concept:sportsteam:bulldogs 1
+
+concept:coach:dennis_felton concept:organizationterminatedperson concept:sportsteam:bulldogs 1
+---------------------------------
+concept:coach:joe_gibbs concept:organizationhiredperson concept:sportsteam:redskins 0
+
+concept:coach:joe_gibbs concept:organizationterminatedperson concept:sportsteam:redskins 1
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.604167 0.254167 0.31875 0.604167
+HITS@3: 1 0.616667 0.616667 0.61875
+HITS@10: 1 0.61875 0.61875 0.61875
+MRR: 0.792014 0.444655 0.467193 0.616128
+MR: 1.45625 15.8875 15.9479 29.6104
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.604167 0.233333 0.325 0.604167
+HITS@3: 1 0.616667 0.616667 0.61875
+HITS@10: 1 0.61875 0.61875 0.61875
+MRR: 0.792014 0.434931 0.470318 0.616128
+MR: 1.45625 15.9083 15.9417 29.6104
+relation_mr_mrr_1_3_10_n_rf 7652.00000000000000000 225.75256345042870976 156.00000000000000000 296.00000000000000000 297.00000000000000000 480 297

@@ -1,0 +1,1 @@
+1	/medicine/disease/risk_factors(A,C) <= /people/cause_of_death/people(A,B), /people/person/gender(B,C)

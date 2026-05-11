@@ -1,0 +1,2 @@
+1	concept:politicianusholdsoffice(A,D) <= concept:politicianrepresentslocation(A,B), concept:proxyfor(C,B), concept:atdate(D,C)
+1	concept:politicianusholdsoffice(A,D) <= concept:personborninlocation(A,B), concept:atlocation(C,B), concept:mutualproxyfor(C,D)

@@ -1,0 +1,1 @@
+1	/government/politician/government_positions_held./government/government_position_held/legislative_sessions(A,C) <= /people/person/places_lived./people/place_lived/location(A,B), /government/legislative_session/members./government/government_position_held/district_represented(C,B)

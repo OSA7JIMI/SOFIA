@@ -1,0 +1,1 @@
+1	concept:stadiumlocatedincity(A,C) <= concept:proxyfor(A,B), concept:proxyfor(C,B)

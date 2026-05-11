@@ -1,0 +1,3 @@
+1	concept:ismultipleof(A,B) <= concept:animalpreyson(A,B)
+1	concept:ismultipleof(A,D) <= concept:animalpreyson(A,B), concept:specializationof(B,C), concept:animalpreyson(C,D)
+1	concept:ismultipleof(A,D) <= concept:animaldevelopdisease(B,A), concept:animalpreyson(B,C), concept:agentcompeteswithagent(C,D)

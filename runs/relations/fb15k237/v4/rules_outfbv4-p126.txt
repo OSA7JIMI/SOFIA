@@ -1,0 +1,1 @@
+1	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to(A,C) <= /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(A,B), /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(C,B)

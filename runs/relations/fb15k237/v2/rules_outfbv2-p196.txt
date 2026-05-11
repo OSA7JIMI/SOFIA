@@ -1,0 +1,7 @@
+0.5	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(A,B)
+0.5	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(A,B) <= /tv/tv_producer/programs_produced./tv/tv_producer_term/program(A,B)
+0.5	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(A,B) <= /tv/tv_program/program_creator(B,A)
+0.5	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(A,D) <= /base/popstra/celebrity/friendship./base/popstra/friendship/participant(A,B), /people/person/languages(B,C), /tv/tv_program/languages(D,C)
+0.5	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(A,D) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,B), /people/person/languages(B,C), /tv/tv_program/languages(D,C)
+0.5	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(A,E) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,B), /people/person/profession(B,C), /people/person/profession(D,C), /award/award_nominee/award_nominations./award/award_nomination/nominated_for(D,E)
+0.5	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(A,D) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B), /tv/tv_program/regular_cast./tv/regular_tv_appearance/actor(D,C)

@@ -1,0 +1,7 @@
+1	concept:agriculturalproductgrowninlandscapefeatures(A,D) <= concept:agriculturalproductincludingagriculturalproduct(B,A), concept:agriculturalproductincludingagriculturalproduct(B,C), concept:agriculturalproductgrowninlandscapefeatures(C,D)
+1	concept:agriculturalproductgrowninlandscapefeatures(A,D) <= concept:agriculturalproductgrowninlandscapefeatures(A,B), concept:agriculturalproductgrowninlandscapefeatures(C,B), concept:agriculturalproductgrowninlandscapefeatures(C,D)
+1	concept:agriculturalproductgrowninlandscapefeatures(A,D) <= concept:agriculturalproductgrowninlandscapefeatures(A,B), concept:locationlocatedwithinlocation(C,B), concept:locationlocatedwithinlocation(C,D)
+1	concept:agriculturalproductgrowninlandscapefeatures(A,D) <= concept:agriculturalproductcamefromcountry(A,B), concept:agriculturalproductcamefromcountry(C,B), concept:agriculturalproductgrowninlandscapefeatures(C,D)
+1	concept:agriculturalproductgrowninlandscapefeatures(A,D) <= concept:fooddecreasestheriskofdisease(A,B), concept:fooddecreasestheriskofdisease(C,B), concept:objectfoundinscene(C,D)
+1	concept:agriculturalproductgrowninlandscapefeatures(A,E) <= concept:agriculturalproductcamefromcountry(A,B), concept:countryalsoknownas(B,C), concept:atlocation(D,C), concept:agentactsinlocation(D,E)
+1	concept:agriculturalproductgrowninlandscapefeatures(A,D) <= concept:agriculturalproductcamefromcountry(A,B), concept:countrylocatedingeopoliticallocation(B,C), concept:statelocatedingeopoliticallocation(C,D)

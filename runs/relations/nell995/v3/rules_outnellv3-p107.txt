@@ -1,0 +1,1 @@
+1	concept:plantrepresentemotion(A,E) <= concept:animaleatfood(B,A), concept:animalistypeofanimal(B,C), concept:proxyfor(C,D), concept:mutualproxyfor(D,E)

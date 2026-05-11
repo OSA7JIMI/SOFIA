@@ -1,0 +1,315 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:organizationheadquarteredincity
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:company:fox 0
+
+concept:city:new_york concept:agentactsinlocation concept:company:fox 0.5
+concept:city:new_york concept:competeswith concept:company:fox 0.5
+concept:city:new_york concept:hasofficeincity concept:company:fox 1
+concept:city:new_york concept:headquarteredin concept:company:fox 1*
+---------------------------------
+concept:county:los_angeles_county concept:organizationheadquarteredincity concept:televisionstation:associated_press 0
+
+concept:county:los_angeles_county concept:atdate concept:televisionstation:associated_press 0.5
+concept:county:los_angeles_county concept:atlocation concept:televisionstation:associated_press 0.25
+concept:county:los_angeles_county concept:headquarteredin concept:televisionstation:associated_press 1
+concept:county:los_angeles_county concept:proxyfor concept:televisionstation:associated_press 0.5
+concept:county:los_angeles_county concept:sportsgameteam concept:televisionstation:associated_press 0.5
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:company:espn_com 0
+
+concept:city:new_york concept:headquarteredin concept:company:espn_com 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:website:the_nation 0
+
+concept:city:new_york concept:headquarteredin concept:website:the_nation 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:website:publishers_weekly 0
+
+concept:city:new_york concept:headquarteredin concept:website:publishers_weekly 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:blog:slashdot 0
+
+concept:city:new_york concept:headquarteredin concept:blog:slashdot 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:company:martha_stewart 0
+
+concept:city:new_york concept:headquarteredin concept:company:martha_stewart 1*
+---------------------------------
+concept:county:los_angeles_county concept:organizationheadquarteredincity concept:company:daily_news001 0
+
+concept:county:los_angeles_county concept:competeswith concept:company:daily_news001 0.5
+concept:county:los_angeles_county concept:headquarteredin concept:company:daily_news001 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:website:cbs_evening_news 0
+
+concept:city:new_york concept:agentactsinlocation concept:website:cbs_evening_news 0.5
+concept:city:new_york concept:hasofficeincity concept:website:cbs_evening_news 1
+concept:city:new_york concept:headquarteredin concept:website:cbs_evening_news 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:website:new_york_times 0
+
+concept:city:new_york concept:agentactsinlocation concept:website:new_york_times 0.5
+concept:city:new_york concept:competeswith concept:website:new_york_times 0.5
+concept:city:new_york concept:hasofficeincity concept:website:new_york_times 1
+concept:city:new_york concept:headquarteredin concept:website:new_york_times 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:website:new_york_american 0
+
+concept:city:new_york concept:headquarteredin concept:website:new_york_american 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:website:daily_news 0
+
+concept:city:new_york concept:headquarteredin concept:website:daily_news 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:newspaper:gq 0
+
+concept:city:new_york concept:headquarteredin concept:newspaper:gq 1
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:company:slate__com 0
+
+concept:city:new_york concept:headquarteredin concept:company:slate__com 1
+---------------------------------
+concept:city:washington_d_c concept:organizationheadquarteredincity concept:company:city_paper001 1
+
+concept:city:washington_d_c concept:agentbelongstoorganization concept:company:city_paper001 1
+concept:city:washington_d_c concept:agentcompeteswithagent concept:company:city_paper001 1.5
+concept:city:washington_d_c concept:agentcontrols concept:company:city_paper001 1
+concept:city:washington_d_c concept:headquarteredin concept:company:city_paper001 1*
+concept:city:washington_d_c concept:subpartoforganization concept:company:city_paper001 1
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:newspaper:national_review 0
+
+concept:city:new_york concept:competeswith concept:newspaper:national_review 0.5
+concept:city:new_york concept:headquarteredin concept:newspaper:national_review 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:company:bloomberg 0
+
+concept:city:new_york concept:headquarteredin concept:company:bloomberg 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:website:new_yorker_magazine 0
+
+concept:city:new_york concept:headquarteredin concept:website:new_yorker_magazine 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:website:rolling_stone_magazine 0
+
+concept:city:new_york concept:headquarteredin concept:website:rolling_stone_magazine 1
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:publication:espn 0
+
+concept:city:new_york concept:agentactsinlocation concept:publication:espn 0.5
+concept:city:new_york concept:hasofficeincity concept:publication:espn 1
+concept:city:new_york concept:headquarteredin concept:publication:espn 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:company:reuters 0
+
+concept:city:new_york concept:competeswith concept:company:reuters 0.5
+concept:city:new_york concept:headquarteredin concept:company:reuters 1
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:website:the_washington_times 0
+
+concept:city:new_york concept:headquarteredin concept:website:the_washington_times 1
+---------------------------------
+concept:city:washington_d_c concept:organizationheadquarteredincity concept:company:npr 0
+
+concept:city:washington_d_c concept:hasofficeincity concept:company:npr 1
+concept:city:washington_d_c concept:headquarteredin concept:company:npr 1*
+---------------------------------
+concept:city:washington_d_c concept:organizationheadquarteredincity concept:musicartist:times 0
+
+concept:city:washington_d_c concept:agentactsinlocation concept:musicartist:times 2.64197
+concept:city:washington_d_c concept:agentcompeteswithagent concept:musicartist:times 0.5
+concept:city:washington_d_c concept:headquarteredin concept:musicartist:times 1
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:newspaper:the_new_york_observer 0
+
+concept:city:new_york concept:headquarteredin concept:newspaper:the_new_york_observer 1
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:politicsblog:huffington_post 0
+
+concept:city:new_york concept:headquarteredin concept:politicsblog:huffington_post 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:publication:times_book_review 0
+
+concept:city:new_york concept:headquarteredin concept:publication:times_book_review 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:company:cnn_ 0
+
+concept:city:new_york concept:agentactsinlocation concept:company:cnn_ 0.5
+concept:city:new_york concept:competeswith concept:company:cnn_ 0.5
+concept:city:new_york concept:hasofficeincity concept:company:cnn_ 1*
+concept:city:new_york concept:headquarteredin concept:company:cnn_ 1
+---------------------------------
+concept:city:washington_d_c concept:organizationheadquarteredincity concept:website:washington_post 0
+
+concept:city:washington_d_c concept:agentcompeteswithagent concept:website:washington_post 0.5
+concept:city:washington_d_c concept:agentcontrols concept:website:washington_post 1.75
+concept:city:washington_d_c concept:agentparticipatedinevent concept:website:washington_post 1
+concept:city:washington_d_c concept:atdate concept:website:washington_post 0.5
+concept:city:washington_d_c concept:atlocation concept:website:washington_post 0.1875
+concept:city:washington_d_c concept:citycapitalofcountry concept:website:washington_post 1
+concept:city:washington_d_c concept:cityliesonriver concept:website:washington_post 0.5
+concept:city:washington_d_c concept:competeswith concept:website:washington_post 0.5
+concept:city:washington_d_c concept:hasofficeincity concept:website:washington_post 1
+concept:city:washington_d_c concept:hasofficeincountry concept:website:washington_post 0.5
+concept:city:washington_d_c concept:headquarteredin concept:website:washington_post 1*
+concept:city:washington_d_c concept:istallerthan concept:website:washington_post 1
+concept:city:washington_d_c concept:mutualproxyfor concept:website:washington_post 0.5
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:website:washington_post 1
+concept:city:washington_d_c concept:proxyfor concept:website:washington_post 1.16667
+concept:city:washington_d_c concept:sportsgameteam concept:website:washington_post 0.5
+concept:city:washington_d_c concept:subpartof concept:website:washington_post 0.75
+concept:city:washington_d_c concept:synonymfor concept:website:washington_post 1
+---------------------------------
+concept:county:los_angeles_county concept:organizationheadquarteredincity concept:company:chronicle001 0
+
+concept:county:los_angeles_county concept:headquarteredin concept:company:chronicle001 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:newspaper:the_new_yorker 0
+
+concept:city:new_york concept:headquarteredin concept:newspaper:the_new_yorker 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:televisionnetwork:cbs 0
+
+concept:city:new_york concept:agentactsinlocation concept:televisionnetwork:cbs 0.5
+concept:city:new_york concept:competeswith concept:televisionnetwork:cbs 0.5
+concept:city:new_york concept:hasofficeincity concept:televisionnetwork:cbs 1
+concept:city:new_york concept:headquarteredin concept:televisionnetwork:cbs 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:magazine:playboy 0
+
+concept:city:new_york concept:headquarteredin concept:magazine:playboy 1
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:newspaper:new_york_observer 0
+
+concept:city:new_york concept:headquarteredin concept:newspaper:new_york_observer 1*
+---------------------------------
+concept:city:washington_d_c concept:organizationheadquarteredincity concept:blog:sun 0
+
+concept:city:washington_d_c concept:headquarteredin concept:blog:sun 1
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:website:associated_press 0
+
+concept:city:new_york concept:agentactsinlocation concept:website:associated_press 0.5
+concept:city:new_york concept:competeswith concept:website:associated_press 0.5
+concept:city:new_york concept:hasofficeincity concept:website:associated_press 1
+concept:city:new_york concept:headquarteredin concept:website:associated_press 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:website:good_housekeeping 0
+
+concept:city:new_york concept:headquarteredin concept:website:good_housekeeping 1*
+---------------------------------
+concept:city:washington_d_c concept:organizationheadquarteredincity concept:politicsblog:journal 0
+
+concept:city:washington_d_c concept:competeswith concept:politicsblog:journal 0.5
+concept:city:washington_d_c concept:headquarteredin concept:politicsblog:journal 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:newspaper:record 0
+
+concept:city:new_york concept:headquarteredin concept:newspaper:record 1*
+---------------------------------
+concept:city:atlanta concept:organizationheadquarteredincity concept:company:cnn 0
+
+concept:city:atlanta concept:headquarteredin concept:company:cnn 1*
+---------------------------------
+concept:city:washington_d_c concept:organizationheadquarteredincity concept:newspaper:the_national 0
+
+concept:city:washington_d_c concept:agentactsinlocation concept:newspaper:the_national 1
+concept:city:washington_d_c concept:agentcollaborateswithagent concept:newspaper:the_national 1.09103
+concept:city:washington_d_c concept:atdate concept:newspaper:the_national 0.5
+concept:city:washington_d_c concept:cityalsoknownas concept:newspaper:the_national 0.5
+concept:city:washington_d_c concept:cityliesonriver concept:newspaper:the_national 0.25
+concept:city:washington_d_c concept:hasofficeincountry concept:newspaper:the_national 0.25
+concept:city:washington_d_c concept:headquarteredin concept:newspaper:the_national 1*
+concept:city:washington_d_c concept:mutualproxyfor concept:newspaper:the_national 1.5
+concept:city:washington_d_c concept:organizationhiredperson concept:newspaper:the_national 0.5
+concept:city:washington_d_c concept:proxyfor concept:newspaper:the_national 1.5
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:newspaper:journal 0
+
+concept:city:new_york concept:agentactsinlocation concept:newspaper:journal 0.5
+concept:city:new_york concept:competeswith concept:newspaper:journal 0.5
+concept:city:new_york concept:hasofficeincity concept:newspaper:journal 1
+concept:city:new_york concept:headquarteredin concept:newspaper:journal 1*
+concept:city:new_york concept:organizationterminatedperson concept:newspaper:journal 0.5
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:newspaper:amsterdam_news 0
+
+concept:city:new_york concept:headquarteredin concept:newspaper:amsterdam_news 1
+---------------------------------
+concept:city:l_a_ concept:organizationheadquarteredincity concept:newspaper:times 0
+
+concept:city:l_a_ concept:agentcompeteswithagent concept:newspaper:times 0.5
+concept:city:l_a_ concept:competeswith concept:newspaper:times 0.5
+concept:city:l_a_ concept:hasofficeincity concept:newspaper:times 1*
+concept:city:l_a_ concept:headquarteredin concept:newspaper:times 1
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:website:new_york_daily 0
+
+concept:city:new_york concept:competeswith concept:website:new_york_daily 0.5
+concept:city:new_york concept:headquarteredin concept:website:new_york_daily 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:city:abc 0
+
+concept:city:new_york concept:agentparticipatedinevent concept:city:abc 0.5
+concept:city:new_york concept:headquarteredin concept:city:abc 1
+concept:city:new_york concept:organizationterminatedperson concept:city:abc 0.5
+concept:city:new_york concept:politicianrepresentslocation concept:city:abc 0.5
+concept:city:new_york concept:subpartof concept:city:abc 1
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:website:the_daily_news 0
+
+concept:city:new_york concept:headquarteredin concept:website:the_daily_news 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:newspaper:the_new_york_times_book_review 0
+
+concept:city:new_york concept:headquarteredin concept:newspaper:the_new_york_times_book_review 1
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:publication:times_literary_supplement 0
+
+concept:city:new_york concept:headquarteredin concept:publication:times_literary_supplement 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:newspaper:msnbc_com 0
+
+concept:city:new_york concept:headquarteredin concept:newspaper:msnbc_com 1
+---------------------------------
+concept:city:washington_d_c concept:organizationheadquarteredincity concept:company:observer001 0
+
+concept:city:washington_d_c concept:headquarteredin concept:company:observer001 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:newspaper:new_york_post 0
+
+concept:city:new_york concept:agentactsinlocation concept:newspaper:new_york_post 0.5
+concept:city:new_york concept:hasofficeincity concept:newspaper:new_york_post 1
+concept:city:new_york concept:headquarteredin concept:newspaper:new_york_post 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:website:nbc_news 0
+
+concept:city:new_york concept:agentactsinlocation concept:website:nbc_news 0.5
+concept:city:new_york concept:competeswith concept:website:nbc_news 0.5
+concept:city:new_york concept:hasofficeincity concept:website:nbc_news 1*
+concept:city:new_york concept:headquarteredin concept:website:nbc_news 1
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:website:new_york_times_book_review 0
+
+concept:city:new_york concept:headquarteredin concept:website:new_york_times_book_review 1*
+---------------------------------
+concept:city:new_york concept:organizationheadquarteredincity concept:website:herald_tribune 0
+
+concept:city:new_york concept:headquarteredin concept:website:herald_tribune 1
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0 0 0 0
+HITS@3: 0.709091 0 0 0.0181818
+HITS@10: 0.963636 0.0181818 0.0181818 0.0181818
+MRR: 0.391701 0.0293365 0.0297896 0.0220096
+MR: 3.32727 39 38.6909 74.6545
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.381818 0 0 0
+HITS@3: 0.763636 0 0.0181818 0.0181818
+HITS@10: 0.981818 0.0181818 0.0181818 0.0181818
+MRR: 0.609495 0.0298196 0.0318414 0.0221597
+MR: 2.61818 38.2545 37.8727 73.8
+relation_mr_mrr_1_3_10_n_rf 2083.00000000000000000 1.75127794936681025 0.00000000000000000 1.00000000000000000 1.00000000000000000 55 1

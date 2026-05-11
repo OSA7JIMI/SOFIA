@@ -1,0 +1,124 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:citylocatedingeopoliticallocation
+---------------------------------
+concept:geopoliticallocation:national concept:citylocatedingeopoliticallocation concept:city:paris 0
+
+concept:geopoliticallocation:national concept:atlocation concept:city:paris 0.1875
+---------------------------------
+concept:geopoliticallocation:national concept:citylocatedingeopoliticallocation concept:city:washington_dc 0
+
+concept:geopoliticallocation:national concept:citylocatedinstate concept:city:washington_dc 0.357143
+concept:geopoliticallocation:national concept:locationlocatedwithinlocation concept:city:washington_dc 0.625*
+concept:geopoliticallocation:national concept:subpartof concept:city:washington_dc 1
+---------------------------------
+concept:geopoliticallocation:national concept:citylocatedingeopoliticallocation concept:city:new_york 0
+
+concept:geopoliticallocation:national concept:agentactsinlocation concept:city:new_york 1
+concept:geopoliticallocation:national concept:atlocation concept:city:new_york 0.6875
+concept:geopoliticallocation:national concept:citylocatedinstate concept:city:new_york 0.357143
+concept:geopoliticallocation:national concept:locationlocatedwithinlocation concept:city:new_york 0.625
+---------------------------------
+concept:geopoliticallocation:national concept:citylocatedingeopoliticallocation concept:city:philadelphia 0
+
+concept:geopoliticallocation:national concept:citylocatedinstate concept:city:philadelphia 0.357143
+---------------------------------
+concept:geopoliticallocation:north_texas concept:citylocatedingeopoliticallocation concept:city:fort_worth 0
+
+concept:geopoliticallocation:north_texas concept:agentcontrols concept:city:fort_worth 1
+concept:geopoliticallocation:north_texas concept:atlocation concept:city:fort_worth 0.75
+concept:geopoliticallocation:north_texas concept:citylocatedincountry concept:city:fort_worth 1
+concept:geopoliticallocation:north_texas concept:citylocatedinstate concept:city:fort_worth 1
+concept:geopoliticallocation:north_texas concept:locationlocatedwithinlocation concept:city:fort_worth 1
+concept:geopoliticallocation:north_texas concept:politicianrepresentslocation concept:city:fort_worth 1
+concept:geopoliticallocation:north_texas concept:subpartof concept:city:fort_worth 1
+---------------------------------
+concept:county:louisiana_state concept:citylocatedingeopoliticallocation concept:city:shreveport 0
+
+---------------------------------
+concept:geopoliticallocation:national concept:citylocatedingeopoliticallocation concept:city:st_louis 0
+
+concept:geopoliticallocation:national concept:agentcontrols concept:city:st_louis 1
+concept:geopoliticallocation:national concept:atlocation concept:city:st_louis 0.5625
+concept:geopoliticallocation:national concept:citylocatedinstate concept:city:st_louis 0.357143
+concept:geopoliticallocation:national concept:mutualproxyfor concept:city:st_louis 1
+concept:geopoliticallocation:national concept:proxyfor concept:city:st_louis 1
+---------------------------------
+concept:geopoliticallocation:national concept:citylocatedingeopoliticallocation concept:city:washington_d_c 0
+
+concept:geopoliticallocation:national concept:agentactsinlocation concept:city:washington_d_c 0.141967
+concept:geopoliticallocation:national concept:atlocation concept:city:washington_d_c 1.125
+concept:geopoliticallocation:national concept:citylocatedinstate concept:city:washington_d_c 0.357143
+concept:geopoliticallocation:national concept:locationlocatedwithinlocation concept:city:washington_d_c 0.625*
+concept:geopoliticallocation:national concept:subpartof concept:city:washington_d_c 1
+---------------------------------
+concept:geopoliticallocation:lsu concept:citylocatedingeopoliticallocation concept:city:shreveport 0
+
+concept:geopoliticallocation:lsu concept:agentcontrols concept:city:shreveport 1
+concept:geopoliticallocation:lsu concept:atlocation concept:city:shreveport 0.75
+concept:geopoliticallocation:lsu concept:citylocatedincountry concept:city:shreveport 1
+concept:geopoliticallocation:lsu concept:citylocatedinstate concept:city:shreveport 1
+concept:geopoliticallocation:lsu concept:locationlocatedwithinlocation concept:city:shreveport 1.5
+concept:geopoliticallocation:lsu concept:politicianrepresentslocation concept:city:shreveport 1
+concept:geopoliticallocation:lsu concept:subpartof concept:city:shreveport 1
+---------------------------------
+concept:stateorprovince:ut concept:citylocatedingeopoliticallocation concept:city:houston 0
+
+---------------------------------
+concept:geopoliticallocation:junior concept:citylocatedingeopoliticallocation concept:city:york 0
+
+---------------------------------
+concept:county:louisiana_state_university concept:citylocatedingeopoliticallocation concept:city:shreveport 0
+
+---------------------------------
+concept:geopoliticallocation:sam_houston concept:citylocatedingeopoliticallocation concept:city:huntsville 0
+
+concept:geopoliticallocation:sam_houston concept:locationlocatedwithinlocation concept:city:huntsville 0.125*
+concept:geopoliticallocation:sam_houston concept:subpartof concept:city:huntsville 1
+---------------------------------
+concept:geopoliticallocation:delta concept:citylocatedingeopoliticallocation concept:city:cleveland 0
+
+---------------------------------
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:city:bellevue 1
+
+concept:city:washington_d_c concept:agentactsinlocation concept:city:bellevue 0.141967
+concept:city:washington_d_c concept:agentbelongstoorganization concept:city:bellevue 0.5
+concept:city:washington_d_c concept:agentcontrols concept:city:bellevue 1
+concept:city:washington_d_c concept:atdate concept:city:bellevue 0.538724
+concept:city:washington_d_c concept:atlocation concept:city:bellevue 2.25
+concept:city:washington_d_c concept:cityliesonriver concept:city:bellevue 0.75
+concept:city:washington_d_c concept:citylocatedincountry concept:city:bellevue 1
+concept:city:washington_d_c concept:citylocatedinstate concept:city:bellevue 2
+concept:city:washington_d_c concept:lakeinstate concept:city:bellevue 0.5
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:city:bellevue 2
+concept:city:washington_d_c concept:mutualproxyfor concept:city:bellevue 2
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:city:bellevue 1
+concept:city:washington_d_c concept:politicianrepresentslocation concept:city:bellevue 1
+concept:city:washington_d_c concept:proxyfor concept:city:bellevue 2.16667*
+concept:city:washington_d_c concept:subpartof concept:city:bellevue 3.5*
+concept:city:washington_d_c concept:subpartoforganization concept:city:bellevue 0.220025
+---------------------------------
+concept:stateorprovince:new_jersey concept:citylocatedingeopoliticallocation concept:city:york 0
+
+concept:stateorprovince:new_jersey concept:atdate concept:city:york 1.03872
+concept:stateorprovince:new_jersey concept:atlocation concept:city:york 0.75
+concept:stateorprovince:new_jersey concept:cityalsoknownas concept:city:york 0.5
+concept:stateorprovince:new_jersey concept:lakeinstate concept:city:york 0.5
+concept:stateorprovince:new_jersey concept:locationlocatedwithinlocation concept:city:york 0.625
+concept:stateorprovince:new_jersey concept:mutualproxyfor concept:city:york 1
+concept:stateorprovince:new_jersey concept:subpartof concept:city:york 0.317461
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.3125 0 0 0
+HITS@3: 0.5 0 0 0
+HITS@10: 1 0.0625 0.0625 0.0625
+MRR: 0.477158 0.0305317 0.0294501 0.0212641
+MR: 4 37.875 39.1875 71.6875
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.3125 0 0 0
+HITS@3: 0.5625 0 0 0
+HITS@10: 1 0.0625 0.0625 0.0625
+MRR: 0.498438 0.0325537 0.0311491 0.0248904
+MR: 3.6875 37.6875 38.8125 71.25
+relation_mr_mrr_1_3_10_n_rf 621.00000000000000000 0.49838513184582162 0.00000000000000000 0.00000000000000000 1.00000000000000000 16 1

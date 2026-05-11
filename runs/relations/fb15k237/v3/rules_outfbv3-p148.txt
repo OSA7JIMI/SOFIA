@@ -1,0 +1,2 @@
+1	/olympics/olympic_games/sports(A,C) <= /olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics(B,A), /olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country(C,B)
+1	/olympics/olympic_games/sports(A,E) <= /time/event/locations(A,B), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(C,B), /people/person/spouse_s./people/marriage/type_of_union(D,C), /sports/sport/pro_athletes./sports/pro_sports_played/athlete(E,D)

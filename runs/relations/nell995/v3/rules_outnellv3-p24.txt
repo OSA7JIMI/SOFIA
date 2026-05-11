@@ -1,0 +1,3 @@
+1	concept:animalsuchasfish(A,C) <= concept:agriculturalproductcomingfromvertebrate(B,A), concept:agriculturalproductcomingfromvertebrate(B,C)
+1	concept:animalsuchasfish(A,C) <= concept:animalistypeofanimal(B,A), concept:animalistypeofanimal(C,B)
+1	concept:animalsuchasfish(A,D) <= concept:invertebratefeedonfood(A,B), concept:invertebratefeedonfood(C,B), concept:animalsuchasfish(C,D)

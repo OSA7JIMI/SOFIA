@@ -1,0 +1,4 @@
+1	concept:arterycalledartery(A,B) <= concept:bodypartcontainsbodypart(B,A)
+1	concept:arterycalledartery(A,D) <= concept:arterycalledartery(A,B), concept:arterycalledartery(C,B), concept:arterycalledartery(C,D)
+1	concept:arterycalledartery(A,C) <= concept:arterycalledartery(B,A), concept:arterycalledartery(B,C)
+1	concept:arterycalledartery(A,D) <= concept:arterycalledartery(A,B), concept:bodypartcontainsbodypart(C,B), concept:bodypartcontainsbodypart(C,D)

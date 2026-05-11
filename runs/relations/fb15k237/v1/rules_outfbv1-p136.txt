@@ -1,0 +1,2 @@
+1	/people/ethnicity/languages_spoken(A,E) <= /people/ethnicity/people(A,B), /award/award_nominee/award_nominations./award/award_nomination/award(B,C), /award/award_category/nominees./award/award_nomination/nominated_for(C,D), /film/film/language(D,E)
+1	/people/ethnicity/languages_spoken(A,E) <= /people/ethnicity/people(A,B), /people/person/languages(B,C), /people/person/languages(D,C), /people/person/languages(D,E)

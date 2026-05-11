@@ -1,0 +1,239 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:cityliesonriver
+---------------------------------
+concept:river:portneuf concept:cityliesonriver concept:city:pocatello 0
+
+---------------------------------
+concept:river:bronx concept:cityliesonriver concept:city:york 1
+
+concept:river:bronx concept:statehascapital concept:city:york 0.5
+---------------------------------
+concept:river:similkameen concept:cityliesonriver concept:city:princeton 0
+
+concept:river:similkameen concept:statehascapital concept:city:princeton 0.5
+---------------------------------
+concept:river:cuyahoga concept:cityliesonriver concept:city:cleveland 0
+
+---------------------------------
+concept:river:brazos concept:cityliesonriver concept:city:waco 0
+
+---------------------------------
+concept:river:potomac concept:cityliesonriver concept:city:washington_dc 1
+
+---------------------------------
+concept:river:gila concept:cityliesonriver concept:city:phoenix 0
+
+---------------------------------
+concept:river:hudson_river concept:cityliesonriver concept:city:new_york 1
+
+concept:river:hudson_river concept:statehascapital concept:city:new_york 0.5
+---------------------------------
+concept:river:chattahoochee concept:cityliesonriver concept:city:atlanta 0
+
+---------------------------------
+concept:river:scioto concept:cityliesonriver concept:city:columbus 0
+
+---------------------------------
+concept:river:verde concept:cityliesonriver concept:city:phoenix 0
+
+---------------------------------
+concept:river:housatonic concept:cityliesonriver concept:city:pittsfield 0
+
+concept:river:housatonic concept:statehascapital concept:city:pittsfield 0.5
+---------------------------------
+concept:river:hudson_river concept:cityliesonriver concept:city:york 1
+
+concept:river:hudson_river concept:statehascapital concept:city:york 0.5
+---------------------------------
+concept:river:south_platte concept:cityliesonriver concept:city:denver 0
+
+---------------------------------
+concept:river:columbia_river concept:cityliesonriver concept:city:kennewick 0
+
+---------------------------------
+concept:river:french_broad concept:cityliesonriver concept:city:knoxville 0
+
+---------------------------------
+concept:river:upper_hudson concept:cityliesonriver concept:city:york 0
+
+concept:river:upper_hudson concept:statehascapital concept:city:york 0.5
+---------------------------------
+concept:river:schuylkill concept:cityliesonriver concept:city:philadelphia 0
+
+concept:river:schuylkill concept:cityalsoknownas concept:city:philadelphia 0.5
+---------------------------------
+concept:river:hudson concept:cityliesonriver concept:city:new_york 1
+
+concept:river:hudson concept:statehascapital concept:city:new_york 0.5
+---------------------------------
+concept:river:niagara concept:cityliesonriver concept:city:buffalo 1
+
+---------------------------------
+concept:river:neversink concept:cityliesonriver concept:city:york 1
+
+concept:river:neversink concept:statehascapital concept:city:york 0.5
+---------------------------------
+concept:river:woonasquatucket concept:cityliesonriver concept:city:providence 0
+
+---------------------------------
+concept:river:loup concept:cityliesonriver concept:city:columbus 0
+
+---------------------------------
+concept:river:olentangy concept:cityliesonriver concept:city:columbus 0
+
+---------------------------------
+concept:river:lower_snake concept:cityliesonriver concept:city:washington_d_c 0
+
+concept:river:lower_snake concept:cityalsoknownas concept:city:washington_d_c 0.5
+concept:river:lower_snake concept:statehascapital concept:city:washington_d_c 0.5
+---------------------------------
+concept:river:hudson concept:cityliesonriver concept:city:kingston 1
+
+---------------------------------
+concept:river:mohawk concept:cityliesonriver concept:city:new_york 1
+
+concept:river:mohawk concept:agentactsinlocation concept:city:new_york 0.5
+concept:river:mohawk concept:atlocation concept:city:new_york 0.5625
+concept:river:mohawk concept:citylocatedinstate concept:city:new_york 0.357143
+concept:river:mohawk concept:locationlocatedwithinlocation concept:city:new_york 0.5
+concept:river:mohawk concept:statehascapital concept:city:new_york 0.5
+---------------------------------
+concept:river:mohawk concept:cityliesonriver concept:city:york 1
+
+concept:river:mohawk concept:agentactsinlocation concept:city:york 0.141967
+concept:river:mohawk concept:atlocation concept:city:york 0.5
+concept:river:mohawk concept:citylocatedinstate concept:city:york 0.357143
+concept:river:mohawk concept:locationlocatedwithinlocation concept:city:york 0.5
+concept:river:mohawk concept:statehascapital concept:city:york 0.5
+---------------------------------
+concept:river:cuyahoga concept:cityliesonriver concept:city:akron 0
+
+---------------------------------
+concept:river:chattahoochee concept:cityliesonriver concept:city:columbus 0
+
+---------------------------------
+concept:river:hudson concept:cityliesonriver concept:city:stillwater 1
+
+---------------------------------
+concept:river:thames concept:cityliesonriver concept:city:norwich 0
+
+---------------------------------
+concept:river:hudson concept:cityliesonriver concept:city:newark 1
+
+---------------------------------
+concept:skiarea:stony_brook concept:cityliesonriver concept:city:york 0
+
+concept:skiarea:stony_brook concept:statehascapital concept:city:york 0.5
+---------------------------------
+concept:river:platte concept:cityliesonriver concept:city:denver 0
+
+---------------------------------
+concept:river:mohawk_river concept:cityliesonriver concept:city:york 0
+
+concept:river:mohawk_river concept:statehascapital concept:city:york 0.5
+---------------------------------
+concept:river:hudson concept:cityliesonriver concept:city:athens 0
+
+---------------------------------
+concept:river:schuykill concept:cityliesonriver concept:city:philadelphia 0
+
+concept:river:schuykill concept:cityalsoknownas concept:city:philadelphia 0.5
+---------------------------------
+concept:river:big_sioux concept:cityliesonriver concept:city:sioux_city 0
+
+---------------------------------
+concept:river:neversink concept:cityliesonriver concept:city:new_york 1
+
+concept:river:neversink concept:statehascapital concept:city:new_york 0.5
+---------------------------------
+concept:river:holston concept:cityliesonriver concept:city:knoxville 0
+
+---------------------------------
+concept:river:south_platte concept:cityliesonriver concept:city:brighton 0
+
+---------------------------------
+concept:river:gila concept:cityliesonriver concept:city:clifton 0
+
+---------------------------------
+concept:river:hudson concept:cityliesonriver concept:county:jersey_city 1
+
+concept:river:hudson concept:statehascapital concept:county:jersey_city 0.5
+---------------------------------
+concept:river:thames concept:cityliesonriver concept:city:westminster 0
+
+---------------------------------
+concept:river:niagara concept:cityliesonriver concept:city:new_york 1
+
+concept:river:niagara concept:statehascapital concept:city:new_york 0.5
+---------------------------------
+concept:river:south_platte concept:cityliesonriver concept:city:littleton 0
+
+---------------------------------
+concept:river:niagara concept:cityliesonriver concept:city:york 1
+
+concept:river:niagara concept:statehascapital concept:city:york 0.5
+---------------------------------
+concept:river:lower_hudson concept:cityliesonriver concept:city:york 0
+
+concept:river:lower_hudson concept:statehascapital concept:city:york 0.5
+---------------------------------
+concept:river:thames concept:cityliesonriver concept:city:oxford 0
+
+---------------------------------
+concept:river:neuse concept:cityliesonriver concept:city:raleigh 0
+
+---------------------------------
+concept:river:meramec concept:cityliesonriver concept:city:st_louis 0
+
+---------------------------------
+concept:river:east_river concept:cityliesonriver concept:city:new_york 0
+
+concept:river:east_river concept:statehascapital concept:city:new_york 0.5
+---------------------------------
+concept:river:susquehanna concept:cityliesonriver concept:city:york 1
+
+concept:river:susquehanna concept:statehascapital concept:city:york 0.5
+---------------------------------
+concept:river:schuylkill concept:cityliesonriver concept:city:conshohocken 0
+
+---------------------------------
+concept:river:potomac concept:cityliesonriver concept:city:washington_d_c 1
+
+concept:river:potomac concept:cityalsoknownas concept:city:washington_d_c 0.5
+concept:river:potomac concept:statehascapital concept:city:washington_d_c 0.5
+---------------------------------
+concept:river:yellowstone concept:cityliesonriver concept:city:columbus 0
+
+---------------------------------
+concept:river:susquehanna concept:cityliesonriver concept:city:new_york 1
+
+concept:river:susquehanna concept:statehascapital concept:city:new_york 0.5
+---------------------------------
+concept:river:bronx concept:cityliesonriver concept:city:new_york 1
+
+concept:river:bronx concept:statehascapital concept:city:new_york 0.5
+---------------------------------
+concept:river:hudson concept:cityliesonriver concept:city:buffalo 1
+
+---------------------------------
+concept:river:brazos concept:cityliesonriver concept:city:houston 0
+
+---------------------------------
+concept:river:hudson concept:cityliesonriver concept:city:bayonne 1
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.83871 0.354839 0.354839 0.354839
+HITS@3: 1 0.354839 0.354839 0.354839
+HITS@10: 1 0.354839 0.354839 0.354839
+MRR: 0.916667 0.371556 0.371811 0.363328
+MR: 1.17742 25.2581 25.2258 49.3871
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.83871 0.354839 0.354839 0.354839
+HITS@3: 1 0.354839 0.354839 0.354839
+HITS@10: 1 0.354839 0.354839 0.354839
+MRR: 0.916667 0.37149 0.371811 0.363328
+MR: 1.17742 25.3548 25.2258 49.3871
+relation_mr_mrr_1_3_10_n_rf 1564.00000000000000000 23.05227325308399955 22.00000000000000000 22.00000000000000000 22.00000000000000000 62 22

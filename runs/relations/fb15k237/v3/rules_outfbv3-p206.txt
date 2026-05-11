@@ -1,0 +1,7 @@
+1	/tv/tv_producer/programs_produced./tv/tv_producer_term/program(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(A,B)
+1	/tv/tv_producer/programs_produced./tv/tv_producer_term/program(A,B) <= /tv/tv_program/regular_cast./tv/regular_tv_appearance/actor(B,A)
+1	/tv/tv_producer/programs_produced./tv/tv_producer_term/program(A,B) <= /tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(A,B)
+1	/tv/tv_producer/programs_produced./tv/tv_producer_term/program(A,D) <= /people/person/gender(A,B), /people/person/gender(C,B), /award/award_nominee/award_nominations./award/award_nomination/nominated_for(C,D)
+1	/tv/tv_producer/programs_produced./tv/tv_producer_term/program(A,D) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(A,B), /film/film/genre(B,C), /tv/tv_program/genre(D,C)
+1	/tv/tv_producer/programs_produced./tv/tv_producer_term/program(A,D) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B), /film/actor/film./film/performance/film(C,D)
+1	/tv/tv_producer/programs_produced./tv/tv_producer_term/program(A,E) <= /award/award_winner/awards_won./award/award_honor/award_winner(A,B), /tv/tv_producer/programs_produced./tv/tv_producer_term/program(B,C), /tv/tv_program/genre(C,D), /tv/tv_program/genre(E,D)

@@ -1,0 +1,5 @@
+1	concept:organizationheadquarteredinstateorprovince(A,C) <= concept:statelocatedingeopoliticallocation(B,A), concept:statelocatedingeopoliticallocation(B,C)
+1	concept:organizationheadquarteredinstateorprovince(A,C) <= concept:statelocatedingeopoliticallocation(B,A), concept:stateorprovinceisborderedbystateorprovince(B,C)
+1	concept:organizationheadquarteredinstateorprovince(A,D) <= concept:teamplaysagainstteam(A,B), concept:teamplaysagainstteam(B,C), concept:organizationheadquarteredinstateorprovince(C,D)
+1	concept:organizationheadquarteredinstateorprovince(A,E) <= concept:teamplaysincity(A,B), concept:agentactsinlocation(B,C), concept:mutualproxyfor(C,D), concept:proxyfor(D,E)
+1	concept:organizationheadquarteredinstateorprovince(A,C) <= concept:agentcompeteswithagent(B,A), concept:organizationheadquarteredinstateorprovince(B,C)

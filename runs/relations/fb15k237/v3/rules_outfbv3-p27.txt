@@ -1,0 +1,2 @@
+1	/base/popstra/celebrity/breakup./base/popstra/breakup/participant(A,B) <= /base/popstra/celebrity/dated./base/popstra/dated/participant(A,B)
+1	/base/popstra/celebrity/breakup./base/popstra/breakup/participant(A,B) <= /base/popstra/celebrity/dated./base/popstra/dated/participant(B,A)

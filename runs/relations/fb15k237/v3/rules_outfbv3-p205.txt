@@ -1,0 +1,1 @@
+1	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program(A,D) <= /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency(A,B), /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency(C,B), /tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program(C,D)

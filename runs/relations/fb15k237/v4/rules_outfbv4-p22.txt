@@ -1,0 +1,5 @@
+1	/base/biblioness/bibs_location/state(A,B) <= /location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division(A,B)
+1	/base/biblioness/bibs_location/state(A,B) <= /location/location/contains(B,A)
+1	/base/biblioness/bibs_location/state(A,C) <= /location/location/contains(B,A), /location/location/contains(C,B)
+1	/base/biblioness/bibs_location/state(A,D) <= /people/person/place_of_birth(B,A), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(C,D)
+1	/base/biblioness/bibs_location/state(A,D) <= /location/location/contains(B,A), /location/statistical_region/religions./location/religion_percentage/religion(B,C), /location/statistical_region/religions./location/religion_percentage/religion(D,C)

@@ -1,0 +1,1 @@
+1	/music/group_member/membership./music/group_membership/group(A,E) <= /people/person/profession(A,B), /people/person/profession(C,B), /award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee(D,C), /award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee(D,E)

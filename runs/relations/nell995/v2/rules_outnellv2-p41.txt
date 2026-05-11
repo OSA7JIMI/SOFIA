@@ -1,0 +1,2 @@
+1	concept:organizationacronymhasname(A,C) <= concept:atlocation(B,A), concept:atlocation(B,C)
+1	concept:organizationacronymhasname(A,C) <= concept:locationlocatedwithinlocation(B,A), concept:locationlocatedwithinlocation(B,C)

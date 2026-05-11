@@ -1,0 +1,5 @@
+0.333333	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(A,B)
+0.333333	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(A,B) <= /tv/tv_program/program_creator(B,A)
+0.666667	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(A,C) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(B,A), /award/award_nominee/award_nominations./award/award_nomination/nominated_for(B,C)
+1	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(A,E) <= /people/person/profession(A,B), /people/person/profession(C,B), /people/person/languages(C,D), /tv/tv_program/languages(E,D)
+0.333333	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(A,C) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,B), /tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(B,C)

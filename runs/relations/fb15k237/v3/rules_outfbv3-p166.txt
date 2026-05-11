@@ -1,0 +1,3 @@
+1	/people/ethnicity/languages_spoken(A,E) <= /people/ethnicity/people(A,B), /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency(B,C), /location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency(D,C), /location/country/official_language(D,E)
+1	/people/ethnicity/languages_spoken(A,D) <= /people/ethnicity/languages_spoken(A,B), /film/film/language(C,B), /film/film/language(C,D)
+1	/people/ethnicity/languages_spoken(A,D) <= /people/ethnicity/people(A,B), /film/actor/dubbing_performances./film/dubbing_performance/language(B,C), /education/field_of_study/students_majoring./education/education/major_field_of_study(C,D)

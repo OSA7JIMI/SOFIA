@@ -1,0 +1,2 @@
+1	concept:citycapitalofcountry(A,B) <= concept:citylocatedincountry(A,B)
+1	concept:citycapitalofcountry(A,C) <= concept:atdate(A,B), concept:atdate(C,B)

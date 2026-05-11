@@ -1,0 +1,6 @@
+1	/people/person/employment_history./business/employment_tenure/company(A,B) <= /music/record_label/artist(B,A)
+1	/people/person/employment_history./business/employment_tenure/company(A,B) <= /organization/organization_founder/organizations_founded(A,B)
+1	/people/person/employment_history./business/employment_tenure/company(A,E) <= /film/film/produced_by(B,A), /film/film/language(B,C), /film/film/language(D,C), /film/film_distributor/films_distributed./film/film_film_distributor_relationship/film(E,D)
+1	/people/person/employment_history./business/employment_tenure/company(A,D) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B), /people/person/employment_history./business/employment_tenure/company(C,D)
+1	/people/person/employment_history./business/employment_tenure/company(A,D) <= /people/person/gender(A,B), /people/person/gender(C,B), /education/educational_institution/students_graduates./education/education/student(D,C)
+1	/people/person/employment_history./business/employment_tenure/company(A,D) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B), /organization/organization_founder/organizations_founded(C,D)

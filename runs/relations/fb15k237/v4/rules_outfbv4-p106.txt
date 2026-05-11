@@ -1,0 +1,2 @@
+1	/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position(A,B) <= /sports/sports_position/players./sports/sports_team_roster/team(B,A)
+1	/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position(A,D) <= /sports/sports_team/colors(A,B), /sports/sports_team/colors(C,B), /soccer/football_team/current_roster./soccer/football_roster_position/position(C,D)

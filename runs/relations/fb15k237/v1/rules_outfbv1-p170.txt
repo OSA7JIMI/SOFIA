@@ -1,0 +1,1 @@
+1	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program(A,E) <= /people/person/profession(A,B), /people/person/profession(C,B), /people/person/languages(C,D), /tv/tv_program/languages(E,D)

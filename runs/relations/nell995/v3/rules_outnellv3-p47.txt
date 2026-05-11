@@ -1,0 +1,4 @@
+1	concept:citycapitalofcountry(A,B) <= concept:citylocatedincountry(A,B)
+1	concept:citycapitalofcountry(A,C) <= concept:citylocatedincountry(A,B), concept:countryalsoknownas(B,C)
+1	concept:citycapitalofcountry(A,D) <= concept:atdate(A,B), concept:atdate(C,B), concept:countrylocatedingeopoliticallocation(D,C)
+1	concept:citycapitalofcountry(A,D) <= concept:atlocation(A,B), concept:atdate(B,C), concept:atdate(D,C)

@@ -1,0 +1,6 @@
+1	concept:agentparticipatedinevent(A,C) <= concept:teamplaysagainstteam(B,A), concept:sportsgameteam(C,B)
+1	concept:agentparticipatedinevent(A,C) <= concept:teamplaysagainstteam(A,B), concept:agentparticipatedinevent(B,C)
+1	concept:agentparticipatedinevent(A,D) <= concept:proxyfor(A,B), concept:proxyfor(C,B), concept:agentparticipatedinevent(C,D)
+1	concept:agentparticipatedinevent(A,D) <= concept:locationlocatedwithinlocation(B,A), concept:locationlocatedwithinlocation(B,C), concept:agentparticipatedinevent(C,D)
+1	concept:agentparticipatedinevent(A,D) <= concept:organizationterminatedperson(A,B), concept:organizationterminatedperson(C,B), concept:agentparticipatedinevent(C,D)
+1	concept:agentparticipatedinevent(A,D) <= concept:statelocatedingeopoliticallocation(B,A), concept:statelocatedingeopoliticallocation(B,C), concept:agentparticipatedinevent(C,D)

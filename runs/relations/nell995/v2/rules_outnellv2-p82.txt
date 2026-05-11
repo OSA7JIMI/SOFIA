@@ -1,0 +1,5 @@
+1	concept:teamplaysagainstteam(A,C) <= concept:sportsgameteam(B,A), concept:sportsgameteam(B,C)
+1	concept:teamplaysagainstteam(A,C) <= concept:teamalsoknownas(B,A), concept:teamalsoknownas(C,B)
+1	concept:teamplaysagainstteam(A,C) <= concept:teamplaysinleague(A,B), concept:teamplaysinleague(C,B)
+1	concept:teamplaysagainstteam(A,B) <= concept:teamplaysagainstteam(B,A)
+1	concept:teamplaysagainstteam(A,D) <= concept:teamplaysagainstteam(A,B), concept:teamplaysagainstteam(B,C), concept:teamplaysagainstteam(C,D)

@@ -1,0 +1,5 @@
+1	/location/country/official_language(A,B) <= /language/human_language/countries_spoken_in(B,A)
+1	/location/country/official_language(A,C) <= /location/administrative_division/first_level_division_of(A,B), /language/human_language/countries_spoken_in(C,B)
+1	/location/country/official_language(A,D) <= /olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics(A,B), /olympics/olympic_games/participating_countries(B,C), /location/country/official_language(C,D)
+1	/location/country/official_language(A,D) <= /military/military_combatant/military_conflicts./military/military_combatant_group/combatants(A,B), /media_common/netflix_genre/titles(B,C), /film/film/language(C,D)
+1	/location/country/official_language(A,D) <= /location/country/form_of_government(A,B), /location/country/form_of_government(C,B), /location/country/official_language(C,D)

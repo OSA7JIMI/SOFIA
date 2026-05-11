@@ -1,0 +1,2 @@
+1	/base/americancomedy/celebrity_impressionist/celebrities_impersonated(A,C) <= /people/person/gender(A,B), /people/person/gender(C,B)
+1	/base/americancomedy/celebrity_impressionist/celebrities_impersonated(A,D) <= /people/person/gender(A,B), /people/person/gender(C,B), /people/person/sibling_s./people/sibling_relationship/sibling(C,D)

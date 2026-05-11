@@ -1,0 +1,27 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:statehascapital
+---------------------------------
+concept:city:hermosillo concept:statehascapital concept:stateorprovince:sonora 0
+
+---------------------------------
+concept:county:salt_lake concept:statehascapital concept:stateorprovince:utah 0
+
+---------------------------------
+concept:city:philadelphia concept:statehascapital concept:stateorprovince:pa 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.0258659 0.024681 0.0131579
+MR: 1 38.6667 40.6667 76
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.025641 0.024681 0.0131579
+MR: 1 39 40.6667 76
+relation_mr_mrr_1_3_10_n_rf 122.00000000000000000 0.07404306220095694 0.00000000000000000 0.00000000000000000 0.00000000000000000 3 0

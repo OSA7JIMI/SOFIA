@@ -1,0 +1,2 @@
+1	concept:persongraduatedschool(A,B) <= concept:persongraduatedfromuniversity(A,B)
+1	concept:persongraduatedschool(A,D) <= concept:synonymfor(B,A), concept:synonymfor(B,C), concept:persongraduatedschool(C,D)

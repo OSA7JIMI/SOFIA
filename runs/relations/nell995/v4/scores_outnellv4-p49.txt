@@ -1,0 +1,50 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:personchargedwithcrime
+---------------------------------
+concept:crimeorcharge:crimes concept:personchargedwithcrime concept:politicianus:president_george_w__bush 0
+
+concept:crimeorcharge:crimes concept:agentparticipatedinevent concept:politicianus:president_george_w__bush 1
+---------------------------------
+concept:crimeorcharge:treason concept:personchargedwithcrime concept:person:raleigh 0
+
+---------------------------------
+concept:crimeorcharge:crimes concept:personchargedwithcrime concept:politician:clinton 0
+
+---------------------------------
+concept:crimeorcharge:crimes concept:personchargedwithcrime concept:politicianus:bush 0
+
+---------------------------------
+concept:crimeorcharge:crimes concept:personchargedwithcrime concept:politicianus:bill_clinton 0
+
+---------------------------------
+concept:crimeorcharge:treason concept:personchargedwithcrime concept:person:jesus 0
+
+---------------------------------
+concept:crimeorcharge:treason concept:personchargedwithcrime concept:person:anne_boleyn 0
+
+---------------------------------
+concept:crimeorcharge:crimes concept:personchargedwithcrime concept:politicianus:president_bush 0
+
+concept:crimeorcharge:crimes concept:agentparticipatedinevent concept:politicianus:president_bush 1
+---------------------------------
+concept:crimeorcharge:treason concept:personchargedwithcrime concept:politicianus:bush 0
+
+---------------------------------
+concept:crimeorcharge:crimes concept:personchargedwithcrime concept:personafrica:george_bush 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.8 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 0.9 0.0258435 0.024932 0.0131579
+MR: 1.2 38.7 40.7 76
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.8 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 0.9 0.0259109 0.024932 0.0131579
+MR: 1.2 38.6 40.7 76
+relation_mr_mrr_1_3_10_n_rf 407.00000000000000000 0.24932040393816823 0.00000000000000000 0.00000000000000000 0.00000000000000000 10 0

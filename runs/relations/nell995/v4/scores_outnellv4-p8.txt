@@ -1,0 +1,179 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:agentparticipatedinevent
+---------------------------------
+concept:traditionalgame:series_last_year concept:agentparticipatedinevent concept:organization:tigers 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:politician:jobs 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:terroristorganization:point 0
+
+---------------------------------
+concept:crimeorcharge:crimes concept:agentparticipatedinevent concept:city:clinton 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:person:bill 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:company:new_york 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:city:st_louis 0
+
+---------------------------------
+concept:sportsgame:finals concept:agentparticipatedinevent concept:company:new_york 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:musicartist:times 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:sportsleague:national_hockey_league 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:female:angels 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:company:arizona 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:sportsteam:end 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:male:world 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:city:milwaukee 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:nongovorganization:u_s_ 2
+
+---------------------------------
+concept:crimeorcharge:crimes concept:agentparticipatedinevent concept:personus:party 1
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:female:yankees 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:athlete:rockies 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:personus:party 1
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:city:san_francisco 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:personmexico:seattle_mariners 0
+
+---------------------------------
+concept:sportsgame:finals concept:agentparticipatedinevent concept:city:sabres 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:bird:star 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:company:case 1
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:coach:toronto_blue_jays 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:sportsteam:arizona_cardinals_27_23 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:person:crew 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:personnorthamerica:bills 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:city:new_york 0
+
+---------------------------------
+concept:crimeorcharge:laws concept:agentparticipatedinevent concept:terroristorganization:state 0
+
+---------------------------------
+concept:crimeorcharge:law concept:agentparticipatedinevent concept:terroristorganization:state 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:magazine:charlotte 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:personmexico:colorado_rockies 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:nongovorganization:friend 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:city:design 1
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:sportsteam:texans 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:sportsteam:cleveland_indians_organization 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:actor:today 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:sportsteam:stanford 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:politicianus:groups 1
+
+---------------------------------
+concept:crimeorcharge:crimes concept:agentparticipatedinevent concept:politicianus:groups 1
+
+---------------------------------
+concept:crimeorcharge:crimes concept:agentparticipatedinevent concept:terroristorganization:state 1
+
+concept:crimeorcharge:crimes concept:organizationhiredperson concept:terroristorganization:state 0.0659445
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:county:brooklyn 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:company:los_angeles 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:musicartist:american 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:personmexico:texas_rangers 0
+
+---------------------------------
+concept:eventoutcome:result concept:agentparticipatedinevent concept:terroristorganization:state 1
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:radiostation:cleveland 0
+
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:coach:cincinnati 0
+
+---------------------------------
+concept:traditionalgame:series_last_year concept:agentparticipatedinevent concept:sportsteam:arizona_cardinals_27_23 0
+
+---------------------------------
+concept:crimeorcharge:crimes concept:agentparticipatedinevent concept:nongovorganization:u_s_ 1
+
+concept:crimeorcharge:crimes concept:organizationhiredperson concept:nongovorganization:u_s_ 0.0659445
+---------------------------------
+concept:sportsgame:series concept:agentparticipatedinevent concept:company:new_york 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0.188679 0.188679 0.188679
+HITS@3: 1 0.188679 0.188679 0.188679
+HITS@10: 1 0.188679 0.188679 0.188679
+MRR: 1 0.209852 0.210254 0.199355
+MR: 1 31.283 31.1509 61.8491
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0.188679 0.188679 0.188679
+HITS@3: 1 0.188679 0.188679 0.188679
+HITS@10: 1 0.188679 0.188679 0.188679
+MRR: 1 0.209762 0.210254 0.199355
+MR: 1 31.4151 31.1509 61.8491
+relation_mr_mrr_1_3_10_n_rf 1651.00000000000000000 11.14346993841597744 10.00000000000000000 10.00000000000000000 10.00000000000000000 53 10

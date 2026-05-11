@@ -1,0 +1,5 @@
+1	/base/popstra/celebrity/friendship./base/popstra/friendship/participant(A,C) <= /people/person/gender(A,B), /people/person/gender(C,B)
+1	/base/popstra/celebrity/friendship./base/popstra/friendship/participant(A,C) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B)
+1	/base/popstra/celebrity/friendship./base/popstra/friendship/participant(A,B) <= /base/popstra/celebrity/friendship./base/popstra/friendship/participant(B,A)
+1	/base/popstra/celebrity/friendship./base/popstra/friendship/participant(A,D) <= /base/popstra/celebrity/friendship./base/popstra/friendship/participant(A,B), /people/person/places_lived./people/place_lived/location(B,C), /people/person/places_lived./people/place_lived/location(D,C)
+1	/base/popstra/celebrity/friendship./base/popstra/friendship/participant(A,D) <= /people/person/languages(A,B), /film/film/language(C,B), /award/award_nominee/award_nominations./award/award_nomination/nominated_for(D,C)

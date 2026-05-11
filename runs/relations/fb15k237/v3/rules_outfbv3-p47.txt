@@ -1,0 +1,2 @@
+1	/dataworld/gardening_hint/split_to(A,B) <= /base/biblioness/bibs_location/country(B,A)
+1	/dataworld/gardening_hint/split_to(A,B) <= /music/performance_role/track_performances./music/track_contribution/role(A,B)

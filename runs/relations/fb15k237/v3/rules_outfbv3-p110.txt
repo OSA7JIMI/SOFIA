@@ -1,0 +1,4 @@
+1	/location/country/capital(A,B) <= /base/biblioness/bibs_location/country(B,A)
+1	/location/country/capital(A,B) <= /location/location/contains(A,B)
+1	/location/country/capital(A,C) <= /olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics(A,B), /time/event/locations(B,C)
+1	/location/country/capital(A,E) <= /location/country/form_of_government(A,B), /location/country/form_of_government(C,B), /location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency(C,D), /location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency(E,D)

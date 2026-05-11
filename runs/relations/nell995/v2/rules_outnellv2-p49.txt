@@ -1,0 +1,5 @@
+1	concept:personbelongstoorganization(A,B) <= concept:agentcollaborateswithagent(B,A)
+1	concept:personbelongstoorganization(A,B) <= concept:organizationhiredperson(B,A)
+1	concept:personbelongstoorganization(A,B) <= concept:personleadsorganization(A,B)
+1	concept:personbelongstoorganization(A,D) <= concept:personchargedwithcrime(A,B), concept:personchargedwithcrime(C,B), concept:personbelongstoorganization(C,D)
+1	concept:personbelongstoorganization(A,E) <= concept:coachesteam(A,B), concept:teamplaysincity(B,C), concept:statelocatedingeopoliticallocation(D,C), concept:statelocatedingeopoliticallocation(D,E)

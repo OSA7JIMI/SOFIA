@@ -1,0 +1,5 @@
+1	/people/person/place_of_birth(A,B) <= /people/person/places_lived./people/place_lived/location(A,B)
+1	/people/person/place_of_birth(A,C) <= /people/person/nationality(A,B), /location/location/contains(B,C)
+1	/people/person/place_of_birth(A,C) <= /people/person/places_lived./people/place_lived/location(A,B), /base/biblioness/bibs_location/state(C,B)
+1	/people/person/place_of_birth(A,D) <= /people/person/nationality(A,B), /people/person/nationality(C,B), /people/person/place_of_birth(C,D)
+1	/people/person/place_of_birth(A,D) <= /people/person/gender(A,B), /people/person/gender(C,B), /people/person/place_of_birth(C,D)

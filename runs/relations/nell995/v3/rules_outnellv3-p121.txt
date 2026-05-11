@@ -1,0 +1,4 @@
+1	concept:stadiumlocatedincity(A,C) <= concept:locationlocatedwithinlocation(B,A), concept:proxyfor(C,B)
+1	concept:stadiumlocatedincity(A,E) <= concept:agentactsinlocation(B,A), concept:atdate(B,C), concept:proxyfor(C,D), concept:proxyfor(E,D)
+1	concept:stadiumlocatedincity(A,E) <= concept:proxyfor(B,A), concept:agentparticipatedinevent(B,C), concept:sportsgameteam(C,D), concept:teamplaysincity(D,E)
+1	concept:stadiumlocatedincity(A,D) <= concept:atlocation(A,B), concept:atlocation(B,C), concept:proxyfor(D,C)

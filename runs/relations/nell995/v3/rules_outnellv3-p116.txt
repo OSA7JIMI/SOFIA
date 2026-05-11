@@ -1,0 +1,2 @@
+1	concept:sportfansincountry(A,B) <= concept:sportschoolincountry(A,B)
+1	concept:sportfansincountry(A,D) <= concept:sportschoolincountry(A,B), concept:countryalsoknownas(B,C), concept:countrylocatedingeopoliticallocation(D,C)

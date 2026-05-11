@@ -1,0 +1,1 @@
+1	concept:hasofficeincountry(A,D) <= concept:companyeconomicsector(A,B), concept:companyeconomicsector(C,B), concept:hasofficeincountry(C,D)

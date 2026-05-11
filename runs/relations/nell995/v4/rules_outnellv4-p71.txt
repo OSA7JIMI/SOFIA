@@ -1,0 +1,1 @@
+1	concept:teamalsoknownas(A,B) <= concept:teamplaysagainstteam(A,B)

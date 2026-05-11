@@ -1,0 +1,3 @@
+0.5	/music/instrument/family(A,C) <= /music/performance_role/regular_performances./music/group_membership/role(B,A), /music/performance_role/regular_performances./music/group_membership/role(B,C)
+0.5	/music/instrument/family(A,C) <= /music/performance_role/track_performances./music/track_contribution/role(A,B), /music/performance_role/track_performances./music/track_contribution/role(B,C)
+0.5	/music/instrument/family(A,D) <= /music/performance_role/track_performances./music/track_contribution/role(A,B), /music/performance_role/track_performances./music/track_contribution/role(B,C), /music/instrument/family(C,D)

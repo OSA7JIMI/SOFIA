@@ -1,0 +1,7 @@
+1	concept:worksfor(A,B) <= concept:agentcollaborateswithagent(B,A)
+1	concept:worksfor(A,B) <= concept:coachesteam(A,B)
+1	concept:worksfor(A,B) <= concept:organizationhiredperson(B,A)
+1	concept:worksfor(A,C) <= concept:organizationhiredperson(B,A), concept:agentcompeteswithagent(B,C)
+1	concept:worksfor(A,E) <= concept:worksfor(A,B), concept:organizationheadquarteredinstateorprovince(B,C), concept:proxyfor(D,C), concept:organizationdissolvedatdate(E,D)
+1	concept:worksfor(A,D) <= concept:personbelongstoorganization(A,B), concept:organizationhiredperson(B,C), concept:worksfor(C,D)
+1	concept:worksfor(A,D) <= concept:worksfor(A,B), concept:subpartoforganization(B,C), concept:subpartof(D,C)

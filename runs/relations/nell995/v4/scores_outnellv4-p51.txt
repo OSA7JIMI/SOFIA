@@ -1,0 +1,80 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:persongraduatedfromuniversity
+---------------------------------
+concept:university:state_university concept:persongraduatedfromuniversity concept:person:murray 0
+
+concept:university:state_university concept:persongraduatedschool concept:person:murray 1*
+---------------------------------
+concept:university:state_university concept:persongraduatedfromuniversity concept:person:jackson001 0
+
+concept:university:state_university concept:persongraduatedschool concept:person:jackson001 1*
+---------------------------------
+concept:university:high_school concept:persongraduatedfromuniversity concept:person:bill 0
+
+concept:university:high_school concept:persongraduatedschool concept:person:bill 1*
+---------------------------------
+concept:university:state_university concept:persongraduatedfromuniversity concept:person:elizabeth001 0
+
+concept:university:state_university concept:lakeinstate concept:person:elizabeth001 0.5
+concept:university:state_university concept:persongraduatedschool concept:person:elizabeth001 1*
+---------------------------------
+concept:university:state_university concept:persongraduatedfromuniversity concept:person:michelle001 0
+
+concept:university:state_university concept:persongraduatedschool concept:person:michelle001 1*
+---------------------------------
+concept:university:state_university concept:persongraduatedfromuniversity concept:politician:jobs 0
+
+concept:university:state_university concept:lakeinstate concept:politician:jobs 0.5
+concept:university:state_university concept:persongraduatedschool concept:politician:jobs 1*
+---------------------------------
+concept:university:state_university concept:persongraduatedfromuniversity concept:personaustralia:smith 0
+
+concept:university:state_university concept:persongraduatedschool concept:personaustralia:smith 1*
+---------------------------------
+concept:university:high_school concept:persongraduatedfromuniversity concept:person:anderson 0
+
+concept:university:high_school concept:persongraduatedschool concept:person:anderson 1*
+---------------------------------
+concept:university:state_university concept:persongraduatedfromuniversity concept:person:davis 0
+
+concept:university:state_university concept:persongraduatedschool concept:person:davis 1*
+---------------------------------
+concept:university:state_university concept:persongraduatedfromuniversity concept:person:eric001 0
+
+concept:university:state_university concept:persongraduatedschool concept:person:eric001 1*
+---------------------------------
+concept:university:state_university concept:persongraduatedfromuniversity concept:person:allen 0
+
+concept:university:state_university concept:persongraduatedschool concept:person:allen 1*
+---------------------------------
+concept:university:reed_college concept:persongraduatedfromuniversity concept:politician:jobs 0
+
+concept:university:reed_college concept:persongraduatedschool concept:politician:jobs 1
+---------------------------------
+concept:university:ohio_state concept:persongraduatedfromuniversity concept:person:bill 0
+
+concept:university:ohio_state concept:persongraduatedschool concept:person:bill 1
+---------------------------------
+concept:university:state_university concept:persongraduatedfromuniversity concept:person:bill 0
+
+concept:university:state_university concept:persongraduatedschool concept:person:bill 1*
+---------------------------------
+concept:university:state_university concept:persongraduatedfromuniversity concept:person:anderson 0
+
+concept:university:state_university concept:persongraduatedschool concept:person:anderson 1*
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 0.477778 0.0255983 0.024919 0.0131579
+MR: 2.13333 39.0667 40.5333 76
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.733333 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 0.866667 0.0262258 0.0254675 0.0133099
+MR: 1.26667 38.1333 39.6667 75.1333
+relation_mr_mrr_1_3_10_n_rf 595.00000000000000000 0.38201197042968732 0.00000000000000000 0.00000000000000000 0.00000000000000000 15 0

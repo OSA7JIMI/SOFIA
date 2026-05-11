@@ -1,0 +1,355 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:teamhomestadium
+---------------------------------
+concept:stadiumoreventvenue:time_warner_cable_arena concept:teamhomestadium concept:sportsteam:charlotte_bobcats 0
+
+---------------------------------
+concept:stadiumoreventvenue:jack_trice_stadium concept:teamhomestadium concept:sportsteam:iowa_state 0
+
+---------------------------------
+concept:stadiumoreventvenue:fenway concept:teamhomestadium concept:sportsteam:red_sox 0
+
+---------------------------------
+concept:stadiumoreventvenue:united_center concept:teamhomestadium concept:sportsteam:chicago_bulls 1
+
+---------------------------------
+concept:stadiumoreventvenue:coors_field concept:teamhomestadium concept:sportsteam:colorado_rockies 0
+
+---------------------------------
+concept:stadiumoreventvenue:bank_atlantic_center concept:teamhomestadium concept:sportsteam:carolina_hurricanes 0
+
+---------------------------------
+concept:stadiumoreventvenue:georgia_dome concept:teamhomestadium concept:sportsteam:falcons 0
+
+---------------------------------
+concept:stadiumoreventvenue:pengrowth_saddledome concept:teamhomestadium concept:sportsteam:lee_flames 0
+
+---------------------------------
+concept:stadiumoreventvenue:honda_center concept:teamhomestadium concept:sportsteam:anaheim_ducks 0
+
+---------------------------------
+concept:stadiumoreventvenue:philips_arena concept:teamhomestadium concept:sportsteam:hawks 0
+
+---------------------------------
+concept:stadiumoreventvenue:comerica concept:teamhomestadium concept:sportsteam:detroit_tigers 0
+
+---------------------------------
+concept:stadiumoreventvenue:nassau_coliseum concept:teamhomestadium concept:sportsteam:new_york_islanders 0
+
+---------------------------------
+concept:stadiumoreventvenue:pete_times_forum concept:teamhomestadium concept:sportsteam:tampa_bay_lightning 0
+
+---------------------------------
+concept:stadiumoreventvenue:invesco_field concept:teamhomestadium concept:sportsteam:broncos 1
+
+---------------------------------
+concept:stadiumoreventvenue:pro_player_stadium concept:teamhomestadium concept:sportsteam:florida_marlins 0
+
+---------------------------------
+concept:stadiumoreventvenue:cleveland_browns_stadium concept:teamhomestadium concept:sportsteam:cleveland_browns 1
+
+---------------------------------
+concept:stadiumoreventvenue:pnc_park concept:teamhomestadium concept:sportsteam:pittsburgh_pirates 0
+
+---------------------------------
+concept:stadiumoreventvenue:dodger_stadium concept:teamhomestadium concept:sportsteam:dodgers 0
+
+---------------------------------
+concept:stadiumoreventvenue:lucas_oil_stadium concept:teamhomestadium concept:sportsteam:colts 0
+
+---------------------------------
+concept:stadiumoreventvenue:shea_stadium concept:teamhomestadium concept:sportsteam:new_york_mets 0
+
+---------------------------------
+concept:stadiumoreventvenue:pete_times_forum concept:teamhomestadium concept:sportsteam:packers 1
+
+---------------------------------
+concept:stadiumoreventvenue:spartan_stadium concept:teamhomestadium concept:sportsteam:michigan_state 0
+
+---------------------------------
+concept:stadiumoreventvenue:jacobs_field concept:teamhomestadium concept:sportsteam:cleveland_indians 0
+
+---------------------------------
+concept:stadiumoreventvenue:metrodome concept:teamhomestadium concept:sportsteam:minnesota_twins 0
+
+---------------------------------
+concept:stadiumoreventvenue:metrodome concept:teamhomestadium concept:sportsteam:minnesota_vikings 1
+
+---------------------------------
+concept:stadiumoreventvenue:tropicana_field concept:teamhomestadium concept:sportsteam:tampa_bay_devil_rays 0
+
+---------------------------------
+concept:stadiumoreventvenue:american_airlines_arena concept:teamhomestadium concept:sportsteam:heat 0
+
+---------------------------------
+concept:stadiumoreventvenue:beaver_stadium concept:teamhomestadium concept:sportsteam:penn_state_nittany_lions 0
+
+---------------------------------
+concept:stadiumoreventvenue:lane_stadium concept:teamhomestadium concept:sportsteam:virginia_tech_hokies 0
+
+---------------------------------
+concept:stadiumoreventvenue:pete_times_forum concept:teamhomestadium concept:sportsteam:tampa_bay_rays 0
+
+---------------------------------
+concept:stadiumoreventvenue:td_garden concept:teamhomestadium concept:sportsteam:boston_celtics 1
+
+---------------------------------
+concept:stadiumoreventvenue:us_airways_center concept:teamhomestadium concept:sportsteam:suns 0
+
+---------------------------------
+concept:stadiumoreventvenue:fedex_field concept:teamhomestadium concept:sportsteam:redskins 1
+
+---------------------------------
+concept:stadiumoreventvenue:ralph_wilson_stadium concept:teamhomestadium concept:sportsteam:buffalo_bills 0
+
+---------------------------------
+concept:stadiumoreventvenue:staples_center concept:teamhomestadium concept:sportsteam:los_angeles_lakers 0
+
+---------------------------------
+concept:stadiumoreventvenue:philips_arena concept:teamhomestadium concept:sportsteam:atlanta_thrashers 0
+
+---------------------------------
+concept:stadiumoreventvenue:neyland_stadium concept:teamhomestadium concept:sportsteam:tennessee_volunteers 0
+
+---------------------------------
+concept:stadiumoreventvenue:joe_louis_arena concept:teamhomestadium concept:sportsteam:red_wings 1
+
+---------------------------------
+concept:stadiumoreventvenue:camden_yards concept:teamhomestadium concept:sportsteam:orioles 0
+
+---------------------------------
+concept:stadiumoreventvenue:rose_garden concept:teamhomestadium concept:sportsteam:portland_trailblazers 0
+
+---------------------------------
+concept:stadiumoreventvenue:tiger_stadium concept:teamhomestadium concept:sportsteam:lsu 1
+
+---------------------------------
+concept:stadiumoreventvenue:td_garden concept:teamhomestadium concept:sportsteam:boston_bruins 0
+
+---------------------------------
+concept:stadiumoreventvenue:rogers_centre concept:teamhomestadium concept:sportsteam:blue_jays 0
+
+---------------------------------
+concept:stadiumoreventvenue:edison_field concept:teamhomestadium concept:sportsteam:los_angeles_angels_of_anaheim 0
+
+---------------------------------
+concept:stadiumoreventvenue:dolphins_stadium concept:teamhomestadium concept:sportsteam:miami_dolphins 0
+
+---------------------------------
+concept:stadiumoreventvenue:commonwealth_stadium concept:teamhomestadium concept:sportsteam:kentucky_wildcats 0
+
+---------------------------------
+concept:stadiumoreventvenue:staples_center concept:teamhomestadium concept:sportsteam:los_angeles_clippers 0
+
+---------------------------------
+concept:stadiumoreventvenue:turner_field concept:teamhomestadium concept:sportsteam:atlanta_braves 0
+
+---------------------------------
+concept:stadiumoreventvenue:palace_of_auburn_hills concept:teamhomestadium concept:sportsteam:pistons 1
+
+---------------------------------
+concept:stadiumoreventvenue:olympic_stadium concept:teamhomestadium concept:sportsteam:montreal_expos 0
+
+---------------------------------
+concept:stadiumoreventvenue:lp_field concept:teamhomestadium concept:sportsteam:titans 0
+
+---------------------------------
+concept:stadiumoreventvenue:hp_pavilion concept:teamhomestadium concept:sportsteam:san_jose_sharks 0
+
+---------------------------------
+concept:stadiumoreventvenue:ebbets_field concept:teamhomestadium concept:sportsteam:brooklyn_dodgers 0
+
+---------------------------------
+concept:stadiumoreventvenue:staples_center concept:teamhomestadium concept:sportsteam:la_clippers 0
+
+---------------------------------
+concept:stadiumoreventvenue:wrigley_field concept:teamhomestadium concept:sportsteam:blackhawks 0
+
+---------------------------------
+concept:stadiumoreventvenue:verizon_center concept:teamhomestadium concept:sportsteam:washington_wizards 1
+
+---------------------------------
+concept:stadiumoreventvenue:turner_field concept:teamhomestadium concept:sportsteam:chowan_braves 0
+
+---------------------------------
+concept:stadiumoreventvenue:izod_center concept:teamhomestadium concept:sportsteam:new_jersey_nets 0
+
+concept:stadiumoreventvenue:izod_center concept:agentcontrols concept:sportsteam:new_jersey_nets 0.5
+---------------------------------
+concept:stadiumoreventvenue:energysolutions_arena concept:teamhomestadium concept:sportsteam:utah_jazz 0
+
+---------------------------------
+concept:stadiumoreventvenue:kauffman_stadium concept:teamhomestadium concept:sportsteam:kansas_city_royals 0
+
+---------------------------------
+concept:stadiumoreventvenue:great_american_ball_park concept:teamhomestadium concept:sportsteam:bengals 0
+
+---------------------------------
+concept:stadiumoreventvenue:qualcomm_stadium concept:teamhomestadium concept:sportsteam:sd_chargers 0
+
+---------------------------------
+concept:stadiumoreventvenue:verizon_center concept:teamhomestadium concept:sportsteam:capitals 0
+
+---------------------------------
+concept:stadiumoreventvenue:oracle_arena concept:teamhomestadium concept:sportsteam:golden_state_warriors 0
+
+---------------------------------
+concept:stadiumoreventvenue:mcafee_coliseum concept:teamhomestadium concept:sportsteam:oakland_athletics 0
+
+---------------------------------
+concept:stadiumoreventvenue:texas_stadium concept:teamhomestadium concept:sportsteam:dallas_cowboys 0
+
+---------------------------------
+concept:stadiumoreventvenue:toyota_center concept:teamhomestadium concept:sportsteam:rockets 0
+
+---------------------------------
+concept:stadiumoreventvenue:camp_randall concept:teamhomestadium concept:sportsteam:wisconsin_badgers 0
+
+---------------------------------
+concept:stadiumoreventvenue:miller_motorsports_park concept:teamhomestadium concept:sportsteam:milwaukee_brewers 0
+
+---------------------------------
+concept:stadiumoreventvenue:prudential_center_2 concept:teamhomestadium concept:sportsteam:devils 1
+
+---------------------------------
+concept:stadiumoreventvenue:pete_times_forum concept:teamhomestadium concept:sportsteam:tampa 0
+
+---------------------------------
+concept:stadiumoreventvenue:giants_stadium concept:teamhomestadium concept:sportsteam:new_york_jets 0
+
+---------------------------------
+concept:stadiumoreventvenue:scotiabank_saddledome concept:teamhomestadium concept:sportsteam:calgary_flames 0
+
+---------------------------------
+concept:stadiumoreventvenue:busch_memorial_stadium concept:teamhomestadium concept:sportsteam:st___louis_cardinals 0
+
+---------------------------------
+concept:stadiumoreventvenue:air_canada_center concept:teamhomestadium concept:sportsteam:raptors 0
+
+---------------------------------
+concept:stadiumoreventvenue:jordan_hare_stadium concept:teamhomestadium concept:sportsteam:auburn_tigers 0
+
+---------------------------------
+concept:stadiumoreventvenue:pepsi_center concept:teamhomestadium concept:sportsteam:colorado_avalanche 0
+
+---------------------------------
+concept:stadiumoreventvenue:dolphin_stadium concept:teamhomestadium concept:sportsteam:marlins 0
+
+---------------------------------
+concept:stadiumoreventvenue:ameriquest_field concept:teamhomestadium concept:sportsteam:texas_rangers 0
+
+---------------------------------
+concept:stadiumoreventvenue:arco_arena concept:teamhomestadium concept:sportsteam:sacramento_kings 0
+
+---------------------------------
+concept:stadiumoreventvenue:rose_garden concept:teamhomestadium concept:sportsteam:trail_blazers 0
+
+---------------------------------
+concept:stadiumoreventvenue:qualcomm_stadium concept:teamhomestadium concept:sportsteam:san_diego_padres 0
+
+---------------------------------
+concept:stadiumoreventvenue:bank_atlantic_center concept:teamhomestadium concept:sportsteam:florida_panthers 0
+
+---------------------------------
+concept:stadiumoreventvenue:rogers_centre concept:teamhomestadium concept:sportsteam:toronto_blue_jays 0
+
+---------------------------------
+concept:stadiumoreventvenue:dodger_stadium concept:teamhomestadium concept:sportsteam:los_angeles_dodgers 0
+
+---------------------------------
+concept:stadiumoreventvenue:mcafee_coliseum concept:teamhomestadium concept:sportsteam:oakland_raiders 0
+
+---------------------------------
+concept:stadiumoreventvenue:mellon_arena concept:teamhomestadium concept:sportsteam:pittsburgh_penguins 0
+
+---------------------------------
+concept:stadiumoreventvenue:great_american_ball_park concept:teamhomestadium concept:sportsteam:reds 0
+
+---------------------------------
+concept:stadiumoreventvenue:bradley_center concept:teamhomestadium concept:sportsteam:milwaukee_bucks 0
+
+---------------------------------
+concept:stadiumoreventvenue:comiskey concept:teamhomestadium concept:sportsteam:chicago_white_sox 0
+
+---------------------------------
+concept:stadiumoreventvenue:heinz_field concept:teamhomestadium concept:sportsteam:steelers 1
+
+---------------------------------
+concept:stadiumoreventvenue:husky_stadium concept:teamhomestadium concept:sportsteam:seahawks 0
+
+---------------------------------
+concept:stadiumoreventvenue:american_airlines_center concept:teamhomestadium concept:sportsteam:dallas_mavericks 0
+
+---------------------------------
+concept:stadiumoreventvenue:dome concept:teamhomestadium concept:sportsteam:rams 0
+
+---------------------------------
+concept:stadiumoreventvenue:bridgestone_arena concept:teamhomestadium concept:sportsteam:nashville_predators 0
+
+---------------------------------
+concept:stadiumoreventvenue:new_orleans_arena concept:teamhomestadium concept:sportsteam:new_orleans_hornets 0
+
+---------------------------------
+concept:stadiumoreventvenue:target_center concept:teamhomestadium concept:sportsteam:minnesota_timberwolves 0
+
+---------------------------------
+concept:stadiumoreventvenue:pepsi_center concept:teamhomestadium concept:sportsteam:denver_nuggets 0
+
+---------------------------------
+concept:stadiumoreventvenue:conseco_fieldhouse concept:teamhomestadium concept:sportsteam:indiana_pacers 0
+
+---------------------------------
+concept:stadiumoreventvenue:giants_stadium concept:teamhomestadium concept:sportsteam:new_york_giants 0
+
+---------------------------------
+concept:stadiumoreventvenue:candlestick_park concept:teamhomestadium concept:sportsteam:former_san_francisco_giants 0
+
+---------------------------------
+concept:stadiumoreventvenue:arrowhead_stadium concept:teamhomestadium concept:sportsteam:kansas_city_chiefs 1
+
+---------------------------------
+concept:stadiumoreventvenue:edison_field concept:teamhomestadium concept:sportsteam:anaheim_angels 0
+
+---------------------------------
+concept:stadiumoreventvenue:raymond_james_stadium concept:teamhomestadium concept:sportsteam:buccaneers 0
+
+---------------------------------
+concept:stadiumoreventvenue:chase_field concept:teamhomestadium concept:sportsteam:arizona_diamond_backs 0
+
+---------------------------------
+concept:stadiumoreventvenue:safeco_field concept:teamhomestadium concept:sportsteam:seattle_mariners 0
+
+---------------------------------
+concept:stadiumoreventvenue:safeco_field concept:teamhomestadium concept:sportsteam:mariners 0
+
+---------------------------------
+concept:stadiumoreventvenue:amway_arena concept:teamhomestadium concept:sportsteam:orlando_magic 0
+
+---------------------------------
+concept:stadiumoreventvenue:yankee_stadium concept:teamhomestadium concept:sportsteam:yankees 0
+
+---------------------------------
+concept:stadiumoreventvenue:minute_maid_park concept:teamhomestadium concept:sportsteam:houston_astros 0
+
+---------------------------------
+concept:stadiumoreventvenue:quicken_loans_arena concept:teamhomestadium concept:sportsteam:cavaliers 0
+
+---------------------------------
+concept:stadiumoreventvenue:conseco_fieldhouse concept:teamhomestadium concept:sportsteam:pacers 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.991071 0.125 0.125 0.125
+HITS@3: 1 0.125 0.125 0.125
+HITS@10: 1 0.125 0.125 0.125
+MRR: 0.995536 0.147785 0.148012 0.136513
+MR: 1.00893 33.7321 33.8036 66.625
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.991071 0.125 0.125 0.125
+HITS@3: 1 0.125 0.125 0.125
+HITS@10: 1 0.125 0.125 0.125
+MRR: 0.995536 0.147737 0.148012 0.136513
+MR: 1.00893 33.8036 33.8036 66.625
+relation_mr_mrr_1_3_10_n_rf 3786.00000000000000000 16.57736426752018488 14.00000000000000000 14.00000000000000000 14.00000000000000000 112 14

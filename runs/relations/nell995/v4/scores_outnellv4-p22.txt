@@ -1,0 +1,167 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:coachesinleague
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:bill_parcells 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:bill_parcells 1
+concept:sportsleague:nfl concept:coachesteam concept:coach:bill_parcells 1
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:bill_parcells 1
+concept:sportsleague:nfl concept:personhasresidenceingeopoliticallocation concept:coach:bill_parcells 1
+concept:sportsleague:nfl concept:personleadsgeopoliticalorganization concept:coach:bill_parcells 1
+concept:sportsleague:nfl concept:personleadsorganization concept:coach:bill_parcells 1
+concept:sportsleague:nfl concept:worksfor concept:coach:bill_parcells 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:athlete:jeremy_bates 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:athlete:jeremy_bates 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:jim_zorn 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:jim_zorn 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:personaustralia:smith 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:personaustralia:smith 1
+---------------------------------
+concept:sportsleague:college_football concept:coachesinleague concept:coach:bud_wilkinson 0
+
+concept:sportsleague:college_football concept:athleteplaysinleague concept:coach:bud_wilkinson 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:bill_walsh 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:bill_walsh 1
+concept:sportsleague:nfl concept:coachesteam concept:coach:bill_walsh 1
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:bill_walsh 1*
+concept:sportsleague:nfl concept:personhasresidenceingeopoliticallocation concept:coach:bill_walsh 1
+concept:sportsleague:nfl concept:personleadsgeopoliticalorganization concept:coach:bill_walsh 1
+concept:sportsleague:nfl concept:personleadsorganization concept:coach:bill_walsh 1
+concept:sportsleague:nfl concept:worksfor concept:coach:bill_walsh 1
+---------------------------------
+concept:sportsleague:nhl concept:coachesinleague concept:coach:al_arbour 0
+
+concept:sportsleague:nhl concept:athleteplaysinleague concept:coach:al_arbour 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:joe_gibbs 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:joe_gibbs 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:tom_coughlin 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:tom_coughlin 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:george_halas 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:george_halas 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:jeff_fisher 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:jeff_fisher 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:martz 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:martz 1
+---------------------------------
+concept:sportsleague:nhl concept:coachesinleague concept:coach:john_fox 0
+
+concept:sportsleague:nhl concept:athleteplaysinleague concept:coach:john_fox 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:brad_childress 1
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:brad_childress 1*
+---------------------------------
+concept:sportsleague:nhl concept:coachesinleague concept:coach:lindy_ruff 0
+
+concept:sportsleague:nhl concept:athleteplaysinleague concept:coach:lindy_ruff 1
+---------------------------------
+concept:sportsleague:college_football concept:coachesinleague concept:coach:ara_parseghian 0
+
+concept:sportsleague:college_football concept:athleteplaysinleague concept:coach:ara_parseghian 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:eric_mangini 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:eric_mangini 1
+concept:sportsleague:nfl concept:specializationof concept:coach:eric_mangini 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:chuck_noll 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:chuck_noll 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:byron_scott 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:byron_scott 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:josh_mcdaniels 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:josh_mcdaniels 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:visualizablething:vermeil 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:visualizablething:vermeil 1
+---------------------------------
+concept:sportsleague:college_football concept:coachesinleague concept:coach:knute_rockne 0
+
+concept:sportsleague:college_football concept:athleteplaysinleague concept:coach:knute_rockne 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:athlete:mike_smith 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:athlete:mike_smith 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:dan_reeves 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:dan_reeves 1
+concept:sportsleague:nfl concept:coachesteam concept:coach:dan_reeves 1
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:dan_reeves 1
+concept:sportsleague:nfl concept:personhasresidenceingeopoliticallocation concept:coach:dan_reeves 1
+concept:sportsleague:nfl concept:personleadsgeopoliticalorganization concept:coach:dan_reeves 1
+concept:sportsleague:nfl concept:personleadsorganization concept:coach:dan_reeves 1
+concept:sportsleague:nfl concept:worksfor concept:coach:dan_reeves 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:billick 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:billick 1
+---------------------------------
+concept:sportsleague:ncaa_football concept:coachesinleague concept:coach:frank_beamer 0
+
+concept:sportsleague:ncaa_football concept:athleteplaysinleague concept:coach:frank_beamer 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:cowher 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:cowher 1
+concept:sportsleague:nfl concept:coachesteam concept:coach:cowher 1
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:cowher 1
+concept:sportsleague:nfl concept:personhasresidenceingeopoliticallocation concept:coach:cowher 1
+concept:sportsleague:nfl concept:personleadsgeopoliticalorganization concept:coach:cowher 1
+concept:sportsleague:nfl concept:personleadsorganization concept:coach:cowher 1
+concept:sportsleague:nfl concept:worksfor concept:coach:cowher 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:vince_lombardi 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:vince_lombardi 1
+---------------------------------
+concept:sportsleague:nfl concept:coachesinleague concept:coach:linehan 0
+
+concept:sportsleague:nfl concept:athleteplaysinleague concept:coach:linehan 1
+---------------------------------
+concept:sportsleague:nhl concept:coachesinleague concept:coach:kenny_natt 0
+
+concept:sportsleague:nhl concept:athleteplaysinleague concept:coach:kenny_natt 1
+---------------------------------
+concept:sportsleague:college_football concept:coachesinleague concept:coach:joe_paterno 0
+
+concept:sportsleague:college_football concept:athleteplaysinleague concept:coach:joe_paterno 1
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.0322581 0 0 0.0322581
+HITS@3: 0.870968 0.0322581 0.0322581 0.0322581
+HITS@10: 1 0.0322581 0.0322581 0.0322581
+MRR: 0.462366 0.0407066 0.0405095 0.0449915
+MR: 2.77419 38.1935 38.8065 73.5806
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.0322581 0.0322581 0.0322581 0.0322581
+HITS@3: 0.870968 0.0322581 0.0322581 0.0322581
+HITS@10: 1 0.0322581 0.0322581 0.0322581
+MRR: 0.462942 0.0568337 0.0566541 0.0449972
+MR: 2.74194 38.1613 38.7419 73.5484
+relation_mr_mrr_1_3_10_n_rf 1201.00000000000000000 1.75627622378898551 1.00000000000000000 1.00000000000000000 1.00000000000000000 31 1

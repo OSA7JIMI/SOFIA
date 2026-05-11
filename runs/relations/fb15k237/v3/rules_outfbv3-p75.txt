@@ -1,0 +1,6 @@
+1	/film/film/film_festivals(A,B) <= /film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue(A,B)
+1	/film/film/film_festivals(A,D) <= /film/film/release_date_s./film/film_regional_release_date/film_release_region(A,B), /film/film/release_date_s./film/film_regional_release_date/film_release_region(C,B), /film/film/film_festivals(C,D)
+1	/film/film/film_festivals(A,D) <= /film/film/estimated_budget./measurement_unit/dated_money_value/currency(A,B), /film/film/estimated_budget./measurement_unit/dated_money_value/currency(C,B), /film/film/film_festivals(C,D)
+1	/film/film/film_festivals(A,E) <= /award/award_nominee/award_nominations./award/award_nomination/award(A,B), /award/award_category/winners./award/award_honor/award_winner(B,C), /award/award_category/winners./award/award_honor/award_winner(D,C), /film/film/film_festivals(D,E)
+1	/film/film/film_festivals(A,E) <= /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(A,B), /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency(C,B), /award/award_category/winners./award/award_honor/award_winner(D,C), /film/film/film_festivals(D,E)
+1	/film/film/film_festivals(A,E) <= /award/award_category/winners./award/award_honor/award_winner(A,B), /people/person/gender(B,C), /people/person/gender(D,C), /film/film/film_festivals(D,E)

@@ -1,0 +1,6 @@
+1	concept:agriculturalproductgrowinginstateorprovince(A,C) <= concept:agriculturalproductcamefromcountry(A,B), concept:subpartof(C,B)
+1	concept:agriculturalproductgrowinginstateorprovince(A,D) <= concept:agriculturalproductgrowinginstateorprovince(A,B), concept:statelocatedingeopoliticallocation(C,B), concept:statelocatedingeopoliticallocation(C,D)
+0.5	concept:agriculturalproductgrowinginstateorprovince(A,D) <= concept:agriculturalproductgrowinginstateorprovince(A,B), concept:statelocatedincountry(B,C), concept:statelocatedincountry(D,C)
+1	concept:agriculturalproductgrowinginstateorprovince(A,E) <= concept:agriculturalproductcamefromcountry(A,B), concept:countrylocatedingeopoliticallocation(B,C), concept:statelocatedingeopoliticallocation(C,D), concept:locationlocatedwithinlocation(E,D)
+0.5	concept:agriculturalproductgrowinginstateorprovince(A,E) <= concept:agriculturalproductcamefromcountry(A,B), concept:atlocation(C,B), concept:atlocation(C,D), concept:proxyfor(D,E)
+0.5	concept:agriculturalproductgrowinginstateorprovince(A,E) <= concept:agriculturalproductcamefromcountry(A,B), concept:countrylocatedingeopoliticallocation(B,C), concept:countrylocatedingeopoliticallocation(D,C), concept:statelocatedincountry(E,D)

@@ -1,0 +1,1 @@
+1	concept:sportusesequipment(A,E) <= concept:teamplayssport(B,A), concept:teamplaysagainstteam(C,B), concept:teamplayssport(C,D), concept:sportusesequipment(D,E)

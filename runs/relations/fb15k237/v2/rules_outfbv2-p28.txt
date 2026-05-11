@@ -1,0 +1,4 @@
+1	/base/popstra/celebrity/friendship./base/popstra/friendship/participant(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(B,A)
+1	/base/popstra/celebrity/friendship./base/popstra/friendship/participant(A,C) <= /award/award_nominee/award_nominations./award/award_nomination/award(A,B), /award/award_nominee/award_nominations./award/award_nomination/award(C,B)
+1	/base/popstra/celebrity/friendship./base/popstra/friendship/participant(A,C) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B)
+1	/base/popstra/celebrity/friendship./base/popstra/friendship/participant(A,B) <= /base/popstra/celebrity/friendship./base/popstra/friendship/participant(B,A)

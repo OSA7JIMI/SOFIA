@@ -1,0 +1,1 @@
+1	/government/legislative_session/members./government/government_position_held/legislative_sessions(A,C) <= /government/legislative_session/members./government/government_position_held/district_represented(A,B), /government/legislative_session/members./government/government_position_held/district_represented(C,B)

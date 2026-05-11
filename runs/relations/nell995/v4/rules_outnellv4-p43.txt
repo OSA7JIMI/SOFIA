@@ -1,0 +1,4 @@
+1	concept:organizationheadquarteredinstateorprovince(A,C) <= concept:mutualproxyfor(B,A), concept:locationlocatedwithinlocation(B,C)
+1	concept:organizationheadquarteredinstateorprovince(A,C) <= concept:statelocatedingeopoliticallocation(B,A), concept:statelocatedingeopoliticallocation(B,C)
+1	concept:organizationheadquarteredinstateorprovince(A,C) <= concept:statelocatedingeopoliticallocation(B,A), concept:stateorprovinceisborderedbystateorprovince(B,C)
+1	concept:organizationheadquarteredinstateorprovince(A,D) <= concept:agentparticipatedinevent(A,B), concept:agentparticipatedinevent(C,B), concept:organizationheadquarteredinstateorprovince(C,D)

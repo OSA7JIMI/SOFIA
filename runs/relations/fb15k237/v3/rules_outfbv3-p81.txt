@@ -1,0 +1,4 @@
+1	/film/film/other_crew./film/film_crew_gig/crewmember(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(B,A)
+1	/film/film/other_crew./film/film_crew_gig/crewmember(A,B) <= /award/award_winning_work/awards_won./award/award_honor/award_winner(A,B)
+1	/film/film/other_crew./film/film_crew_gig/crewmember(A,D) <= /film/film/other_crew./film/film_crew_gig/film_crew_role(A,B), /film/film/other_crew./film/film_crew_gig/film_crew_role(C,B), /film/film/other_crew./film/film_crew_gig/crewmember(C,D)
+1	/film/film/other_crew./film/film_crew_gig/crewmember(A,D) <= /film/film/estimated_budget./measurement_unit/dated_money_value/currency(A,B), /film/film/estimated_budget./measurement_unit/dated_money_value/currency(C,B), /award/award_nominee/award_nominations./award/award_nomination/nominated_for(D,C)

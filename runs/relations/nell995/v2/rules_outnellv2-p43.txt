@@ -1,0 +1,2 @@
+1	concept:organizationdissolvedatdate(A,C) <= concept:locationlocatedwithinlocation(B,A), concept:proxyfor(C,B)
+1	concept:organizationdissolvedatdate(A,D) <= concept:organizationdissolvedatdate(A,B), concept:proxyfor(B,C), concept:mutualproxyfor(C,D)

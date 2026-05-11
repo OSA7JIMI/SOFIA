@@ -1,0 +1,2 @@
+1	/education/university/international_tuition./measurement_unit/dated_money_value/currency(A,B) <= /education/university/domestic_tuition./measurement_unit/dated_money_value/currency(A,B)
+1	/education/university/international_tuition./measurement_unit/dated_money_value/currency(A,B) <= /education/university/local_tuition./measurement_unit/dated_money_value/currency(A,B)

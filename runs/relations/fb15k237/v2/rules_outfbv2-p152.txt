@@ -1,0 +1,2 @@
+1	/people/ethnicity/geographic_distribution(A,C) <= /people/ethnicity/people(A,B), /people/person/nationality(B,C)
+1	/people/ethnicity/geographic_distribution(A,D) <= /people/ethnicity/geographic_distribution(A,B), /olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics(B,C), /olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics(D,C)

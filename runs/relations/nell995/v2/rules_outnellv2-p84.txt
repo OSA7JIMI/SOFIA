@@ -1,0 +1,2 @@
+1	concept:teamplaysinleague(A,C) <= concept:teamplaysagainstteam(A,B), concept:teamplaysinleague(B,C)
+1	concept:teamplaysinleague(A,D) <= concept:subpartoforganization(A,B), concept:agentcompeteswithagent(B,C), concept:teamplaysinleague(C,D)

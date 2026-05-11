@@ -1,0 +1,5 @@
+1	concept:hasofficeincountry(A,B) <= concept:bankbankincountry(A,B)
+1	concept:hasofficeincountry(A,C) <= concept:personleadsorganization(B,A), concept:organizationhiredperson(C,B)
+1	concept:hasofficeincountry(A,D) <= concept:atdate(A,B), concept:proxyfor(B,C), concept:locationlocatedwithinlocation(C,D)
+1	concept:hasofficeincountry(A,E) <= concept:locationlocatedwithinlocation(B,A), concept:locationlocatedwithinlocation(B,C), concept:locationlocatedwithinlocation(D,C), concept:locationlocatedwithinlocation(D,E)
+1	concept:hasofficeincountry(A,C) <= concept:hasofficeincountry(A,B), concept:countryalsoknownas(B,C)

@@ -1,0 +1,4 @@
+1	concept:organizationterminatedperson(A,B) <= concept:organizationhiredperson(A,B)
+1	concept:organizationterminatedperson(A,B) <= concept:personleadsorganization(B,A)
+1	concept:organizationterminatedperson(A,D) <= concept:agentcontrols(A,B), concept:agentcontrols(C,B), concept:organizationterminatedperson(C,D)
+1	concept:organizationterminatedperson(A,D) <= concept:statelocatedingeopoliticallocation(B,A), concept:statelocatedingeopoliticallocation(B,C), concept:organizationterminatedperson(C,D)

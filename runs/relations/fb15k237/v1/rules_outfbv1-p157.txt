@@ -1,0 +1,1 @@
+1	/sports/sport/pro_athletes./sports/pro_sports_played/athlete(A,D) <= /olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country(A,B), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(C,B), /people/person/spouse_s./people/marriage/type_of_union(D,C)

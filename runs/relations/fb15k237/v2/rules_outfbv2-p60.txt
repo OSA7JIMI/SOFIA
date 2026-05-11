@@ -1,0 +1,2 @@
+1	/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium(A,D) <= /film/film/language(A,B), /film/film/language(C,B), /film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium(C,D)
+1	/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium(A,D) <= /film/film/genre(A,B), /film/film/genre(C,B), /film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium(C,D)

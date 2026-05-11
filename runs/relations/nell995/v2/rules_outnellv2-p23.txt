@@ -1,0 +1,2 @@
+1	concept:coachesteam(A,B) <= concept:organizationhiredperson(B,A)
+1	concept:coachesteam(A,B) <= concept:worksfor(A,B)

@@ -1,0 +1,1 @@
+1	/award/award_category/category_of(A,C) <= /award/award_category/winners./award/award_honor/ceremony(A,B), /time/event/instance_of_recurring_event(B,C)

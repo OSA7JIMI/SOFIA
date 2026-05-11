@@ -1,0 +1,2 @@
+1	/sports/pro_athlete/teams./sports/sports_team_roster/team(A,B) <= /soccer/football_player/current_team./sports/sports_team_roster/team(A,B)
+1	/sports/pro_athlete/teams./sports/sports_team_roster/team(A,D) <= /people/person/gender(A,B), /people/person/gender(C,B), /soccer/football_player/current_team./sports/sports_team_roster/team(C,D)

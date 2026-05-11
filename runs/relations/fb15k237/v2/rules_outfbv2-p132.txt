@@ -1,0 +1,5 @@
+0.5	/music/performance_role/regular_performances./music/group_membership/role(A,B) <= /music/instrument/family(B,A)
+1	/music/performance_role/regular_performances./music/group_membership/role(A,B) <= /music/performance_role/regular_performances./music/group_membership/role(B,A)
+0.5	/music/performance_role/regular_performances./music/group_membership/role(A,C) <= /music/performance_role/regular_performances./music/group_membership/role(A,B), /music/performance_role/regular_performances./music/group_membership/role(B,C)
+0.5	/music/performance_role/regular_performances./music/group_membership/role(A,C) <= /music/performance_role/regular_performances./music/group_membership/role(A,B), /music/performance_role/regular_performances./music/group_membership/role(C,B)
+0.5	/music/performance_role/regular_performances./music/group_membership/role(A,D) <= /music/performance_role/regular_performances./music/group_membership/role(A,B), /music/performance_role/regular_performances./music/group_membership/role(B,C), /music/performance_role/track_performances./music/track_contribution/role(D,C)

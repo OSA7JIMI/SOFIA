@@ -1,0 +1,57 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:personborninlocation
+---------------------------------
+concept:city:york concept:personborninlocation concept:politicianus:barack 0
+
+---------------------------------
+concept:city:york concept:personborninlocation concept:person:eric001 0
+
+---------------------------------
+concept:city:york concept:personborninlocation concept:person:riley001 0
+
+---------------------------------
+concept:city:york concept:personborninlocation concept:female:hillary 0
+
+concept:city:york concept:politicianrepresentslocation concept:female:hillary 0.5
+---------------------------------
+concept:city:york concept:personborninlocation concept:female:hilary 0
+
+concept:city:york concept:politicianrepresentslocation concept:female:hilary 0.5
+---------------------------------
+concept:city:york concept:personborninlocation concept:person:bill 0
+
+concept:city:york concept:politicianrepresentslocation concept:person:bill 0.5
+---------------------------------
+concept:city:york concept:personborninlocation concept:politician:jobs 0
+
+concept:city:york concept:cityliesonriver concept:politician:jobs 0.75
+concept:city:york concept:lakeinstate concept:politician:jobs 0.5
+concept:city:york concept:mutualproxyfor concept:politician:jobs 0.5
+concept:city:york concept:politicianrepresentslocation concept:politician:jobs 0.5
+concept:city:york concept:proxyfor concept:politician:jobs 0.5
+concept:city:york concept:subpartof concept:politician:jobs 1.18254
+---------------------------------
+concept:city:york concept:personborninlocation concept:person:jackson001 0
+
+---------------------------------
+concept:city:york concept:personborninlocation concept:politicianus:rudy 0
+
+---------------------------------
+concept:city:york concept:personborninlocation concept:person:davis 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.6 0 0 0
+HITS@3: 0.9 0 0 0
+HITS@10: 1 0 0 0
+MRR: 0.764286 0.0256509 0.0248255 0.0131579
+MR: 1.9 39 41 76
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.6 0 0 0
+HITS@3: 0.9 0 0 0
+HITS@10: 1 0 0 0
+MRR: 0.764286 0.0255834 0.0248255 0.0131579
+MR: 1.9 39.1 41 76
+relation_mr_mrr_1_3_10_n_rf 410.00000000000000000 0.24825467582630786 0.00000000000000000 0.00000000000000000 0.00000000000000000 10 0

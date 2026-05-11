@@ -1,0 +1,1 @@
+1	/education/field_of_study/students_majoring./education/education/major_field_of_study(A,B) <= /education/field_of_study/students_majoring./education/education/major_field_of_study(B,A)

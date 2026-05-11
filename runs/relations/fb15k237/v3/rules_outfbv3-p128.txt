@@ -1,0 +1,1 @@
+1	/medicine/disease/notable_people_with_this_condition(A,D) <= /medicine/disease/notable_people_with_this_condition(A,B), /people/person/profession(B,C), /people/person/profession(D,C)

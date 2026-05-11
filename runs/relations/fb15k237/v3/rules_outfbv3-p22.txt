@@ -1,0 +1,3 @@
+1	/base/biblioness/bibs_location/state(A,B) <= /location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division(A,B)
+1	/base/biblioness/bibs_location/state(A,B) <= /location/location/contains(B,A)
+1	/base/biblioness/bibs_location/state(A,C) <= /location/location/contains(B,A), /location/location/contains(C,B)

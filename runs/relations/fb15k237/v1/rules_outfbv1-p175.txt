@@ -1,0 +1,5 @@
+1	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(B,A)
+1	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor(A,B) <= /film/actor/film./film/performance/film(B,A)
+1	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor(A,C) <= /film/film/language(A,B), /people/person/languages(C,B)
+1	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor(A,C) <= /tv/tv_program/languages(A,B), /film/actor/dubbing_performances./film/dubbing_performance/language(C,B)
+1	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor(A,E) <= /tv/tv_program/languages(A,B), /education/field_of_study/students_majoring./education/education/student(B,C), /people/person/spouse_s./people/marriage/type_of_union(C,D), /people/person/spouse_s./people/marriage/type_of_union(E,D)

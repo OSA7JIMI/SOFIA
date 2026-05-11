@@ -1,0 +1,1 @@
+1	concept:plantrepresentemotion(A,C) <= concept:plantincludeplant(A,B), concept:plantrepresentemotion(B,C)

@@ -1,0 +1,2527 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:agentcollaborateswithagent
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:usc 1.5
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:usc 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:usc 0.0595295
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:usc 1.625
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:western_kentucky_hilltoppers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:western_kentucky_hilltoppers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:western_kentucky_hilltoppers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:western_kentucky_hilltoppers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:western_kentucky_hilltoppers 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:gonzaga_bulldogs 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:gonzaga_bulldogs 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:gonzaga_bulldogs 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:gonzaga_bulldogs 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:gonzaga_bulldogs 1.25
+---------------------------------
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:san_diego_chargers 2
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:san_diego_chargers 1*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:san_diego_chargers 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:san_diego_chargers 1.19955
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:san_diego_chargers 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:san_diego_chargers 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:san_diego_chargers 1*
+concept:sportsleague:nfl concept:worksfor concept:coach:san_diego_chargers 1
+---------------------------------
+concept:politicianus:democratic_nominee_barack_obama concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politicianus:democratic_nominee_barack_obama concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:democratic_nominee_barack_obama concept:agentcontrols concept:person:mccain 1
+concept:politicianus:democratic_nominee_barack_obama concept:personbelongstoorganization concept:person:mccain 1
+concept:politicianus:democratic_nominee_barack_obama concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:person:house concept:agentcollaborateswithagent concept:female:hilary 0
+
+concept:person:house concept:agentbelongstoorganization concept:female:hilary 1
+concept:person:house concept:agentcontrols concept:female:hilary 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:arizona_state_sun_devils 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:arizona_state_sun_devils 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:arizona_state_sun_devils 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:arizona_state_sun_devils 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:arizona_state_sun_devils 1.25
+---------------------------------
+concept:athlete:lorenzen_wright concept:agentcollaborateswithagent concept:sportsteam:reds 1
+
+concept:athlete:lorenzen_wright concept:agentbelongstoorganization concept:sportsteam:reds 1
+concept:athlete:lorenzen_wright concept:agentcontrols concept:sportsteam:reds 1
+concept:athlete:lorenzen_wright concept:organizationhiredperson concept:sportsteam:reds 1
+---------------------------------
+concept:athlete:joe_flacco concept:agentcollaborateswithagent concept:sportsteam:ravens 1.5
+
+concept:athlete:joe_flacco concept:agentbelongstoorganization concept:sportsteam:ravens 1
+concept:athlete:joe_flacco concept:agentcontrols concept:sportsteam:ravens 2
+concept:athlete:joe_flacco concept:organizationhiredperson concept:sportsteam:ravens 1
+---------------------------------
+concept:city:abc concept:agentcollaborateswithagent concept:company:khvo 0.5
+
+concept:city:abc concept:agentbelongstoorganization concept:company:khvo 1
+concept:city:abc concept:agentcompeteswithagent concept:company:khvo 1
+concept:city:abc concept:agentcontrols concept:company:khvo 1.19955
+concept:city:abc concept:subpartof concept:company:khvo 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:grambling_tigers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:grambling_tigers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:grambling_tigers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:grambling_tigers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:grambling_tigers 1.25
+---------------------------------
+concept:person:edwards concept:agentcollaborateswithagent concept:person:bill 1
+
+concept:person:edwards concept:agentbelongstoorganization concept:person:bill 1.11787
+concept:person:edwards concept:agentcontrols concept:person:bill 1
+concept:person:edwards concept:personbelongstoorganization concept:person:bill 1.5
+concept:person:edwards concept:worksfor concept:person:bill 1.5
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:boston_terriers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:boston_terriers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:boston_terriers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:boston_terriers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:boston_terriers 1.25
+---------------------------------
+concept:politicianus:barack concept:agentcollaborateswithagent concept:person:mccain 0
+
+concept:politicianus:barack concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:barack concept:agentcontrols concept:person:mccain 1
+---------------------------------
+concept:ceo:woz concept:agentcollaborateswithagent concept:politician:jobs 1
+
+concept:ceo:woz concept:agentbelongstoorganization concept:politician:jobs 1
+concept:ceo:woz concept:agentcontrols concept:politician:jobs 1*
+---------------------------------
+concept:personcanada:diane_sawyer concept:agentcollaborateswithagent concept:city:abc 1
+
+concept:personcanada:diane_sawyer concept:agentbelongstoorganization concept:city:abc 1
+concept:personcanada:diane_sawyer concept:agentcontrols concept:city:abc 1*
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:colorado_college 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:colorado_college 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:colorado_college 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:colorado_college 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:colorado_college 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:wright_state_raiders 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:wright_state_raiders 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:wright_state_raiders 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:wright_state_raiders 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:wright_state_raiders 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:iowa_state 1.5
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:iowa_state 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:iowa_state 1.05953
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:iowa_state 1.625
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:iowa_state 1.25
+---------------------------------
+concept:personus:party concept:agentcollaborateswithagent concept:politicianus:palin 1
+
+concept:personus:party concept:agentbelongstoorganization concept:politicianus:palin 1
+concept:personus:party concept:agentcontrols concept:politicianus:palin 1
+concept:personus:party concept:personbelongstoorganization concept:politicianus:palin 1
+concept:personus:party concept:worksfor concept:politicianus:palin 1
+---------------------------------
+concept:person:house concept:agentcollaborateswithagent concept:politicianus:president_bush 0
+
+concept:person:house concept:agentbelongstoorganization concept:politicianus:president_bush 1
+concept:person:house concept:agentcontrols concept:politicianus:president_bush 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:florida_gulf_coast_eagles 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:florida_gulf_coast_eagles 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:florida_gulf_coast_eagles 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:florida_gulf_coast_eagles 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:florida_gulf_coast_eagles 1.25
+---------------------------------
+concept:comedian:george_stephanopoulos concept:agentcollaborateswithagent concept:city:abc 1
+
+concept:comedian:george_stephanopoulos concept:agentbelongstoorganization concept:city:abc 1
+concept:comedian:george_stephanopoulos concept:agentcontrols concept:city:abc 1
+concept:comedian:george_stephanopoulos concept:organizationhiredperson concept:city:abc 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:iupui_jaguars 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:iupui_jaguars 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:iupui_jaguars 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:iupui_jaguars 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:iupui_jaguars 1.25
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:person:bill 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:person:bill 1
+concept:person:mccain concept:agentcontrols concept:person:bill 1
+concept:person:mccain concept:personbelongstoorganization concept:person:bill 1
+concept:person:mccain concept:persongraduatedfromuniversity concept:person:bill 0.5
+concept:person:mccain concept:worksfor concept:person:bill 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:unc_wilmington_seahawks 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:unc_wilmington_seahawks 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:unc_wilmington_seahawks 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:unc_wilmington_seahawks 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:unc_wilmington_seahawks 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:indiana_state_sycamores 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:indiana_state_sycamores 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:indiana_state_sycamores 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:indiana_state_sycamores 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:indiana_state_sycamores 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:brown_bears 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:brown_bears 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:brown_bears 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:brown_bears 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:brown_bears 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:montana_grizzlies 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:montana_grizzlies 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:montana_grizzlies 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:montana_grizzlies 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:montana_grizzlies 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:alabama_state_hornets 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:alabama_state_hornets 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:alabama_state_hornets 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:alabama_state_hornets 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:alabama_state_hornets 1.25
+---------------------------------
+concept:journalist:bob_woodruff concept:agentcollaborateswithagent concept:city:abc 1
+
+concept:journalist:bob_woodruff concept:agentbelongstoorganization concept:city:abc 1
+concept:journalist:bob_woodruff concept:agentcontrols concept:city:abc 1
+concept:journalist:bob_woodruff concept:organizationhiredperson concept:city:abc 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:liberty_flames 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:liberty_flames 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:liberty_flames 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:liberty_flames 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:liberty_flames 1.25
+---------------------------------
+concept:politician:jobs concept:agentcollaborateswithagent concept:actor:today 1
+
+concept:politician:jobs concept:agentbelongstoorganization concept:actor:today 1
+concept:politician:jobs concept:agentcompeteswithagent concept:actor:today 1
+concept:politician:jobs concept:agentcontrols concept:actor:today 1.19955
+concept:politician:jobs concept:agentparticipatedinevent concept:actor:today 0.5
+concept:politician:jobs concept:personbelongstoorganization concept:actor:today 1
+concept:politician:jobs concept:subpartof concept:actor:today 1.25
+concept:politician:jobs concept:worksfor concept:actor:today 1
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politician:w__bush 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politician:w__bush 1
+concept:person:mccain concept:agentcontrols concept:politician:w__bush 1
+concept:person:mccain concept:personbelongstoorganization concept:politician:w__bush 1
+concept:person:mccain concept:worksfor concept:politician:w__bush 1
+---------------------------------
+concept:person:edwards concept:agentcollaborateswithagent concept:female:hillary 1
+
+concept:person:edwards concept:agentbelongstoorganization concept:female:hillary 1
+concept:person:edwards concept:agentcontrols concept:female:hillary 1
+concept:person:edwards concept:personbelongstoorganization concept:female:hillary 1
+concept:person:edwards concept:worksfor concept:female:hillary 1
+---------------------------------
+concept:female:macbook_air concept:agentcollaborateswithagent concept:politician:jobs 2.90897
+
+concept:female:macbook_air concept:agentbelongstoorganization concept:politician:jobs 1
+concept:female:macbook_air concept:agentcontrols concept:politician:jobs 1*
+concept:female:macbook_air concept:personbelongstoorganization concept:politician:jobs 1
+concept:female:macbook_air concept:worksfor concept:politician:jobs 1
+---------------------------------
+concept:politicianus:governor_sarah_palin concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politicianus:governor_sarah_palin concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:governor_sarah_palin concept:agentcontrols concept:person:mccain 1
+concept:politicianus:governor_sarah_palin concept:personbelongstoorganization concept:person:mccain 1
+concept:politicianus:governor_sarah_palin concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:cleveland_browns 2
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:cleveland_browns 1*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:cleveland_browns 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:cleveland_browns 1.19955
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:cleveland_browns 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:cleveland_browns 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:cleveland_browns 1*
+concept:sportsleague:nfl concept:worksfor concept:coach:cleveland_browns 1
+---------------------------------
+concept:politicianus:candidate_barack_obama concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politicianus:candidate_barack_obama concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:candidate_barack_obama concept:agentcontrols concept:person:mccain 1
+concept:politicianus:candidate_barack_obama concept:personbelongstoorganization concept:person:mccain 1
+concept:politicianus:candidate_barack_obama concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:person:alex_rodriguez concept:agentcollaborateswithagent concept:female:yankees 1
+
+concept:person:alex_rodriguez concept:agentbelongstoorganization concept:female:yankees 1
+concept:person:alex_rodriguez concept:agentcontrols concept:female:yankees 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:minnesota_state_mavericks 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:minnesota_state_mavericks 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:minnesota_state_mavericks 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:minnesota_state_mavericks 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:minnesota_state_mavericks 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:texas_longhorns 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:texas_longhorns 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:texas_longhorns 1.19955
+---------------------------------
+concept:ceo:eric_schmidt concept:agentcollaborateswithagent concept:politician:jobs 1
+
+concept:ceo:eric_schmidt concept:agentbelongstoorganization concept:politician:jobs 1.11787
+concept:ceo:eric_schmidt concept:agentcontrols concept:politician:jobs 1*
+concept:ceo:eric_schmidt concept:mutualproxyfor concept:politician:jobs 0.5
+concept:ceo:eric_schmidt concept:personbelongstoorganization concept:politician:jobs 0.5
+concept:ceo:eric_schmidt concept:proxyfor concept:politician:jobs 0.5
+concept:ceo:eric_schmidt concept:subpartof concept:politician:jobs 0.182539
+---------------------------------
+concept:personmexico:adrian_gonzalez concept:agentcollaborateswithagent concept:company:new_york 1.5
+
+concept:personmexico:adrian_gonzalez concept:agentbelongstoorganization concept:company:new_york 1
+concept:personmexico:adrian_gonzalez concept:agentcontrols concept:company:new_york 2
+concept:personmexico:adrian_gonzalez concept:organizationhiredperson concept:company:new_york 1
+concept:personmexico:adrian_gonzalez concept:subpartof concept:company:new_york 1
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politicianus:governor_sarah_palin 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politicianus:governor_sarah_palin 1
+concept:person:mccain concept:agentcontrols concept:politicianus:governor_sarah_palin 1
+concept:person:mccain concept:personbelongstoorganization concept:politicianus:governor_sarah_palin 1
+concept:person:mccain concept:worksfor concept:politicianus:governor_sarah_palin 1
+---------------------------------
+concept:politician:jobs concept:agentcollaborateswithagent concept:ceo:iphone 1
+
+concept:politician:jobs concept:agentbelongstoorganization concept:ceo:iphone 1
+concept:politician:jobs concept:agentcontrols concept:ceo:iphone 1.19955
+concept:politician:jobs concept:personbelongstoorganization concept:ceo:iphone 1
+concept:politician:jobs concept:worksfor concept:ceo:iphone 1
+---------------------------------
+concept:person:alex_rodriguez concept:agentcollaborateswithagent concept:company:new_york 2.5
+
+concept:person:alex_rodriguez concept:agentbelongstoorganization concept:company:new_york 1
+concept:person:alex_rodriguez concept:agentcontrols concept:company:new_york 2
+concept:person:alex_rodriguez concept:organizationhiredperson concept:company:new_york 1
+concept:person:alex_rodriguez concept:subpartof concept:company:new_york 1
+---------------------------------
+concept:politician:jobs concept:agentcollaborateswithagent concept:male:world 1
+
+concept:politician:jobs concept:agentbelongstoorganization concept:male:world 1
+concept:politician:jobs concept:agentcontrols concept:male:world 1.19955
+concept:politician:jobs concept:agentparticipatedinevent concept:male:world 0.5
+concept:politician:jobs concept:personbelongstoorganization concept:male:world 1
+concept:politician:jobs concept:worksfor concept:male:world 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:duke_blue_devils 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:duke_blue_devils 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:duke_blue_devils 1.19955
+---------------------------------
+concept:coach:tony_fernandez concept:agentcollaborateswithagent concept:sportsteam:blue_jays 1
+
+concept:coach:tony_fernandez concept:agentbelongstoorganization concept:sportsteam:blue_jays 1
+concept:coach:tony_fernandez concept:agentcontrols concept:sportsteam:blue_jays 1
+concept:coach:tony_fernandez concept:organizationhiredperson concept:sportsteam:blue_jays 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:northwestern_state_demons 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:northwestern_state_demons 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:northwestern_state_demons 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:northwestern_state_demons 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:northwestern_state_demons 1.25
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politicianus:senator_obama 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politicianus:senator_obama 1
+concept:person:mccain concept:agentcontrols concept:politicianus:senator_obama 1
+concept:person:mccain concept:personbelongstoorganization concept:politicianus:senator_obama 1
+concept:person:mccain concept:worksfor concept:politicianus:senator_obama 1
+---------------------------------
+concept:ceo:iphone concept:agentcollaborateswithagent concept:politician:jobs 1.90897
+
+concept:ceo:iphone concept:agentbelongstoorganization concept:politician:jobs 1
+concept:ceo:iphone concept:agentcontrols concept:politician:jobs 1
+concept:ceo:iphone concept:personbelongstoorganization concept:politician:jobs 1
+concept:ceo:iphone concept:worksfor concept:politician:jobs 1
+---------------------------------
+concept:politician:jobs concept:agentcollaborateswithagent concept:male:end 0
+
+concept:politician:jobs concept:agentbelongstoorganization concept:male:end 1
+concept:politician:jobs concept:agentcompeteswithagent concept:male:end 1
+concept:politician:jobs concept:agentcontrols concept:male:end 1.19955
+concept:politician:jobs concept:subpartof concept:male:end 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:illinois_fighting_illini 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:illinois_fighting_illini 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:illinois_fighting_illini 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:illinois_fighting_illini 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:illinois_fighting_illini 1.25
+---------------------------------
+concept:personmexico:jerry_colangelo concept:agentcollaborateswithagent concept:sportsteam:suns 1.5
+
+concept:personmexico:jerry_colangelo concept:agentbelongstoorganization concept:sportsteam:suns 1
+concept:personmexico:jerry_colangelo concept:agentcontrols concept:sportsteam:suns 1
+concept:personmexico:jerry_colangelo concept:organizationhiredperson concept:sportsteam:suns 1
+---------------------------------
+concept:person:cokie_roberts concept:agentcollaborateswithagent concept:city:abc 1
+
+concept:person:cokie_roberts concept:agentbelongstoorganization concept:city:abc 1
+concept:person:cokie_roberts concept:agentcontrols concept:city:abc 1
+concept:person:cokie_roberts concept:organizationhiredperson concept:city:abc 1
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politicianus:nominee_barack_obama 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politicianus:nominee_barack_obama 1
+concept:person:mccain concept:agentcontrols concept:politicianus:nominee_barack_obama 1
+concept:person:mccain concept:personbelongstoorganization concept:politicianus:nominee_barack_obama 1
+concept:person:mccain concept:worksfor concept:politicianus:nominee_barack_obama 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:valparaiso_crusaders 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:valparaiso_crusaders 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:valparaiso_crusaders 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:valparaiso_crusaders 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:valparaiso_crusaders 1.25
+---------------------------------
+concept:athlete:matt_ryan concept:agentcollaborateswithagent concept:sportsteam:falcons 0.5
+
+concept:athlete:matt_ryan concept:agentbelongstoorganization concept:sportsteam:falcons 1
+concept:athlete:matt_ryan concept:agentcontrols concept:sportsteam:falcons 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:butler_bulldogs 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:butler_bulldogs 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:butler_bulldogs 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:butler_bulldogs 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:butler_bulldogs 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:louisville_cardinals 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:louisville_cardinals 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:louisville_cardinals 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:louisville_cardinals 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:louisville_cardinals 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:byu_cougars 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:byu_cougars 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:byu_cougars 1.19955
+---------------------------------
+concept:politicianus:presidential_candidate_barack_obama concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politicianus:presidential_candidate_barack_obama concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:presidential_candidate_barack_obama concept:agentcontrols concept:person:mccain 1
+concept:politicianus:presidential_candidate_barack_obama concept:personbelongstoorganization concept:person:mccain 1
+concept:politicianus:presidential_candidate_barack_obama concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politicianus:democratic_candidate_barack_obama 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politicianus:democratic_candidate_barack_obama 1
+concept:person:mccain concept:agentcontrols concept:politicianus:democratic_candidate_barack_obama 1
+concept:person:mccain concept:personbelongstoorganization concept:politicianus:democratic_candidate_barack_obama 1
+concept:person:mccain concept:worksfor concept:politicianus:democratic_candidate_barack_obama 1
+---------------------------------
+concept:politicianus:president_bush concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politicianus:president_bush concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:president_bush concept:agentcontrols concept:person:mccain 1
+concept:politicianus:president_bush concept:personbelongstoorganization concept:person:mccain 1
+concept:politicianus:president_bush concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:sacramento_state 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:sacramento_state 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:sacramento_state 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:sacramento_state 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:sacramento_state 1.25
+---------------------------------
+concept:athlete:carlos_beltran concept:agentcollaborateswithagent concept:sportsteam:new_york_mets 1.5
+
+concept:athlete:carlos_beltran concept:agentbelongstoorganization concept:sportsteam:new_york_mets 1
+concept:athlete:carlos_beltran concept:agentcontrols concept:sportsteam:new_york_mets 1
+concept:athlete:carlos_beltran concept:organizationhiredperson concept:sportsteam:new_york_mets 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:vermont_catamounts 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:vermont_catamounts 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:vermont_catamounts 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:vermont_catamounts 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:vermont_catamounts 1.25
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politicianus:senator_clinton 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politicianus:senator_clinton 1
+concept:person:mccain concept:agentcontrols concept:politicianus:senator_clinton 1
+concept:person:mccain concept:personbelongstoorganization concept:politicianus:senator_clinton 1
+concept:person:mccain concept:worksfor concept:politicianus:senator_clinton 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:arizona_wildcats 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:arizona_wildcats 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:arizona_wildcats 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:arizona_wildcats 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:arizona_wildcats 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:lehigh_mountain_hawks 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:lehigh_mountain_hawks 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:lehigh_mountain_hawks 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:lehigh_mountain_hawks 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:lehigh_mountain_hawks 1.25
+---------------------------------
+concept:journalist:terry_moran concept:agentcollaborateswithagent concept:city:abc 1
+
+concept:journalist:terry_moran concept:agentbelongstoorganization concept:city:abc 1
+concept:journalist:terry_moran concept:agentcontrols concept:city:abc 1
+concept:journalist:terry_moran concept:organizationhiredperson concept:city:abc 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:stateorprovince:wyoming_cowboys 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:stateorprovince:wyoming_cowboys 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:stateorprovince:wyoming_cowboys 1
+concept:personmexico:ncaa concept:agentcontrols concept:stateorprovince:wyoming_cowboys 1.19955
+concept:personmexico:ncaa concept:subpartof concept:stateorprovince:wyoming_cowboys 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:western_illinois 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:western_illinois 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:western_illinois 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:western_illinois 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:western_illinois 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:oral_roberts_golden_eagles 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:oral_roberts_golden_eagles 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:oral_roberts_golden_eagles 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:oral_roberts_golden_eagles 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:oral_roberts_golden_eagles 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:northern_iowa_panthers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:northern_iowa_panthers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:northern_iowa_panthers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:northern_iowa_panthers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:northern_iowa_panthers 1.25
+---------------------------------
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:kansas_city_chiefs 2
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:kansas_city_chiefs 1*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:kansas_city_chiefs 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:kansas_city_chiefs 1.19955
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:kansas_city_chiefs 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:kansas_city_chiefs 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:kansas_city_chiefs 1*
+concept:sportsleague:nfl concept:worksfor concept:coach:kansas_city_chiefs 1
+---------------------------------
+concept:coach:new_orleans_saints concept:agentcollaborateswithagent concept:sportsleague:nfl 3.5
+
+concept:coach:new_orleans_saints concept:agentbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:new_orleans_saints concept:agentcompeteswithagent concept:sportsleague:nfl 1
+concept:coach:new_orleans_saints concept:agentcontrols concept:sportsleague:nfl 2*
+concept:coach:new_orleans_saints concept:personbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:new_orleans_saints concept:subpartof concept:sportsleague:nfl 0.25
+concept:coach:new_orleans_saints concept:worksfor concept:sportsleague:nfl 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:southern_utah_thunderbirds 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:southern_utah_thunderbirds 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:southern_utah_thunderbirds 1.19955
+---------------------------------
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:new_york_giants 3.5
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:new_york_giants 1*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:new_york_giants 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:new_york_giants 1.19955*
+concept:sportsleague:nfl concept:organizationterminatedperson concept:coach:new_york_giants 0.5
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:new_york_giants 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:new_york_giants 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:new_york_giants 1*
+concept:sportsleague:nfl concept:worksfor concept:coach:new_york_giants 1
+---------------------------------
+concept:ceo:richard concept:agentcollaborateswithagent concept:politician:jobs 1
+
+concept:ceo:richard concept:agentbelongstoorganization concept:politician:jobs 1
+concept:ceo:richard concept:agentcontrols concept:politician:jobs 1*
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:san_jose_state_spartans 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:san_jose_state_spartans 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:san_jose_state_spartans 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:san_jose_state_spartans 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:san_jose_state_spartans 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:syracuse_orangemen 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:syracuse_orangemen 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:syracuse_orangemen 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:syracuse_orangemen 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:syracuse_orangemen 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:ucla 1
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:ucla 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:ucla 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:ucla 1.625
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:ucla 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:jacksonville_state_gamecocks 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:jacksonville_state_gamecocks 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:jacksonville_state_gamecocks 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:jacksonville_state_gamecocks 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:jacksonville_state_gamecocks 1.25
+---------------------------------
+concept:female:hillary concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:female:hillary concept:agentbelongstoorganization concept:person:mccain 1
+concept:female:hillary concept:agentcontrols concept:person:mccain 1
+concept:female:hillary concept:personbelongstoorganization concept:person:mccain 1
+concept:female:hillary concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:cameron_aggies 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:cameron_aggies 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:cameron_aggies 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:cameron_aggies 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:cameron_aggies 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:oklahoma_state_cowboys 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:oklahoma_state_cowboys 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:oklahoma_state_cowboys 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:oklahoma_state_cowboys 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:oklahoma_state_cowboys 1.25
+---------------------------------
+concept:male:sun concept:agentcollaborateswithagent concept:personafrica:jonathan_schwartz 1
+
+concept:male:sun concept:agentbelongstoorganization concept:personafrica:jonathan_schwartz 1
+concept:male:sun concept:agentcompeteswithagent concept:personafrica:jonathan_schwartz 1
+concept:male:sun concept:agentcontrols concept:personafrica:jonathan_schwartz 1.19955
+concept:male:sun concept:personbelongstoorganization concept:personafrica:jonathan_schwartz 1
+concept:male:sun concept:subpartof concept:personafrica:jonathan_schwartz 1
+concept:male:sun concept:worksfor concept:personafrica:jonathan_schwartz 1
+---------------------------------
+concept:sportsteam:buffalo_bills concept:agentcollaborateswithagent concept:sportsleague:nfl 0.5
+
+concept:sportsteam:buffalo_bills concept:agentbelongstoorganization concept:sportsleague:nfl 1
+concept:sportsteam:buffalo_bills concept:agentcontrols concept:sportsleague:nfl 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:james_madison_dukes 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:james_madison_dukes 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:james_madison_dukes 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:james_madison_dukes 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:james_madison_dukes 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:vanderbilt_commodores 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:vanderbilt_commodores 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:vanderbilt_commodores 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:vanderbilt_commodores 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:vanderbilt_commodores 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:ohio_state_buckeyes 1
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:ohio_state_buckeyes 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:ohio_state_buckeyes 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:ohio_state_buckeyes 1.19955
+concept:personmexico:ncaa concept:personbelongstoorganization concept:sportsteam:ohio_state_buckeyes 1
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:ohio_state_buckeyes 1.25
+concept:personmexico:ncaa concept:worksfor concept:sportsteam:ohio_state_buckeyes 1
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:female:hillary 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:female:hillary 1
+concept:person:mccain concept:agentcontrols concept:female:hillary 1
+concept:person:mccain concept:personbelongstoorganization concept:female:hillary 1
+concept:person:mccain concept:worksfor concept:female:hillary 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:new_mexico_lobos 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:new_mexico_lobos 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:new_mexico_lobos 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:new_mexico_lobos 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:new_mexico_lobos 1.25
+---------------------------------
+concept:person:ichiro_suzuki concept:agentcollaborateswithagent concept:personmexico:seattle_mariners 0
+
+concept:person:ichiro_suzuki concept:agentbelongstoorganization concept:personmexico:seattle_mariners 1
+concept:person:ichiro_suzuki concept:agentcontrols concept:personmexico:seattle_mariners 1
+---------------------------------
+concept:coach:new_york_jets concept:agentcollaborateswithagent concept:sportsleague:nfl 1.5
+
+concept:coach:new_york_jets concept:agentbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:new_york_jets concept:agentcompeteswithagent concept:sportsleague:nfl 2
+concept:coach:new_york_jets concept:agentcontrols concept:sportsleague:nfl 2.625*
+concept:coach:new_york_jets concept:subpartof concept:sportsleague:nfl 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:rhode_island_rams 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:rhode_island_rams 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:rhode_island_rams 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:rhode_island_rams 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:rhode_island_rams 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:maine_black_bears 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:maine_black_bears 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:maine_black_bears 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:maine_black_bears 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:maine_black_bears 1.25
+---------------------------------
+concept:politicianus:cindy_mccain concept:agentcollaborateswithagent concept:politician:clinton 1
+
+concept:politicianus:cindy_mccain concept:agentbelongstoorganization concept:politician:clinton 1
+concept:politicianus:cindy_mccain concept:agentcontrols concept:politician:clinton 1
+concept:politicianus:cindy_mccain concept:personbelongstoorganization concept:politician:clinton 1
+concept:politicianus:cindy_mccain concept:worksfor concept:politician:clinton 1
+---------------------------------
+concept:personus:andruw_jones concept:agentcollaborateswithagent concept:sportsteam:chowan_braves 1
+
+concept:personus:andruw_jones concept:agentbelongstoorganization concept:sportsteam:chowan_braves 1
+concept:personus:andruw_jones concept:agentcontrols concept:sportsteam:chowan_braves 1
+concept:personus:andruw_jones concept:organizationhiredperson concept:sportsteam:chowan_braves 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:idaho_state_bengals 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:idaho_state_bengals 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:idaho_state_bengals 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:idaho_state_bengals 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:idaho_state_bengals 1.25
+---------------------------------
+concept:politicianus:john_kerry concept:agentcollaborateswithagent concept:politician:w__bush 1
+
+concept:politicianus:john_kerry concept:agentbelongstoorganization concept:politician:w__bush 1
+concept:politicianus:john_kerry concept:agentcontrols concept:politician:w__bush 1
+concept:politicianus:john_kerry concept:personbelongstoorganization concept:politician:w__bush 1
+concept:politicianus:john_kerry concept:worksfor concept:politician:w__bush 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:auburn_tigers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:auburn_tigers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:auburn_tigers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:auburn_tigers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:auburn_tigers 1.25
+---------------------------------
+concept:person:larry_ellison concept:agentcollaborateswithagent concept:company:oracle 0
+
+concept:person:larry_ellison concept:agentbelongstoorganization concept:company:oracle 1
+concept:person:larry_ellison concept:agentcontrols concept:company:oracle 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:eastern_kentucky_colonels 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:eastern_kentucky_colonels 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:eastern_kentucky_colonels 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:eastern_kentucky_colonels 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:eastern_kentucky_colonels 1.25
+---------------------------------
+concept:personus:jason_giambi concept:agentcollaborateswithagent concept:company:new_york 1.5
+
+concept:personus:jason_giambi concept:agentbelongstoorganization concept:company:new_york 1
+concept:personus:jason_giambi concept:agentcontrols concept:company:new_york 2
+concept:personus:jason_giambi concept:organizationhiredperson concept:company:new_york 1
+concept:personus:jason_giambi concept:subpartof concept:company:new_york 1
+---------------------------------
+concept:politicianus:francisco_rodriguez concept:agentcollaborateswithagent concept:sportsteam:new_york_mets 0.5
+
+concept:politicianus:francisco_rodriguez concept:agentbelongstoorganization concept:sportsteam:new_york_mets 1
+concept:politicianus:francisco_rodriguez concept:agentcontrols concept:sportsteam:new_york_mets 1
+---------------------------------
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:new_england_patriots 2
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:new_england_patriots 2*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:new_england_patriots 0.119059
+concept:sportsleague:nfl concept:agentcontrols concept:coach:new_england_patriots 1.19955
+concept:sportsleague:nfl concept:organizationhiredperson concept:coach:new_england_patriots 0.25
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:new_england_patriots 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:new_england_patriots 0.666667
+concept:sportsleague:nfl concept:worksfor concept:coach:new_england_patriots 1
+---------------------------------
+concept:politicianus:palin concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politicianus:palin concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:palin concept:agentcontrols concept:person:mccain 1
+concept:politicianus:palin concept:personbelongstoorganization concept:person:mccain 1
+concept:politicianus:palin concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:northern_colorado_bears 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:northern_colorado_bears 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:northern_colorado_bears 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:northern_colorado_bears 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:northern_colorado_bears 1.25
+---------------------------------
+concept:sportsteam:titans concept:agentcollaborateswithagent concept:sportsleague:nfl 0.5
+
+concept:sportsteam:titans concept:agentbelongstoorganization concept:sportsleague:nfl 1
+concept:sportsteam:titans concept:agentcontrols concept:sportsleague:nfl 1
+concept:sportsteam:titans concept:organizationhiredperson concept:sportsleague:nfl 0.5
+---------------------------------
+concept:celebrity:john_stossel concept:agentcollaborateswithagent concept:city:abc 1
+
+concept:celebrity:john_stossel concept:agentbelongstoorganization concept:city:abc 1
+concept:celebrity:john_stossel concept:agentcontrols concept:city:abc 1*
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politicianus:mitt_romney 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politicianus:mitt_romney 1
+concept:person:mccain concept:agentcontrols concept:politicianus:mitt_romney 1
+concept:person:mccain concept:personbelongstoorganization concept:politicianus:mitt_romney 1
+concept:person:mccain concept:worksfor concept:politicianus:mitt_romney 1
+---------------------------------
+concept:female:hilary concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:female:hilary concept:agentbelongstoorganization concept:person:mccain 1
+concept:female:hilary concept:agentcontrols concept:person:mccain 1
+concept:female:hilary concept:personbelongstoorganization concept:person:mccain 1
+concept:female:hilary concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:personmexico:carlos_santana001 concept:agentcollaborateswithagent concept:sportsteam:new_york_mets 0.5
+
+concept:personmexico:carlos_santana001 concept:agentbelongstoorganization concept:sportsteam:new_york_mets 1
+concept:personmexico:carlos_santana001 concept:agentcontrols concept:sportsteam:new_york_mets 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:pittsburgh_panthers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:pittsburgh_panthers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:pittsburgh_panthers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:pittsburgh_panthers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:pittsburgh_panthers 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:toledo_rockets 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:toledo_rockets 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:toledo_rockets 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:toledo_rockets 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:toledo_rockets 1.25
+---------------------------------
+concept:athlete:vernon_wells concept:agentcollaborateswithagent concept:sportsteam:blue_jays 1
+
+concept:athlete:vernon_wells concept:agentbelongstoorganization concept:sportsteam:blue_jays 1
+concept:athlete:vernon_wells concept:agentcontrols concept:sportsteam:blue_jays 1
+concept:athlete:vernon_wells concept:organizationhiredperson concept:sportsteam:blue_jays 1
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politicianus:presidential_candidate_barack_obama 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politicianus:presidential_candidate_barack_obama 1
+concept:person:mccain concept:agentcontrols concept:politicianus:presidential_candidate_barack_obama 1
+concept:person:mccain concept:personbelongstoorganization concept:politicianus:presidential_candidate_barack_obama 1
+concept:person:mccain concept:worksfor concept:politicianus:presidential_candidate_barack_obama 1
+---------------------------------
+concept:person:sam_donaldson concept:agentcollaborateswithagent concept:city:abc 1
+
+concept:person:sam_donaldson concept:agentbelongstoorganization concept:city:abc 1
+concept:person:sam_donaldson concept:agentcontrols concept:city:abc 1
+concept:person:sam_donaldson concept:organizationhiredperson concept:city:abc 1
+---------------------------------
+concept:coach:kansas_city_chiefs concept:agentcollaborateswithagent concept:sportsleague:nfl 3.5
+
+concept:coach:kansas_city_chiefs concept:agentbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:kansas_city_chiefs concept:agentcompeteswithagent concept:sportsleague:nfl 1
+concept:coach:kansas_city_chiefs concept:agentcontrols concept:sportsleague:nfl 2*
+concept:coach:kansas_city_chiefs concept:personbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:kansas_city_chiefs concept:subpartof concept:sportsleague:nfl 0.25
+concept:coach:kansas_city_chiefs concept:worksfor concept:sportsleague:nfl 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:saint_louis_billikens 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:saint_louis_billikens 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:saint_louis_billikens 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:saint_louis_billikens 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:saint_louis_billikens 1.25
+---------------------------------
+concept:personcanada:elizabeth_vargas concept:agentcollaborateswithagent concept:city:abc 1
+
+concept:personcanada:elizabeth_vargas concept:agentbelongstoorganization concept:city:abc 1
+concept:personcanada:elizabeth_vargas concept:agentcontrols concept:city:abc 1
+concept:personcanada:elizabeth_vargas concept:organizationhiredperson concept:city:abc 1
+---------------------------------
+concept:politicianus:nominee_barack_obama concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politicianus:nominee_barack_obama concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:nominee_barack_obama concept:agentcontrols concept:person:mccain 1
+concept:politicianus:nominee_barack_obama concept:personbelongstoorganization concept:person:mccain 1
+concept:politicianus:nominee_barack_obama concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:personnorthamerica:joe_biden concept:agentcollaborateswithagent concept:nongovorganization:democrat 1
+
+concept:personnorthamerica:joe_biden concept:agentbelongstoorganization concept:nongovorganization:democrat 1
+concept:personnorthamerica:joe_biden concept:agentcontrols concept:nongovorganization:democrat 1*
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:new_mexico_state_aggies 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:new_mexico_state_aggies 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:new_mexico_state_aggies 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:new_mexico_state_aggies 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:new_mexico_state_aggies 1.25
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:female:hilary 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:female:hilary 1
+concept:person:mccain concept:agentcontrols concept:female:hilary 1
+concept:person:mccain concept:personbelongstoorganization concept:female:hilary 1
+concept:person:mccain concept:worksfor concept:female:hilary 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:citadel_bulldogs 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:citadel_bulldogs 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:citadel_bulldogs 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:citadel_bulldogs 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:citadel_bulldogs 1.25
+---------------------------------
+concept:terroristorganization:state concept:agentcollaborateswithagent concept:terroristorganization:money 2
+
+concept:terroristorganization:state concept:agentbelongstoorganization concept:terroristorganization:money 1*
+concept:terroristorganization:state concept:agentcontrols concept:terroristorganization:money 1.19955
+concept:terroristorganization:state concept:personbelongstoorganization concept:terroristorganization:money 1
+concept:terroristorganization:state concept:worksfor concept:terroristorganization:money 1
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:personafrica:george_bush 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:personafrica:george_bush 1
+concept:person:mccain concept:agentcontrols concept:personafrica:george_bush 1
+concept:person:mccain concept:personbelongstoorganization concept:personafrica:george_bush 1
+concept:person:mccain concept:worksfor concept:personafrica:george_bush 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:army_black_knights 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:army_black_knights 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:army_black_knights 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:army_black_knights 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:army_black_knights 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:northern_arizona_lumberjacks 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:northern_arizona_lumberjacks 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:northern_arizona_lumberjacks 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:northern_arizona_lumberjacks 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:northern_arizona_lumberjacks 1.25
+---------------------------------
+concept:politician:bret_schundler concept:agentcollaborateswithagent concept:televisionstation:jersey_city 0
+
+concept:politician:bret_schundler concept:agentbelongstoorganization concept:televisionstation:jersey_city 1
+concept:politician:bret_schundler concept:agentcontrols concept:televisionstation:jersey_city 1
+---------------------------------
+concept:politicianus:barack_hussein concept:agentcollaborateswithagent concept:politician:clinton 0
+
+concept:politicianus:barack_hussein concept:agentbelongstoorganization concept:politician:clinton 1
+concept:politicianus:barack_hussein concept:agentcontrols concept:politician:clinton 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:georgia_southern_eagles 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:georgia_southern_eagles 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:georgia_southern_eagles 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:georgia_southern_eagles 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:georgia_southern_eagles 1.25
+---------------------------------
+concept:athlete:charlie_gibson concept:agentcollaborateswithagent concept:city:abc 1
+
+concept:athlete:charlie_gibson concept:agentbelongstoorganization concept:city:abc 1
+concept:athlete:charlie_gibson concept:agentcontrols concept:city:abc 1
+concept:athlete:charlie_gibson concept:organizationhiredperson concept:city:abc 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:lsu_tigers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:lsu_tigers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:lsu_tigers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:lsu_tigers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:lsu_tigers 1.25
+---------------------------------
+concept:politician:w__bush concept:agentcollaborateswithagent concept:personnorthamerica:john_mccain 1
+
+concept:politician:w__bush concept:agentbelongstoorganization concept:personnorthamerica:john_mccain 1
+concept:politician:w__bush concept:agentcontrols concept:personnorthamerica:john_mccain 1
+concept:politician:w__bush concept:personbelongstoorganization concept:personnorthamerica:john_mccain 1
+concept:politician:w__bush concept:worksfor concept:personnorthamerica:john_mccain 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:tennessee_volunteers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:tennessee_volunteers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:tennessee_volunteers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:tennessee_volunteers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:tennessee_volunteers 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:university:arkansas_little_rock_trojans 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:university:arkansas_little_rock_trojans 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:university:arkansas_little_rock_trojans 1
+concept:personmexico:ncaa concept:agentcontrols concept:university:arkansas_little_rock_trojans 1.19955
+concept:personmexico:ncaa concept:subpartof concept:university:arkansas_little_rock_trojans 1.25
+---------------------------------
+concept:newspaper:president_elect_barack_obama concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:newspaper:president_elect_barack_obama concept:agentbelongstoorganization concept:person:mccain 1
+concept:newspaper:president_elect_barack_obama concept:agentcontrols concept:person:mccain 1
+concept:newspaper:president_elect_barack_obama concept:personbelongstoorganization concept:person:mccain 1
+concept:newspaper:president_elect_barack_obama concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:georgia_tech 1.5
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:georgia_tech 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:georgia_tech 0.0595295
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:georgia_tech 1.625
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:santa_clara_broncos 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:santa_clara_broncos 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:santa_clara_broncos 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:santa_clara_broncos 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:santa_clara_broncos 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:missouri_tigers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:missouri_tigers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:missouri_tigers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:missouri_tigers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:missouri_tigers 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:portland_state_vikings 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:portland_state_vikings 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:portland_state_vikings 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:portland_state_vikings 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:portland_state_vikings 1.25
+---------------------------------
+concept:politician:jobs concept:agentcollaborateswithagent concept:terroristorganization:point 1
+
+concept:politician:jobs concept:agentbelongstoorganization concept:terroristorganization:point 1
+concept:politician:jobs concept:agentcontrols concept:terroristorganization:point 1.19955
+concept:politician:jobs concept:agentparticipatedinevent concept:terroristorganization:point 0.5
+concept:politician:jobs concept:organizationhiredperson concept:terroristorganization:point 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:idaho_vandals 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:idaho_vandals 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:idaho_vandals 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:idaho_vandals 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:idaho_vandals 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:boston_college 1
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:boston_college 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:boston_college 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:boston_college 1.625
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:boston_college 1.25
+---------------------------------
+concept:writer:barak_obama concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:writer:barak_obama concept:agentbelongstoorganization concept:person:mccain 1
+concept:writer:barak_obama concept:agentcontrols concept:person:mccain 1
+concept:writer:barak_obama concept:personbelongstoorganization concept:person:mccain 1
+concept:writer:barak_obama concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:politicianus:senator_obama concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politicianus:senator_obama concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:senator_obama concept:agentcontrols concept:person:mccain 1
+concept:politicianus:senator_obama concept:personbelongstoorganization concept:person:mccain 1
+concept:politicianus:senator_obama concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:florida_state_seminoles 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:florida_state_seminoles 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:florida_state_seminoles 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:florida_state_seminoles 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:florida_state_seminoles 1.25
+---------------------------------
+concept:celebrity:safari concept:agentcollaborateswithagent concept:politician:jobs 1.90897
+
+concept:celebrity:safari concept:agentbelongstoorganization concept:politician:jobs 1
+concept:celebrity:safari concept:agentcontrols concept:politician:jobs 1
+concept:celebrity:safari concept:personbelongstoorganization concept:politician:jobs 1
+concept:celebrity:safari concept:worksfor concept:politician:jobs 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:marshall_thundering_herd 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:marshall_thundering_herd 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:marshall_thundering_herd 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:marshall_thundering_herd 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:marshall_thundering_herd 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:alaska_fairbanks_nanooks 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:alaska_fairbanks_nanooks 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:alaska_fairbanks_nanooks 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:alaska_fairbanks_nanooks 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:alaska_fairbanks_nanooks 1.25
+---------------------------------
+concept:politician:jobs concept:agentcollaborateswithagent concept:company:imac 1
+
+concept:politician:jobs concept:agentbelongstoorganization concept:company:imac 1
+concept:politician:jobs concept:agentcompeteswithagent concept:company:imac 1
+concept:politician:jobs concept:agentcontrols concept:company:imac 1.19955
+concept:politician:jobs concept:organizationhiredperson concept:company:imac 1
+concept:politician:jobs concept:subpartof concept:company:imac 1.25
+---------------------------------
+concept:person:john_o_leary concept:agentcollaborateswithagent concept:sportsteam:army_black_knights 0
+
+concept:person:john_o_leary concept:agentbelongstoorganization concept:sportsteam:army_black_knights 1
+concept:person:john_o_leary concept:agentcontrols concept:sportsteam:army_black_knights 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:samford_bulldogs 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:samford_bulldogs 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:samford_bulldogs 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:samford_bulldogs 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:samford_bulldogs 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:emory_eagles 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:emory_eagles 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:emory_eagles 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:emory_eagles 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:emory_eagles 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:george_mason_patriots 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:george_mason_patriots 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:george_mason_patriots 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:george_mason_patriots 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:george_mason_patriots 1.25
+---------------------------------
+concept:person:macintosh concept:agentcollaborateswithagent concept:politician:jobs 2.90897
+
+concept:person:macintosh concept:agentbelongstoorganization concept:politician:jobs 1
+concept:person:macintosh concept:agentcontrols concept:politician:jobs 1*
+concept:person:macintosh concept:atdate concept:politician:jobs 0.522616
+concept:person:macintosh concept:personbelongstoorganization concept:politician:jobs 1
+concept:person:macintosh concept:worksfor concept:politician:jobs 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:east_carolina_pirates 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:east_carolina_pirates 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:east_carolina_pirates 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:east_carolina_pirates 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:east_carolina_pirates 1.25
+---------------------------------
+concept:personmexico:woody_hayes concept:agentcollaborateswithagent concept:sportsteam:ohio_state_university 2.5
+
+concept:personmexico:woody_hayes concept:agentbelongstoorganization concept:sportsteam:ohio_state_university 1
+concept:personmexico:woody_hayes concept:agentcontrols concept:sportsteam:ohio_state_university 1
+concept:personmexico:woody_hayes concept:personbelongstoorganization concept:sportsteam:ohio_state_university 1
+concept:personmexico:woody_hayes concept:worksfor concept:sportsteam:ohio_state_university 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:georgia_state 1.5
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:georgia_state 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:georgia_state 1.05953
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:georgia_state 1.625
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:georgia_state 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:tennessee_state_tigers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:tennessee_state_tigers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:tennessee_state_tigers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:tennessee_state_tigers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:tennessee_state_tigers 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:mississippi_rebels 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:mississippi_rebels 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:mississippi_rebels 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:mississippi_rebels 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:mississippi_rebels 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:louisiana_tech_bulldogs 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:louisiana_tech_bulldogs 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:louisiana_tech_bulldogs 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:louisiana_tech_bulldogs 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:louisiana_tech_bulldogs 1.25
+---------------------------------
+concept:female:hillary concept:agentcollaborateswithagent concept:personus:hussein_obama 1
+
+concept:female:hillary concept:agentbelongstoorganization concept:personus:hussein_obama 1
+concept:female:hillary concept:agentcontrols concept:personus:hussein_obama 1
+concept:female:hillary concept:personbelongstoorganization concept:personus:hussein_obama 1
+concept:female:hillary concept:worksfor concept:personus:hussein_obama 1
+---------------------------------
+concept:athlete:mac concept:agentcollaborateswithagent concept:politician:jobs 1.90897
+
+concept:athlete:mac concept:agentbelongstoorganization concept:politician:jobs 1
+concept:athlete:mac concept:agentcontrols concept:politician:jobs 1
+concept:athlete:mac concept:personbelongstoorganization concept:politician:jobs 1
+concept:athlete:mac concept:worksfor concept:politician:jobs 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:wisconsin_badgers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:wisconsin_badgers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:wisconsin_badgers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:wisconsin_badgers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:wisconsin_badgers 1.25
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politicianus:gov__sarah_palin 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politicianus:gov__sarah_palin 1
+concept:person:mccain concept:agentcontrols concept:politicianus:gov__sarah_palin 1
+concept:person:mccain concept:personbelongstoorganization concept:politicianus:gov__sarah_palin 1
+concept:person:mccain concept:worksfor concept:politicianus:gov__sarah_palin 1
+---------------------------------
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:new_orleans_saints 2
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:new_orleans_saints 1*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:new_orleans_saints 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:new_orleans_saints 1.19955
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:new_orleans_saints 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:new_orleans_saints 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:new_orleans_saints 1*
+concept:sportsleague:nfl concept:worksfor concept:coach:new_orleans_saints 1
+---------------------------------
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:baltimore_ravens 3.5
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:baltimore_ravens 1*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:baltimore_ravens 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:baltimore_ravens 1.19955*
+concept:sportsleague:nfl concept:organizationterminatedperson concept:coach:baltimore_ravens 0.5
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:baltimore_ravens 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:baltimore_ravens 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:baltimore_ravens 1*
+concept:sportsleague:nfl concept:worksfor concept:coach:baltimore_ravens 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:morehead_state_eagles 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:morehead_state_eagles 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:morehead_state_eagles 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:morehead_state_eagles 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:morehead_state_eagles 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:richmond_spiders 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:richmond_spiders 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:richmond_spiders 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:richmond_spiders 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:richmond_spiders 1.25
+---------------------------------
+concept:politicianus:palin concept:agentcollaborateswithagent concept:nongovorganization:u_s_ 1.40897
+
+concept:politicianus:palin concept:agentbelongstoorganization concept:nongovorganization:u_s_ 1
+concept:politicianus:palin concept:agentcontrols concept:nongovorganization:u_s_ 1
+---------------------------------
+concept:person:ryan_church concept:agentcollaborateswithagent concept:sportsteam:new_york_mets 1.5
+
+concept:person:ryan_church concept:agentbelongstoorganization concept:sportsteam:new_york_mets 1
+concept:person:ryan_church concept:agentcontrols concept:sportsteam:new_york_mets 1
+concept:person:ryan_church concept:organizationhiredperson concept:sportsteam:new_york_mets 1
+---------------------------------
+concept:personus:shane_victorino concept:agentcollaborateswithagent concept:sportsteam:phillies 1
+
+concept:personus:shane_victorino concept:agentbelongstoorganization concept:sportsteam:phillies 1
+concept:personus:shane_victorino concept:agentcontrols concept:sportsteam:phillies 1
+concept:personus:shane_victorino concept:organizationhiredperson concept:sportsteam:phillies 1
+---------------------------------
+concept:coach:charlie_weis concept:agentcollaborateswithagent concept:male:notre_dame 2.5
+
+concept:coach:charlie_weis concept:agentbelongstoorganization concept:male:notre_dame 1
+concept:coach:charlie_weis concept:agentcontrols concept:male:notre_dame 1*
+concept:coach:charlie_weis concept:personbelongstoorganization concept:male:notre_dame 1
+concept:coach:charlie_weis concept:worksfor concept:male:notre_dame 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:florida_gators 1
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:florida_gators 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:florida_gators 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:florida_gators 1.625
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:florida_gators 1.25
+---------------------------------
+concept:person:bill concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:person:bill concept:agentbelongstoorganization concept:person:mccain 1.11787
+concept:person:bill concept:agentcontrols concept:person:mccain 1
+concept:person:bill concept:personbelongstoorganization concept:person:mccain 1
+concept:person:bill concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:company:apple_iphone concept:agentcollaborateswithagent concept:politician:jobs 1
+
+concept:company:apple_iphone concept:agentbelongstoorganization concept:politician:jobs 1
+concept:company:apple_iphone concept:agentcontrols concept:politician:jobs 1*
+---------------------------------
+concept:personnorthamerica:john_mccain concept:agentcollaborateswithagent concept:politician:w__bush 1
+
+concept:personnorthamerica:john_mccain concept:agentbelongstoorganization concept:politician:w__bush 1
+concept:personnorthamerica:john_mccain concept:agentcontrols concept:politician:w__bush 1
+concept:personnorthamerica:john_mccain concept:personbelongstoorganization concept:politician:w__bush 1
+concept:personnorthamerica:john_mccain concept:worksfor concept:politician:w__bush 1
+---------------------------------
+concept:politician:clinton concept:agentcollaborateswithagent concept:politicianus:cindy_mccain 1
+
+concept:politician:clinton concept:agentbelongstoorganization concept:politicianus:cindy_mccain 1
+concept:politician:clinton concept:agentcontrols concept:politicianus:cindy_mccain 1
+concept:politician:clinton concept:personbelongstoorganization concept:politicianus:cindy_mccain 1
+concept:politician:clinton concept:worksfor concept:politicianus:cindy_mccain 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:rutgers_scarlet_knights 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:rutgers_scarlet_knights 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:rutgers_scarlet_knights 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:rutgers_scarlet_knights 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:rutgers_scarlet_knights 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:utah_state 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:utah_state 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:utah_state 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:utah_state 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:utah_state 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:la_salle_explorers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:la_salle_explorers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:la_salle_explorers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:la_salle_explorers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:la_salle_explorers 1.25
+---------------------------------
+concept:company:innovation concept:agentcollaborateswithagent concept:politician:jobs 1
+
+concept:company:innovation concept:agentbelongstoorganization concept:politician:jobs 1
+concept:company:innovation concept:agentcontrols concept:politician:jobs 1*
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:wichita_state_shockers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:wichita_state_shockers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:wichita_state_shockers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:wichita_state_shockers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:wichita_state_shockers 1.25
+---------------------------------
+concept:male:sun concept:agentcollaborateswithagent concept:actor:scott_mcnealy 2.90897
+
+concept:male:sun concept:agentbelongstoorganization concept:actor:scott_mcnealy 1
+concept:male:sun concept:agentcompeteswithagent concept:actor:scott_mcnealy 1
+concept:male:sun concept:agentcontrols concept:actor:scott_mcnealy 1.19955*
+concept:male:sun concept:competeswith concept:actor:scott_mcnealy 0.25
+concept:male:sun concept:personbelongstoorganization concept:actor:scott_mcnealy 1
+concept:male:sun concept:subpartof concept:actor:scott_mcnealy 1
+concept:male:sun concept:worksfor concept:actor:scott_mcnealy 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:old_dominion_monarchs 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:old_dominion_monarchs 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:old_dominion_monarchs 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:old_dominion_monarchs 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:old_dominion_monarchs 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:akron_zips 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:akron_zips 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:akron_zips 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:akron_zips 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:akron_zips 1.25
+---------------------------------
+concept:politicianus:palin concept:agentcollaborateswithagent concept:personnorthamerica:john_mccain 1
+
+concept:politicianus:palin concept:agentbelongstoorganization concept:personnorthamerica:john_mccain 1
+concept:politicianus:palin concept:agentcontrols concept:personnorthamerica:john_mccain 1
+concept:politicianus:palin concept:personbelongstoorganization concept:personnorthamerica:john_mccain 1
+concept:politicianus:palin concept:worksfor concept:personnorthamerica:john_mccain 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:unlv_runnin_rebels 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:unlv_runnin_rebels 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:unlv_runnin_rebels 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:unlv_runnin_rebels 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:unlv_runnin_rebels 1.25
+---------------------------------
+concept:politician:jobs concept:agentcollaborateswithagent concept:athlete:mac 1
+
+concept:politician:jobs concept:agentbelongstoorganization concept:athlete:mac 1
+concept:politician:jobs concept:agentcontrols concept:athlete:mac 1.19955
+concept:politician:jobs concept:personbelongstoorganization concept:athlete:mac 1
+concept:politician:jobs concept:worksfor concept:athlete:mac 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:minnesota_duluth_bulldogs 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:minnesota_duluth_bulldogs 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:minnesota_duluth_bulldogs 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:minnesota_duluth_bulldogs 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:minnesota_duluth_bulldogs 1.25
+---------------------------------
+concept:male:barak concept:agentcollaborateswithagent concept:person:mccain 0
+
+concept:male:barak concept:agentbelongstoorganization concept:person:mccain 1
+concept:male:barak concept:agentcontrols concept:person:mccain 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:albany_great_danes 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:albany_great_danes 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:albany_great_danes 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:albany_great_danes 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:albany_great_danes 1.25
+---------------------------------
+concept:coach:san_diego_chargers concept:agentcollaborateswithagent concept:sportsleague:nfl 3.5
+
+concept:coach:san_diego_chargers concept:agentbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:san_diego_chargers concept:agentcompeteswithagent concept:sportsleague:nfl 1
+concept:coach:san_diego_chargers concept:agentcontrols concept:sportsleague:nfl 2*
+concept:coach:san_diego_chargers concept:personbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:san_diego_chargers concept:subpartof concept:sportsleague:nfl 0.25
+concept:coach:san_diego_chargers concept:worksfor concept:sportsleague:nfl 1
+---------------------------------
+concept:coach:mike_comrie concept:agentcollaborateswithagent concept:sportsteam:new_york_islanders 0.5
+
+concept:coach:mike_comrie concept:agentbelongstoorganization concept:sportsteam:new_york_islanders 1
+concept:coach:mike_comrie concept:agentcontrols concept:sportsteam:new_york_islanders 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:niagara_purple_eagles 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:niagara_purple_eagles 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:niagara_purple_eagles 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:niagara_purple_eagles 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:niagara_purple_eagles 1.25
+---------------------------------
+concept:politicianus:mr__obama concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politicianus:mr__obama concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:mr__obama concept:agentcontrols concept:person:mccain 1
+concept:politicianus:mr__obama concept:personbelongstoorganization concept:person:mccain 1
+concept:politicianus:mr__obama concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politicianus:democratic_nominee_barack_obama 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politicianus:democratic_nominee_barack_obama 1
+concept:person:mccain concept:agentcontrols concept:politicianus:democratic_nominee_barack_obama 1
+concept:person:mccain concept:personbelongstoorganization concept:politicianus:democratic_nominee_barack_obama 1
+concept:person:mccain concept:worksfor concept:politicianus:democratic_nominee_barack_obama 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:marquette_golden_eagles 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:marquette_golden_eagles 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:marquette_golden_eagles 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:marquette_golden_eagles 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:marquette_golden_eagles 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:weber_state_wildcats 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:weber_state_wildcats 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:weber_state_wildcats 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:weber_state_wildcats 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:weber_state_wildcats 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:georgia_bulldogs 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:georgia_bulldogs 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:georgia_bulldogs 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:georgia_bulldogs 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:georgia_bulldogs 1.25
+---------------------------------
+concept:person:jose_reyes concept:agentcollaborateswithagent concept:sportsteam:new_york_mets 1.5
+
+concept:person:jose_reyes concept:agentbelongstoorganization concept:sportsteam:new_york_mets 1
+concept:person:jose_reyes concept:agentcontrols concept:sportsteam:new_york_mets 1
+concept:person:jose_reyes concept:organizationhiredperson concept:sportsteam:new_york_mets 1
+---------------------------------
+concept:coach:cincinnati_bengals concept:agentcollaborateswithagent concept:sportsleague:nfl 0.5
+
+concept:coach:cincinnati_bengals concept:agentactsinlocation concept:sportsleague:nfl 0.5
+concept:coach:cincinnati_bengals concept:agentbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:cincinnati_bengals concept:agentcompeteswithagent concept:sportsleague:nfl 1
+concept:coach:cincinnati_bengals concept:agentcontrols concept:sportsleague:nfl 1
+---------------------------------
+concept:journalist:charles_gibson concept:agentcollaborateswithagent concept:city:abc 1
+
+concept:journalist:charles_gibson concept:agentbelongstoorganization concept:city:abc 1
+concept:journalist:charles_gibson concept:agentcontrols concept:city:abc 1
+concept:journalist:charles_gibson concept:organizationhiredperson concept:city:abc 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:utep_miners 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:utep_miners 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:utep_miners 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:utep_miners 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:utep_miners 1.25
+---------------------------------
+concept:person:crew concept:agentcollaborateswithagent concept:politician:jobs 0
+
+concept:person:crew concept:agentbelongstoorganization concept:politician:jobs 1
+concept:person:crew concept:agentcontrols concept:politician:jobs 1
+concept:person:crew concept:agentparticipatedinevent concept:politician:jobs 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:alabama_crimson_tide 1.5
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:alabama_crimson_tide 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:alabama_crimson_tide 0.0595295
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:alabama_crimson_tide 1.625
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:arkansas_pine_bluff_golden_lions 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:arkansas_pine_bluff_golden_lions 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:arkansas_pine_bluff_golden_lions 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:arkansas_pine_bluff_golden_lions 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:arkansas_pine_bluff_golden_lions 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:bradley_braves 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:bradley_braves 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:bradley_braves 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:bradley_braves 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:bradley_braves 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:kent_state 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:kent_state 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:kent_state 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:kent_state 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:kent_state 1.25
+---------------------------------
+concept:personafrica:george_bush concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:personafrica:george_bush concept:agentbelongstoorganization concept:person:mccain 1
+concept:personafrica:george_bush concept:agentcontrols concept:person:mccain 1
+concept:personafrica:george_bush concept:personbelongstoorganization concept:person:mccain 1
+concept:personafrica:george_bush concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:kansas_state 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:kansas_state 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:kansas_state 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:kansas_state 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:kansas_state 1.25
+---------------------------------
+concept:female:hillary concept:agentcollaborateswithagent concept:person:edwards 1
+
+concept:female:hillary concept:agentbelongstoorganization concept:person:edwards 1
+concept:female:hillary concept:agentcontrols concept:person:edwards 1
+concept:female:hillary concept:personbelongstoorganization concept:person:edwards 1
+concept:female:hillary concept:worksfor concept:person:edwards 1
+---------------------------------
+concept:personus:jobs concept:agentcollaborateswithagent concept:politician:jobs 2
+
+concept:personus:jobs concept:agentbelongstoorganization concept:politician:jobs 1.11787
+concept:personus:jobs concept:agentcontrols concept:politician:jobs 1*
+concept:personus:jobs concept:personbelongstoorganization concept:politician:jobs 0.5
+---------------------------------
+concept:personaustralia:derek_jeter concept:agentcollaborateswithagent concept:female:yankees 0
+
+concept:personaustralia:derek_jeter concept:agentbelongstoorganization concept:female:yankees 1
+concept:personaustralia:derek_jeter concept:agentcontrols concept:female:yankees 1
+concept:personaustralia:derek_jeter concept:organizationterminatedperson concept:female:yankees 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:pittsburg_state_gorillas 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:pittsburg_state_gorillas 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:pittsburg_state_gorillas 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:pittsburg_state_gorillas 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:pittsburg_state_gorillas 1.25
+---------------------------------
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:philadelphia_eagles 2
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:philadelphia_eagles 2*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:philadelphia_eagles 1.11906
+concept:sportsleague:nfl concept:agentcontrols concept:coach:philadelphia_eagles 1.19955
+concept:sportsleague:nfl concept:organizationhiredperson concept:coach:philadelphia_eagles 0.25
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:philadelphia_eagles 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:philadelphia_eagles 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:philadelphia_eagles 1*
+concept:sportsleague:nfl concept:worksfor concept:coach:philadelphia_eagles 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:penn_state_nittany_lions 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:penn_state_nittany_lions 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:penn_state_nittany_lions 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:penn_state_nittany_lions 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:penn_state_nittany_lions 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:louisiana_lafayette_ragin_cajuns 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:louisiana_lafayette_ragin_cajuns 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:louisiana_lafayette_ragin_cajuns 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:louisiana_lafayette_ragin_cajuns 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:louisiana_lafayette_ragin_cajuns 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:south_florida_bulls 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:south_florida_bulls 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:south_florida_bulls 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:south_florida_bulls 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:south_florida_bulls 1.25
+---------------------------------
+concept:politician:jobs concept:agentcollaborateswithagent concept:county:newton 1.40897
+
+concept:politician:jobs concept:agentbelongstoorganization concept:county:newton 1
+concept:politician:jobs concept:agentcompeteswithagent concept:county:newton 1
+concept:politician:jobs concept:agentcontrols concept:county:newton 1.19955
+concept:politician:jobs concept:lakeinstate concept:county:newton 0.5
+concept:politician:jobs concept:mutualproxyfor concept:county:newton 0.5
+concept:politician:jobs concept:organizationhiredperson concept:county:newton 1
+concept:politician:jobs concept:proxyfor concept:county:newton 0.55
+concept:politician:jobs concept:subpartof concept:county:newton 1.43254
+concept:politician:jobs concept:subpartoforganization concept:county:newton 0.109162
+---------------------------------
+concept:politician:clinton concept:agentcollaborateswithagent concept:politicianus:mitt_romney 0
+
+concept:politician:clinton concept:agentbelongstoorganization concept:politicianus:mitt_romney 1
+concept:politician:clinton concept:agentcontrols concept:politicianus:mitt_romney 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:pennsylvania_quakers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:pennsylvania_quakers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:pennsylvania_quakers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:pennsylvania_quakers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:pennsylvania_quakers 1.25
+---------------------------------
+concept:coach:new_york_giants concept:agentcollaborateswithagent concept:sportsleague:nfl 3.5
+
+concept:coach:new_york_giants concept:agentbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:new_york_giants concept:agentcompeteswithagent concept:sportsleague:nfl 2
+concept:coach:new_york_giants concept:agentcontrols concept:sportsleague:nfl 2.625*
+concept:coach:new_york_giants concept:personbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:new_york_giants concept:subpartof concept:sportsleague:nfl 1.25
+concept:coach:new_york_giants concept:worksfor concept:sportsleague:nfl 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:johns_hopkins_blue_jays 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:johns_hopkins_blue_jays 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:johns_hopkins_blue_jays 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:johns_hopkins_blue_jays 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:johns_hopkins_blue_jays 1.25
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:writer:barak_obama 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:writer:barak_obama 1
+concept:person:mccain concept:agentcontrols concept:writer:barak_obama 1
+concept:person:mccain concept:personbelongstoorganization concept:writer:barak_obama 1
+concept:person:mccain concept:worksfor concept:writer:barak_obama 1
+---------------------------------
+concept:coach:philadelphia_eagles concept:agentcollaborateswithagent concept:sportsleague:nfl 3.5
+
+concept:coach:philadelphia_eagles concept:agentbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:philadelphia_eagles concept:agentcompeteswithagent concept:sportsleague:nfl 1
+concept:coach:philadelphia_eagles concept:agentcontrols concept:sportsleague:nfl 2*
+concept:coach:philadelphia_eagles concept:personbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:philadelphia_eagles concept:subpartof concept:sportsleague:nfl 0.25
+concept:coach:philadelphia_eagles concept:worksfor concept:sportsleague:nfl 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:georgetown_hoyas 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:georgetown_hoyas 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:georgetown_hoyas 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:georgetown_hoyas 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:georgetown_hoyas 1.25
+---------------------------------
+concept:personus:steve_ballmer concept:agentcollaborateswithagent concept:university:microsoft 1
+
+concept:personus:steve_ballmer concept:agentbelongstoorganization concept:university:microsoft 1
+concept:personus:steve_ballmer concept:agentcontrols concept:university:microsoft 1
+concept:personus:steve_ballmer concept:organizationhiredperson concept:university:microsoft 2
+concept:personus:steve_ballmer concept:organizationterminatedperson concept:university:microsoft 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:charleston_cougars 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:charleston_cougars 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:charleston_cougars 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:charleston_cougars 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:charleston_cougars 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:oregon_ducks 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:oregon_ducks 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:oregon_ducks 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:oregon_ducks 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:oregon_ducks 1.25
+---------------------------------
+concept:coach:cal_ripken concept:agentcollaborateswithagent concept:sportsteam:orioles 1
+
+concept:coach:cal_ripken concept:agentbelongstoorganization concept:sportsteam:orioles 1
+concept:coach:cal_ripken concept:agentcontrols concept:sportsteam:orioles 1
+concept:coach:cal_ripken concept:organizationhiredperson concept:sportsteam:orioles 1
+---------------------------------
+concept:sportsteam:ohio_state_university concept:agentcollaborateswithagent concept:personmexico:woody_hayes 1
+
+concept:sportsteam:ohio_state_university concept:agentbelongstoorganization concept:personmexico:woody_hayes 1
+concept:sportsteam:ohio_state_university concept:agentcontrols concept:personmexico:woody_hayes 1
+concept:sportsteam:ohio_state_university concept:personbelongstoorganization concept:personmexico:woody_hayes 1
+concept:sportsteam:ohio_state_university concept:worksfor concept:personmexico:woody_hayes 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:tulane_green_wave 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:tulane_green_wave 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:tulane_green_wave 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:tulane_green_wave 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:tulane_green_wave 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:delaware_state_hornets 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:delaware_state_hornets 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:delaware_state_hornets 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:delaware_state_hornets 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:delaware_state_hornets 1.25
+---------------------------------
+concept:athlete:carl_crawford concept:agentcollaborateswithagent concept:sportsteam:tampa_bay_devil_rays 1
+
+concept:athlete:carl_crawford concept:agentbelongstoorganization concept:sportsteam:tampa_bay_devil_rays 1
+concept:athlete:carl_crawford concept:agentcontrols concept:sportsteam:tampa_bay_devil_rays 1
+concept:athlete:carl_crawford concept:organizationhiredperson concept:sportsteam:tampa_bay_devil_rays 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:indiana_hoosiers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:indiana_hoosiers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:indiana_hoosiers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:indiana_hoosiers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:indiana_hoosiers 1.25
+---------------------------------
+concept:politicianus:senator_clinton concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politicianus:senator_clinton concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:senator_clinton concept:agentcontrols concept:person:mccain 1
+concept:politicianus:senator_clinton concept:personbelongstoorganization concept:person:mccain 1
+concept:politicianus:senator_clinton concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:personnorthamerica:john_mccain concept:agentcollaborateswithagent concept:politicianus:palin 1
+
+concept:personnorthamerica:john_mccain concept:agentbelongstoorganization concept:politicianus:palin 1
+concept:personnorthamerica:john_mccain concept:agentcontrols concept:politicianus:palin 1
+concept:personnorthamerica:john_mccain concept:personbelongstoorganization concept:politicianus:palin 1
+concept:personnorthamerica:john_mccain concept:worksfor concept:politicianus:palin 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:memphis_tigers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:memphis_tigers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:memphis_tigers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:memphis_tigers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:memphis_tigers 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:elon_phoenix 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:elon_phoenix 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:elon_phoenix 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:elon_phoenix 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:elon_phoenix 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:miami_hurricanes 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:miami_hurricanes 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:miami_hurricanes 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:miami_hurricanes 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:miami_hurricanes 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:stateorprovince:iowa_hawkeyes 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:stateorprovince:iowa_hawkeyes 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:stateorprovince:iowa_hawkeyes 1
+concept:personmexico:ncaa concept:agentcontrols concept:stateorprovince:iowa_hawkeyes 1.19955
+concept:personmexico:ncaa concept:subpartof concept:stateorprovince:iowa_hawkeyes 1.25
+---------------------------------
+concept:ceo:eric_schmidt concept:agentcollaborateswithagent concept:university:google 1
+
+concept:ceo:eric_schmidt concept:agentactsinlocation concept:university:google 0.141967
+concept:ceo:eric_schmidt concept:agentbelongstoorganization concept:university:google 1
+concept:ceo:eric_schmidt concept:agentcontrols concept:university:google 1
+concept:ceo:eric_schmidt concept:atlocation concept:university:google 1
+concept:ceo:eric_schmidt concept:attractionofcity concept:university:google 1
+concept:ceo:eric_schmidt concept:locationlocatedwithinlocation concept:university:google 1
+concept:ceo:eric_schmidt concept:mutualproxyfor concept:university:google 1
+concept:ceo:eric_schmidt concept:organizationhiredperson concept:university:google 2
+concept:ceo:eric_schmidt concept:organizationterminatedperson concept:university:google 1
+concept:ceo:eric_schmidt concept:proxyfor concept:university:google 1.5
+concept:ceo:eric_schmidt concept:sportsgameteam concept:university:google 0.5
+concept:ceo:eric_schmidt concept:subpartof concept:university:google 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:dayton_flyers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:dayton_flyers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:dayton_flyers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:dayton_flyers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:dayton_flyers 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:south_dakota_coyotes 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:south_dakota_coyotes 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:south_dakota_coyotes 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:south_dakota_coyotes 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:south_dakota_coyotes 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:coastal_carolina_chanticleers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:coastal_carolina_chanticleers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:coastal_carolina_chanticleers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:coastal_carolina_chanticleers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:coastal_carolina_chanticleers 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:notre_dame 1
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:notre_dame 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:notre_dame 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:notre_dame 1.625
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:notre_dame 1.25
+---------------------------------
+concept:personus:hussein_obama concept:agentcollaborateswithagent concept:female:hillary 1
+
+concept:personus:hussein_obama concept:agentbelongstoorganization concept:female:hillary 1
+concept:personus:hussein_obama concept:agentcontrols concept:female:hillary 1
+concept:personus:hussein_obama concept:personbelongstoorganization concept:female:hillary 1
+concept:personus:hussein_obama concept:worksfor concept:female:hillary 1
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politicianus:hillary_clinton 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politicianus:hillary_clinton 1
+concept:person:mccain concept:agentcontrols concept:politicianus:hillary_clinton 1
+concept:person:mccain concept:personbelongstoorganization concept:politicianus:hillary_clinton 1
+concept:person:mccain concept:worksfor concept:politicianus:hillary_clinton 1
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politicianus:candidate_barack_obama 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politicianus:candidate_barack_obama 1
+concept:person:mccain concept:agentcontrols concept:politicianus:candidate_barack_obama 1
+concept:person:mccain concept:personbelongstoorganization concept:politicianus:candidate_barack_obama 1
+concept:person:mccain concept:worksfor concept:politicianus:candidate_barack_obama 1
+---------------------------------
+concept:politician:jobs concept:agentcollaborateswithagent concept:female:macbook_air 1
+
+concept:politician:jobs concept:agentbelongstoorganization concept:female:macbook_air 1
+concept:politician:jobs concept:agentcompeteswithagent concept:female:macbook_air 1
+concept:politician:jobs concept:agentcontrols concept:female:macbook_air 1.19955
+concept:politician:jobs concept:personbelongstoorganization concept:female:macbook_air 1
+concept:politician:jobs concept:subpartof concept:female:macbook_air 1.25
+concept:politician:jobs concept:worksfor concept:female:macbook_air 1
+---------------------------------
+concept:personus:george_o_leary concept:agentcollaborateswithagent concept:sportsteam:army_black_knights 0
+
+concept:personus:george_o_leary concept:agentbelongstoorganization concept:sportsteam:army_black_knights 1
+concept:personus:george_o_leary concept:agentcontrols concept:sportsteam:army_black_knights 1
+---------------------------------
+concept:personafrica:jonathan_schwartz concept:agentcollaborateswithagent concept:male:sun 2.5
+
+concept:personafrica:jonathan_schwartz concept:agentbelongstoorganization concept:male:sun 1
+concept:personafrica:jonathan_schwartz concept:agentcontrols concept:male:sun 1*
+concept:personafrica:jonathan_schwartz concept:personbelongstoorganization concept:male:sun 1
+concept:personafrica:jonathan_schwartz concept:worksfor concept:male:sun 1
+---------------------------------
+concept:actor:today concept:agentcollaborateswithagent concept:politician:jobs 2.90897
+
+concept:actor:today concept:agentbelongstoorganization concept:politician:jobs 1
+concept:actor:today concept:agentcontrols concept:politician:jobs 1*
+concept:actor:today concept:agentparticipatedinevent concept:politician:jobs 1
+concept:actor:today concept:personbelongstoorganization concept:politician:jobs 1
+concept:actor:today concept:worksfor concept:politician:jobs 1
+---------------------------------
+concept:person:meg_whitman concept:agentcollaborateswithagent concept:politician:jobs 1
+
+concept:person:meg_whitman concept:agentbelongstoorganization concept:politician:jobs 1
+concept:person:meg_whitman concept:agentcontrols concept:politician:jobs 1*
+---------------------------------
+concept:sportsteam:seahawks concept:agentcollaborateswithagent concept:sportsleague:nfl 0.5
+
+concept:sportsteam:seahawks concept:agentbelongstoorganization concept:sportsleague:nfl 1
+concept:sportsteam:seahawks concept:agentcontrols concept:sportsleague:nfl 1
+concept:sportsteam:seahawks concept:organizationhiredperson concept:sportsleague:nfl 0.5
+---------------------------------
+concept:comedian:richard concept:agentcollaborateswithagent concept:politician:jobs 0
+
+concept:comedian:richard concept:agentbelongstoorganization concept:politician:jobs 1
+concept:comedian:richard concept:agentcontrols concept:politician:jobs 1
+---------------------------------
+concept:ceo:scott_mcnealy concept:agentcollaborateswithagent concept:company:sun_microsystems001 0
+
+concept:ceo:scott_mcnealy concept:agentbelongstoorganization concept:company:sun_microsystems001 1
+concept:ceo:scott_mcnealy concept:agentcontrols concept:company:sun_microsystems001 1
+---------------------------------
+concept:person:house concept:agentcollaborateswithagent concept:politicianus:president_george_w__bush 0
+
+concept:person:house concept:agentbelongstoorganization concept:politicianus:president_george_w__bush 1
+concept:person:house concept:agentcontrols concept:politicianus:president_george_w__bush 1
+---------------------------------
+concept:personus:warren_buffet concept:agentcollaborateswithagent concept:politician:jobs 2.90897
+
+concept:personus:warren_buffet concept:agentbelongstoorganization concept:politician:jobs 1
+concept:personus:warren_buffet concept:agentcontrols concept:politician:jobs 1.19955*
+concept:personus:warren_buffet concept:mutualproxyfor concept:politician:jobs 0.5
+concept:personus:warren_buffet concept:personbelongstoorganization concept:politician:jobs 1
+concept:personus:warren_buffet concept:proxyfor concept:politician:jobs 0.5
+concept:personus:warren_buffet concept:subpartof concept:politician:jobs 0.682539
+concept:personus:warren_buffet concept:worksfor concept:politician:jobs 1.5
+---------------------------------
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:washington_redskins 2
+
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:washington_redskins 2*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:washington_redskins 0.119059
+concept:sportsleague:nfl concept:agentcontrols concept:coach:washington_redskins 1.19955
+concept:sportsleague:nfl concept:organizationhiredperson concept:coach:washington_redskins 0.25
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:washington_redskins 1
+concept:sportsleague:nfl concept:worksfor concept:coach:washington_redskins 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:connecticut_huskies 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:connecticut_huskies 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:connecticut_huskies 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:connecticut_huskies 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:connecticut_huskies 1.25
+---------------------------------
+concept:politician:w__bush concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politician:w__bush concept:agentbelongstoorganization concept:person:mccain 1
+concept:politician:w__bush concept:agentcontrols concept:person:mccain 1
+concept:politician:w__bush concept:personbelongstoorganization concept:person:mccain 1
+concept:politician:w__bush concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:personnorthamerica:john_mccain concept:agentcollaborateswithagent concept:politician:clinton 1
+
+concept:personnorthamerica:john_mccain concept:agentbelongstoorganization concept:politician:clinton 1
+concept:personnorthamerica:john_mccain concept:agentcontrols concept:politician:clinton 1
+concept:personnorthamerica:john_mccain concept:personbelongstoorganization concept:politician:clinton 1
+concept:personnorthamerica:john_mccain concept:worksfor concept:politician:clinton 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:nevada_wolfpack 1
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:nevada_wolfpack 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:nevada_wolfpack 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:nevada_wolfpack 1.625
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:nevada_wolfpack 1.25
+---------------------------------
+concept:personcanada:peter_jennings concept:agentcollaborateswithagent concept:city:abc 1
+
+concept:personcanada:peter_jennings concept:agentbelongstoorganization concept:city:abc 1
+concept:personcanada:peter_jennings concept:agentcontrols concept:city:abc 1
+concept:personcanada:peter_jennings concept:organizationhiredperson concept:city:abc 1
+---------------------------------
+concept:politicianus:palin concept:agentcollaborateswithagent concept:personus:party 1
+
+concept:politicianus:palin concept:agentbelongstoorganization concept:personus:party 1
+concept:politicianus:palin concept:agentcontrols concept:personus:party 1
+concept:politicianus:palin concept:personbelongstoorganization concept:personus:party 1
+concept:politicianus:palin concept:worksfor concept:personus:party 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:kennesaw_state_owls 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:kennesaw_state_owls 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:kennesaw_state_owls 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:kennesaw_state_owls 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:kennesaw_state_owls 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:north_texas_mean_green 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:north_texas_mean_green 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:north_texas_mean_green 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:north_texas_mean_green 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:north_texas_mean_green 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:eastern_michigan_eagles 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:eastern_michigan_eagles 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:eastern_michigan_eagles 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:eastern_michigan_eagles 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:eastern_michigan_eagles 1.25
+---------------------------------
+concept:politicianus:democratic_candidate_barack_obama concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politicianus:democratic_candidate_barack_obama concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:democratic_candidate_barack_obama concept:agentcontrols concept:person:mccain 1
+concept:politicianus:democratic_candidate_barack_obama concept:personbelongstoorganization concept:person:mccain 1
+concept:politicianus:democratic_candidate_barack_obama concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:comedian:oklahoma concept:agentcollaborateswithagent concept:coach:bob_stoops 1
+
+concept:comedian:oklahoma concept:agentbelongstoorganization concept:coach:bob_stoops 1
+concept:comedian:oklahoma concept:agentcompeteswithagent concept:coach:bob_stoops 1
+concept:comedian:oklahoma concept:agentcontrols concept:coach:bob_stoops 1.19955
+concept:comedian:oklahoma concept:personbelongstoorganization concept:coach:bob_stoops 1
+concept:comedian:oklahoma concept:subpartof concept:coach:bob_stoops 1.25
+concept:comedian:oklahoma concept:worksfor concept:coach:bob_stoops 1
+---------------------------------
+concept:coach:baltimore_ravens concept:agentcollaborateswithagent concept:sportsleague:nfl 3.5
+
+concept:coach:baltimore_ravens concept:agentbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:baltimore_ravens concept:agentcompeteswithagent concept:sportsleague:nfl 2
+concept:coach:baltimore_ravens concept:agentcontrols concept:sportsleague:nfl 2.625*
+concept:coach:baltimore_ravens concept:personbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:baltimore_ravens concept:subpartof concept:sportsleague:nfl 1.25
+concept:coach:baltimore_ravens concept:worksfor concept:sportsleague:nfl 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:rochester_yellow_jackets 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:rochester_yellow_jackets 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:rochester_yellow_jackets 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:rochester_yellow_jackets 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:rochester_yellow_jackets 1.25
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politicianus:democratic_presidential_candidate_barack_obama 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politicianus:democratic_presidential_candidate_barack_obama 1
+concept:person:mccain concept:agentcontrols concept:politicianus:democratic_presidential_candidate_barack_obama 1
+concept:person:mccain concept:personbelongstoorganization concept:politicianus:democratic_presidential_candidate_barack_obama 1
+concept:person:mccain concept:worksfor concept:politicianus:democratic_presidential_candidate_barack_obama 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:morehouse_maroon_tigers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:morehouse_maroon_tigers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:morehouse_maroon_tigers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:morehouse_maroon_tigers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:morehouse_maroon_tigers 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:pepperdine_waves 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:pepperdine_waves 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:pepperdine_waves 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:pepperdine_waves 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:pepperdine_waves 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:central_michigan_chippewas 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:central_michigan_chippewas 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:central_michigan_chippewas 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:central_michigan_chippewas 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:central_michigan_chippewas 1.25
+---------------------------------
+concept:person:bill concept:agentcollaborateswithagent concept:person:edwards 1
+
+concept:person:bill concept:agentbelongstoorganization concept:person:edwards 1
+concept:person:bill concept:agentcontrols concept:person:edwards 1
+concept:person:bill concept:personbelongstoorganization concept:person:edwards 1.5
+concept:person:bill concept:persongraduatedfromuniversity concept:person:edwards 0.5
+concept:person:bill concept:worksfor concept:person:edwards 1
+---------------------------------
+concept:personus:clint_barmes concept:agentcollaborateswithagent concept:athlete:rockies 0
+
+concept:personus:clint_barmes concept:agentbelongstoorganization concept:athlete:rockies 1
+concept:personus:clint_barmes concept:agentcontrols concept:athlete:rockies 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:loyola_marymount_lions 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:loyola_marymount_lions 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:loyola_marymount_lions 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:loyola_marymount_lions 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:loyola_marymount_lions 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:rice_owls 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:rice_owls 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:rice_owls 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:rice_owls 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:rice_owls 1.25
+---------------------------------
+concept:personus:torii_hunter concept:agentcollaborateswithagent concept:sportsteam:minnesota_twins 0
+
+concept:personus:torii_hunter concept:agentbelongstoorganization concept:sportsteam:minnesota_twins 1
+concept:personus:torii_hunter concept:agentcontrols concept:sportsteam:minnesota_twins 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:savannah_state_tigers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:savannah_state_tigers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:savannah_state_tigers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:savannah_state_tigers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:savannah_state_tigers 1.25
+---------------------------------
+concept:politicianus:barrack concept:agentcollaborateswithagent concept:person:mccain 0
+
+concept:politicianus:barrack concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:barrack concept:agentcontrols concept:person:mccain 1
+---------------------------------
+concept:athlete:bonds concept:agentcollaborateswithagent concept:sportsteam:former_san_francisco_giants 0
+
+concept:athlete:bonds concept:agentbelongstoorganization concept:sportsteam:former_san_francisco_giants 1
+concept:athlete:bonds concept:agentcontrols concept:sportsteam:former_san_francisco_giants 1
+---------------------------------
+concept:athlete:andrei_markov concept:agentcollaborateswithagent concept:sportsteam:habs 0
+
+concept:athlete:andrei_markov concept:agentbelongstoorganization concept:sportsteam:habs 1
+concept:athlete:andrei_markov concept:agentcontrols concept:sportsteam:habs 1
+---------------------------------
+concept:coach:new_england_patriots concept:agentcollaborateswithagent concept:sportsleague:nfl 2.5
+
+concept:coach:new_england_patriots concept:agentbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:new_england_patriots concept:agentcompeteswithagent concept:sportsleague:nfl 1
+concept:coach:new_england_patriots concept:agentcontrols concept:sportsleague:nfl 2
+concept:coach:new_england_patriots concept:personbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:new_england_patriots concept:subpartof concept:sportsleague:nfl 0.25
+concept:coach:new_england_patriots concept:worksfor concept:sportsleague:nfl 1
+---------------------------------
+concept:sportsteam:ohio_state_buckeyes concept:agentcollaborateswithagent concept:personmexico:ncaa 2.5
+
+concept:sportsteam:ohio_state_buckeyes concept:agentbelongstoorganization concept:personmexico:ncaa 1
+concept:sportsteam:ohio_state_buckeyes concept:agentcontrols concept:personmexico:ncaa 1*
+concept:sportsteam:ohio_state_buckeyes concept:personbelongstoorganization concept:personmexico:ncaa 1
+concept:sportsteam:ohio_state_buckeyes concept:worksfor concept:personmexico:ncaa 1
+---------------------------------
+concept:musician:barbara_walters concept:agentcollaborateswithagent concept:city:abc 1
+
+concept:musician:barbara_walters concept:agentbelongstoorganization concept:city:abc 1
+concept:musician:barbara_walters concept:agentcontrols concept:city:abc 1
+concept:musician:barbara_walters concept:organizationhiredperson concept:city:abc 1
+---------------------------------
+concept:politician:clinton concept:agentcollaborateswithagent concept:personnorthamerica:john_mccain 1
+
+concept:politician:clinton concept:agentbelongstoorganization concept:personnorthamerica:john_mccain 1
+concept:politician:clinton concept:agentcontrols concept:personnorthamerica:john_mccain 1
+concept:politician:clinton concept:personbelongstoorganization concept:personnorthamerica:john_mccain 1
+concept:politician:clinton concept:worksfor concept:personnorthamerica:john_mccain 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:fresno_state_bulldogs 1
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:fresno_state_bulldogs 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:fresno_state_bulldogs 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:fresno_state_bulldogs 1.625
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:fresno_state_bulldogs 1.25
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politicianus:rudy_giuliani 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politicianus:rudy_giuliani 1
+concept:person:mccain concept:agentcontrols concept:politicianus:rudy_giuliani 1
+concept:person:mccain concept:personbelongstoorganization concept:politicianus:rudy_giuliani 1
+concept:person:mccain concept:worksfor concept:politicianus:rudy_giuliani 1
+---------------------------------
+concept:male:notre_dame concept:agentcollaborateswithagent concept:coach:charlie_weis 1
+
+concept:male:notre_dame concept:agentbelongstoorganization concept:coach:charlie_weis 1
+concept:male:notre_dame concept:agentcompeteswithagent concept:coach:charlie_weis 1
+concept:male:notre_dame concept:agentcontrols concept:coach:charlie_weis 1.19955
+concept:male:notre_dame concept:personbelongstoorganization concept:coach:charlie_weis 1
+concept:male:notre_dame concept:subpartof concept:coach:charlie_weis 1
+concept:male:notre_dame concept:worksfor concept:coach:charlie_weis 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:colorado_state_rams 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:colorado_state_rams 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:colorado_state_rams 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:colorado_state_rams 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:colorado_state_rams 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:northeastern_huskies 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:northeastern_huskies 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:northeastern_huskies 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:northeastern_huskies 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:northeastern_huskies 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:appalachian_state_mo 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:appalachian_state_mo 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:appalachian_state_mo 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:appalachian_state_mo 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:appalachian_state_mo 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:cleveland_state_vikings 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:cleveland_state_vikings 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:cleveland_state_vikings 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:cleveland_state_vikings 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:cleveland_state_vikings 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:xavier_musketeers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:xavier_musketeers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:xavier_musketeers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:xavier_musketeers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:xavier_musketeers 1.25
+---------------------------------
+concept:politicianus:democratic_presidential_candidate_barack_obama concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politicianus:democratic_presidential_candidate_barack_obama concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:democratic_presidential_candidate_barack_obama concept:agentcontrols concept:person:mccain 1
+concept:politicianus:democratic_presidential_candidate_barack_obama concept:personbelongstoorganization concept:person:mccain 1
+concept:politicianus:democratic_presidential_candidate_barack_obama concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:newspaper:president_elect_barack_obama 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:newspaper:president_elect_barack_obama 1
+concept:person:mccain concept:agentcontrols concept:newspaper:president_elect_barack_obama 1
+concept:person:mccain concept:personbelongstoorganization concept:newspaper:president_elect_barack_obama 1
+concept:person:mccain concept:worksfor concept:newspaper:president_elect_barack_obama 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:oregon_state_beavers 1.5
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:oregon_state_beavers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:oregon_state_beavers 1.05953
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:oregon_state_beavers 1.625
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:oregon_state_beavers 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:houston_cougars 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:houston_cougars 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:houston_cougars 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:houston_cougars 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:houston_cougars 1.25
+---------------------------------
+concept:city:abc concept:agentcollaborateswithagent concept:company:khbs 0.5
+
+concept:city:abc concept:agentbelongstoorganization concept:company:khbs 1
+concept:city:abc concept:agentcompeteswithagent concept:company:khbs 1
+concept:city:abc concept:agentcontrols concept:company:khbs 1.19955
+concept:city:abc concept:subpartof concept:company:khbs 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:cal_state_fullerton_titans 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:cal_state_fullerton_titans 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:cal_state_fullerton_titans 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:cal_state_fullerton_titans 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:cal_state_fullerton_titans 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:tennessee_chattanooga_mocs 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:tennessee_chattanooga_mocs 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:tennessee_chattanooga_mocs 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:tennessee_chattanooga_mocs 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:tennessee_chattanooga_mocs 1.25
+---------------------------------
+concept:person:jake_tapper concept:agentcollaborateswithagent concept:city:abc 1
+
+concept:person:jake_tapper concept:agentbelongstoorganization concept:city:abc 1
+concept:person:jake_tapper concept:agentcontrols concept:city:abc 1
+concept:person:jake_tapper concept:organizationhiredperson concept:city:abc 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:virginia_tech_hokies 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:virginia_tech_hokies 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:virginia_tech_hokies 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:virginia_tech_hokies 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:virginia_tech_hokies 1.25
+---------------------------------
+concept:politicianus:mitt_romney concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politicianus:mitt_romney concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:mitt_romney concept:agentcontrols concept:person:mccain 1
+concept:politicianus:mitt_romney concept:personbelongstoorganization concept:person:mccain 1
+concept:politicianus:mitt_romney concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:grand_valley_state_lakers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:grand_valley_state_lakers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:grand_valley_state_lakers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:grand_valley_state_lakers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:grand_valley_state_lakers 1.25
+---------------------------------
+concept:sportsteam:arizona_cardinals_27_23 concept:agentcollaborateswithagent concept:sportsleague:nfl 0.5
+
+concept:sportsteam:arizona_cardinals_27_23 concept:agentbelongstoorganization concept:sportsleague:nfl 1
+concept:sportsteam:arizona_cardinals_27_23 concept:agentcompeteswithagent concept:sportsleague:nfl 1
+concept:sportsteam:arizona_cardinals_27_23 concept:agentcontrols concept:sportsleague:nfl 1
+concept:sportsteam:arizona_cardinals_27_23 concept:organizationacronymhasname concept:sportsleague:nfl 0.5
+concept:sportsteam:arizona_cardinals_27_23 concept:organizationhiredperson concept:sportsleague:nfl 0.5
+concept:sportsteam:arizona_cardinals_27_23 concept:synonymfor concept:sportsleague:nfl 0.5
+---------------------------------
+concept:personus:david_wright concept:agentcollaborateswithagent concept:sportsteam:new_york_mets 0.5
+
+concept:personus:david_wright concept:agentbelongstoorganization concept:sportsteam:new_york_mets 1
+concept:personus:david_wright concept:agentcompeteswithagent concept:sportsteam:new_york_mets 1
+concept:personus:david_wright concept:agentcontrols concept:sportsteam:new_york_mets 1
+---------------------------------
+concept:personus:joe_dimaggio concept:agentcollaborateswithagent concept:company:new_york 2.5
+
+concept:personus:joe_dimaggio concept:agentbelongstoorganization concept:company:new_york 1
+concept:personus:joe_dimaggio concept:agentcontrols concept:company:new_york 2
+concept:personus:joe_dimaggio concept:organizationhiredperson concept:company:new_york 1
+concept:personus:joe_dimaggio concept:subpartof concept:company:new_york 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:arkansas_state_red_wolves 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:arkansas_state_red_wolves 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:arkansas_state_red_wolves 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:arkansas_state_red_wolves 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:arkansas_state_red_wolves 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:northern_illinois_huskies 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:northern_illinois_huskies 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:northern_illinois_huskies 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:northern_illinois_huskies 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:northern_illinois_huskies 1.25
+---------------------------------
+concept:politicianus:hillary_clinton concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politicianus:hillary_clinton concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:hillary_clinton concept:agentcontrols concept:person:mccain 1
+concept:politicianus:hillary_clinton concept:personbelongstoorganization concept:person:mccain 1
+concept:politicianus:hillary_clinton concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:personus:jobs concept:agentcollaborateswithagent concept:biotechcompany:apple 2
+
+concept:personus:jobs concept:agentbelongstoorganization concept:biotechcompany:apple 1
+concept:personus:jobs concept:agentcontrols concept:biotechcompany:apple 1*
+---------------------------------
+concept:politicianus:barack concept:agentcollaborateswithagent concept:politician:clinton 0
+
+concept:politicianus:barack concept:agentbelongstoorganization concept:politician:clinton 1
+concept:politicianus:barack concept:agentcontrols concept:politician:clinton 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:maryland 1
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:maryland 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:maryland 0.5
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:maryland 1.625
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:maryland 0.5
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:eastern_illinois_panthers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:eastern_illinois_panthers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:eastern_illinois_panthers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:eastern_illinois_panthers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:eastern_illinois_panthers 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:buffalo_state 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:buffalo_state 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:buffalo_state 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:buffalo_state 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:buffalo_state 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:villanova_wildcats 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:villanova_wildcats 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:villanova_wildcats 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:villanova_wildcats 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:villanova_wildcats 1.25
+---------------------------------
+concept:sportsleague:new concept:agentcollaborateswithagent concept:coach:rex_ryan 1
+
+concept:sportsleague:new concept:agentbelongstoorganization concept:coach:rex_ryan 1*
+concept:sportsleague:new concept:agentcontrols concept:coach:rex_ryan 1
+concept:sportsleague:new concept:proxyfor concept:coach:rex_ryan 0.666667
+---------------------------------
+concept:politician:jobs concept:agentcollaborateswithagent concept:county:god 1
+
+concept:politician:jobs concept:agentbelongstoorganization concept:county:god 1
+concept:politician:jobs concept:agentcontrols concept:county:god 1.19955
+concept:politician:jobs concept:organizationhiredperson concept:county:god 1
+---------------------------------
+concept:politician:jobs concept:agentcollaborateswithagent concept:personus:warren_buffet 1.90897
+
+concept:politician:jobs concept:agentbelongstoorganization concept:personus:warren_buffet 1
+concept:politician:jobs concept:agentcompeteswithagent concept:personus:warren_buffet 1
+concept:politician:jobs concept:agentcontrols concept:personus:warren_buffet 1.19955
+concept:politician:jobs concept:lakeinstate concept:personus:warren_buffet 0.5
+concept:politician:jobs concept:mutualproxyfor concept:personus:warren_buffet 0.5
+concept:politician:jobs concept:personbelongstoorganization concept:personus:warren_buffet 1
+concept:politician:jobs concept:personleadsorganization concept:personus:warren_buffet 1
+concept:politician:jobs concept:subpartof concept:personus:warren_buffet 1.43254
+concept:politician:jobs concept:subpartoforganization concept:personus:warren_buffet 0.109162
+concept:politician:jobs concept:worksfor concept:personus:warren_buffet 1
+---------------------------------
+concept:politician:jobs concept:agentcollaborateswithagent concept:person:macintosh 1
+
+concept:politician:jobs concept:agentbelongstoorganization concept:person:macintosh 1.5
+concept:politician:jobs concept:agentcompeteswithagent concept:person:macintosh 1
+concept:politician:jobs concept:agentcontrols concept:person:macintosh 1.19955
+concept:politician:jobs concept:agentparticipatedinevent concept:person:macintosh 0.5
+concept:politician:jobs concept:mutualproxyfor concept:person:macintosh 0.5
+concept:politician:jobs concept:personbelongstoorganization concept:person:macintosh 1
+concept:politician:jobs concept:proxyfor concept:person:macintosh 0.5
+concept:politician:jobs concept:sportsgameteam concept:person:macintosh 0.5
+concept:politician:jobs concept:subpartof concept:person:macintosh 1.75
+concept:politician:jobs concept:worksfor concept:person:macintosh 1
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politicianus:mr__obama 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politicianus:mr__obama 1
+concept:person:mccain concept:agentcontrols concept:politicianus:mr__obama 1
+concept:person:mccain concept:personbelongstoorganization concept:politicianus:mr__obama 1
+concept:person:mccain concept:worksfor concept:politicianus:mr__obama 1
+---------------------------------
+concept:personus:joe_dimaggio concept:agentcollaborateswithagent concept:female:yankees 1
+
+concept:personus:joe_dimaggio concept:agentbelongstoorganization concept:female:yankees 1
+concept:personus:joe_dimaggio concept:agentcontrols concept:female:yankees 1
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politicianus:palin 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politicianus:palin 1
+concept:person:mccain concept:agentcontrols concept:politicianus:palin 1
+concept:person:mccain concept:personbelongstoorganization concept:politicianus:palin 1
+concept:person:mccain concept:worksfor concept:politicianus:palin 1
+---------------------------------
+concept:actor:scott_mcnealy concept:agentcollaborateswithagent concept:male:sun 2.5
+
+concept:actor:scott_mcnealy concept:agentbelongstoorganization concept:male:sun 1
+concept:actor:scott_mcnealy concept:agentcompeteswithagent concept:male:sun 1
+concept:actor:scott_mcnealy concept:agentcontrols concept:male:sun 1.19955*
+concept:actor:scott_mcnealy concept:personbelongstoorganization concept:male:sun 1
+concept:actor:scott_mcnealy concept:subpartof concept:male:sun 1.25
+concept:actor:scott_mcnealy concept:worksfor concept:male:sun 1
+---------------------------------
+concept:athlete:lorenzen_wright concept:agentcollaborateswithagent concept:sportsteam:bengals 0.5
+
+concept:athlete:lorenzen_wright concept:agentbelongstoorganization concept:sportsteam:bengals 1
+concept:athlete:lorenzen_wright concept:agentcontrols concept:sportsteam:bengals 1
+---------------------------------
+concept:coach:washington_redskins concept:agentcollaborateswithagent concept:sportsleague:nfl 2.5
+
+concept:coach:washington_redskins concept:agentbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:washington_redskins concept:agentcompeteswithagent concept:sportsleague:nfl 1
+concept:coach:washington_redskins concept:agentcontrols concept:sportsleague:nfl 1
+concept:coach:washington_redskins concept:personbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:washington_redskins concept:worksfor concept:sportsleague:nfl 1
+---------------------------------
+concept:person:house concept:agentcollaborateswithagent concept:female:hillary 0
+
+concept:person:house concept:agentbelongstoorganization concept:female:hillary 1
+concept:person:house concept:agentcontrols concept:female:hillary 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:boise_state_broncos 1
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:boise_state_broncos 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:boise_state_broncos 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:boise_state_broncos 1.625
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:boise_state_broncos 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:colorado_buffaloes 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:colorado_buffaloes 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:colorado_buffaloes 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:colorado_buffaloes 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:colorado_buffaloes 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:ohio_bobcats 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:ohio_bobcats 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:ohio_bobcats 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:ohio_bobcats 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:ohio_bobcats 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:siena_saints 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:siena_saints 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:siena_saints 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:siena_saints 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:siena_saints 1.25
+---------------------------------
+concept:politicianus:rudy_giuliani concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politicianus:rudy_giuliani concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:rudy_giuliani concept:agentcontrols concept:person:mccain 1
+concept:politicianus:rudy_giuliani concept:personbelongstoorganization concept:person:mccain 1
+concept:politicianus:rudy_giuliani concept:worksfor concept:person:mccain 1.5
+---------------------------------
+concept:coach:cleveland_browns concept:agentcollaborateswithagent concept:sportsleague:nfl 3.5
+
+concept:coach:cleveland_browns concept:agentactsinlocation concept:sportsleague:nfl 0.5
+concept:coach:cleveland_browns concept:agentbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:cleveland_browns concept:agentcompeteswithagent concept:sportsleague:nfl 1
+concept:coach:cleveland_browns concept:agentcontrols concept:sportsleague:nfl 2*
+concept:coach:cleveland_browns concept:personbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:cleveland_browns concept:subpartof concept:sportsleague:nfl 0.25
+concept:coach:cleveland_browns concept:worksfor concept:sportsleague:nfl 1
+---------------------------------
+concept:person:mccain concept:agentcollaborateswithagent concept:politicianus:president_bush 1
+
+concept:person:mccain concept:agentbelongstoorganization concept:politicianus:president_bush 1.5
+concept:person:mccain concept:agentcontrols concept:politicianus:president_bush 1
+concept:person:mccain concept:personbelongstoorganization concept:politicianus:president_bush 1
+concept:person:mccain concept:worksfor concept:politicianus:president_bush 1
+---------------------------------
+concept:politicianus:gov__sarah_palin concept:agentcollaborateswithagent concept:person:mccain 1
+
+concept:politicianus:gov__sarah_palin concept:agentbelongstoorganization concept:person:mccain 1
+concept:politicianus:gov__sarah_palin concept:agentcontrols concept:person:mccain 1
+concept:politicianus:gov__sarah_palin concept:personbelongstoorganization concept:person:mccain 1
+concept:politicianus:gov__sarah_palin concept:worksfor concept:person:mccain 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:sam_houston_state_bearkats 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:sam_houston_state_bearkats 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:sam_houston_state_bearkats 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:sam_houston_state_bearkats 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:sam_houston_state_bearkats 1.25
+---------------------------------
+concept:athlete:ramirez concept:agentcollaborateswithagent concept:sportsteam:pittsburgh_pirates 0
+
+concept:athlete:ramirez concept:agentbelongstoorganization concept:sportsteam:pittsburgh_pirates 1
+concept:athlete:ramirez concept:agentcontrols concept:sportsteam:pittsburgh_pirates 1
+---------------------------------
+concept:terroristorganization:money concept:agentcollaborateswithagent concept:terroristorganization:state 2.5
+
+concept:terroristorganization:money concept:agentbelongstoorganization concept:terroristorganization:state 1
+concept:terroristorganization:money concept:agentcompeteswithagent concept:terroristorganization:state 1
+concept:terroristorganization:money concept:agentcontrols concept:terroristorganization:state 1
+concept:terroristorganization:money concept:personbelongstoorganization concept:terroristorganization:state 1
+concept:terroristorganization:money concept:worksfor concept:terroristorganization:state 1
+---------------------------------
+concept:politician:w__bush concept:agentcollaborateswithagent concept:politicianus:john_kerry 1
+
+concept:politician:w__bush concept:agentbelongstoorganization concept:politicianus:john_kerry 1
+concept:politician:w__bush concept:agentcontrols concept:politicianus:john_kerry 1
+concept:politician:w__bush concept:personbelongstoorganization concept:politicianus:john_kerry 1
+concept:politician:w__bush concept:worksfor concept:politicianus:john_kerry 1
+---------------------------------
+concept:city:abc concept:agentcollaborateswithagent concept:company:wyow 0.5
+
+concept:city:abc concept:agentbelongstoorganization concept:company:wyow 1
+concept:city:abc concept:agentcompeteswithagent concept:company:wyow 1
+concept:city:abc concept:agentcontrols concept:company:wyow 1.19955
+concept:city:abc concept:subpartof concept:company:wyow 1.25
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:western_michigan_broncos 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:western_michigan_broncos 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:western_michigan_broncos 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:western_michigan_broncos 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:western_michigan_broncos 1.25
+---------------------------------
+concept:comedian:sonny_bono concept:agentcollaborateswithagent concept:city:palm_springs 1
+
+concept:comedian:sonny_bono concept:agentbelongstoorganization concept:city:palm_springs 1
+concept:comedian:sonny_bono concept:agentcontrols concept:city:palm_springs 1
+concept:comedian:sonny_bono concept:organizationhiredperson concept:city:palm_springs 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:baylor_bears 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:baylor_bears 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:baylor_bears 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:baylor_bears 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:baylor_bears 1.25
+---------------------------------
+concept:coach:bob_stoops concept:agentcollaborateswithagent concept:comedian:oklahoma 2.5
+
+concept:coach:bob_stoops concept:agentbelongstoorganization concept:comedian:oklahoma 1
+concept:coach:bob_stoops concept:agentcontrols concept:comedian:oklahoma 1*
+concept:coach:bob_stoops concept:personbelongstoorganization concept:comedian:oklahoma 1
+concept:coach:bob_stoops concept:worksfor concept:comedian:oklahoma 1
+---------------------------------
+concept:male:world concept:agentcollaborateswithagent concept:politician:jobs 1.90897
+
+concept:male:world concept:agentbelongstoorganization concept:politician:jobs 1
+concept:male:world concept:agentcontrols concept:politician:jobs 1
+concept:male:world concept:agentparticipatedinevent concept:politician:jobs 1
+concept:male:world concept:personbelongstoorganization concept:politician:jobs 1
+concept:male:world concept:worksfor concept:politician:jobs 1
+---------------------------------
+concept:personmexico:ncaa concept:agentcollaborateswithagent concept:sportsteam:sacred_heart_pioneers 0
+
+concept:personmexico:ncaa concept:agentbelongstoorganization concept:sportsteam:sacred_heart_pioneers 1
+concept:personmexico:ncaa concept:agentcompeteswithagent concept:sportsteam:sacred_heart_pioneers 1
+concept:personmexico:ncaa concept:agentcontrols concept:sportsteam:sacred_heart_pioneers 1.19955
+concept:personmexico:ncaa concept:subpartof concept:sportsteam:sacred_heart_pioneers 1.25
+---------------------------------
+concept:coach:miami_dolphins concept:agentcollaborateswithagent concept:sportsleague:nfl 1.5
+
+concept:coach:miami_dolphins concept:agentbelongstoorganization concept:sportsleague:nfl 1
+concept:coach:miami_dolphins concept:agentcompeteswithagent concept:sportsleague:nfl 1
+concept:coach:miami_dolphins concept:agentcontrols concept:sportsleague:nfl 2*
+concept:coach:miami_dolphins concept:subpartof concept:sportsleague:nfl 0.25
+---------------------------------
+concept:politician:jobs concept:agentcollaborateswithagent concept:celebrity:safari 1
+
+concept:politician:jobs concept:agentbelongstoorganization concept:celebrity:safari 1
+concept:politician:jobs concept:agentcontrols concept:celebrity:safari 1.19955
+concept:politician:jobs concept:personbelongstoorganization concept:celebrity:safari 1
+concept:politician:jobs concept:worksfor concept:celebrity:safari 1
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.373961 0.124654 0.141274 0.373961
+HITS@3: 0.578947 0.451524 0.385042 0.506925
+HITS@10: 1 0.529086 0.529086 0.529086
+MRR: 0.539474 0.278015 0.28853 0.441607
+MR: 3.00277 20.338 20.4654 36.5873
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.376731 0.144044 0.155125 0.376731
+HITS@3: 0.578947 0.451524 0.385042 0.506925
+HITS@10: 1 0.529086 0.529086 0.529086
+MRR: 0.54132 0.289304 0.297764 0.443454
+MR: 2.99723 20.3407 20.4377 36.5817
+relation_mr_mrr_1_3_10_n_rf 7378.00000000000000000 107.49262845204874850 56.00000000000000000 139.00000000000000000 191.00000000000000000 361 191

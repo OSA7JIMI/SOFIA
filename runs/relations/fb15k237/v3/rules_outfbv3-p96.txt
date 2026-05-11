@@ -1,0 +1,1 @@
+1	/food/food/nutrients./food/nutrition_fact/nutrient(A,D) <= /food/food/nutrients./food/nutrition_fact/nutrient(A,B), /food/food/nutrients./food/nutrition_fact/nutrient(C,B), /food/food/nutrients./food/nutrition_fact/nutrient(C,D)

@@ -1,0 +1,3 @@
+1	concept:leaguestadiums(A,B) <= concept:agentactsinlocation(A,B)
+1	concept:leaguestadiums(A,C) <= concept:teamplaysinleague(B,A), concept:teamhomestadium(B,C)
+1	concept:leaguestadiums(A,E) <= concept:subpartoforganization(B,A), concept:agentparticipatedinevent(B,C), concept:agentparticipatedinevent(D,C), concept:proxyfor(D,E)

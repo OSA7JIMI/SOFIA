@@ -1,0 +1,7 @@
+1	/film/film/other_crew./film/film_crew_gig/film_crew_role(A,D) <= /film/film/release_date_s./film/film_regional_release_date/film_release_region(A,B), /film/film/release_date_s./film/film_regional_release_date/film_release_region(C,B), /film/film/other_crew./film/film_crew_gig/film_crew_role(C,D)
+1	/film/film/other_crew./film/film_crew_gig/film_crew_role(A,D) <= /film/film/language(A,B), /film/film/language(C,B), /film/film/other_crew./film/film_crew_gig/film_crew_role(C,D)
+1	/film/film/other_crew./film/film_crew_gig/film_crew_role(A,D) <= /film/film/genre(A,B), /film/film/genre(C,B), /film/film/other_crew./film/film_crew_gig/film_crew_role(C,D)
+1	/film/film/other_crew./film/film_crew_gig/film_crew_role(A,E) <= /film/film/film_format(A,B), /film/film/film_format(C,B), /film/film/story_by(C,D), /people/person/profession(D,E)
+1	/film/film/other_crew./film/film_crew_gig/film_crew_role(A,D) <= /award/award_winning_work/awards_won./award/award_honor/award_winner(A,B), /people/person/profession(B,C), /people/profession/specialization_of(D,C)
+1	/film/film/other_crew./film/film_crew_gig/film_crew_role(A,E) <= /film/film/language(A,B), /film/film/language(C,B), /film/film/production_companies(C,D), /business/job_title/people_with_this_title./business/employment_tenure/company(E,D)
+1	/film/film/other_crew./film/film_crew_gig/film_crew_role(A,E) <= /film/actor/film./film/performance/film(B,A), /people/person/languages(B,C), /film/film/language(D,C), /film/film/other_crew./film/film_crew_gig/film_crew_role(D,E)

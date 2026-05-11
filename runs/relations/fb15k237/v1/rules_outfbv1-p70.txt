@@ -1,0 +1,5 @@
+1	/film/film/produced_by(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(B,A)
+1	/film/film/produced_by(A,D) <= /film/film/country(A,B), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(C,B), /people/person/spouse_s./people/marriage/type_of_union(D,C)
+1	/film/film/produced_by(A,E) <= /film/film/language(A,B), /education/field_of_study/students_majoring./education/education/student(B,C), /people/person/spouse_s./people/marriage/type_of_union(C,D), /people/person/spouse_s./people/marriage/type_of_union(E,D)
+1	/film/film/produced_by(A,D) <= /film/film/music(A,B), /people/person/gender(B,C), /people/person/gender(D,C)
+1	/film/film/produced_by(A,D) <= /film/actor/film./film/performance/film(B,A), /people/person/gender(B,C), /people/person/gender(D,C)

@@ -1,0 +1,3 @@
+1	concept:personborninlocation(A,B) <= concept:personbornincity(A,B)
+1	concept:personborninlocation(A,E) <= concept:worksfor(A,B), concept:organizationalsoknownas(B,C), concept:personbelongstoorganization(D,C), concept:personborninlocation(D,E)
+1	concept:personborninlocation(A,D) <= concept:personchargedwithcrime(A,B), concept:personchargedwithcrime(C,B), concept:personborninlocation(C,D)

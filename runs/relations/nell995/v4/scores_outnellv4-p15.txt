@@ -1,0 +1,33 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:buildinglocatedincity
+---------------------------------
+concept:city:newark concept:buildinglocatedincity concept:building:prudential_center 0
+
+---------------------------------
+concept:city:vegas concept:buildinglocatedincity concept:building:santa_fe 0
+
+---------------------------------
+concept:city:vegas concept:buildinglocatedincity concept:building:nation 0
+
+---------------------------------
+concept:city:anaheim concept:buildinglocatedincity concept:building:anaheim 0
+
+---------------------------------
+concept:city:norwich concept:buildinglocatedincity concept:building:norwich 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.0259109 0.0258057 0.0131579
+MR: 1 38.6 39.4 76
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.025641 0.0258057 0.0131579
+MR: 1 39 39.4 76
+relation_mr_mrr_1_3_10_n_rf 197.00000000000000000 0.12902839944435870 0.00000000000000000 0.00000000000000000 0.00000000000000000 5 0

@@ -1,0 +1,4 @@
+1	/medicine/disease/notable_people_with_this_condition(A,B) <= /people/cause_of_death/people(A,B)
+1	/medicine/disease/notable_people_with_this_condition(A,D) <= /medicine/disease/notable_people_with_this_condition(A,B), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/person/spouse_s./people/marriage/type_of_union(D,C)
+1	/medicine/disease/notable_people_with_this_condition(A,E) <= /medicine/disease/notable_people_with_this_condition(A,B), /film/actor/film./film/performance/film(B,C), /award/award_category/nominees./award/award_nomination/nominated_for(D,C), /award/award_nominee/award_nominations./award/award_nomination/award(E,D)
+1	/medicine/disease/notable_people_with_this_condition(A,D) <= /medicine/disease/notable_people_with_this_condition(A,B), /people/person/gender(B,C), /people/person/gender(D,C)

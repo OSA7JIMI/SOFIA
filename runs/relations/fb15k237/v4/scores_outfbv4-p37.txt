@@ -1,0 +1,13 @@
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0.8 0.8 0.8
+HITS@3: 1 0.8 0.8 0.8
+HITS@10: 1 0.8 0.8 0.8
+MRR: 1 0.801818 0.801852 0.800913
+MR: 1 22.8 22.4 44.6
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0.8 0.8 0.8
+HITS@3: 1 0.8 0.8 0.8
+HITS@10: 1 0.8 0.8 0.8
+MRR: 1 0.801818 0.801852 0.800913
+MR: 1 22.8 22.4 44.6
+relation_mr_mrr_1_3_10_n_rf 112.00000000000000000 4.00925925925925952 4.00000000000000000 4.00000000000000000 4.00000000000000000 5 4

@@ -1,0 +1,911 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:atdate
+---------------------------------
+concept:date:n1999 concept:atdate concept:charactertrait:world 1
+
+---------------------------------
+concept:dateliteral:n1987 concept:atdate concept:politicaloffice:office 1
+
+concept:dateliteral:n1987 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:website:washington_post 0
+
+---------------------------------
+concept:dateliteral:n1961 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:profession:division 1
+
+concept:date:n2004 concept:synonymfor concept:profession:division 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:emotion:officer 1
+
+---------------------------------
+concept:date:community concept:atdate concept:month:september 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:politicaloffice:office 1
+
+concept:date:n2004 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:year:n1983 concept:atdate concept:charactertrait:world 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:river:arts 0
+
+concept:date:n2004 concept:locationlocatedwithinlocation concept:river:arts 0.5
+concept:date:n2004 concept:mutualproxyfor concept:river:arts 0.110268
+---------------------------------
+concept:date:n2004 concept:atdate concept:programminglanguage:pa 1
+
+concept:date:n2004 concept:atlocation concept:programminglanguage:pa 0.192086
+---------------------------------
+concept:date:n2004 concept:atdate concept:sport:initiatives 0
+
+---------------------------------
+concept:year:n1983 concept:atdate concept:boardgame:board 1
+
+concept:year:n1983 concept:synonymfor concept:boardgame:board 0.5
+---------------------------------
+concept:date:n1977 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:wallitem:effort 0
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:website:announcement 1
+
+---------------------------------
+concept:year:n1937 concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:transportation:two 0
+
+---------------------------------
+concept:year:n1985 concept:atdate concept:politicaloffice:office 1
+
+concept:year:n1985 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:n1996 concept:atdate concept:politicaloffice:office 1
+
+concept:date:n1996 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:n1999 concept:atdate concept:city:charlotte 0
+
+concept:date:n1999 concept:mutualproxyfor concept:city:charlotte 0.110268
+---------------------------------
+concept:date:n2004 concept:atdate concept:televisionshow:cooperation 0
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:musician:vice_president 1
+
+---------------------------------
+concept:year:n1974 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:month:march concept:atdate concept:nongovorganization:u_s_ 1.52262
+
+concept:month:march concept:agentcreated concept:nongovorganization:u_s_ 0.25
+concept:month:march concept:atlocation concept:nongovorganization:u_s_ 0.192086
+concept:month:march concept:mutualproxyfor concept:nongovorganization:u_s_ 0.110268
+---------------------------------
+concept:date:n2004 concept:atdate concept:musician:vice_president 1
+
+---------------------------------
+concept:year:n1981 concept:atdate concept:politicaloffice:office 1
+
+concept:year:n1981 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:city:denver 1
+
+concept:date:n2004 concept:agentcompeteswithagent concept:city:denver 0.446411
+concept:date:n2004 concept:agentcreated concept:city:denver 0.25
+concept:date:n2004 concept:mutualproxyfor concept:city:denver 0.110268
+---------------------------------
+concept:date:meeting concept:atdate concept:month:august 1
+
+---------------------------------
+concept:year:n1988 concept:atdate concept:charactertrait:world 1
+
+---------------------------------
+concept:date:n2009 concept:atdate concept:book:alexandria 0
+
+---------------------------------
+concept:year:n1967 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:company:case 1
+
+---------------------------------
+concept:year:n1994 concept:atdate concept:politicsissue:energy 1
+
+---------------------------------
+concept:date:community concept:atdate concept:date:sept_ 1
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:politicaloffice:office 1
+
+concept:date:n1999 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:n1996 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:date:n2009 concept:atdate concept:clothing:positions 1
+
+---------------------------------
+concept:year:n1842 concept:atdate concept:company:new_york 0
+
+concept:year:n1842 concept:agentactsinlocation concept:company:new_york 0.5
+concept:year:n1842 concept:agentcompeteswithagent concept:company:new_york 0.446411
+concept:year:n1842 concept:agentcreated concept:company:new_york 0.25
+concept:year:n1842 concept:atlocation concept:company:new_york 0.192086
+concept:year:n1842 concept:mutualproxyfor concept:company:new_york 0.110268
+concept:year:n1842 concept:organizationalsoknownas concept:company:new_york 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:emotion:college 1
+
+---------------------------------
+concept:date:dec_ concept:atdate concept:jobposition:meeting 0.5
+
+---------------------------------
+concept:dateliteral:n1947 concept:atdate concept:county:los_angeles_county 0
+
+concept:dateliteral:n1947 concept:agentcreated concept:county:los_angeles_county 0.25
+concept:dateliteral:n1947 concept:mutualproxyfor concept:county:los_angeles_county 0.110268
+---------------------------------
+concept:date:n2009 concept:atdate concept:city:washington_d_c 1
+
+concept:date:n2009 concept:agentcompeteswithagent concept:city:washington_d_c 0.446411
+concept:date:n2009 concept:agentcreated concept:city:washington_d_c 0.25
+concept:date:n2009 concept:atlocation concept:city:washington_d_c 0.192086
+concept:date:n2009 concept:locationlocatedwithinlocation concept:city:washington_d_c 0.5
+concept:date:n2009 concept:mutualproxyfor concept:city:washington_d_c 0.110268
+concept:date:n2009 concept:synonymfor concept:city:washington_d_c 0.5
+---------------------------------
+concept:date:n2009 concept:atdate concept:sportsequipment:tours 0
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:nongovorganization:cities 0.92689
+
+concept:date:n2004 concept:mutualproxyfor concept:nongovorganization:cities 0.110268
+---------------------------------
+concept:date:n1999 concept:atdate concept:website:pages 1
+
+---------------------------------
+concept:date:n1996 concept:atdate concept:charactertrait:world 1
+
+---------------------------------
+concept:dateliteral:n1987 concept:atdate concept:city:beirut 0
+
+---------------------------------
+concept:year:n1983 concept:atdate concept:politicaloffice:office 1
+
+concept:year:n1983 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:sportsteam:new_jersey_nets 0
+
+concept:date:n2004 concept:agentcreated concept:sportsteam:new_jersey_nets 0.25
+---------------------------------
+concept:date:n2009 concept:atdate concept:televisionstation:indianapolis 0
+
+---------------------------------
+concept:date:n2009 concept:atdate concept:geometricshape:activities 1
+
+---------------------------------
+concept:year:n1881 concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:jobposition:dean 0
+
+---------------------------------
+concept:date:n2009 concept:atdate concept:city:edmonton 0
+
+---------------------------------
+concept:date:community concept:atdate concept:month:december 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:televisionstation:associated_press 0
+
+---------------------------------
+concept:year:n1984 concept:atdate concept:charactertrait:world 1
+
+---------------------------------
+concept:date:n2009 concept:atdate concept:emotion:college 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:boardgame:board 1
+
+concept:date:n2004 concept:synonymfor concept:boardgame:board 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:website:pages 1
+
+---------------------------------
+concept:year:n1967 concept:atdate concept:politicaloffice:office 1
+
+concept:year:n1967 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:dayofweek:monday concept:atdate concept:city:new_york 0
+
+concept:dayofweek:monday concept:agentactsinlocation concept:city:new_york 0.5
+concept:dayofweek:monday concept:agentcreated concept:city:new_york 0.25
+concept:dayofweek:monday concept:locationlocatedwithinlocation concept:city:new_york 0.5
+concept:dayofweek:monday concept:mutualproxyfor concept:city:new_york 0.110268
+---------------------------------
+concept:dateliteral:n1943 concept:atdate concept:city:paris 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:county:virginia_tech 0
+
+concept:date:n2004 concept:agentcreated concept:county:virginia_tech 0.25
+---------------------------------
+concept:date:n1999 concept:atdate concept:geometricshape:property 1
+
+---------------------------------
+concept:year:n1984 concept:atdate concept:politicaloffice:office 1
+
+concept:year:n1984 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:meeting concept:atdate concept:date:sept_ 1
+
+---------------------------------
+concept:year:n1867 concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:date:n1996 concept:atdate concept:programminglanguage:state 1
+
+concept:date:n1996 concept:synonymfor concept:programminglanguage:state 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:charactertrait:world 1
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:stateorprovince:afternoon 1
+
+---------------------------------
+concept:dateliteral:n1947 concept:atdate concept:politicaloffice:office 1
+
+concept:dateliteral:n1947 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:sportsgame:leaders 1
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:company:north_carolina 0
+
+concept:date:n1999 concept:agentcreated concept:company:north_carolina 0.25
+concept:date:n1999 concept:atlocation concept:company:north_carolina 0.192086
+---------------------------------
+concept:dateliteral:n1990 concept:atdate concept:nongovorganization:u_s_ 1
+
+concept:dateliteral:n1990 concept:agentcreated concept:nongovorganization:u_s_ 0.25
+concept:dateliteral:n1990 concept:atlocation concept:nongovorganization:u_s_ 0.192086
+concept:dateliteral:n1990 concept:mutualproxyfor concept:nongovorganization:u_s_ 0.110268
+---------------------------------
+concept:month:may concept:atdate concept:politicaloffice:office 1
+
+concept:month:may concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:dateliteral:n1936 concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:year:n1994 concept:atdate concept:company:case 1
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:jobposition:agency 1
+
+concept:date:n1999 concept:synonymfor concept:jobposition:agency 0.5
+---------------------------------
+concept:year:n1884 concept:atdate concept:company:new_york 0
+
+concept:year:n1884 concept:agentactsinlocation concept:company:new_york 0.5
+concept:year:n1884 concept:agentcompeteswithagent concept:company:new_york 0.446411
+concept:year:n1884 concept:agentcreated concept:company:new_york 0.25
+concept:year:n1884 concept:atlocation concept:company:new_york 0.192086
+concept:year:n1884 concept:mutualproxyfor concept:company:new_york 0.110268
+concept:year:n1884 concept:organizationalsoknownas concept:company:new_york 0.5
+---------------------------------
+concept:year:n1960 concept:atdate concept:politicaloffice:office 1
+
+concept:year:n1960 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:city:design 0.92689
+
+concept:date:n2004 concept:mutualproxyfor concept:city:design 0.110268
+---------------------------------
+concept:date:community concept:atdate concept:month:august 1
+
+---------------------------------
+concept:year:n1985 concept:atdate concept:programminglanguage:state 1
+
+concept:year:n1985 concept:synonymfor concept:programminglanguage:state 0.5
+---------------------------------
+concept:year:n1994 concept:atdate concept:charactertrait:world 1
+
+---------------------------------
+concept:year:n1981 concept:atdate concept:charactertrait:world 1
+
+---------------------------------
+concept:date:n2009 concept:atdate concept:website:support 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:programminglanguage:levels 0
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:buildingfeature:organizations 0
+
+---------------------------------
+concept:dateliteral:n1947 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:year:n1994 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:month:february concept:atdate concept:date:meeting 0.5
+
+---------------------------------
+concept:dateliteral:n1990 concept:atdate concept:musicalbum:point 1
+
+---------------------------------
+concept:date:n1969 concept:atdate concept:nongovorganization:u_s_ 1
+
+concept:date:n1969 concept:agentcreated concept:nongovorganization:u_s_ 0.25
+concept:date:n1969 concept:atlocation concept:nongovorganization:u_s_ 0.192086
+concept:date:n1969 concept:mutualproxyfor concept:nongovorganization:u_s_ 0.110268
+---------------------------------
+concept:date:n1942 concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:date:n1933 concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:date:community concept:atdate concept:date:dec_ 1
+
+---------------------------------
+concept:date:spring concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:dateliteral:n1987 concept:atdate concept:charactertrait:world 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:stateorprovince:new_jersey 0
+
+concept:date:n2004 concept:atlocation concept:stateorprovince:new_jersey 0.192086
+concept:date:n2004 concept:statelocatedincountry concept:stateorprovince:new_jersey 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:biotechcompany:apple 1
+
+concept:date:n2004 concept:agentcreated concept:biotechcompany:apple 0.5
+concept:date:n2004 concept:synonymfor concept:biotechcompany:apple 0.5
+---------------------------------
+concept:dateliteral:n1990 concept:atdate concept:boardgame:board 1
+
+concept:dateliteral:n1990 concept:synonymfor concept:boardgame:board 0.5
+---------------------------------
+concept:year:n1866 concept:atdate concept:company:new_york 0
+
+concept:year:n1866 concept:agentactsinlocation concept:company:new_york 0.5
+concept:year:n1866 concept:agentcompeteswithagent concept:company:new_york 0.446411
+concept:year:n1866 concept:agentcreated concept:company:new_york 0.25
+concept:year:n1866 concept:atlocation concept:company:new_york 0.192086
+concept:year:n1866 concept:mutualproxyfor concept:company:new_york 0.110268
+concept:year:n1866 concept:organizationalsoknownas concept:company:new_york 0.5
+---------------------------------
+concept:date:n1996 concept:atdate concept:boardgame:board 1
+
+concept:date:n1996 concept:synonymfor concept:boardgame:board 0.5
+---------------------------------
+concept:date:n1906 concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:year:n1981 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:politicsissue:laws 0
+
+---------------------------------
+concept:date:n2009 concept:atdate concept:nongovorganization:u_s_ 1
+
+concept:date:n2009 concept:agentcreated concept:nongovorganization:u_s_ 0.25
+concept:date:n2009 concept:atlocation concept:nongovorganization:u_s_ 0.192086
+concept:date:n2009 concept:mutualproxyfor concept:nongovorganization:u_s_ 0.110268
+---------------------------------
+concept:dateliteral:n1943 concept:atdate concept:city:malta 0
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:politicsissue:god 0
+
+---------------------------------
+concept:date:meeting concept:atdate concept:month:december 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:jobposition:agency 1
+
+concept:date:n2004 concept:synonymfor concept:jobposition:agency 0.5
+---------------------------------
+concept:year:n1984 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:politicsissue:energy 1
+
+---------------------------------
+concept:year:n1974 concept:atdate concept:politicaloffice:office 1
+
+concept:year:n1974 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:n1996 concept:atdate concept:stateorprovince:afternoon 1
+
+---------------------------------
+concept:year:n1984 concept:atdate concept:programminglanguage:state 1
+
+concept:year:n1984 concept:synonymfor concept:programminglanguage:state 0.5
+---------------------------------
+concept:year:n1994 concept:atdate concept:biotechcompany:apple 1
+
+concept:year:n1994 concept:agentcreated concept:biotechcompany:apple 0.5
+concept:year:n1994 concept:synonymfor concept:biotechcompany:apple 0.5
+---------------------------------
+concept:date:aug_ concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:year:n1952 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:dateliteral:n1943 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:year:n1988 concept:atdate concept:politicaloffice:office 1
+
+concept:year:n1988 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:n2009 concept:atdate concept:programminglanguage:pa 1
+
+concept:date:n2009 concept:atlocation concept:programminglanguage:pa 0.192086
+---------------------------------
+concept:dateliteral:n1987 concept:atdate concept:boardgame:board 1
+
+concept:dateliteral:n1987 concept:synonymfor concept:boardgame:board 0.5
+---------------------------------
+concept:month:december concept:atdate concept:nongovorganization:u_s_ 1.52262
+
+concept:month:december concept:agentcreated concept:nongovorganization:u_s_ 0.25
+concept:month:december concept:atlocation concept:nongovorganization:u_s_ 0.192086
+concept:month:december concept:mutualproxyfor concept:nongovorganization:u_s_ 0.110268
+---------------------------------
+concept:date:n2004 concept:atdate concept:stateorprovince:afternoon 1
+
+---------------------------------
+concept:month:december concept:atdate concept:date:meeting 1
+
+---------------------------------
+concept:year:n1887 concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:year:n1960 concept:atdate concept:sociopolitical:independence 1
+
+concept:year:n1960 concept:mutualproxyfor concept:sociopolitical:independence 0.110268
+---------------------------------
+concept:year:n1988 concept:atdate concept:nongovorganization:u_s_ 1
+
+concept:year:n1988 concept:agentcreated concept:nongovorganization:u_s_ 0.25
+concept:year:n1988 concept:atlocation concept:nongovorganization:u_s_ 0.192086
+concept:year:n1988 concept:mutualproxyfor concept:nongovorganization:u_s_ 0.110268
+---------------------------------
+concept:date:n1999 concept:atdate concept:website:bangladesh 1
+
+---------------------------------
+concept:date:oct concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:year:n1988 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:month:march concept:atdate concept:date:meeting 1
+
+---------------------------------
+concept:date:n1941 concept:atdate concept:politicaloffice:office 1
+
+concept:date:n1941 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:n1999 concept:atdate concept:boardgame:board 1
+
+concept:date:n1999 concept:synonymfor concept:boardgame:board 0.5
+---------------------------------
+concept:date:meeting concept:atdate concept:month:september 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:politicianus:president_george_w__bush 0
+
+---------------------------------
+concept:dateliteral:n1961 concept:atdate concept:politicaloffice:office 1
+
+concept:dateliteral:n1961 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:year:n1994 concept:atdate concept:boardgame:board 1
+
+concept:year:n1994 concept:synonymfor concept:boardgame:board 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:politicianus:president_bush 0
+
+---------------------------------
+concept:dateliteral:n1947 concept:atdate concept:city:paris 1
+
+---------------------------------
+concept:date:n1977 concept:atdate concept:politicaloffice:office 1
+
+concept:date:n1977 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:programminglanguage:state 1
+
+concept:date:n2004 concept:synonymfor concept:programminglanguage:state 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:charactertrait:institutions 0
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:politicsissue:creation 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:website:support 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:musicalbum:point 1
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:date:n1968 concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:programminglanguage:state 1
+
+concept:date:n1999 concept:synonymfor concept:programminglanguage:state 0.5
+---------------------------------
+concept:date:n1999 concept:atdate concept:musicalbum:story 1
+
+---------------------------------
+concept:date:fall concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:date:n2009 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:date:n1996 concept:atdate concept:geometricshape:property 1
+
+---------------------------------
+concept:year:n1985 concept:atdate concept:charactertrait:world 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:academicfield:certification 0
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:city:washington_d_c 1.92689
+
+concept:date:n2004 concept:agentcompeteswithagent concept:city:washington_d_c 0.446411
+concept:date:n2004 concept:agentcreated concept:city:washington_d_c 0.25
+concept:date:n2004 concept:atlocation concept:city:washington_d_c 0.192086
+concept:date:n2004 concept:locationlocatedwithinlocation concept:city:washington_d_c 0.5
+concept:date:n2004 concept:mutualproxyfor concept:city:washington_d_c 0.110268
+concept:date:n2004 concept:synonymfor concept:city:washington_d_c 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:geometricshape:activities 1
+
+---------------------------------
+concept:month:september concept:atdate concept:date:meeting 0.5
+
+---------------------------------
+concept:year:n1982 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:website:bangladesh 1
+
+---------------------------------
+concept:year:n1885 concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:year:n1946 concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:dateliteral:n1954 concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:dateliteral:n1990 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:website:kenya 1
+
+---------------------------------
+concept:dateliteral:n1990 concept:atdate concept:politicaloffice:office 1
+
+concept:dateliteral:n1990 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:n1996 concept:atdate concept:musicalbum:story 1
+
+---------------------------------
+concept:year:n1948 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:nongovorganization:u_s_ 1.92689
+
+concept:date:n2004 concept:agentcreated concept:nongovorganization:u_s_ 0.25
+concept:date:n2004 concept:atlocation concept:nongovorganization:u_s_ 0.192086
+concept:date:n2004 concept:mutualproxyfor concept:nongovorganization:u_s_ 0.110268
+---------------------------------
+concept:year:n1955 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:date:n2009 concept:atdate concept:city:denver 1
+
+concept:date:n2009 concept:agentcompeteswithagent concept:city:denver 0.446411
+concept:date:n2009 concept:agentcreated concept:city:denver 0.25
+concept:date:n2009 concept:mutualproxyfor concept:city:denver 0.110268
+---------------------------------
+concept:year:n1955 concept:atdate concept:politicaloffice:office 1
+
+concept:year:n1955 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:n1996 concept:atdate concept:musician:vice_president 1
+
+---------------------------------
+concept:date:n1996 concept:atdate concept:politicsissue:creation 1
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:city:washington_d_c 1
+
+concept:date:n1999 concept:agentcompeteswithagent concept:city:washington_d_c 0.446411
+concept:date:n1999 concept:agentcreated concept:city:washington_d_c 0.25
+concept:date:n1999 concept:atlocation concept:city:washington_d_c 0.192086
+concept:date:n1999 concept:locationlocatedwithinlocation concept:city:washington_d_c 0.5
+concept:date:n1999 concept:mutualproxyfor concept:city:washington_d_c 0.110268
+concept:date:n1999 concept:synonymfor concept:city:washington_d_c 0.5
+---------------------------------
+concept:year:n1985 concept:atdate concept:boardgame:board 1
+
+concept:year:n1985 concept:synonymfor concept:boardgame:board 0.5
+---------------------------------
+concept:dateliteral:n1945 concept:atdate concept:month:march 0
+
+---------------------------------
+concept:date:n1968 concept:atdate concept:company:los_angeles 0
+
+concept:date:n1968 concept:agentcompeteswithagent concept:company:los_angeles 0.446411
+---------------------------------
+concept:date:meeting concept:atdate concept:month:february 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:geometricshape:property 1
+
+---------------------------------
+concept:year:n1983 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:website:announcement 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:city:st_louis 0
+
+concept:date:n2004 concept:agentcreated concept:city:st_louis 0.25
+concept:date:n2004 concept:mutualproxyfor concept:city:st_louis 0.110268
+---------------------------------
+concept:date:n1977 concept:atdate concept:boardgame:board 1
+
+concept:date:n1977 concept:synonymfor concept:boardgame:board 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:visualizablescene:nz 0
+
+---------------------------------
+concept:month:december concept:atdate concept:politicaloffice:office 1.25434
+
+concept:month:december concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:month:may concept:atdate concept:date:meeting 1
+
+---------------------------------
+concept:date:n1966 concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:year:n1956 concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:dateliteral:n1812 concept:atdate concept:sociopolitical:independence 0
+
+concept:dateliteral:n1812 concept:mutualproxyfor concept:sociopolitical:independence 0.110268
+---------------------------------
+concept:dateliteral:n1961 concept:atdate concept:sociopolitical:independence 1
+
+concept:dateliteral:n1961 concept:mutualproxyfor concept:sociopolitical:independence 0.110268
+---------------------------------
+concept:date:n2009 concept:atdate concept:geometricshape:property 1
+
+---------------------------------
+concept:date:n1996 concept:atdate concept:geometricshape:activities 1
+
+---------------------------------
+concept:dateliteral:n1990 concept:atdate concept:company:case 1
+
+---------------------------------
+concept:date:n1996 concept:atdate concept:company:case 1
+
+---------------------------------
+concept:date:n2009 concept:atdate concept:politicaloffice:office 1
+
+concept:date:n2009 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:dateliteral:n1943 concept:atdate concept:nongovorganization:u_s_ 1
+
+concept:dateliteral:n1943 concept:agentcreated concept:nongovorganization:u_s_ 0.25
+concept:dateliteral:n1943 concept:atlocation concept:nongovorganization:u_s_ 0.192086
+concept:dateliteral:n1943 concept:mutualproxyfor concept:nongovorganization:u_s_ 0.110268
+---------------------------------
+concept:year:n1985 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:date:n2009 concept:atdate concept:boardgame:board 1
+
+concept:date:n2009 concept:synonymfor concept:boardgame:board 0.5
+---------------------------------
+concept:dateliteral:n1990 concept:atdate concept:charactertrait:world 1
+
+---------------------------------
+concept:year:n1994 concept:atdate concept:city:washington_d_c 1
+
+concept:year:n1994 concept:agentcompeteswithagent concept:city:washington_d_c 0.446411
+concept:year:n1994 concept:agentcreated concept:city:washington_d_c 0.25
+concept:year:n1994 concept:atlocation concept:city:washington_d_c 0.192086
+concept:year:n1994 concept:locationlocatedwithinlocation concept:city:washington_d_c 0.5
+concept:year:n1994 concept:mutualproxyfor concept:city:washington_d_c 0.110268
+concept:year:n1994 concept:synonymfor concept:city:washington_d_c 0.5
+---------------------------------
+concept:date:n2009 concept:atdate concept:programminglanguage:state 1
+
+concept:date:n2009 concept:synonymfor concept:programminglanguage:state 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:city:st___petersburg 0
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:sportsgame:leaders 1
+
+---------------------------------
+concept:date:n1996 concept:atdate concept:website:announcement 1
+
+---------------------------------
+concept:year:n1982 concept:atdate concept:charactertrait:world 1
+
+---------------------------------
+concept:date:n1969 concept:atdate concept:politicaloffice:office 1
+
+concept:date:n1969 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:musicalbum:story 1
+
+---------------------------------
+concept:year:n1994 concept:atdate concept:musicalbum:story 1
+
+---------------------------------
+concept:date:meeting concept:atdate concept:date:dec_ 1
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:company:case 1
+
+---------------------------------
+concept:year:n1952 concept:atdate concept:politicaloffice:office 1
+
+concept:year:n1952 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:year:n1994 concept:atdate concept:geometricshape:property 1
+
+---------------------------------
+concept:date:n1996 concept:atdate concept:musicartist:delaware 0
+
+---------------------------------
+concept:date:n2009 concept:atdate concept:city:phoenix 0
+
+concept:date:n2009 concept:agentcreated concept:city:phoenix 0.25
+concept:date:n2009 concept:mutualproxyfor concept:city:phoenix 0.110268
+---------------------------------
+concept:year:n1994 concept:atdate concept:politicaloffice:office 1
+
+concept:year:n1994 concept:synonymfor concept:politicaloffice:office 0.5
+---------------------------------
+concept:date:n1999 concept:atdate concept:geometricshape:activities 1
+
+---------------------------------
+concept:year:n1984 concept:atdate concept:person:macintosh 0
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:clothing:positions 1
+
+---------------------------------
+concept:date:n2009 concept:atdate concept:politicsissue:nebraska 0
+
+concept:date:n2009 concept:atlocation concept:politicsissue:nebraska 0.192086
+---------------------------------
+concept:year:n1948 concept:atdate concept:sociopolitical:independence 1
+
+concept:year:n1948 concept:mutualproxyfor concept:sociopolitical:independence 0.110268
+---------------------------------
+concept:date:n1999 concept:atdate concept:musicalbum:point 1
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:emotion:officer 1
+
+---------------------------------
+concept:dateliteral:n1945 concept:atdate concept:jobposition:meeting 0
+
+---------------------------------
+concept:dateliteral:n1987 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:month:august concept:atdate concept:date:meeting 0.5
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:profession:division 1
+
+concept:date:n1999 concept:synonymfor concept:profession:division 0.5
+---------------------------------
+concept:date:n2004 concept:atdate concept:academicfield:businesses 0
+
+---------------------------------
+concept:date:n2009 concept:atdate concept:charactertrait:world 1
+
+---------------------------------
+concept:date:n1999 concept:atdate concept:website:kenya 1
+
+---------------------------------
+concept:date:n2009 concept:atdate concept:sportsteam:maryland 0
+
+concept:date:n2009 concept:agentcreated concept:sportsteam:maryland 0.25
+---------------------------------
+concept:date:n1996 concept:atdate concept:city:washington_d_c 1
+
+concept:date:n1996 concept:agentcompeteswithagent concept:city:washington_d_c 0.446411
+concept:date:n1996 concept:agentcreated concept:city:washington_d_c 0.25
+concept:date:n1996 concept:atlocation concept:city:washington_d_c 0.192086
+concept:date:n1996 concept:locationlocatedwithinlocation concept:city:washington_d_c 0.5
+concept:date:n1996 concept:mutualproxyfor concept:city:washington_d_c 0.110268
+concept:date:n1996 concept:synonymfor concept:city:washington_d_c 0.5
+---------------------------------
+concept:date:n1969 concept:atdate concept:jobposition:meeting 1
+
+---------------------------------
+concept:date:community concept:atdate concept:month:march 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:university:google 0
+
+concept:date:n2004 concept:agentcompeteswithagent concept:university:google 0.446411
+concept:date:n2004 concept:atlocation concept:university:google 0.192086
+---------------------------------
+concept:date:sept_ concept:atdate concept:jobposition:meeting 0.5
+
+---------------------------------
+concept:date:meeting concept:atdate concept:month:march 1
+
+---------------------------------
+concept:date:n2004 concept:atdate concept:politicsissue:creation 1
+
+---------------------------------
+concept:date:community concept:atdate concept:month:february 1
+
+---------------------------------
+concept:date:n1941 concept:atdate concept:nongovorganization:u_s_ 1
+
+concept:date:n1941 concept:agentcreated concept:nongovorganization:u_s_ 0.25
+concept:date:n1941 concept:atlocation concept:nongovorganization:u_s_ 0.192086
+concept:date:n1941 concept:mutualproxyfor concept:nongovorganization:u_s_ 0.110268
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.92623 0.737705 0.737705 0.737705
+HITS@3: 0.983607 0.737705 0.737705 0.737705
+HITS@10: 1 0.737705 0.737705 0.737705
+MRR: 0.952713 0.744458 0.74463 0.741156
+MR: 1.17623 10.9303 10.8156 20.6721
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.92623 0.737705 0.737705 0.737705
+HITS@3: 0.983607 0.737705 0.737705 0.737705
+HITS@10: 1 0.737705 0.737705 0.737705
+MRR: 0.952713 0.74445 0.74463 0.741156
+MR: 1.17623 10.9426 10.8156 20.6721
+relation_mr_mrr_1_3_10_n_rf 2639.00000000000000000 181.68969478477944790 180.00000000000000000 180.00000000000000000 180.00000000000000000 244 180

@@ -1,0 +1,6 @@
+1	/music/genre/parent_genre(A,C) <= /music/genre/artists(A,B), /music/genre/artists(C,B)
+1	/music/genre/parent_genre(A,C) <= /music/genre/parent_genre(A,B), /music/genre/parent_genre(B,C)
+1	/music/genre/parent_genre(A,C) <= /music/genre/parent_genre(B,A), /music/genre/parent_genre(B,C)
+1	/music/genre/parent_genre(A,C) <= /music/genre/parent_genre(A,B), /music/genre/parent_genre(C,B)
+1	/music/genre/parent_genre(A,E) <= /music/genre/artists(A,B), /music/group_member/membership./music/group_membership/role(B,C), /music/performance_role/regular_performances./music/group_membership/group(C,D), /music/genre/artists(E,D)
+1	/music/genre/parent_genre(A,E) <= /music/genre/artists(A,B), /people/person/nationality(B,C), /people/person/nationality(D,C), /music/genre/artists(E,D)

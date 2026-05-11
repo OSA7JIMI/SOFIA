@@ -1,0 +1,6 @@
+1	/people/ethnicity/people(A,C) <= /people/ethnicity/geographic_distribution(A,B), /people/person/nationality(C,B)
+1	/people/ethnicity/people(A,D) <= /people/ethnicity/people(A,B), /people/person/gender(B,C), /people/person/gender(D,C)
+1	/people/ethnicity/people(A,D) <= /people/ethnicity/people(A,B), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/person/spouse_s./people/marriage/type_of_union(D,C)
+1	/people/ethnicity/people(A,E) <= /people/ethnicity/people(A,B), /award/award_nominee/award_nominations./award/award_nomination/award_nominee(B,C), /film/actor/film./film/performance/film(C,D), /film/actor/film./film/performance/film(E,D)
+1	/people/ethnicity/people(A,E) <= /people/ethnicity/people(A,B), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/person/spouse_s./people/marriage/type_of_union(D,C), /award/award_nominee/award_nominations./award/award_nomination/award_nominee(E,D)
+1	/people/ethnicity/people(A,E) <= /people/ethnicity/people(A,B), /film/actor/film./film/performance/film(B,C), /film/film/language(C,D), /film/actor/dubbing_performances./film/dubbing_performance/language(E,D)

@@ -1,0 +1,3 @@
+1	/people/deceased_person/place_of_burial(A,D) <= /people/person/gender(A,B), /people/person/gender(C,B), /people/deceased_person/place_of_burial(C,D)
+1	/people/deceased_person/place_of_burial(A,D) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(B,C), /location/location/contains(C,D)
+1	/people/deceased_person/place_of_burial(A,C) <= /people/person/spouse_s./people/marriage/spouse(A,B), /people/deceased_person/place_of_burial(B,C)

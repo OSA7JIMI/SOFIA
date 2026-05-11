@@ -1,0 +1,5 @@
+1	concept:teamalsoknownas(A,B) <= concept:synonymfor(B,A)
+1	concept:teamalsoknownas(A,C) <= concept:teamplaysagainstteam(A,B), concept:teamplaysagainstteam(C,B)
+1	concept:teamalsoknownas(A,B) <= concept:teamalsoknownas(B,A)
+1	concept:teamalsoknownas(A,C) <= concept:teamplaysagainstteam(B,A), concept:teamalsoknownas(C,B)
+1	concept:teamalsoknownas(A,D) <= concept:teamalsoknownas(A,B), concept:subpartoforganization(B,C), concept:agentcompeteswithagent(C,D)

@@ -1,0 +1,1 @@
+1	/film/film/estimated_budget./measurement_unit/dated_money_value/currency(A,D) <= /film/film/genre(A,B), /film/film/genre(C,B), /film/film/estimated_budget./measurement_unit/dated_money_value/currency(C,D)

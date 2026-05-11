@@ -1,0 +1,6 @@
+1	concept:newspaperincity(A,B) <= concept:hasofficeincity(A,B)
+1	concept:newspaperincity(A,B) <= concept:headquarteredin(A,B)
+0.5	concept:newspaperincity(A,D) <= concept:competeswith(B,A), concept:atlocation(B,C), concept:locationlocatedwithinlocation(C,D)
+1	concept:newspaperincity(A,E) <= concept:organizationhiredperson(A,B), concept:worksfor(B,C), concept:proxyfor(C,D), concept:proxyfor(E,D)
+0.5	concept:newspaperincity(A,E) <= concept:competeswith(B,A), concept:atlocation(B,C), concept:locationlocatedwithinlocation(C,D), concept:mutualproxyfor(D,E)
+0.5	concept:newspaperincity(A,D) <= concept:competeswith(B,A), concept:competeswith(B,C), concept:hasofficeincity(C,D)

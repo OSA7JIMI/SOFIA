@@ -1,0 +1,4 @@
+1	concept:foodcancausedisease(A,D) <= concept:agriculturalproductcookedwithagriculturalproduct(A,B), concept:agriculturalproductcookedwithagriculturalproduct(B,C), concept:foodcancausedisease(C,D)
+1	concept:foodcancausedisease(A,D) <= concept:animaleatfood(B,A), concept:animaleatfood(B,C), concept:foodcancausedisease(C,D)
+1	concept:foodcancausedisease(A,D) <= concept:fooddecreasestheriskofdisease(A,B), concept:fooddecreasestheriskofdisease(C,B), concept:foodcancausedisease(C,D)
+1	concept:foodcancausedisease(A,E) <= concept:animaleatfood(B,A), concept:agriculturalproductcomingfromvertebrate(C,B), concept:agriculturalproductcomingfromvertebrate(C,D), concept:animaldevelopdisease(D,E)

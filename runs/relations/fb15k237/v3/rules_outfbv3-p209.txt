@@ -1,0 +1,5 @@
+0.5	/tv/tv_program/program_creator(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(B,A)
+0.5	/tv/tv_program/program_creator(A,B) <= /tv/tv_producer/programs_produced./tv/tv_producer_term/program(B,A)
+0.5	/tv/tv_program/program_creator(A,B) <= /tv/tv_program/regular_cast./tv/regular_tv_appearance/actor(A,B)
+0.5	/tv/tv_program/program_creator(A,E) <= /tv/tv_program/languages(A,B), /education/field_of_study/students_majoring./education/education/student(B,C), /people/person/profession(C,D), /people/person/profession(E,D)
+0.5	/tv/tv_program/program_creator(A,D) <= /tv/tv_program/program_creator(A,B), /people/person/gender(B,C), /people/person/gender(D,C)

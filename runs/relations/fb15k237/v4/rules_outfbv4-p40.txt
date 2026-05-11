@@ -1,0 +1,4 @@
+1	/broadcast/content/artist(A,B) <= /music/genre/artists(A,B)
+1	/broadcast/content/artist(A,D) <= /broadcast/content/artist(A,B), /music/performance_role/regular_performances./music/group_membership/group(C,B), /music/performance_role/regular_performances./music/group_membership/group(C,D)
+1	/broadcast/content/artist(A,D) <= /broadcast/content/artist(A,B), /award/award_nominee/award_nominations./award/award_nomination/award(B,C), /award/award_nominee/award_nominations./award/award_nomination/award(D,C)
+1	/broadcast/content/artist(A,D) <= /tv/tv_network/programs./tv/tv_network_duration/program(A,B), /tv/tv_program/languages(B,C), /people/person/languages(D,C)

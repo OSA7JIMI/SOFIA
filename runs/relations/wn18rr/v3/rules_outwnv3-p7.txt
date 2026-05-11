@@ -1,0 +1,7 @@
+1	_member_of_domain_usage(A,D) <= _member_of_domain_usage(A,B), _hypernym(B,C), _hypernym(D,C)
+1	_member_of_domain_usage(A,G) <= _member_of_domain_usage(A,B), _derivationally_related_form(B,C), _derivationally_related_form(C,D), _derivationally_related_form(D,E), _derivationally_related_form(E,F), _hypernym(G,F)
+1	_member_of_domain_usage(A,C) <= _member_of_domain_usage(A,B), _hypernym(B,C)
+1	_member_of_domain_usage(A,F) <= _member_of_domain_usage(A,B), _hypernym(B,C), _hypernym(C,D), _hypernym(E,D), _hypernym(F,E)
+1	_member_of_domain_usage(A,D) <= _member_of_domain_usage(A,B), _member_of_domain_usage(C,B), _member_of_domain_usage(C,D)
+1	_member_of_domain_usage(A,G) <= _member_of_domain_usage(A,B), _hypernym(B,C), _hypernym(C,D), _hypernym(E,D), _derivationally_related_form(F,E), _hypernym(G,F)
+0.571429	_member_of_domain_usage(A,G) <= _member_of_domain_usage(A,B), _hypernym(B,C), _derivationally_related_form(C,D), _derivationally_related_form(D,E), _hypernym(F,E), _hypernym(G,F)

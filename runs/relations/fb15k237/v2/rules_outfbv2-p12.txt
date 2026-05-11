@@ -1,0 +1,7 @@
+1	/award/award_winning_work/awards_won./award/award_honor/award(A,B) <= /award/award_category/nominees./award/award_nomination/nominated_for(B,A)
+1	/award/award_winning_work/awards_won./award/award_honor/award(A,C) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(B,A), /award/award_nominee/award_nominations./award/award_nomination/award(B,C)
+0.5	/award/award_winning_work/awards_won./award/award_honor/award(A,D) <= /film/film/genre(A,B), /film/film/genre(C,B), /award/award_winning_work/awards_won./award/award_honor/award(C,D)
+0.5	/award/award_winning_work/awards_won./award/award_honor/award(A,D) <= /film/film/language(A,B), /film/film/language(C,B), /award/award_winning_work/awards_won./award/award_honor/award(C,D)
+0.5	/award/award_winning_work/awards_won./award/award_honor/award(A,D) <= /film/film/other_crew./film/film_crew_gig/film_crew_role(A,B), /film/film/other_crew./film/film_crew_gig/film_crew_role(C,B), /award/award_winning_work/awards_won./award/award_honor/award(C,D)
+1	/award/award_winning_work/awards_won./award/award_honor/award(A,E) <= /award/award_winning_work/awards_won./award/award_honor/award_winner(A,B), /people/person/gender(B,C), /people/person/gender(D,C), /award/award_nominee/award_nominations./award/award_nomination/award(D,E)
+0.5	/award/award_winning_work/awards_won./award/award_honor/award(A,D) <= /film/film/genre(A,B), /film/film/genre(C,B), /award/award_category/nominees./award/award_nomination/nominated_for(D,C)

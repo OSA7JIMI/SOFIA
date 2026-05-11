@@ -1,0 +1,3 @@
+1	concept:mammalsuchasmammal(A,C) <= concept:animalistypeofanimal(A,B), concept:animalistypeofanimal(C,B)
+1	concept:mammalsuchasmammal(A,B) <= concept:mammalsuchasmammal(B,A)
+1	concept:mammalsuchasmammal(A,D) <= concept:animalistypeofanimal(A,B), concept:animalistypeofanimal(B,C), concept:animalpreyson(D,C)

@@ -1,0 +1,4 @@
+1	/people/ethnicity/languages_spoken(A,C) <= /people/ethnicity/people(A,B), /people/person/languages(B,C)
+1	/people/ethnicity/languages_spoken(A,D) <= /people/ethnicity/languages_spoken(A,B), /language/human_language/countries_spoken_in(B,C), /location/country/official_language(C,D)
+1	/people/ethnicity/languages_spoken(A,D) <= /people/ethnicity/languages_spoken(A,B), /film/film/language(C,B), /film/film/language(C,D)
+1	/people/ethnicity/languages_spoken(A,D) <= /people/ethnicity/people(A,B), /film/actor/dubbing_performances./film/dubbing_performance/language(B,C), /education/field_of_study/students_majoring./education/education/major_field_of_study(C,D)

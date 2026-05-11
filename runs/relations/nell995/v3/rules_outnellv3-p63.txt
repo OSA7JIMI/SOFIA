@@ -1,0 +1,6 @@
+1	concept:fooddecreasestheriskofdisease(A,C) <= concept:agriculturalproductincludingagriculturalproduct(B,A), concept:fooddecreasestheriskofdisease(B,C)
+1	concept:fooddecreasestheriskofdisease(A,D) <= concept:animaleatfood(B,A), concept:animaleatfood(B,C), concept:fooddecreasestheriskofdisease(C,D)
+1	concept:fooddecreasestheriskofdisease(A,C) <= concept:agriculturalproductincludingagriculturalproduct(A,B), concept:fooddecreasestheriskofdisease(B,C)
+1	concept:fooddecreasestheriskofdisease(A,D) <= concept:fishservedwithfood(B,A), concept:fishservedwithfood(B,C), concept:fooddecreasestheriskofdisease(C,D)
+1	concept:fooddecreasestheriskofdisease(A,E) <= concept:agriculturalproductcookedwithagriculturalproduct(A,B), concept:agriculturalproductcookedwithagriculturalproduct(B,C), concept:agriculturalproductcomingfromvertebrate(C,D), concept:animaldevelopdisease(D,E)
+1	concept:fooddecreasestheriskofdisease(A,D) <= concept:objectfoundinscene(A,B), concept:agriculturalproductgrowninlandscapefeatures(C,B), concept:fooddecreasestheriskofdisease(C,D)

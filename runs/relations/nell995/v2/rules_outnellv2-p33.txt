@@ -1,0 +1,1 @@
+1	concept:istallerthan(A,C) <= concept:mutualproxyfor(A,B), concept:mutualproxyfor(C,B)

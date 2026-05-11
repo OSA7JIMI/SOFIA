@@ -1,0 +1,1516 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:atlocation
+---------------------------------
+concept:city:cincinnati concept:atlocation concept:coach:cincinnati_bengals 0
+
+concept:city:cincinnati concept:agentactsinlocation concept:coach:cincinnati_bengals 1
+concept:city:cincinnati concept:agentbelongstoorganization concept:coach:cincinnati_bengals 1
+concept:city:cincinnati concept:proxyfor concept:coach:cincinnati_bengals 1
+concept:city:cincinnati concept:subpartof concept:coach:cincinnati_bengals 1
+---------------------------------
+concept:city:washington_d_c concept:atlocation concept:port:port_angeles 1.875
+
+concept:city:washington_d_c concept:agentactsinlocation concept:port:port_angeles 1
+concept:city:washington_d_c concept:agentbelongstoorganization concept:port:port_angeles 1
+concept:city:washington_d_c concept:atdate concept:port:port_angeles 0.5
+concept:city:washington_d_c concept:cityliesonriver concept:port:port_angeles 0.2
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:port:port_angeles 1
+concept:city:washington_d_c concept:citylocatedinstate concept:port:port_angeles 1
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:port:port_angeles 1
+concept:city:washington_d_c concept:mutualproxyfor concept:port:port_angeles 1
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:port:port_angeles 1
+concept:city:washington_d_c concept:proxyfor concept:port:port_angeles 2.55
+concept:city:washington_d_c concept:subpartof concept:port:port_angeles 2
+---------------------------------
+concept:city:washington_d_c concept:atlocation concept:city:herald 1.125
+
+concept:city:washington_d_c concept:agentactsinlocation concept:city:herald 1.64197*
+concept:city:washington_d_c concept:agentbelongstoorganization concept:city:herald 1
+concept:city:washington_d_c concept:agentcompeteswithagent concept:city:herald 0.5
+concept:city:washington_d_c concept:agentcontrols concept:city:herald 1
+concept:city:washington_d_c concept:atdate concept:city:herald 0.5
+concept:city:washington_d_c concept:cityliesonriver concept:city:herald 0.2
+concept:city:washington_d_c concept:proxyfor concept:city:herald 1.05
+concept:city:washington_d_c concept:subpartof concept:city:herald 1
+---------------------------------
+concept:city:diamond_bar concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:diamond_bar concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:diamond_bar concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:diamond_bar concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:diamond_bar concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:diamond_bar concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:newark concept:atlocation concept:geopoliticallocation:national 0.5
+
+concept:city:newark concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:newark concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:newark concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:newark concept:cityliesonriver concept:geopoliticallocation:national 0.45
+concept:city:newark concept:hasofficeincountry concept:geopoliticallocation:national 0.25
+concept:city:newark concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:city:newark concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:shreveport concept:atlocation concept:geopoliticallocation:national 0.5
+
+concept:city:shreveport concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:shreveport concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:shreveport concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:shreveport concept:hasofficeincountry concept:geopoliticallocation:national 0.25
+concept:city:shreveport concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:city:shreveport concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:orlando concept:atlocation concept:stadiumoreventvenue:bob_carr_performing_arts_centre 1
+
+concept:city:orlando concept:agentactsinlocation concept:stadiumoreventvenue:bob_carr_performing_arts_centre 1
+concept:city:orlando concept:agentbelongstoorganization concept:stadiumoreventvenue:bob_carr_performing_arts_centre 1
+concept:city:orlando concept:attractionofcity concept:stadiumoreventvenue:bob_carr_performing_arts_centre 1
+concept:city:orlando concept:locationlocatedwithinlocation concept:stadiumoreventvenue:bob_carr_performing_arts_centre 1
+concept:city:orlando concept:mutualproxyfor concept:stadiumoreventvenue:bob_carr_performing_arts_centre 1
+concept:city:orlando concept:proxyfor concept:stadiumoreventvenue:bob_carr_performing_arts_centre 2.05
+concept:city:orlando concept:subpartof concept:stadiumoreventvenue:bob_carr_performing_arts_centre 2
+---------------------------------
+concept:city:new_york concept:atlocation concept:stadiumoreventvenue:hammerstein_ballroom 1.5
+
+concept:city:new_york concept:agentactsinlocation concept:stadiumoreventvenue:hammerstein_ballroom 1
+concept:city:new_york concept:agentbelongstoorganization concept:stadiumoreventvenue:hammerstein_ballroom 1
+concept:city:new_york concept:atdate concept:stadiumoreventvenue:hammerstein_ballroom 0.5
+concept:city:new_york concept:attractionofcity concept:stadiumoreventvenue:hammerstein_ballroom 1
+concept:city:new_york concept:cityliesonriver concept:stadiumoreventvenue:hammerstein_ballroom 0.2
+concept:city:new_york concept:locationlocatedwithinlocation concept:stadiumoreventvenue:hammerstein_ballroom 1
+concept:city:new_york concept:mutualproxyfor concept:stadiumoreventvenue:hammerstein_ballroom 1
+concept:city:new_york concept:proxyfor concept:stadiumoreventvenue:hammerstein_ballroom 2.05
+concept:city:new_york concept:subpartof concept:stadiumoreventvenue:hammerstein_ballroom 2
+---------------------------------
+concept:hotel:aston concept:atlocation concept:musicartist:american 0
+
+concept:hotel:aston concept:agentactsinlocation concept:musicartist:american 2
+concept:hotel:aston concept:agentbelongstoorganization concept:musicartist:american 1
+concept:hotel:aston concept:proxyfor concept:musicartist:american 1
+concept:hotel:aston concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:huntsville concept:atlocation concept:geopoliticallocation:national 0.5
+
+concept:city:huntsville concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:huntsville concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:huntsville concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:huntsville concept:hasofficeincountry concept:geopoliticallocation:national 0.25
+concept:city:huntsville concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:huntsville concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:river:arts concept:atlocation concept:programminglanguage:the_new 1.5
+
+concept:river:arts concept:agentactsinlocation concept:programminglanguage:the_new 1
+concept:river:arts concept:agentbelongstoorganization concept:programminglanguage:the_new 1
+concept:river:arts concept:atdate concept:programminglanguage:the_new 0.5
+concept:river:arts concept:citylocatedingeopoliticallocation concept:programminglanguage:the_new 1
+concept:river:arts concept:citylocatedinstate concept:programminglanguage:the_new 1
+concept:river:arts concept:locationlocatedwithinlocation concept:programminglanguage:the_new 1
+concept:river:arts concept:mutualproxyfor concept:programminglanguage:the_new 1
+concept:river:arts concept:personleadsgeopoliticalorganization concept:programminglanguage:the_new 1
+concept:river:arts concept:proxyfor concept:programminglanguage:the_new 3.21667
+concept:river:arts concept:subpartof concept:programminglanguage:the_new 3*
+---------------------------------
+concept:beach:massachusetts concept:atlocation concept:city:amherst 1.75
+
+concept:beach:massachusetts concept:agentactsinlocation concept:city:amherst 1
+concept:beach:massachusetts concept:agentbelongstoorganization concept:city:amherst 1
+concept:beach:massachusetts concept:agentcontrols concept:city:amherst 1
+concept:beach:massachusetts concept:citylocatedincountry concept:city:amherst 1
+concept:beach:massachusetts concept:citylocatedingeopoliticallocation concept:city:amherst 1
+concept:beach:massachusetts concept:citylocatedinstate concept:city:amherst 2
+concept:beach:massachusetts concept:lakeinstate concept:city:amherst 0.5
+concept:beach:massachusetts concept:locationlocatedwithinlocation concept:city:amherst 2
+concept:beach:massachusetts concept:mutualproxyfor concept:city:amherst 1
+concept:beach:massachusetts concept:personleadsgeopoliticalorganization concept:city:amherst 1
+concept:beach:massachusetts concept:politicianrepresentslocation concept:city:amherst 1
+concept:beach:massachusetts concept:proxyfor concept:city:amherst 2*
+concept:beach:massachusetts concept:subpartof concept:city:amherst 3
+---------------------------------
+concept:city:new_haven concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:new_haven concept:agentactsinlocation concept:geopoliticallocation:national 1
+concept:city:new_haven concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:new_haven concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:new_haven concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:new_haven concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:geopoliticalorganization:pasadena concept:atlocation concept:musicartist:american 0.25
+
+concept:geopoliticalorganization:pasadena concept:agentactsinlocation concept:musicartist:american 1*
+concept:geopoliticalorganization:pasadena concept:agentbelongstoorganization concept:musicartist:american 1
+concept:geopoliticalorganization:pasadena concept:agentcontrols concept:musicartist:american 1
+concept:geopoliticalorganization:pasadena concept:proxyfor concept:musicartist:american 1
+concept:geopoliticalorganization:pasadena concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:airport:jersey concept:atlocation concept:company:new_york 0.25
+
+concept:airport:jersey concept:agentactsinlocation concept:company:new_york 1*
+concept:airport:jersey concept:agentbelongstoorganization concept:company:new_york 1
+concept:airport:jersey concept:agentcontrols concept:company:new_york 1
+concept:airport:jersey concept:competeswith concept:company:new_york 0.5
+concept:airport:jersey concept:proxyfor concept:company:new_york 1
+concept:airport:jersey concept:subpartof concept:company:new_york 1.31746
+---------------------------------
+concept:retailstore:burlington concept:atlocation concept:musicartist:american 1.125
+
+concept:retailstore:burlington concept:agentactsinlocation concept:musicartist:american 2.64197*
+concept:retailstore:burlington concept:agentbelongstoorganization concept:musicartist:american 1
+concept:retailstore:burlington concept:agentcontrols concept:musicartist:american 1
+concept:retailstore:burlington concept:proxyfor concept:musicartist:american 1.55
+concept:retailstore:burlington concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:phoenix concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:phoenix concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:phoenix concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:phoenix concept:atdate concept:geopoliticallocation:national 1
+concept:city:phoenix concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:phoenix concept:cityliesonriver concept:geopoliticallocation:national 0.45
+concept:city:phoenix concept:organizationhiredperson concept:geopoliticallocation:national 0.5
+concept:city:phoenix concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:city:phoenix concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:trainstation:covina concept:atlocation concept:musicartist:american 0.25
+
+concept:trainstation:covina concept:agentactsinlocation concept:musicartist:american 2*
+concept:trainstation:covina concept:agentbelongstoorganization concept:musicartist:american 1
+concept:trainstation:covina concept:agentcontrols concept:musicartist:american 1
+concept:trainstation:covina concept:proxyfor concept:musicartist:american 1
+concept:trainstation:covina concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:hotel:alpine concept:atlocation concept:musicartist:american 0.25
+
+concept:hotel:alpine concept:agentactsinlocation concept:musicartist:american 2*
+concept:hotel:alpine concept:agentbelongstoorganization concept:musicartist:american 1
+concept:hotel:alpine concept:agentcontrols concept:musicartist:american 1
+concept:hotel:alpine concept:proxyfor concept:musicartist:american 1
+concept:hotel:alpine concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:stateorprovince:metairie concept:atlocation concept:university:national 0.25
+
+concept:stateorprovince:metairie concept:agentactsinlocation concept:university:national 1*
+concept:stateorprovince:metairie concept:agentbelongstoorganization concept:university:national 1
+concept:stateorprovince:metairie concept:agentcontrols concept:university:national 1
+concept:stateorprovince:metairie concept:proxyfor concept:university:national 1.05
+concept:stateorprovince:metairie concept:subpartof concept:university:national 1
+---------------------------------
+concept:county:los_angeles_county concept:atlocation concept:geopoliticallocation:national 0
+
+concept:county:los_angeles_county concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:county:los_angeles_county concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:county:los_angeles_county concept:atdate concept:geopoliticallocation:national 1
+concept:county:los_angeles_county concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:county:los_angeles_county concept:organizationhiredperson concept:geopoliticallocation:national 0.5
+concept:county:los_angeles_county concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:county:los_angeles_county concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:knoxville concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:knoxville concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:knoxville concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:knoxville concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:knoxville concept:cityliesonriver concept:geopoliticallocation:national 0.45
+concept:city:knoxville concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:knoxville concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:visualizablething:berwyn concept:atlocation concept:musicartist:american 0
+
+concept:visualizablething:berwyn concept:agentactsinlocation concept:musicartist:american 1
+concept:visualizablething:berwyn concept:agentbelongstoorganization concept:musicartist:american 1
+concept:visualizablething:berwyn concept:proxyfor concept:musicartist:american 1
+concept:visualizablething:berwyn concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:geopoliticallocation:cerritos concept:atlocation concept:musicartist:american 0
+
+concept:geopoliticallocation:cerritos concept:agentactsinlocation concept:musicartist:american 1
+concept:geopoliticallocation:cerritos concept:agentbelongstoorganization concept:musicartist:american 1
+concept:geopoliticallocation:cerritos concept:proxyfor concept:musicartist:american 1
+concept:geopoliticallocation:cerritos concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:trainstation:glenview concept:atlocation concept:musicartist:american 0.25
+
+concept:trainstation:glenview concept:agentactsinlocation concept:musicartist:american 2*
+concept:trainstation:glenview concept:agentbelongstoorganization concept:musicartist:american 1
+concept:trainstation:glenview concept:agentcontrols concept:musicartist:american 1
+concept:trainstation:glenview concept:proxyfor concept:musicartist:american 1
+concept:trainstation:glenview concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:highway:lakewood concept:atlocation concept:musicartist:american 0.375
+
+concept:highway:lakewood concept:agentactsinlocation concept:musicartist:american 1.64197
+concept:highway:lakewood concept:agentbelongstoorganization concept:musicartist:american 1
+concept:highway:lakewood concept:proxyfor concept:musicartist:american 1
+concept:highway:lakewood concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:littleton concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:littleton concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:littleton concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:littleton concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:littleton concept:cityliesonriver concept:geopoliticallocation:national 0.45
+concept:city:littleton concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:littleton concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:stateorprovince:auburn concept:atlocation concept:musicartist:american 1
+
+concept:stateorprovince:auburn concept:agentactsinlocation concept:musicartist:american 3*
+concept:stateorprovince:auburn concept:agentbelongstoorganization concept:musicartist:american 1
+concept:stateorprovince:auburn concept:agentcontrols concept:musicartist:american 1
+concept:stateorprovince:auburn concept:proxyfor concept:musicartist:american 1.55
+concept:stateorprovince:auburn concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:ladera_ranch concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:ladera_ranch concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:ladera_ranch concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:ladera_ranch concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:ladera_ranch concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:ladera_ranch concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:geopoliticallocation:ambler concept:atlocation concept:musicartist:american 0
+
+concept:geopoliticallocation:ambler concept:agentactsinlocation concept:musicartist:american 1
+concept:geopoliticallocation:ambler concept:agentbelongstoorganization concept:musicartist:american 1
+concept:geopoliticallocation:ambler concept:proxyfor concept:musicartist:american 1
+concept:geopoliticallocation:ambler concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:washington_d_c concept:atlocation concept:hotel:pullman 0.875
+
+concept:city:washington_d_c concept:agentactsinlocation concept:hotel:pullman 1
+concept:city:washington_d_c concept:agentbelongstoorganization concept:hotel:pullman 1
+concept:city:washington_d_c concept:atdate concept:hotel:pullman 0.5
+concept:city:washington_d_c concept:cityliesonriver concept:hotel:pullman 0.2
+concept:city:washington_d_c concept:proxyfor concept:hotel:pullman 1.05
+concept:city:washington_d_c concept:subpartof concept:hotel:pullman 1
+---------------------------------
+concept:geopoliticalorganization:costa_mesa concept:atlocation concept:musicartist:american 0
+
+concept:geopoliticalorganization:costa_mesa concept:agentactsinlocation concept:musicartist:american 1
+concept:geopoliticalorganization:costa_mesa concept:agentbelongstoorganization concept:musicartist:american 1
+concept:geopoliticalorganization:costa_mesa concept:proxyfor concept:musicartist:american 1
+concept:geopoliticalorganization:costa_mesa concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:san_antonio concept:atlocation concept:stadiumoreventvenue:sbc_bricktown_ballpark 0.375
+
+concept:city:san_antonio concept:agentactsinlocation concept:stadiumoreventvenue:sbc_bricktown_ballpark 1
+concept:city:san_antonio concept:agentbelongstoorganization concept:stadiumoreventvenue:sbc_bricktown_ballpark 1
+concept:city:san_antonio concept:proxyfor concept:stadiumoreventvenue:sbc_bricktown_ballpark 1
+concept:city:san_antonio concept:subpartof concept:stadiumoreventvenue:sbc_bricktown_ballpark 1
+---------------------------------
+concept:city:providence concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:providence concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:providence concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:providence concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:providence concept:cityliesonriver concept:geopoliticallocation:national 0.45
+concept:city:providence concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:city:providence concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:new_york concept:atlocation concept:stadiumoreventvenue:irving_plaza 1.5
+
+concept:city:new_york concept:agentactsinlocation concept:stadiumoreventvenue:irving_plaza 1
+concept:city:new_york concept:agentbelongstoorganization concept:stadiumoreventvenue:irving_plaza 1
+concept:city:new_york concept:atdate concept:stadiumoreventvenue:irving_plaza 0.5
+concept:city:new_york concept:attractionofcity concept:stadiumoreventvenue:irving_plaza 1
+concept:city:new_york concept:cityliesonriver concept:stadiumoreventvenue:irving_plaza 0.2
+concept:city:new_york concept:locationlocatedwithinlocation concept:stadiumoreventvenue:irving_plaza 1
+concept:city:new_york concept:mutualproxyfor concept:stadiumoreventvenue:irving_plaza 1
+concept:city:new_york concept:proxyfor concept:stadiumoreventvenue:irving_plaza 2.05
+concept:city:new_york concept:subpartof concept:stadiumoreventvenue:irving_plaza 2
+---------------------------------
+concept:city:washington_d_c concept:atlocation concept:university:auburn 0.875
+
+concept:city:washington_d_c concept:agentactsinlocation concept:university:auburn 1
+concept:city:washington_d_c concept:agentbelongstoorganization concept:university:auburn 1
+concept:city:washington_d_c concept:agentcompeteswithagent concept:university:auburn 0.0595295
+concept:city:washington_d_c concept:atdate concept:university:auburn 0.75
+concept:city:washington_d_c concept:cityliesonriver concept:university:auburn 0.2
+concept:city:washington_d_c concept:organizationhiredperson concept:university:auburn 0.5
+concept:city:washington_d_c concept:proxyfor concept:university:auburn 1.05
+concept:city:washington_d_c concept:subpartof concept:university:auburn 1
+concept:city:washington_d_c concept:synonymfor concept:university:auburn 0.5
+---------------------------------
+concept:beach:fort_worth concept:atlocation concept:musicartist:american 0
+
+concept:beach:fort_worth concept:agentactsinlocation concept:musicartist:american 2
+concept:beach:fort_worth concept:agentbelongstoorganization concept:musicartist:american 1
+concept:beach:fort_worth concept:proxyfor concept:musicartist:american 1
+concept:beach:fort_worth concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:st_louis concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:st_louis concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:st_louis concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:st_louis concept:agentcollaborateswithagent concept:geopoliticallocation:national 0.091032
+concept:city:st_louis concept:atdate concept:geopoliticallocation:national 1
+concept:city:st_louis concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:st_louis concept:cityliesonriver concept:geopoliticallocation:national 0.45
+concept:city:st_louis concept:organizationhiredperson concept:geopoliticallocation:national 0.5
+concept:city:st_louis concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:city:st_louis concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:park:pearland concept:atlocation concept:musicartist:american 0
+
+concept:park:pearland concept:agentactsinlocation concept:musicartist:american 1
+concept:park:pearland concept:agentbelongstoorganization concept:musicartist:american 1
+concept:park:pearland concept:proxyfor concept:musicartist:american 1
+concept:park:pearland concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:washington_d_c concept:atlocation concept:highway:lakewood 1
+
+concept:city:washington_d_c concept:agentactsinlocation concept:highway:lakewood 1
+concept:city:washington_d_c concept:agentbelongstoorganization concept:highway:lakewood 1
+concept:city:washington_d_c concept:atdate concept:highway:lakewood 0.666667
+concept:city:washington_d_c concept:cityliesonriver concept:highway:lakewood 0.2
+concept:city:washington_d_c concept:mutualproxyfor concept:highway:lakewood 0.5*
+concept:city:washington_d_c concept:proxyfor concept:highway:lakewood 1.55
+concept:city:washington_d_c concept:subpartof concept:highway:lakewood 1.5
+concept:city:washington_d_c concept:subpartoforganization concept:highway:lakewood 0.109162
+---------------------------------
+concept:city:atlanta concept:atlocation concept:stadiumoreventvenue:cobb_energy_performing_arts_centre 1
+
+concept:city:atlanta concept:agentactsinlocation concept:stadiumoreventvenue:cobb_energy_performing_arts_centre 1
+concept:city:atlanta concept:agentbelongstoorganization concept:stadiumoreventvenue:cobb_energy_performing_arts_centre 1
+concept:city:atlanta concept:attractionofcity concept:stadiumoreventvenue:cobb_energy_performing_arts_centre 1
+concept:city:atlanta concept:cityliesonriver concept:stadiumoreventvenue:cobb_energy_performing_arts_centre 0.2
+concept:city:atlanta concept:locationlocatedwithinlocation concept:stadiumoreventvenue:cobb_energy_performing_arts_centre 1
+concept:city:atlanta concept:mutualproxyfor concept:stadiumoreventvenue:cobb_energy_performing_arts_centre 1
+concept:city:atlanta concept:proxyfor concept:stadiumoreventvenue:cobb_energy_performing_arts_centre 2.05
+concept:city:atlanta concept:subpartof concept:stadiumoreventvenue:cobb_energy_performing_arts_centre 2
+---------------------------------
+concept:city:washington_d_c concept:atlocation concept:politicsblog:republic 0.875
+
+concept:city:washington_d_c concept:agentactsinlocation concept:politicsblog:republic 1
+concept:city:washington_d_c concept:agentbelongstoorganization concept:politicsblog:republic 1
+concept:city:washington_d_c concept:atdate concept:politicsblog:republic 0.5
+concept:city:washington_d_c concept:cityliesonriver concept:politicsblog:republic 0.2
+concept:city:washington_d_c concept:proxyfor concept:politicsblog:republic 1.05
+concept:city:washington_d_c concept:subpartof concept:politicsblog:republic 1
+---------------------------------
+concept:highway:charlestown concept:atlocation concept:musicartist:american 0
+
+concept:highway:charlestown concept:agentactsinlocation concept:musicartist:american 1
+concept:highway:charlestown concept:agentbelongstoorganization concept:musicartist:american 1
+concept:highway:charlestown concept:proxyfor concept:musicartist:american 1
+concept:highway:charlestown concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:beach:massachusetts concept:atlocation concept:street:arlington 0
+
+concept:beach:massachusetts concept:agentactsinlocation concept:street:arlington 1
+concept:beach:massachusetts concept:agentbelongstoorganization concept:street:arlington 1
+concept:beach:massachusetts concept:proxyfor concept:street:arlington 1
+concept:beach:massachusetts concept:subpartof concept:street:arlington 1
+---------------------------------
+concept:city:foothill_ranch concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:foothill_ranch concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:foothill_ranch concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:foothill_ranch concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:foothill_ranch concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:foothill_ranch concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:orlando concept:atlocation concept:stadiumoreventvenue:amway_arena 1
+
+concept:city:orlando concept:agentactsinlocation concept:stadiumoreventvenue:amway_arena 1
+concept:city:orlando concept:agentbelongstoorganization concept:stadiumoreventvenue:amway_arena 1
+concept:city:orlando concept:attractionofcity concept:stadiumoreventvenue:amway_arena 1
+concept:city:orlando concept:locationlocatedwithinlocation concept:stadiumoreventvenue:amway_arena 1
+concept:city:orlando concept:mutualproxyfor concept:stadiumoreventvenue:amway_arena 1
+concept:city:orlando concept:proxyfor concept:stadiumoreventvenue:amway_arena 2.05
+concept:city:orlando concept:subpartof concept:stadiumoreventvenue:amway_arena 2
+---------------------------------
+concept:stateorprovince:morning concept:atlocation concept:university:national 0
+
+concept:stateorprovince:morning concept:agentactsinlocation concept:university:national 1
+concept:stateorprovince:morning concept:agentbelongstoorganization concept:university:national 1
+concept:stateorprovince:morning concept:proxyfor concept:university:national 1
+concept:stateorprovince:morning concept:subpartof concept:university:national 1
+---------------------------------
+concept:beach:massachusetts concept:atlocation concept:beverage:plymouth 1
+
+concept:beach:massachusetts concept:agentactsinlocation concept:beverage:plymouth 1
+concept:beach:massachusetts concept:agentbelongstoorganization concept:beverage:plymouth 1
+concept:beach:massachusetts concept:atdate concept:beverage:plymouth 0.0161079
+concept:beach:massachusetts concept:citylocatedingeopoliticallocation concept:beverage:plymouth 1
+concept:beach:massachusetts concept:citylocatedinstate concept:beverage:plymouth 1
+concept:beach:massachusetts concept:locationlocatedwithinlocation concept:beverage:plymouth 1
+concept:beach:massachusetts concept:mutualproxyfor concept:beverage:plymouth 1.5*
+concept:beach:massachusetts concept:personleadsgeopoliticalorganization concept:beverage:plymouth 1
+concept:beach:massachusetts concept:proxyfor concept:beverage:plymouth 2
+concept:beach:massachusetts concept:subpartof concept:beverage:plymouth 2
+---------------------------------
+concept:stateorprovince:waipahu concept:atlocation concept:musicartist:american 0.25
+
+concept:stateorprovince:waipahu concept:agentactsinlocation concept:musicartist:american 1*
+concept:stateorprovince:waipahu concept:agentbelongstoorganization concept:musicartist:american 1
+concept:stateorprovince:waipahu concept:agentcontrols concept:musicartist:american 1
+concept:stateorprovince:waipahu concept:proxyfor concept:musicartist:american 1
+concept:stateorprovince:waipahu concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:el_segundo concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:el_segundo concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:el_segundo concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:el_segundo concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:el_segundo concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:el_segundo concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:bridge:ford concept:atlocation concept:musicartist:american 0.25
+
+concept:bridge:ford concept:agentactsinlocation concept:musicartist:american 2*
+concept:bridge:ford concept:agentbelongstoorganization concept:musicartist:american 1
+concept:bridge:ford concept:agentcontrols concept:musicartist:american 1
+concept:bridge:ford concept:proxyfor concept:musicartist:american 1
+concept:bridge:ford concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:beach:massachusetts concept:atlocation concept:county:salem 1.75
+
+concept:beach:massachusetts concept:agentactsinlocation concept:county:salem 1
+concept:beach:massachusetts concept:agentbelongstoorganization concept:county:salem 1
+concept:beach:massachusetts concept:agentcontrols concept:county:salem 1
+concept:beach:massachusetts concept:citylocatedincountry concept:county:salem 1
+concept:beach:massachusetts concept:citylocatedingeopoliticallocation concept:county:salem 1
+concept:beach:massachusetts concept:citylocatedinstate concept:county:salem 2
+concept:beach:massachusetts concept:lakeinstate concept:county:salem 0.5
+concept:beach:massachusetts concept:locationlocatedwithinlocation concept:county:salem 2
+concept:beach:massachusetts concept:mutualproxyfor concept:county:salem 1
+concept:beach:massachusetts concept:personleadsgeopoliticalorganization concept:county:salem 1
+concept:beach:massachusetts concept:politicianrepresentslocation concept:county:salem 1
+concept:beach:massachusetts concept:proxyfor concept:county:salem 2*
+concept:beach:massachusetts concept:subpartof concept:county:salem 3.31746
+---------------------------------
+concept:shoppingmall:chestnut_hill concept:atlocation concept:musicartist:american 0
+
+concept:shoppingmall:chestnut_hill concept:agentactsinlocation concept:musicartist:american 1
+concept:shoppingmall:chestnut_hill concept:agentbelongstoorganization concept:musicartist:american 1
+concept:shoppingmall:chestnut_hill concept:proxyfor concept:musicartist:american 1
+concept:shoppingmall:chestnut_hill concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:governmentorganization:rancho_santa_margarita concept:atlocation concept:musicartist:american 0
+
+concept:governmentorganization:rancho_santa_margarita concept:agentactsinlocation concept:musicartist:american 1
+concept:governmentorganization:rancho_santa_margarita concept:agentbelongstoorganization concept:musicartist:american 1
+concept:governmentorganization:rancho_santa_margarita concept:proxyfor concept:musicartist:american 1
+concept:governmentorganization:rancho_santa_margarita concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:artesia concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:artesia concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:artesia concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:artesia concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:artesia concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:artesia concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:beach:massachusetts concept:atlocation concept:county:newton 1.75
+
+concept:beach:massachusetts concept:agentactsinlocation concept:county:newton 1
+concept:beach:massachusetts concept:agentbelongstoorganization concept:county:newton 1
+concept:beach:massachusetts concept:agentcontrols concept:county:newton 1
+concept:beach:massachusetts concept:citylocatedincountry concept:county:newton 1
+concept:beach:massachusetts concept:citylocatedingeopoliticallocation concept:county:newton 1
+concept:beach:massachusetts concept:citylocatedinstate concept:county:newton 2
+concept:beach:massachusetts concept:lakeinstate concept:county:newton 0.5
+concept:beach:massachusetts concept:locationlocatedwithinlocation concept:county:newton 2
+concept:beach:massachusetts concept:mutualproxyfor concept:county:newton 1
+concept:beach:massachusetts concept:personleadsgeopoliticalorganization concept:county:newton 1
+concept:beach:massachusetts concept:politicianrepresentslocation concept:county:newton 1
+concept:beach:massachusetts concept:proxyfor concept:county:newton 2*
+concept:beach:massachusetts concept:subpartof concept:county:newton 3.31746
+---------------------------------
+concept:stateorprovince:new_jersey concept:atlocation concept:county:jersey_city 0.75
+
+concept:stateorprovince:new_jersey concept:agentactsinlocation concept:county:jersey_city 1
+concept:stateorprovince:new_jersey concept:agentbelongstoorganization concept:county:jersey_city 1
+concept:stateorprovince:new_jersey concept:atdate concept:county:jersey_city 1.03872
+concept:stateorprovince:new_jersey concept:lakeinstate concept:county:jersey_city 0.5
+concept:stateorprovince:new_jersey concept:mutualproxyfor concept:county:jersey_city 0.5
+concept:stateorprovince:new_jersey concept:proxyfor concept:county:jersey_city 1
+concept:stateorprovince:new_jersey concept:subpartof concept:county:jersey_city 1
+---------------------------------
+concept:museum:cedarhurst concept:atlocation concept:musicartist:american 0.25
+
+concept:museum:cedarhurst concept:agentactsinlocation concept:musicartist:american 2*
+concept:museum:cedarhurst concept:agentbelongstoorganization concept:musicartist:american 1
+concept:museum:cedarhurst concept:agentcontrols concept:musicartist:american 1
+concept:museum:cedarhurst concept:proxyfor concept:musicartist:american 1
+concept:museum:cedarhurst concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:hotel:fullerton concept:atlocation concept:musicartist:american 0.25
+
+concept:hotel:fullerton concept:agentactsinlocation concept:musicartist:american 2*
+concept:hotel:fullerton concept:agentbelongstoorganization concept:musicartist:american 1
+concept:hotel:fullerton concept:agentcontrols concept:musicartist:american 1
+concept:hotel:fullerton concept:proxyfor concept:musicartist:american 1
+concept:hotel:fullerton concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:hotel:westminster concept:atlocation concept:musicartist:american 0
+
+concept:hotel:westminster concept:agentactsinlocation concept:musicartist:american 2
+concept:hotel:westminster concept:agentbelongstoorganization concept:musicartist:american 1
+concept:hotel:westminster concept:proxyfor concept:musicartist:american 1
+concept:hotel:westminster concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:bala_cynwyd concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:bala_cynwyd concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:bala_cynwyd concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:bala_cynwyd concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:bala_cynwyd concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:bala_cynwyd concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:building:san_jose_convention_center concept:atlocation concept:university:san_jose_state 0
+
+concept:building:san_jose_convention_center concept:agentactsinlocation concept:university:san_jose_state 1
+concept:building:san_jose_convention_center concept:agentbelongstoorganization concept:university:san_jose_state 1
+concept:building:san_jose_convention_center concept:proxyfor concept:university:san_jose_state 1
+concept:building:san_jose_convention_center concept:subpartof concept:university:san_jose_state 1
+---------------------------------
+concept:city:charlotte concept:atlocation concept:stadiumoreventvenue:time_warner_cable_arena 1
+
+concept:city:charlotte concept:agentactsinlocation concept:stadiumoreventvenue:time_warner_cable_arena 1
+concept:city:charlotte concept:agentbelongstoorganization concept:stadiumoreventvenue:time_warner_cable_arena 1
+concept:city:charlotte concept:atdate concept:stadiumoreventvenue:time_warner_cable_arena 0.5
+concept:city:charlotte concept:attractionofcity concept:stadiumoreventvenue:time_warner_cable_arena 1
+concept:city:charlotte concept:locationlocatedwithinlocation concept:stadiumoreventvenue:time_warner_cable_arena 1
+concept:city:charlotte concept:mutualproxyfor concept:stadiumoreventvenue:time_warner_cable_arena 1
+concept:city:charlotte concept:proxyfor concept:stadiumoreventvenue:time_warner_cable_arena 2.05
+concept:city:charlotte concept:subpartof concept:stadiumoreventvenue:time_warner_cable_arena 2
+---------------------------------
+concept:city:birchrunville concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:birchrunville concept:agentactsinlocation concept:geopoliticallocation:national 1
+concept:city:birchrunville concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:birchrunville concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:birchrunville concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:birchrunville concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:stateorprovince:new_jersey concept:atlocation concept:city:east_orange 1.5
+
+concept:stateorprovince:new_jersey concept:agentactsinlocation concept:city:east_orange 1
+concept:stateorprovince:new_jersey concept:agentbelongstoorganization concept:city:east_orange 1
+concept:stateorprovince:new_jersey concept:agentcontrols concept:city:east_orange 1
+concept:stateorprovince:new_jersey concept:atdate concept:city:east_orange 1.01828
+concept:stateorprovince:new_jersey concept:citylocatedincountry concept:city:east_orange 1
+concept:stateorprovince:new_jersey concept:citylocatedinstate concept:city:east_orange 1
+concept:stateorprovince:new_jersey concept:lakeinstate concept:city:east_orange 0.5
+concept:stateorprovince:new_jersey concept:locationlocatedwithinlocation concept:city:east_orange 1
+concept:stateorprovince:new_jersey concept:politicianrepresentslocation concept:city:east_orange 1
+concept:stateorprovince:new_jersey concept:proxyfor concept:city:east_orange 1*
+concept:stateorprovince:new_jersey concept:subpartof concept:city:east_orange 2
+---------------------------------
+concept:county:columbus concept:atlocation concept:sportsteam:blue_jackets 0
+
+concept:county:columbus concept:agentactsinlocation concept:sportsteam:blue_jackets 1
+concept:county:columbus concept:agentbelongstoorganization concept:sportsteam:blue_jackets 1
+concept:county:columbus concept:proxyfor concept:sportsteam:blue_jackets 1.05
+concept:county:columbus concept:subpartof concept:sportsteam:blue_jackets 1
+---------------------------------
+concept:company:national_city concept:atlocation concept:musicartist:american 0.25
+
+concept:company:national_city concept:agentactsinlocation concept:musicartist:american 2*
+concept:company:national_city concept:agentbelongstoorganization concept:musicartist:american 1
+concept:company:national_city concept:agentcontrols concept:musicartist:american 1
+concept:company:national_city concept:proxyfor concept:musicartist:american 1
+concept:company:national_city concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:edmonton concept:atlocation concept:coach:houston_oilers 0
+
+concept:city:edmonton concept:agentactsinlocation concept:coach:houston_oilers 1
+concept:city:edmonton concept:agentbelongstoorganization concept:coach:houston_oilers 1
+concept:city:edmonton concept:atdate concept:coach:houston_oilers 0.5
+concept:city:edmonton concept:proxyfor concept:coach:houston_oilers 1
+concept:city:edmonton concept:subpartof concept:coach:houston_oilers 1
+---------------------------------
+concept:city:san_diego concept:atlocation concept:stadiumoreventvenue:viejas_arena 1
+
+concept:city:san_diego concept:agentactsinlocation concept:stadiumoreventvenue:viejas_arena 1
+concept:city:san_diego concept:agentbelongstoorganization concept:stadiumoreventvenue:viejas_arena 1
+concept:city:san_diego concept:attractionofcity concept:stadiumoreventvenue:viejas_arena 1
+concept:city:san_diego concept:locationlocatedwithinlocation concept:stadiumoreventvenue:viejas_arena 1
+concept:city:san_diego concept:mutualproxyfor concept:stadiumoreventvenue:viejas_arena 1
+concept:city:san_diego concept:proxyfor concept:stadiumoreventvenue:viejas_arena 2.05
+concept:city:san_diego concept:subpartof concept:stadiumoreventvenue:viejas_arena 2
+---------------------------------
+concept:museum:benton concept:atlocation concept:musicartist:american 0.25
+
+concept:museum:benton concept:agentactsinlocation concept:musicartist:american 2*
+concept:museum:benton concept:agentbelongstoorganization concept:musicartist:american 1
+concept:museum:benton concept:agentcontrols concept:musicartist:american 1
+concept:museum:benton concept:proxyfor concept:musicartist:american 1
+concept:museum:benton concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:albuquerque concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:albuquerque concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:albuquerque concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:albuquerque concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:albuquerque concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:city:albuquerque concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:indianapolis concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:indianapolis concept:agentactsinlocation concept:geopoliticallocation:national 2.14197
+concept:city:indianapolis concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:indianapolis concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:indianapolis concept:mutualproxyfor concept:geopoliticallocation:national 0.5
+concept:city:indianapolis concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:city:indianapolis concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:retailstore:sherwood concept:atlocation concept:musicartist:american 0
+
+concept:retailstore:sherwood concept:agentactsinlocation concept:musicartist:american 1
+concept:retailstore:sherwood concept:agentbelongstoorganization concept:musicartist:american 1
+concept:retailstore:sherwood concept:proxyfor concept:musicartist:american 1
+concept:retailstore:sherwood concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:county:midway_city concept:atlocation concept:geopoliticallocation:national 0
+
+concept:county:midway_city concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:county:midway_city concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:county:midway_city concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:county:midway_city concept:proxyfor concept:geopoliticallocation:national 1
+concept:county:midway_city concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:beach:massachusetts concept:atlocation concept:winery:framingham 1
+
+concept:beach:massachusetts concept:agentactsinlocation concept:winery:framingham 1
+concept:beach:massachusetts concept:agentbelongstoorganization concept:winery:framingham 1
+concept:beach:massachusetts concept:atdate concept:winery:framingham 0.0161079
+concept:beach:massachusetts concept:citylocatedingeopoliticallocation concept:winery:framingham 1
+concept:beach:massachusetts concept:citylocatedinstate concept:winery:framingham 1
+concept:beach:massachusetts concept:locationlocatedwithinlocation concept:winery:framingham 1
+concept:beach:massachusetts concept:mutualproxyfor concept:winery:framingham 1.5*
+concept:beach:massachusetts concept:personleadsgeopoliticalorganization concept:winery:framingham 1
+concept:beach:massachusetts concept:proxyfor concept:winery:framingham 2
+concept:beach:massachusetts concept:subpartof concept:winery:framingham 2
+---------------------------------
+concept:stateorprovince:oklahoma concept:atlocation concept:geopoliticallocation:bethany 0
+
+concept:stateorprovince:oklahoma concept:agentactsinlocation concept:geopoliticallocation:bethany 1
+concept:stateorprovince:oklahoma concept:agentbelongstoorganization concept:geopoliticallocation:bethany 1
+concept:stateorprovince:oklahoma concept:proxyfor concept:geopoliticallocation:bethany 1
+concept:stateorprovince:oklahoma concept:subpartof concept:geopoliticallocation:bethany 1
+---------------------------------
+concept:visualizablething:elmhurst concept:atlocation concept:musicartist:american 0.25
+
+concept:visualizablething:elmhurst concept:agentactsinlocation concept:musicartist:american 2*
+concept:visualizablething:elmhurst concept:agentbelongstoorganization concept:musicartist:american 1
+concept:visualizablething:elmhurst concept:agentcontrols concept:musicartist:american 1
+concept:visualizablething:elmhurst concept:proxyfor concept:musicartist:american 1
+concept:visualizablething:elmhurst concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:geopoliticallocation:bethany concept:atlocation concept:geopoliticallocation:national 0.375
+
+concept:geopoliticallocation:bethany concept:agentactsinlocation concept:geopoliticallocation:national 1.5
+concept:geopoliticallocation:bethany concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:geopoliticallocation:bethany concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:geopoliticallocation:bethany concept:proxyfor concept:geopoliticallocation:national 1
+concept:geopoliticallocation:bethany concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:building:santa_fe concept:atlocation concept:musicartist:american 0
+
+concept:building:santa_fe concept:agentactsinlocation concept:musicartist:american 1
+concept:building:santa_fe concept:agentbelongstoorganization concept:musicartist:american 1
+concept:building:santa_fe concept:proxyfor concept:musicartist:american 1
+concept:building:santa_fe concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:san_juan_capistrano concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:san_juan_capistrano concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:san_juan_capistrano concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:san_juan_capistrano concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:san_juan_capistrano concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:san_juan_capistrano concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:building:glendale concept:atlocation concept:musicartist:american 0.25
+
+concept:building:glendale concept:agentactsinlocation concept:musicartist:american 1*
+concept:building:glendale concept:agentbelongstoorganization concept:musicartist:american 1
+concept:building:glendale concept:agentcontrols concept:musicartist:american 1
+concept:building:glendale concept:proxyfor concept:musicartist:american 1
+concept:building:glendale concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:landscapefeatures:old concept:atlocation concept:criminal:baton_rouge 0
+
+concept:landscapefeatures:old concept:agentactsinlocation concept:criminal:baton_rouge 1
+concept:landscapefeatures:old concept:agentbelongstoorganization concept:criminal:baton_rouge 1
+concept:landscapefeatures:old concept:proxyfor concept:criminal:baton_rouge 1
+concept:landscapefeatures:old concept:subpartof concept:criminal:baton_rouge 1.31746
+---------------------------------
+concept:county:columbus concept:atlocation concept:city:huntington_park 0
+
+concept:county:columbus concept:agentactsinlocation concept:city:huntington_park 1
+concept:county:columbus concept:agentbelongstoorganization concept:city:huntington_park 1
+concept:county:columbus concept:proxyfor concept:city:huntington_park 1.05
+concept:county:columbus concept:subpartof concept:city:huntington_park 1
+---------------------------------
+concept:city:white_river_junction concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:white_river_junction concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:white_river_junction concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:white_river_junction concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:white_river_junction concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:white_river_junction concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:planet:aurora concept:atlocation concept:musicartist:american 0.25
+
+concept:planet:aurora concept:agentactsinlocation concept:musicartist:american 2*
+concept:planet:aurora concept:agentbelongstoorganization concept:musicartist:american 1
+concept:planet:aurora concept:agentcontrols concept:musicartist:american 1
+concept:planet:aurora concept:proxyfor concept:musicartist:american 1
+concept:planet:aurora concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:greenwood concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:greenwood concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:greenwood concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:greenwood concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:greenwood concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:greenwood concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:hotel:harvey concept:atlocation concept:musicartist:american 0
+
+concept:hotel:harvey concept:agentactsinlocation concept:musicartist:american 2
+concept:hotel:harvey concept:agentbelongstoorganization concept:musicartist:american 1
+concept:hotel:harvey concept:proxyfor concept:musicartist:american 1
+concept:hotel:harvey concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:hacienda_heights concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:hacienda_heights concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:hacienda_heights concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:hacienda_heights concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:hacienda_heights concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:hacienda_heights concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:building:anaheim concept:atlocation concept:musicartist:american 0.25
+
+concept:building:anaheim concept:agentactsinlocation concept:musicartist:american 2*
+concept:building:anaheim concept:agentbelongstoorganization concept:musicartist:american 1
+concept:building:anaheim concept:agentcontrols concept:musicartist:american 1
+concept:building:anaheim concept:proxyfor concept:musicartist:american 1
+concept:building:anaheim concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:laguna_woods concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:laguna_woods concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:laguna_woods concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:laguna_woods concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:laguna_woods concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:laguna_woods concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:cheltenham concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:cheltenham concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:cheltenham concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:cheltenham concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:cheltenham concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:cheltenham concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:east_irvine concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:east_irvine concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:east_irvine concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:east_irvine concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:east_irvine concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:east_irvine concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:des_moines concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:des_moines concept:agentactsinlocation concept:geopoliticallocation:national 1
+concept:city:des_moines concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:des_moines concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:des_moines concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:des_moines concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:haddonfield concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:haddonfield concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:haddonfield concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:haddonfield concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:haddonfield concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:city:haddonfield concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:attraction:lakeside concept:atlocation concept:musicartist:american 0.25
+
+concept:attraction:lakeside concept:agentactsinlocation concept:musicartist:american 1*
+concept:attraction:lakeside concept:agentbelongstoorganization concept:musicartist:american 1
+concept:attraction:lakeside concept:agentcontrols concept:musicartist:american 1
+concept:attraction:lakeside concept:proxyfor concept:musicartist:american 1
+concept:attraction:lakeside concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:stateorprovince:ardmore concept:atlocation concept:musicartist:american 1
+
+concept:stateorprovince:ardmore concept:agentactsinlocation concept:musicartist:american 3*
+concept:stateorprovince:ardmore concept:agentbelongstoorganization concept:musicartist:american 1
+concept:stateorprovince:ardmore concept:agentcontrols concept:musicartist:american 1
+concept:stateorprovince:ardmore concept:proxyfor concept:musicartist:american 1.55
+concept:stateorprovince:ardmore concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:denver concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:denver concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:denver concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:denver concept:agentcollaborateswithagent concept:geopoliticallocation:national 0.091032
+concept:city:denver concept:atdate concept:geopoliticallocation:national 1
+concept:city:denver concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:denver concept:cityliesonriver concept:geopoliticallocation:national 0.45
+concept:city:denver concept:organizationhiredperson concept:geopoliticallocation:national 0.5
+concept:city:denver concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:city:denver concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:washington_d_c concept:atlocation concept:city:richland 3
+
+concept:city:washington_d_c concept:agentactsinlocation concept:city:richland 1.14197
+concept:city:washington_d_c concept:agentbelongstoorganization concept:city:richland 1.5
+concept:city:washington_d_c concept:agentcontrols concept:city:richland 1
+concept:city:washington_d_c concept:atdate concept:city:richland 1.01828
+concept:city:washington_d_c concept:cityliesonriver concept:city:richland 0.95
+concept:city:washington_d_c concept:citylocatedincountry concept:city:richland 1
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:city:richland 1
+concept:city:washington_d_c concept:citylocatedinstate concept:city:richland 2
+concept:city:washington_d_c concept:lakeinstate concept:city:richland 0.5
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:city:richland 2
+concept:city:washington_d_c concept:mutualproxyfor concept:city:richland 1.5
+concept:city:washington_d_c concept:parkincity concept:city:richland 1
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:city:richland 1
+concept:city:washington_d_c concept:politicianrepresentslocation concept:city:richland 1
+concept:city:washington_d_c concept:proxyfor concept:city:richland 3.21667*
+concept:city:washington_d_c concept:stadiumlocatedincity concept:city:richland 1
+concept:city:washington_d_c concept:subpartof concept:city:richland 4*
+concept:city:washington_d_c concept:subpartoforganization concept:city:richland 0.110863
+---------------------------------
+concept:museum:wichita concept:atlocation concept:musicartist:american 0.25
+
+concept:museum:wichita concept:agentactsinlocation concept:musicartist:american 2*
+concept:museum:wichita concept:agentbelongstoorganization concept:musicartist:american 1
+concept:museum:wichita concept:agentcontrols concept:musicartist:american 1
+concept:museum:wichita concept:proxyfor concept:musicartist:american 1.55
+concept:museum:wichita concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:politicsblog:portland concept:atlocation concept:city:rose_garden 0
+
+concept:politicsblog:portland concept:agentactsinlocation concept:city:rose_garden 1
+concept:politicsblog:portland concept:agentbelongstoorganization concept:city:rose_garden 1
+concept:politicsblog:portland concept:proxyfor concept:city:rose_garden 1
+concept:politicsblog:portland concept:subpartof concept:city:rose_garden 1
+---------------------------------
+concept:county:dublin concept:atlocation concept:musicartist:american 0.25
+
+concept:county:dublin concept:agentactsinlocation concept:musicartist:american 1*
+concept:county:dublin concept:agentbelongstoorganization concept:musicartist:american 1
+concept:county:dublin concept:agentcontrols concept:musicartist:american 1
+concept:county:dublin concept:proxyfor concept:musicartist:american 1
+concept:county:dublin concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:geopoliticallocation:anderson concept:atlocation concept:musicartist:american 0.25
+
+concept:geopoliticallocation:anderson concept:agentactsinlocation concept:musicartist:american 1*
+concept:geopoliticallocation:anderson concept:agentbelongstoorganization concept:musicartist:american 1
+concept:geopoliticallocation:anderson concept:agentcontrols concept:musicartist:american 1
+concept:geopoliticallocation:anderson concept:proxyfor concept:musicartist:american 1
+concept:geopoliticallocation:anderson concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:stateorprovince:new_jersey concept:atlocation concept:city:hackensack 2.5
+
+concept:stateorprovince:new_jersey concept:agentactsinlocation concept:city:hackensack 1
+concept:stateorprovince:new_jersey concept:agentbelongstoorganization concept:city:hackensack 1
+concept:stateorprovince:new_jersey concept:agentcontrols concept:city:hackensack 1
+concept:stateorprovince:new_jersey concept:atdate concept:city:hackensack 1.01828
+concept:stateorprovince:new_jersey concept:citylocatedincountry concept:city:hackensack 1
+concept:stateorprovince:new_jersey concept:citylocatedingeopoliticallocation concept:city:hackensack 1
+concept:stateorprovince:new_jersey concept:citylocatedinstate concept:city:hackensack 2
+concept:stateorprovince:new_jersey concept:lakeinstate concept:city:hackensack 0.5
+concept:stateorprovince:new_jersey concept:locationlocatedwithinlocation concept:city:hackensack 2
+concept:stateorprovince:new_jersey concept:mutualproxyfor concept:city:hackensack 1
+concept:stateorprovince:new_jersey concept:personleadsgeopoliticalorganization concept:city:hackensack 1
+concept:stateorprovince:new_jersey concept:politicianrepresentslocation concept:city:hackensack 1
+concept:stateorprovince:new_jersey concept:proxyfor concept:city:hackensack 2*
+concept:stateorprovince:new_jersey concept:subpartof concept:city:hackensack 3
+---------------------------------
+concept:trainstation:corona concept:atlocation concept:musicartist:american 0.25
+
+concept:trainstation:corona concept:agentactsinlocation concept:musicartist:american 2*
+concept:trainstation:corona concept:agentbelongstoorganization concept:musicartist:american 1
+concept:trainstation:corona concept:agentcontrols concept:musicartist:american 1
+concept:trainstation:corona concept:proxyfor concept:musicartist:american 1
+concept:trainstation:corona concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:stateorprovince:new_jersey concept:atlocation concept:city:englewood 0.75
+
+concept:stateorprovince:new_jersey concept:agentactsinlocation concept:city:englewood 1
+concept:stateorprovince:new_jersey concept:agentbelongstoorganization concept:city:englewood 1
+concept:stateorprovince:new_jersey concept:agentcontrols concept:city:englewood 1
+concept:stateorprovince:new_jersey concept:atdate concept:city:englewood 1.03872
+concept:stateorprovince:new_jersey concept:citylocatedincountry concept:city:englewood 1
+concept:stateorprovince:new_jersey concept:citylocatedinstate concept:city:englewood 1
+concept:stateorprovince:new_jersey concept:lakeinstate concept:city:englewood 0.5
+concept:stateorprovince:new_jersey concept:locationlocatedwithinlocation concept:city:englewood 1
+concept:stateorprovince:new_jersey concept:mutualproxyfor concept:city:englewood 0.5
+concept:stateorprovince:new_jersey concept:politicianrepresentslocation concept:city:englewood 1
+concept:stateorprovince:new_jersey concept:proxyfor concept:city:englewood 1*
+concept:stateorprovince:new_jersey concept:subpartof concept:city:englewood 2
+---------------------------------
+concept:stateorprovince:auburn concept:atlocation concept:university:national 1
+
+concept:stateorprovince:auburn concept:agentactsinlocation concept:university:national 3*
+concept:stateorprovince:auburn concept:agentbelongstoorganization concept:university:national 1
+concept:stateorprovince:auburn concept:agentcontrols concept:university:national 1
+concept:stateorprovince:auburn concept:proxyfor concept:university:national 1.05
+concept:stateorprovince:auburn concept:subpartof concept:university:national 1
+---------------------------------
+concept:city:scottsdale concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:scottsdale concept:agentactsinlocation concept:geopoliticallocation:national 1
+concept:city:scottsdale concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:scottsdale concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:scottsdale concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:scottsdale concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:room:development concept:atlocation concept:musicartist:american 0
+
+concept:room:development concept:agentactsinlocation concept:musicartist:american 2
+concept:room:development concept:agentbelongstoorganization concept:musicartist:american 1
+concept:room:development concept:proxyfor concept:musicartist:american 1
+concept:room:development concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:street:hillside concept:atlocation concept:musicartist:american 0
+
+concept:street:hillside concept:agentactsinlocation concept:musicartist:american 1.14197
+concept:street:hillside concept:agentbelongstoorganization concept:musicartist:american 1
+concept:street:hillside concept:proxyfor concept:musicartist:american 1
+concept:street:hillside concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:harbor_city concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:harbor_city concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:harbor_city concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:harbor_city concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:harbor_city concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:harbor_city concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:cleveland concept:atlocation concept:coach:cleveland_browns 0
+
+concept:city:cleveland concept:agentactsinlocation concept:coach:cleveland_browns 1
+concept:city:cleveland concept:agentbelongstoorganization concept:coach:cleveland_browns 1
+concept:city:cleveland concept:cityliesonriver concept:coach:cleveland_browns 0.2
+concept:city:cleveland concept:proxyfor concept:coach:cleveland_browns 1
+concept:city:cleveland concept:subpartof concept:coach:cleveland_browns 1.31746
+---------------------------------
+concept:geopoliticallocation:grand_junction concept:atlocation concept:geopoliticallocation:national 0.25
+
+concept:geopoliticallocation:grand_junction concept:agentactsinlocation concept:geopoliticallocation:national 2*
+concept:geopoliticallocation:grand_junction concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:geopoliticallocation:grand_junction concept:agentcontrols concept:geopoliticallocation:national 1
+concept:geopoliticallocation:grand_junction concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:geopoliticallocation:grand_junction concept:proxyfor concept:geopoliticallocation:national 1
+concept:geopoliticallocation:grand_junction concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:stateorprovince:new_jersey concept:atlocation concept:city:flemington 2.5
+
+concept:stateorprovince:new_jersey concept:agentactsinlocation concept:city:flemington 1
+concept:stateorprovince:new_jersey concept:agentbelongstoorganization concept:city:flemington 1
+concept:stateorprovince:new_jersey concept:agentcontrols concept:city:flemington 1
+concept:stateorprovince:new_jersey concept:atdate concept:city:flemington 1.03872
+concept:stateorprovince:new_jersey concept:citylocatedincountry concept:city:flemington 1
+concept:stateorprovince:new_jersey concept:citylocatedingeopoliticallocation concept:city:flemington 1
+concept:stateorprovince:new_jersey concept:citylocatedinstate concept:city:flemington 2
+concept:stateorprovince:new_jersey concept:lakeinstate concept:city:flemington 0.5
+concept:stateorprovince:new_jersey concept:locationlocatedwithinlocation concept:city:flemington 2
+concept:stateorprovince:new_jersey concept:mutualproxyfor concept:city:flemington 1.5
+concept:stateorprovince:new_jersey concept:personleadsgeopoliticalorganization concept:city:flemington 1
+concept:stateorprovince:new_jersey concept:politicianrepresentslocation concept:city:flemington 1
+concept:stateorprovince:new_jersey concept:proxyfor concept:city:flemington 2*
+concept:stateorprovince:new_jersey concept:subpartof concept:city:flemington 3
+---------------------------------
+concept:transportation:west_covina concept:atlocation concept:musicartist:american 0
+
+concept:transportation:west_covina concept:agentactsinlocation concept:musicartist:american 1
+concept:transportation:west_covina concept:agentbelongstoorganization concept:musicartist:american 1
+concept:transportation:west_covina concept:proxyfor concept:musicartist:american 1
+concept:transportation:west_covina concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:mountainrange:hudson_river concept:atlocation concept:river:mohawk 0
+
+concept:mountainrange:hudson_river concept:agentactsinlocation concept:river:mohawk 1
+concept:mountainrange:hudson_river concept:agentbelongstoorganization concept:river:mohawk 1
+concept:mountainrange:hudson_river concept:proxyfor concept:river:mohawk 1
+concept:mountainrange:hudson_river concept:subpartof concept:river:mohawk 1
+---------------------------------
+concept:visualizablething:elm_grove concept:atlocation concept:musicartist:american 0
+
+concept:visualizablething:elm_grove concept:agentactsinlocation concept:musicartist:american 1
+concept:visualizablething:elm_grove concept:agentbelongstoorganization concept:musicartist:american 1
+concept:visualizablething:elm_grove concept:proxyfor concept:musicartist:american 1
+concept:visualizablething:elm_grove concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:beach:massachusetts concept:atlocation concept:retailstore:burlington 0
+
+concept:beach:massachusetts concept:agentactsinlocation concept:retailstore:burlington 1
+concept:beach:massachusetts concept:agentbelongstoorganization concept:retailstore:burlington 1
+concept:beach:massachusetts concept:atdate concept:retailstore:burlington 0.0161079
+concept:beach:massachusetts concept:lakeinstate concept:retailstore:burlington 0.5
+concept:beach:massachusetts concept:locationlocatedwithinlocation concept:retailstore:burlington 0.625
+concept:beach:massachusetts concept:mutualproxyfor concept:retailstore:burlington 0.5
+concept:beach:massachusetts concept:proxyfor concept:retailstore:burlington 1
+concept:beach:massachusetts concept:subpartof concept:retailstore:burlington 1
+---------------------------------
+concept:city:peoria concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:peoria concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:peoria concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:peoria concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:peoria concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:peoria concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:hawaiian_gardens concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:hawaiian_gardens concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:hawaiian_gardens concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:hawaiian_gardens concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:hawaiian_gardens concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:hawaiian_gardens concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:aliso_viejo concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:aliso_viejo concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:aliso_viejo concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:aliso_viejo concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:aliso_viejo concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:aliso_viejo concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:island:dover concept:atlocation concept:musicartist:american 0.25
+
+concept:island:dover concept:agentactsinlocation concept:musicartist:american 1*
+concept:island:dover concept:agentbelongstoorganization concept:musicartist:american 1
+concept:island:dover concept:agentcontrols concept:musicartist:american 1
+concept:island:dover concept:proxyfor concept:musicartist:american 1
+concept:island:dover concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:sioux_city concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:sioux_city concept:agentactsinlocation concept:geopoliticallocation:national 1
+concept:city:sioux_city concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:sioux_city concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:sioux_city concept:cityliesonriver concept:geopoliticallocation:national 0.45
+concept:city:sioux_city concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:city:sioux_city concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:north_houston concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:north_houston concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:north_houston concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:north_houston concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:north_houston concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:north_houston concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:geopoliticallocation:clayton concept:atlocation concept:university:national 0
+
+concept:geopoliticallocation:clayton concept:agentactsinlocation concept:university:national 1
+concept:geopoliticallocation:clayton concept:agentbelongstoorganization concept:university:national 1
+concept:geopoliticallocation:clayton concept:proxyfor concept:university:national 1
+concept:geopoliticallocation:clayton concept:subpartof concept:university:national 1
+---------------------------------
+concept:city:hattiesburg concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:hattiesburg concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:hattiesburg concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:hattiesburg concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:hattiesburg concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:hattiesburg concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:irvine concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:irvine concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:irvine concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:irvine concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:irvine concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:irvine concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:tucson concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:tucson concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:tucson concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:tucson concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:tucson concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:tucson concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:highway:yorba_linda concept:atlocation concept:musicartist:american 0.25
+
+concept:highway:yorba_linda concept:agentactsinlocation concept:musicartist:american 1*
+concept:highway:yorba_linda concept:agentbelongstoorganization concept:musicartist:american 1
+concept:highway:yorba_linda concept:agentcontrols concept:musicartist:american 1
+concept:highway:yorba_linda concept:proxyfor concept:musicartist:american 1
+concept:highway:yorba_linda concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:skiarea:french_gulch concept:atlocation concept:musicartist:american 0.25
+
+concept:skiarea:french_gulch concept:agentactsinlocation concept:musicartist:american 2*
+concept:skiarea:french_gulch concept:agentbelongstoorganization concept:musicartist:american 1
+concept:skiarea:french_gulch concept:agentcontrols concept:musicartist:american 1
+concept:skiarea:french_gulch concept:proxyfor concept:musicartist:american 1
+concept:skiarea:french_gulch concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:baldwin_park concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:baldwin_park concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:baldwin_park concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:baldwin_park concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:baldwin_park concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:baldwin_park concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:beach:massachusetts concept:atlocation concept:politician:norwood 1
+
+concept:beach:massachusetts concept:agentactsinlocation concept:politician:norwood 1
+concept:beach:massachusetts concept:agentbelongstoorganization concept:politician:norwood 1
+concept:beach:massachusetts concept:citylocatedingeopoliticallocation concept:politician:norwood 1
+concept:beach:massachusetts concept:citylocatedinstate concept:politician:norwood 1
+concept:beach:massachusetts concept:locationlocatedwithinlocation concept:politician:norwood 1
+concept:beach:massachusetts concept:mutualproxyfor concept:politician:norwood 1
+concept:beach:massachusetts concept:personleadsgeopoliticalorganization concept:politician:norwood 1
+concept:beach:massachusetts concept:proxyfor concept:politician:norwood 2.66667
+concept:beach:massachusetts concept:subpartof concept:politician:norwood 2.31746*
+---------------------------------
+concept:river:eight_mile concept:atlocation concept:musicartist:american 0
+
+concept:river:eight_mile concept:agentactsinlocation concept:musicartist:american 1
+concept:river:eight_mile concept:agentbelongstoorganization concept:musicartist:american 1
+concept:river:eight_mile concept:proxyfor concept:musicartist:american 1
+concept:river:eight_mile concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:roanoke concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:roanoke concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:roanoke concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:roanoke concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:roanoke concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:roanoke concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:stateorprovince:new_jersey concept:atlocation concept:city:princeton 0.75
+
+concept:stateorprovince:new_jersey concept:agentactsinlocation concept:city:princeton 1
+concept:stateorprovince:new_jersey concept:agentbelongstoorganization concept:city:princeton 1
+concept:stateorprovince:new_jersey concept:agentcontrols concept:city:princeton 1
+concept:stateorprovince:new_jersey concept:atdate concept:city:princeton 1.28872
+concept:stateorprovince:new_jersey concept:citylocatedincountry concept:city:princeton 1
+concept:stateorprovince:new_jersey concept:citylocatedinstate concept:city:princeton 1
+concept:stateorprovince:new_jersey concept:lakeinstate concept:city:princeton 0.5
+concept:stateorprovince:new_jersey concept:locationlocatedwithinlocation concept:city:princeton 1
+concept:stateorprovince:new_jersey concept:mutualproxyfor concept:city:princeton 0.5
+concept:stateorprovince:new_jersey concept:politicianrepresentslocation concept:city:princeton 1
+concept:stateorprovince:new_jersey concept:proxyfor concept:city:princeton 1*
+concept:stateorprovince:new_jersey concept:subpartof concept:city:princeton 2
+---------------------------------
+concept:stateorprovince:district_of_columbia concept:atlocation concept:city:washington_d_c 1.75
+
+concept:stateorprovince:district_of_columbia concept:agentactsinlocation concept:city:washington_d_c 1
+concept:stateorprovince:district_of_columbia concept:agentbelongstoorganization concept:city:washington_d_c 1
+concept:stateorprovince:district_of_columbia concept:agentcontrols concept:city:washington_d_c 1.75
+concept:stateorprovince:district_of_columbia concept:atdate concept:city:washington_d_c 0.0161079
+concept:stateorprovince:district_of_columbia concept:cityalsoknownas concept:city:washington_d_c 0.5
+concept:stateorprovince:district_of_columbia concept:citylocatedincountry concept:city:washington_d_c 1
+concept:stateorprovince:district_of_columbia concept:citylocatedingeopoliticallocation concept:city:washington_d_c 1
+concept:stateorprovince:district_of_columbia concept:citylocatedinstate concept:city:washington_d_c 2
+concept:stateorprovince:district_of_columbia concept:lakeinstate concept:city:washington_d_c 0.5
+concept:stateorprovince:district_of_columbia concept:locationlocatedwithinlocation concept:city:washington_d_c 2.5
+concept:stateorprovince:district_of_columbia concept:mutualproxyfor concept:city:washington_d_c 2.5
+concept:stateorprovince:district_of_columbia concept:personleadsgeopoliticalorganization concept:city:washington_d_c 1
+concept:stateorprovince:district_of_columbia concept:politicianrepresentslocation concept:city:washington_d_c 1
+concept:stateorprovince:district_of_columbia concept:proxyfor concept:city:washington_d_c 3.16667*
+concept:stateorprovince:district_of_columbia concept:subpartof concept:city:washington_d_c 3.31746*
+---------------------------------
+concept:building:norwich concept:atlocation concept:musicartist:american 0
+
+concept:building:norwich concept:agentactsinlocation concept:musicartist:american 1
+concept:building:norwich concept:agentbelongstoorganization concept:musicartist:american 1
+concept:building:norwich concept:proxyfor concept:musicartist:american 1
+concept:building:norwich concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:shoppingmall:bryn_athyn concept:atlocation concept:musicartist:american 0
+
+concept:shoppingmall:bryn_athyn concept:agentactsinlocation concept:musicartist:american 1
+concept:shoppingmall:bryn_athyn concept:agentbelongstoorganization concept:musicartist:american 1
+concept:shoppingmall:bryn_athyn concept:proxyfor concept:musicartist:american 1
+concept:shoppingmall:bryn_athyn concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:laguna_niguel concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:laguna_niguel concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:laguna_niguel concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:laguna_niguel concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:laguna_niguel concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:laguna_niguel concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:visualizablething:arcola concept:atlocation concept:musicartist:american 0
+
+concept:visualizablething:arcola concept:agentactsinlocation concept:musicartist:american 1
+concept:visualizablething:arcola concept:agentbelongstoorganization concept:musicartist:american 1
+concept:visualizablething:arcola concept:proxyfor concept:musicartist:american 1
+concept:visualizablething:arcola concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:attraction:beverly_hills concept:atlocation concept:musicartist:american 0.25
+
+concept:attraction:beverly_hills concept:agentactsinlocation concept:musicartist:american 1*
+concept:attraction:beverly_hills concept:agentbelongstoorganization concept:musicartist:american 1
+concept:attraction:beverly_hills concept:agentcontrols concept:musicartist:american 1
+concept:attraction:beverly_hills concept:proxyfor concept:musicartist:american 1
+concept:attraction:beverly_hills concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:mankato concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:mankato concept:agentactsinlocation concept:geopoliticallocation:national 1
+concept:city:mankato concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:mankato concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:mankato concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:mankato concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:charlotte concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:charlotte concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:charlotte concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:charlotte concept:atdate concept:geopoliticallocation:national 1
+concept:city:charlotte concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:charlotte concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:city:charlotte concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:honolulu concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:honolulu concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:honolulu concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:honolulu concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:honolulu concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:city:honolulu concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:mission_viejo concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:mission_viejo concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:mission_viejo concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:mission_viejo concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:mission_viejo concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:mission_viejo concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:tustin concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:tustin concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:tustin concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:tustin concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:tustin concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:tustin concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:everett concept:atlocation concept:geopoliticallocation:national 0.5
+
+concept:city:everett concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:everett concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:everett concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:everett concept:hasofficeincountry concept:geopoliticallocation:national 0.25
+concept:city:everett concept:istallerthan concept:geopoliticallocation:national 1
+concept:city:everett concept:organizationdissolvedatdate concept:geopoliticallocation:national 1
+concept:city:everett concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:city:everett concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:website:support concept:atlocation concept:musicartist:american 0
+
+concept:website:support concept:agentactsinlocation concept:musicartist:american 3
+concept:website:support concept:agentbelongstoorganization concept:musicartist:american 1
+concept:website:support concept:atdate concept:musicartist:american 0.5
+concept:website:support concept:proxyfor concept:musicartist:american 1
+concept:website:support concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:washington_d_c concept:atlocation concept:personnorthamerica:everett 2
+
+concept:city:washington_d_c concept:agentactsinlocation concept:personnorthamerica:everett 1.14197
+concept:city:washington_d_c concept:agentbelongstoorganization concept:personnorthamerica:everett 1
+concept:city:washington_d_c concept:atdate concept:personnorthamerica:everett 0.520447
+concept:city:washington_d_c concept:cityliesonriver concept:personnorthamerica:everett 0.2
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:personnorthamerica:everett 1
+concept:city:washington_d_c concept:citylocatedinstate concept:personnorthamerica:everett 1
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:personnorthamerica:everett 1
+concept:city:washington_d_c concept:mutualproxyfor concept:personnorthamerica:everett 1.5*
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:personnorthamerica:everett 1
+concept:city:washington_d_c concept:proxyfor concept:personnorthamerica:everett 3.21667
+concept:city:washington_d_c concept:subpartof concept:personnorthamerica:everett 3.5*
+concept:city:washington_d_c concept:subpartoforganization concept:personnorthamerica:everett 0.109162
+---------------------------------
+concept:stateorprovince:ardmore concept:atlocation concept:university:national 1
+
+concept:stateorprovince:ardmore concept:agentactsinlocation concept:university:national 3*
+concept:stateorprovince:ardmore concept:agentbelongstoorganization concept:university:national 1
+concept:stateorprovince:ardmore concept:agentcontrols concept:university:national 1
+concept:stateorprovince:ardmore concept:proxyfor concept:university:national 1.05
+concept:stateorprovince:ardmore concept:subpartof concept:university:national 1
+---------------------------------
+concept:city:bell_gardens concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:bell_gardens concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:bell_gardens concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:bell_gardens concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:bell_gardens concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:bell_gardens concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:island:san_antonio concept:atlocation concept:musicartist:american 0.75
+
+concept:island:san_antonio concept:agentactsinlocation concept:musicartist:american 1*
+concept:island:san_antonio concept:agentbelongstoorganization concept:musicartist:american 1
+concept:island:san_antonio concept:agentcontrols concept:musicartist:american 1
+concept:island:san_antonio concept:proxyfor concept:musicartist:american 1
+concept:island:san_antonio concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:hotel:salisbury concept:atlocation concept:musicartist:american 0.25
+
+concept:hotel:salisbury concept:agentactsinlocation concept:musicartist:american 2*
+concept:hotel:salisbury concept:agentbelongstoorganization concept:musicartist:american 1
+concept:hotel:salisbury concept:agentcontrols concept:musicartist:american 1
+concept:hotel:salisbury concept:proxyfor concept:musicartist:american 1.55
+concept:hotel:salisbury concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:highway:gardena concept:atlocation concept:musicartist:american 0.25
+
+concept:highway:gardena concept:agentactsinlocation concept:musicartist:american 1*
+concept:highway:gardena concept:agentbelongstoorganization concept:musicartist:american 1
+concept:highway:gardena concept:agentcontrols concept:musicartist:american 1
+concept:highway:gardena concept:proxyfor concept:musicartist:american 1
+concept:highway:gardena concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:clementon concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:clementon concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:clementon concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:clementon concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:clementon concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:city:clementon concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:la_habra concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:la_habra concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:la_habra concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:la_habra concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:la_habra concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:la_habra concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:indianapolis concept:atlocation concept:politicianus:stephen_goldsmith 1
+
+concept:city:indianapolis concept:agentactsinlocation concept:politicianus:stephen_goldsmith 1
+concept:city:indianapolis concept:agentbelongstoorganization concept:politicianus:stephen_goldsmith 1*
+concept:city:indianapolis concept:agentcollaborateswithagent concept:politicianus:stephen_goldsmith 1
+concept:city:indianapolis concept:citylocatedingeopoliticallocation concept:politicianus:stephen_goldsmith 1
+concept:city:indianapolis concept:citylocatedinstate concept:politicianus:stephen_goldsmith 1
+concept:city:indianapolis concept:locationlocatedwithinlocation concept:politicianus:stephen_goldsmith 1
+concept:city:indianapolis concept:mutualproxyfor concept:politicianus:stephen_goldsmith 1
+concept:city:indianapolis concept:personleadsgeopoliticalorganization concept:politicianus:stephen_goldsmith 1
+concept:city:indianapolis concept:proxyfor concept:politicianus:stephen_goldsmith 2.55
+concept:city:indianapolis concept:subpartof concept:politicianus:stephen_goldsmith 2
+---------------------------------
+concept:city:atlanta concept:atlocation concept:stadiumoreventvenue:georgia_dome 1
+
+concept:city:atlanta concept:agentactsinlocation concept:stadiumoreventvenue:georgia_dome 1
+concept:city:atlanta concept:agentbelongstoorganization concept:stadiumoreventvenue:georgia_dome 1
+concept:city:atlanta concept:attractionofcity concept:stadiumoreventvenue:georgia_dome 1
+concept:city:atlanta concept:cityliesonriver concept:stadiumoreventvenue:georgia_dome 0.2
+concept:city:atlanta concept:locationlocatedwithinlocation concept:stadiumoreventvenue:georgia_dome 1
+concept:city:atlanta concept:mutualproxyfor concept:stadiumoreventvenue:georgia_dome 1
+concept:city:atlanta concept:proxyfor concept:stadiumoreventvenue:georgia_dome 2.05
+concept:city:atlanta concept:subpartof concept:stadiumoreventvenue:georgia_dome 2
+---------------------------------
+concept:skiarea:lithia_springs concept:atlocation concept:musicartist:american 0.25
+
+concept:skiarea:lithia_springs concept:agentactsinlocation concept:musicartist:american 1*
+concept:skiarea:lithia_springs concept:agentbelongstoorganization concept:musicartist:american 1
+concept:skiarea:lithia_springs concept:agentcontrols concept:musicartist:american 1
+concept:skiarea:lithia_springs concept:proxyfor concept:musicartist:american 1
+concept:skiarea:lithia_springs concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:beach:massachusetts concept:atlocation concept:county:bedford 0
+
+concept:beach:massachusetts concept:agentactsinlocation concept:county:bedford 1
+concept:beach:massachusetts concept:agentbelongstoorganization concept:county:bedford 1
+concept:beach:massachusetts concept:proxyfor concept:county:bedford 1
+concept:beach:massachusetts concept:subpartof concept:county:bedford 1
+---------------------------------
+concept:city:palm_springs concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:palm_springs concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:palm_springs concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:palm_springs concept:agentcollaborateswithagent concept:geopoliticallocation:national 0.091032
+concept:city:palm_springs concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:palm_springs concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:palm_springs concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:beach:alpaugh concept:atlocation concept:musicartist:american 0.25
+
+concept:beach:alpaugh concept:agentactsinlocation concept:musicartist:american 2*
+concept:beach:alpaugh concept:agentbelongstoorganization concept:musicartist:american 1
+concept:beach:alpaugh concept:agentcontrols concept:musicartist:american 1
+concept:beach:alpaugh concept:proxyfor concept:musicartist:american 1
+concept:beach:alpaugh concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:stafford concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:stafford concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:stafford concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:stafford concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:stafford concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:stafford concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:trainstation:cypress concept:atlocation concept:musicartist:american 0
+
+concept:trainstation:cypress concept:agentactsinlocation concept:musicartist:american 2
+concept:trainstation:cypress concept:agentbelongstoorganization concept:musicartist:american 1
+concept:trainstation:cypress concept:proxyfor concept:musicartist:american 1
+concept:trainstation:cypress concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:orlando concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:orlando concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:orlando concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:orlando concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:orlando concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:city:orlando concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:houston concept:atlocation concept:city:san_antonio 0
+
+concept:city:houston concept:agentactsinlocation concept:city:san_antonio 1
+concept:city:houston concept:agentbelongstoorganization concept:city:san_antonio 1
+concept:city:houston concept:cityliesonriver concept:city:san_antonio 0.2
+concept:city:houston concept:proxyfor concept:city:san_antonio 1
+concept:city:houston concept:subpartof concept:city:san_antonio 1
+---------------------------------
+concept:city:broomall concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:broomall concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:broomall concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:broomall concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:broomall concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:broomall concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:newport_coast concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:newport_coast concept:agentactsinlocation concept:geopoliticallocation:national 2
+concept:city:newport_coast concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:newport_coast concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:newport_coast concept:proxyfor concept:geopoliticallocation:national 1
+concept:city:newport_coast concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:city:east_rutherford concept:atlocation concept:geopoliticallocation:national 0
+
+concept:city:east_rutherford concept:agentactsinlocation concept:geopoliticallocation:national 1
+concept:city:east_rutherford concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:city:east_rutherford concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:city:east_rutherford concept:proxyfor concept:geopoliticallocation:national 1.05
+concept:city:east_rutherford concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0 0 0 0
+HITS@3: 0.142857 0.0654762 0.0714286 0.142857
+HITS@10: 0.988095 0.428571 0.428571 0.428571
+MRR: 0.200541 0.104861 0.106024 0.1104
+MR: 5.46429 25.3155 25.2262 44.7024
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.0119048 0.0119048 0.0119048 0.0119048
+HITS@3: 0.154762 0.0833333 0.0952381 0.154762
+HITS@10: 1 0.440476 0.440476 0.440476
+MRR: 0.223949 0.124105 0.126009 0.133808
+MR: 5.16071 24.9881 24.9226 44.3988
+relation_mr_mrr_1_3_10_n_rf 4187.00000000000000000 21.16954431927959135 2.00000000000000000 16.00000000000000000 74.00000000000000000 168 74

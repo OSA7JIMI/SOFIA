@@ -1,0 +1,2 @@
+1	/organization/organization/place_founded(A,B) <= /organization/organization/headquarters./location/mailing_address/state_province_region(A,B)
+1	/organization/organization/place_founded(A,C) <= /organization/organization/headquarters./location/mailing_address/state_province_region(A,B), /base/biblioness/bibs_location/state(C,B)

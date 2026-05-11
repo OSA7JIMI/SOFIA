@@ -1,0 +1,2 @@
+1	concept:coachwontrophy(A,D) <= concept:coachesinleague(A,B), concept:organizationhiredperson(B,C), concept:coachwontrophy(C,D)
+1	concept:coachwontrophy(A,E) <= concept:organizationhiredperson(B,A), concept:agentcontrols(B,C), concept:teamplaysagainstteam(C,D), concept:teamwontrophy(D,E)

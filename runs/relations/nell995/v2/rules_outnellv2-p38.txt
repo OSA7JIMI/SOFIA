@@ -1,0 +1,1 @@
+1	concept:museumincity(A,C) <= concept:locationlocatedwithinlocation(B,A), concept:agentactsinlocation(C,B)

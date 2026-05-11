@@ -1,0 +1,1 @@
+1	concept:sportschoolincountry(A,B) <= concept:sportfansincountry(A,B)

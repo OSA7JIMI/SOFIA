@@ -1,0 +1,4 @@
+1	concept:cityalsoknownas(A,B) <= concept:cityalsoknownas(B,A)
+1	concept:cityalsoknownas(A,D) <= concept:cityalsoknownas(A,B), concept:cityliesonriver(B,C), concept:cityliesonriver(D,C)
+1	concept:cityalsoknownas(A,D) <= concept:locationlocatedwithinlocation(B,A), concept:locationlocatedwithinlocation(B,C), concept:atlocation(D,C)
+1	concept:cityalsoknownas(A,D) <= concept:citylocatedincountry(A,B), concept:countryalsoknownas(C,B), concept:citylocatedincountry(D,C)

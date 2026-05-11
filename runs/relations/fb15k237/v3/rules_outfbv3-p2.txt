@@ -1,0 +1,1 @@
+1	/award/award_category/disciplines_or_subjects(A,D) <= /award/award_category/winners./award/award_honor/award_winner(A,B), /award/award_nominee/award_nominations./award/award_nomination/award(B,C), /award/award_category/disciplines_or_subjects(C,D)

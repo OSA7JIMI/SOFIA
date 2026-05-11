@@ -1,0 +1,674 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:leaguestadiums
+---------------------------------
+concept:stadiumoreventvenue:neyland_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:vanderbilt_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:dowdy_ficklen_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:yale_bowl concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:byrd_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:edward_jones_dome concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:edward_jones_dome concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:jack_trice_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:bank_of_america_arena concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:bank_of_america_arena concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:ohio_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:los_angeles_coliseum concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:jordan_hare_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:scheumann_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:coors_field concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:alumni_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:joan_c_edwards_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:petco_park concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:waldo_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:hubert_h__humphrey_metrodome concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:hubert_h__humphrey_metrodome concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:network_associates_coliseum concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:george_m__steinbrenner_field concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:arrowhead_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:arrowhead_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:citi_field concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:carrier_dome concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:cleveland_browns_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:cleveland_browns_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:lp_field concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:lp_field concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:progressive_field concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:papa_john_s_cardinal_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:princeton_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:bobby_dodd_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:ford_field concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:ford_field concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:dolphin_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:dolphin_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:donald_w_reynolds_razorback_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:angel_stadium concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:rfk_memorial_stadium concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:camp_randall concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:rentschler_field concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:metrodome concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:tropicana_field concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:bronco_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:turner_field concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:verizon_center concept:leaguestadiums concept:sportsleague:nhl 0
+
+concept:stadiumoreventvenue:verizon_center concept:subpartoforganization concept:sportsleague:nhl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:united_center concept:leaguestadiums concept:sportsleague:nhl 0
+
+concept:stadiumoreventvenue:united_center concept:subpartoforganization concept:sportsleague:nhl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:ben_hill_griffin_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:ameriquest_field concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:qualcomm_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:qualcomm_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:bankatlantic_center concept:leaguestadiums concept:sportsleague:nhl 0
+
+concept:stadiumoreventvenue:bankatlantic_center concept:subpartoforganization concept:sportsleague:nhl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:rynearson_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:kyle_field concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:university_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:franklin_covey_field concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:legion_field concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:sun_devil_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:johnny_red_floyd_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:georgia_dome concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:georgia_dome concept:agentactsinlocation concept:sportsleague:nfl 0.5
+concept:stadiumoreventvenue:georgia_dome concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:folsom_field concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:university_at_buffalo concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:rca_dome concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:rca_dome concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:kibbie_dome concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:navy_marine_corps_memorial_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:giants_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:giants_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:mountaineer_field concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:memorial_field concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:carter_finley_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:candlestick_park concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:candlestick_park concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:alltel_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:alltel_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:texas_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:texas_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:fenway_park concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:the_rose_garden concept:leaguestadiums concept:sportsleague:nhl 0
+
+concept:stadiumoreventvenue:the_rose_garden concept:subpartoforganization concept:sportsleague:nhl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:lincoln_financial_field concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:lincoln_financial_field concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:new_yankee_stadium concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:sbc_bricktown_ballpark concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:comiskey concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:romney_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:rbc_center concept:leaguestadiums concept:sportsleague:nhl 0
+
+concept:stadiumoreventvenue:rbc_center concept:subpartoforganization concept:sportsleague:nhl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:wrigley_field concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:kinnick_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:metrodome concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:metrodome concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:dodger_stadium concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:floyd_casey_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:chase_field concept:leaguestadiums concept:sportsleague:mlb 0
+
+concept:stadiumoreventvenue:chase_field concept:competeswith concept:sportsleague:mlb 0.5
+---------------------------------
+concept:stadiumoreventvenue:aloha_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:mile_high_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:mile_high_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:ross_ade_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:yankee_stadium concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:qwest_field concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:qwest_field concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:malone_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:safeco_field concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:schoellkopf_field concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:lambeau_field concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:lambeau_field concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:ryan_field concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:war_memorial_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:rice_eccles_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:beaver_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:pnc_park concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:huskie_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:kiel_center concept:leaguestadiums concept:sportsleague:nhl 0
+
+concept:stadiumoreventvenue:kiel_center concept:subpartoforganization concept:sportsleague:nhl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:bulldog_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:ralph_wilson_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:ralph_wilson_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:mcafee_coliseum concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:mcafee_coliseum concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:target_field concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:att_park concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:invesco_field concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:invesco_field concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:scott_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:stanford_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:paul_brown_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:paul_brown_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:liberty_bowl_memorial_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:kellyshorts_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:corel_centre concept:leaguestadiums concept:sportsleague:nhl 0
+
+concept:stadiumoreventvenue:corel_centre concept:subpartoforganization concept:sportsleague:nhl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:jacobs_field concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:sun_bowl_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:ice_palace concept:leaguestadiums concept:sportsleague:nhl 0
+
+concept:stadiumoreventvenue:ice_palace concept:subpartoforganization concept:sportsleague:nhl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:great_american_ball_park concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:miller_motorsports_park concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:rangers_ballpark concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:sanford_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:arizona_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:aggie_memorial_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:three_rivers_stadium concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:humphrey_metrodome concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:harvard_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:pontiac_silverdome concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:pontiac_silverdome concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:at_t_park concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:kenan_memorial_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:fiu_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:mt_bank_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:mt_bank_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:infocision_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:toronto_skydome concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:molson_centre concept:leaguestadiums concept:sportsleague:nhl 0
+
+concept:stadiumoreventvenue:molson_centre concept:subpartoforganization concept:sportsleague:nhl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:air_canada_center concept:leaguestadiums concept:sportsleague:nhl 0
+
+concept:stadiumoreventvenue:air_canada_center concept:subpartoforganization concept:sportsleague:nhl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:busch_memorial_stadium concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:minute_maid_park concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:autzen_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:rutgers_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:dix_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:reliant_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:reliant_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:lane_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:fedex_field concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:fedex_field concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:kauffman_stadium concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:notre_dame_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:raymond_james_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:raymond_james_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:cowboys_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:cowboys_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:network_associates_coliseum concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:network_associates_coliseum concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:spartan_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:commonwealth_stadium concept:leaguestadiums concept:sportsleague:cfl 0
+
+---------------------------------
+concept:stadiumoreventvenue:cinergy_field concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:reser_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:psinet_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:psinet_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:indian_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:lavell_edwards_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:movie_gallery_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:m_t_bank_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:m_t_bank_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:bryant_denny concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:bill_snyder_family_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:jacksonville_municipal_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:jacksonville_municipal_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:university_of_phoenix_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:university_of_phoenix_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:sports_authority_field_at_mile_high concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:sports_authority_field_at_mile_high concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:williams_brice_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:brown_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:michigan_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:boone_pickens_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:falcon_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:nippert_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:fouts_field concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:cajun_field concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:lockhart_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:faurot_field concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:county_stadium concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:joe_aillet_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:foxboro_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:foxboro_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:mackay_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:monster_park concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:monster_park concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:amon_carter_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:glass_bowl concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:bright_house_networks_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:robertson_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:gillette_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:gillette_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:martin_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:hughes_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:vaught_hemingway_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:memorial_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:wallace_wade_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:davis_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:skyreach_centre concept:leaguestadiums concept:sportsleague:nhl 0
+
+concept:stadiumoreventvenue:skyreach_centre concept:subpartoforganization concept:sportsleague:nhl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:doak_campbell_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:rogers_centre concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:lucas_oil_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:lucas_oil_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:husky_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:mcafee_coliseum concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:shea_stadium concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:heinz_field concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:heinz_field concept:subpartoforganization concept:sportsleague:nfl 0.109162
+concept:stadiumoreventvenue:heinz_field concept:teamhomestadium concept:sportsleague:nfl 1
+---------------------------------
+concept:stadiumoreventvenue:rogers_centre concept:leaguestadiums concept:sportsleague:cfl 0
+
+---------------------------------
+concept:stadiumoreventvenue:pro_player_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:pro_player_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:tiger_stadium concept:leaguestadiums concept:sportsleague:ncaa 0
+
+---------------------------------
+concept:stadiumoreventvenue:mellon_arena concept:leaguestadiums concept:sportsleague:nhl 0
+
+concept:stadiumoreventvenue:mellon_arena concept:subpartoforganization concept:sportsleague:nhl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:sun_devil_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:sun_devil_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:three_rivers_stadium concept:leaguestadiums concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:three_rivers_stadium concept:subpartoforganization concept:sportsleague:nfl 0.109162
+---------------------------------
+concept:stadiumoreventvenue:comerica concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:camden_yards concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+concept:stadiumoreventvenue:hubert_h__humphrey_metrodome concept:leaguestadiums concept:sportsleague:mlb 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.713568 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 0.855109 0.0258718 0.0261433 0.0131579
+MR: 1.29648 38.6583 38.7035 76
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.713568 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 0.855109 0.025865 0.0261433 0.0131579
+MR: 1.29648 38.6683 38.7035 76
+relation_mr_mrr_1_3_10_n_rf 7702.00000000000000000 5.20252636193721774 0.00000000000000000 0.00000000000000000 0.00000000000000000 199 0

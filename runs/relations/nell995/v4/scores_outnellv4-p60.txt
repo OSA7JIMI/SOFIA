@@ -1,0 +1,138 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:riveremptiesintoriver
+---------------------------------
+concept:skiarea:wood_creek concept:riveremptiesintoriver concept:river:mohawk 0
+
+---------------------------------
+concept:river:ohio_river concept:riveremptiesintoriver concept:river:salt_river 0
+
+---------------------------------
+concept:river:cherry_creek concept:riveremptiesintoriver concept:river:south_platte 0
+
+---------------------------------
+concept:river:hood_river concept:riveremptiesintoriver concept:river:columbia_river 0
+
+---------------------------------
+concept:river:muskingum_river concept:riveremptiesintoriver concept:river:licking 0
+
+---------------------------------
+concept:river:missouri_river concept:riveremptiesintoriver concept:river:platte 0
+
+---------------------------------
+concept:river:welland_river concept:riveremptiesintoriver concept:river:niagara 0
+
+---------------------------------
+concept:river:potomac_river concept:riveremptiesintoriver concept:river:potomac 0
+
+---------------------------------
+concept:river:peachtree_creek concept:riveremptiesintoriver concept:river:chattahoochee 0
+
+---------------------------------
+concept:river:potomac_river concept:riveremptiesintoriver concept:skiarea:rock_creek 0
+
+---------------------------------
+concept:river:wills_creek concept:riveremptiesintoriver concept:river:potomac 0
+
+---------------------------------
+concept:river:french_broad_river concept:riveremptiesintoriver concept:river:holston 0
+
+---------------------------------
+concept:river:salt_river concept:riveremptiesintoriver concept:river:verde 0
+
+---------------------------------
+concept:skiarea:erie_canal concept:riveremptiesintoriver concept:river:hudson 0
+
+---------------------------------
+concept:skiarea:rock_creek concept:riveremptiesintoriver concept:river:potomac 0
+
+---------------------------------
+concept:river:hudson_river concept:riveremptiesintoriver concept:river:mohawk 0
+
+---------------------------------
+concept:river:shenandoah_river concept:riveremptiesintoriver concept:river:potomac 0
+
+---------------------------------
+concept:river:tennessee_river concept:riveremptiesintoriver concept:river:french_broad 0
+
+---------------------------------
+concept:river:south_platte concept:riveremptiesintoriver concept:river:cherry_creek 0
+
+---------------------------------
+concept:river:east_river concept:riveremptiesintoriver concept:river:bronx 0
+
+---------------------------------
+concept:river:potomac_river concept:riveremptiesintoriver concept:river:shenandoah_river 0
+
+---------------------------------
+concept:river:delaware_river concept:riveremptiesintoriver concept:river:schuylkill 0
+
+---------------------------------
+concept:river:juniata_river concept:riveremptiesintoriver concept:river:susquehanna 0
+
+---------------------------------
+concept:visualizablescene:falls concept:riveremptiesintoriver concept:river:niagara 0
+
+---------------------------------
+concept:river:east_river concept:riveremptiesintoriver concept:river:hudson 0
+
+---------------------------------
+concept:river:delaware_river concept:riveremptiesintoriver concept:river:susquehanna 0
+
+---------------------------------
+concept:river:mohawk_river concept:riveremptiesintoriver concept:river:hudson 0
+
+---------------------------------
+concept:river:columbia_river concept:riveremptiesintoriver concept:skiarea:snake_river 0
+
+---------------------------------
+concept:skiarea:snake_river concept:riveremptiesintoriver concept:river:portneuf 0
+
+---------------------------------
+concept:river:salt_river concept:riveremptiesintoriver concept:river:gila 0
+
+---------------------------------
+concept:river:c_o_canal concept:riveremptiesintoriver concept:river:potomac 0
+
+---------------------------------
+concept:river:rappahannock_river concept:riveremptiesintoriver concept:river:potomac 0
+
+---------------------------------
+concept:river:chemung_river concept:riveremptiesintoriver concept:river:susquehanna 0
+
+---------------------------------
+concept:river:missouri_river concept:riveremptiesintoriver concept:river:yellowstone 0
+
+---------------------------------
+concept:river:colorado_river concept:riveremptiesintoriver concept:river:gila 0
+
+---------------------------------
+concept:river:ohio_river concept:riveremptiesintoriver concept:river:scioto 0
+
+---------------------------------
+concept:river:delaware_river concept:riveremptiesintoriver concept:river:hudson 0
+
+---------------------------------
+concept:river:hudson_river concept:riveremptiesintoriver concept:river:mohawk_river 0
+
+---------------------------------
+concept:river:ohio_river concept:riveremptiesintoriver concept:river:potomac 0
+
+---------------------------------
+concept:river:licking concept:riveremptiesintoriver concept:river:ohio_river 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.0260965 0.0261657 0.0131579
+MR: 1 38.325 38.7 76
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.0259784 0.0261657 0.0131579
+MR: 1 38.5 38.7 76
+relation_mr_mrr_1_3_10_n_rf 1548.00000000000000000 1.04662854056651455 0.00000000000000000 0.00000000000000000 0.00000000000000000 40 0

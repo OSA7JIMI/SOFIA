@@ -1,0 +1,4 @@
+1	/film/director/film(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(A,B)
+1	/film/director/film(A,B) <= /film/film/story_by(B,A)
+1	/film/director/film(A,B) <= /film/film/written_by(B,A)
+1	/film/director/film(A,E) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(B,C), /location/country/official_language(C,D), /film/film/language(E,D)

@@ -1,0 +1,3 @@
+1	/sports/pro_athlete/teams./sports/sports_team_roster/team(A,B) <= /soccer/football_player/current_team./sports/sports_team_roster/team(A,B)
+1	/sports/pro_athlete/teams./sports/sports_team_roster/team(A,C) <= /sports/sport/pro_athletes./sports/pro_sports_played/athlete(B,A), /sports/sports_team/sport(C,B)
+1	/sports/pro_athlete/teams./sports/sports_team_roster/team(A,D) <= /soccer/football_player/current_team./sports/sports_team_roster/team(A,B), /soccer/football_team/current_roster./soccer/football_roster_position/position(B,C), /sports/sports_position/players./sports/sports_team_roster/team(C,D)

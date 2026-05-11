@@ -1,0 +1,2 @@
+1	/film/film_set_designer/film_sets_designed(A,D) <= /film/film_set_designer/film_sets_designed(A,B), /film/film/language(B,C), /film/film/language(D,C)
+1	/film/film_set_designer/film_sets_designed(A,E) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,B), /film/film_set_designer/film_sets_designed(B,C), /film/film/genre(C,D), /film/film/genre(E,D)

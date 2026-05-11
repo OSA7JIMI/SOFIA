@@ -1,0 +1,1 @@
+1	/base/locations/continents/countries_within(A,E) <= /location/location/contains(A,B), /location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency(B,C), /film/film/estimated_budget./measurement_unit/dated_money_value/currency(D,C), /film/film/featured_film_locations(D,E)

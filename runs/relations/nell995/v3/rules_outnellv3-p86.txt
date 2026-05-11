@@ -1,0 +1,2 @@
+1	concept:organizationdissolvedatdate(A,C) <= concept:agentactsinlocation(A,B), concept:atdate(B,C)
+1	concept:organizationdissolvedatdate(A,D) <= concept:agentparticipatedinevent(A,B), concept:agentparticipatedinevent(C,B), concept:atdate(C,D)

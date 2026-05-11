@@ -1,0 +1,1 @@
+1	concept:lakeinstate(A,D) <= concept:proxyfor(A,B), concept:mutualproxyfor(B,C), concept:mutualproxyfor(C,D)

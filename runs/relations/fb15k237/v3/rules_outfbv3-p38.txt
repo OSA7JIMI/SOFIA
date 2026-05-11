@@ -1,0 +1,1 @@
+1	/baseball/baseball_team/team_stats./baseball/baseball_team_stats/season(A,D) <= /baseball/baseball_team/team_stats./baseball/baseball_team_stats/season(A,B), /baseball/baseball_team/team_stats./baseball/baseball_team_stats/season(C,B), /baseball/baseball_team/team_stats./baseball/baseball_team_stats/season(C,D)

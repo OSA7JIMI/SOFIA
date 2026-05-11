@@ -1,0 +1,4 @@
+1	concept:politicianrepresentslocation(A,B) <= concept:proxyfor(A,B)
+1	concept:politicianrepresentslocation(A,C) <= concept:politicianrepresentslocation(A,B), concept:locationlocatedwithinlocation(B,C)
+1	concept:politicianrepresentslocation(A,D) <= concept:agentcollaborateswithagent(A,B), concept:politicianrepresentslocation(B,C), concept:locationlocatedwithinlocation(C,D)
+1	concept:politicianrepresentslocation(A,D) <= concept:personhasresidenceingeopoliticallocation(A,B), concept:locationlocatedwithinlocation(C,B), concept:locationlocatedwithinlocation(C,D)

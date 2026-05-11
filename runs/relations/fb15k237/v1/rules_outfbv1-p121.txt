@@ -1,0 +1,4 @@
+1	/music/record_label/artist(A,D) <= /music/record_label/artist(A,B), /people/person/gender(B,C), /people/person/gender(D,C)
+1	/music/record_label/artist(A,D) <= /music/record_label/artist(A,B), /broadcast/content/artist(C,B), /broadcast/content/artist(C,D)
+1	/music/record_label/artist(A,D) <= /music/record_label/artist(A,B), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/person/spouse_s./people/marriage/type_of_union(D,C)
+1	/music/record_label/artist(A,E) <= /music/record_label/artist(A,B), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(C,D), /people/person/places_lived./people/place_lived/location(E,D)

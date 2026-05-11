@@ -1,0 +1,6 @@
+1	_verb_group(A,C) <= _derivationally_related_form(B,A), _derivationally_related_form(B,C)
+1	_verb_group(A,B) <= _verb_group(B,A)
+1	_verb_group(A,D) <= _hypernym(A,B), _hypernym(B,C), _hypernym(D,C)
+1	_verb_group(A,E) <= _derivationally_related_form(A,B), _derivationally_related_form(B,C), _derivationally_related_form(C,D), _derivationally_related_form(D,E)
+1	_verb_group(A,D) <= _derivationally_related_form(B,A), _derivationally_related_form(B,C), _hypernym(D,C)
+1	_verb_group(A,E) <= _verb_group(A,B), _hypernym(B,C), _hypernym(C,D), _hypernym(E,D)

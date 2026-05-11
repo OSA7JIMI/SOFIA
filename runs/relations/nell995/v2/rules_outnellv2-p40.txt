@@ -1,0 +1,1 @@
+1	concept:newspaperincity(A,B) <= concept:headquarteredin(A,B)

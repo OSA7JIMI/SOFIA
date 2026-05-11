@@ -1,0 +1,3 @@
+1	concept:organizationheadquarteredincity(A,B) <= concept:agentcompeteswithagent(B,A)
+1	concept:organizationheadquarteredincity(A,C) <= concept:worksfor(B,A), concept:organizationhiredperson(C,B)
+1	concept:organizationheadquarteredincity(A,D) <= concept:organizationhiredperson(A,B), concept:worksfor(B,C), concept:hasofficeincity(C,D)

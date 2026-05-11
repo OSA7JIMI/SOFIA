@@ -1,0 +1,5 @@
+1	/award/award_winning_work/awards_won./award/award_honor/award(A,B) <= /award/award_category/nominees./award/award_nomination/nominated_for(B,A)
+1	/award/award_winning_work/awards_won./award/award_honor/award(A,C) <= /award/award_winning_work/awards_won./award/award_honor/award_winner(A,B), /award/award_nominee/award_nominations./award/award_nomination/award(B,C)
+1	/award/award_winning_work/awards_won./award/award_honor/award(A,D) <= /film/film/genre(A,B), /media_common/netflix_genre/titles(B,C), /award/award_winning_work/awards_won./award/award_honor/award(C,D)
+1	/award/award_winning_work/awards_won./award/award_honor/award(A,D) <= /film/film/release_date_s./film/film_regional_release_date/film_release_region(A,B), /film/film/release_date_s./film/film_regional_release_date/film_release_region(C,B), /award/award_category/nominees./award/award_nomination/nominated_for(D,C)
+1	/award/award_winning_work/awards_won./award/award_honor/award(A,D) <= /film/film/language(A,B), /people/person/languages(C,B), /award/award_category/winners./award/award_honor/award_winner(D,C)

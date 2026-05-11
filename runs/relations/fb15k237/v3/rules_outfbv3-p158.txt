@@ -1,0 +1,7 @@
+1	/organization/organization/place_founded(A,B) <= /organization/organization/headquarters./location/mailing_address/citytown(A,B)
+1	/organization/organization/place_founded(A,B) <= /organization/organization/headquarters./location/mailing_address/state_province_region(A,B)
+1	/organization/organization/place_founded(A,C) <= /business/business_operation/assets./measurement_unit/dated_money_value/currency(A,B), /location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency(C,B)
+1	/organization/organization/place_founded(A,C) <= /organization/organization/headquarters./location/mailing_address/state_province_region(A,B), /base/biblioness/bibs_location/state(C,B)
+1	/organization/organization/place_founded(A,D) <= /business/business_operation/industry(A,B), /business/business_operation/industry(C,B), /organization/organization/place_founded(C,D)
+1	/organization/organization/place_founded(A,D) <= /organization/organization/headquarters./location/mailing_address/citytown(A,B), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(C,B), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(C,D)
+1	/organization/organization/place_founded(A,D) <= /business/business_operation/operating_income./measurement_unit/dated_money_value/currency(A,B), /organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency(C,B), /organization/organization/headquarters./location/mailing_address/citytown(C,D)

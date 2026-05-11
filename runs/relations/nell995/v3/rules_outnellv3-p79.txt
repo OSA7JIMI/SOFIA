@@ -1,0 +1,1 @@
+1	concept:museumincity(A,E) <= concept:locationlocatedwithinlocation(B,A), concept:locationlocatedwithinlocation(B,C), concept:statelocatedingeopoliticallocation(C,D), concept:citylocatedincountry(E,D)

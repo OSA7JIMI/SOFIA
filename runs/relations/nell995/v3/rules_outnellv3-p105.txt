@@ -1,0 +1,7 @@
+1	concept:personleadsorganization(A,B) <= concept:organizationhiredperson(B,A)
+1	concept:personleadsorganization(A,B) <= concept:organizationterminatedperson(B,A)
+1	concept:personleadsorganization(A,B) <= concept:personhasresidenceingeopoliticallocation(A,B)
+1	concept:personleadsorganization(A,B) <= concept:worksfor(A,B)
+1	concept:personleadsorganization(A,D) <= concept:agentcollaborateswithagent(A,B), concept:agentparticipatedinevent(B,C), concept:agentparticipatedinevent(D,C)
+1	concept:personleadsorganization(A,D) <= concept:personleadsgeopoliticalorganization(A,B), concept:locationlocatedwithinlocation(C,B), concept:locationlocatedwithinlocation(C,D)
+1	concept:personleadsorganization(A,D) <= concept:topmemberoforganization(A,B), concept:atlocation(B,C), concept:locationlocatedwithinlocation(C,D)

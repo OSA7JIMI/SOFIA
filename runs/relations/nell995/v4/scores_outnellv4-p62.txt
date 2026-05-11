@@ -1,0 +1,582 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:sportsgameteam
+---------------------------------
+concept:sportsteam:white_sox concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:san_diego_padres concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:orioles concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:time_the_yankees concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:milwaukee_braves concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:yankees concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:miracle_mets concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:florida_international concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:wayne_state concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:brewers concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:beloved_red_sox concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:twins concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:rockets concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:year_the_red_sox concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:suns concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:devils concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:year_the_mets concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:los_angeles_lakers concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:cavaliers concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:detroit_tigers concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:kings_college concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:cleveland_indians_organization concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:new_jersey_nets concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:bengals concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:n2004_red_sox concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:philadelphia_flyers concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:washington_wizards concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:maple_leafs concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:atlanta_braves concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:indiana_pacers concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:oilers concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:california_angels concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:rockies concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:nuggets concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:flyers_playoff_tickets concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:colorado_rockies concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:marlins concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:raptors concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:carolina_hurricanes concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:red_sox concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:dallas_mavericks concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:buffalo_sabres concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:padres concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:a_s concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:utah_jazz concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:washington_senators concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:mavericks concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:st___louis_cardinals concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:chicago_blackhawks concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:hawks concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:steelers concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:esu_hornets concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:anaheim_ducks concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:red_wings concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:brooklyn_dodgers concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:portland_trailblazers concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:heat concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:texas_rangers concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:tampa_bay_devil_rays concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:anaheim_ducks concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:rangers concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:bruins concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:spurs concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:seattle_supersonics concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:heat concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:arizona_diamond_backs concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:year_the_cubs concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:habs concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:mavericks concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:houston_astros concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:utah_jazz concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:nats concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:bulldogs concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:new_york_giants concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:capitals concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:philies concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:milwaukee_brewers concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:oilers concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:san_antonio concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:boston_celtics concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:ottawa_senators concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:spurs concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:new_york_islanders concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:philadelphia_phillies concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:sonics concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:tampa concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:tampa_rays concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:hawks concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:suns concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:leafs concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:new_jersey_nets concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:bronx_bombers concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:chicago_bulls concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:anaheim_angels concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:cleveland_indians concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:national_league_team concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:pacers concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:montreal_canadiens concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:seattle_mariners concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:last_time_the_phillies concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:eagles concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:trail_blazers concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:pittsburgh_penguins concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:edmonton_oilers concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:pittsburgh_penguins concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:florida_international concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:mavs concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:bucks concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:knicks concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:expos concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:new_york_islanders concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:los_angeles_dodgers concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:kings_college concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:wild_card_teams concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:kansas_city_royals concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:pittsburgh_pirates concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:phils concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:bosox concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:pirates concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:philadelphia_athletics concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:flyers_playoff_tickets concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:buffalo_sabres concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:chowan_braves concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:cubbies concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:ny_yankees concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:chicago_bulls concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:minnesota_twins concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:los_angeles_lakers concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:mariners concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:philadelphia_flyers concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:carolina concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:time_the_phillies concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:magic concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:phillies concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:sixers concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:pistons concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:bobcats concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:time_the_cubs concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:leafs concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:rangers concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:los_angeles_angels_of_anaheim concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:trail_blazers concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:blue_jays concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:magic concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:royals concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:reds concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:cavs concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:former_san_francisco_giants concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:oakland_athletics concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:montreal_canadiens concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:lee_flames concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:tampa_bay_rays concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:huskies concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:beloved_phillies concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:beloved_cubs concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:last_time_the_cubs concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:redbirds concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:night_the_red_sox concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:pistons concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:falcons concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:rockets concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:cavs concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:red_wings concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:yanks concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:florida_marlins concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:san_antonio concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:canucks concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:saints concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:cavaliers concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:lee_flames concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:red_sox_this_season concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:canucks concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:boston_celtics concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:astros concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:bruins concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:titans concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:chicago_white_sox concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:bucks concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:avs concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:sixers concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:st___louis_blues concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:louisville_cardinals concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:dodgers concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:devils concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:blackhawks concept:sportsgameteam concept:sportsgame:finals 0
+
+---------------------------------
+concept:sportsteam:toronto_blue_jays concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:d_backs concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+concept:sportsteam:mavs concept:sportsgameteam concept:sportsgame:series 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.0260071 0.0262357 0.0131579
+MR: 1 38.4574 38.5851 76
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.0259748 0.0262357 0.0131579
+MR: 1 38.5053 38.5851 76
+relation_mr_mrr_1_3_10_n_rf 7254.00000000000000000 4.93231380486323800 0.00000000000000000 0.00000000000000000 0.00000000000000000 188 0

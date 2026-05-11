@@ -1,0 +1,1 @@
+1	/music/artist/contribution./music/recording_contribution/performance_role(A,D) <= /people/person/gender(A,B), /people/person/gender(C,B), /music/artist/track_contributions./music/track_contribution/role(C,D)

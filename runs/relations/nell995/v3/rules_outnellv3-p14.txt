@@ -1,0 +1,4 @@
+1	concept:agriculturalproductcutintogeometricshape(A,D) <= concept:agriculturalproductcookedwithagriculturalproduct(A,B), concept:agriculturalproductcookedwithagriculturalproduct(C,B), concept:agriculturalproductcutintogeometricshape(C,D)
+1	concept:agriculturalproductcutintogeometricshape(A,D) <= concept:animaleatfood(B,A), concept:animaleatfood(B,C), concept:agriculturalproductcutintogeometricshape(C,D)
+1	concept:agriculturalproductcutintogeometricshape(A,D) <= concept:animaleatvegetable(B,A), concept:animaleatfood(B,C), concept:agriculturalproductcutintogeometricshape(C,D)
+1	concept:agriculturalproductcutintogeometricshape(A,E) <= concept:agriculturalproductcookedwithagriculturalproduct(A,B), concept:animaleatvegetable(C,B), concept:proxyfor(C,D), concept:mutualproxyfor(D,E)

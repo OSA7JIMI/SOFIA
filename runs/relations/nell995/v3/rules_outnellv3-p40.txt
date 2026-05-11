@@ -1,0 +1,4 @@
+1	concept:beveragecontainsprotein(A,D) <= concept:beveragemadefrombeverage(A,B), concept:beveragemadefrombeverage(C,B), concept:beveragecontainsprotein(C,D)
+1	concept:beveragecontainsprotein(A,D) <= concept:bakedgoodservedwithbeverage(B,A), concept:bakedgoodservedwithbeverage(B,C), concept:beveragecontainsprotein(C,D)
+1	concept:beveragecontainsprotein(A,D) <= concept:animaleatfood(B,A), concept:animaleatfood(B,C), concept:beveragecontainsprotein(C,D)
+1	concept:beveragecontainsprotein(A,E) <= concept:agriculturalproductcomingfromvertebrate(A,B), concept:animalpreyson(B,C), concept:atdate(C,D), concept:atdate(E,D)

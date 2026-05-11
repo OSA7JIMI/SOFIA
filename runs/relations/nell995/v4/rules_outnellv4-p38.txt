@@ -1,0 +1,6 @@
+1	concept:organizationacronymhasname(A,B) <= concept:organizationalsoknownas(A,B)
+1	concept:organizationacronymhasname(A,C) <= concept:atlocation(B,A), concept:organizationalsoknownas(B,C)
+1	concept:organizationacronymhasname(A,C) <= concept:organizationhiredperson(A,B), concept:organizationhiredperson(C,B)
+1	concept:organizationacronymhasname(A,C) <= concept:personleadsorganization(B,A), concept:personleadsgeopoliticalorganization(B,C)
+1	concept:organizationacronymhasname(A,D) <= concept:organizationacronymhasname(A,B), concept:organizationheadquarteredincountry(B,C), concept:organizationheadquarteredincountry(D,C)
+1	concept:organizationacronymhasname(A,D) <= concept:organizationacronymhasname(A,B), concept:organizationalsoknownas(C,B), concept:organizationalsoknownas(C,D)

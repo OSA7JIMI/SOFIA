@@ -1,0 +1,3 @@
+1	concept:agriculturalproductcamefromcountry(A,E) <= concept:animaleatvegetable(A,B), concept:agriculturalproductgrowinginstateorprovince(B,C), concept:locationlocatedwithinlocation(D,C), concept:locationlocatedwithinlocation(D,E)
+1	concept:agriculturalproductcamefromcountry(A,D) <= concept:agriculturalproductcamefromcountry(A,B), concept:countrylocatedingeopoliticallocation(B,C), concept:countrylocatedingeopoliticallocation(D,C)
+1	concept:agriculturalproductcamefromcountry(A,E) <= concept:agriculturalproductcookedwithagriculturalproduct(A,B), concept:agriculturalproductcookedwithagriculturalproduct(C,B), concept:agriculturalproductcamefromcountry(C,D), concept:countryalsoknownas(E,D)

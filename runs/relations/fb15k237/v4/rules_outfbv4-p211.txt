@@ -1,0 +1,6 @@
+1	/tv/tv_program/genre(A,B) <= /media_common/netflix_genre/titles(B,A)
+1	/tv/tv_program/genre(A,C) <= /media_common/netflix_genre/titles(A,B), /film/film/genre(B,C)
+1	/tv/tv_program/genre(A,D) <= /tv/tv_program/genre(A,B), /tv/tv_program/genre(C,B), /tv/tv_program/genre(C,D)
+1	/tv/tv_program/genre(A,D) <= /tv/tv_program/languages(A,B), /film/film/language(C,B), /film/film/genre(C,D)
+1	/tv/tv_program/genre(A,D) <= /tv/tv_program/languages(A,B), /tv/tv_program/languages(C,B), /tv/tv_program/genre(C,D)
+1	/tv/tv_program/genre(A,D) <= /award/award_category/nominees./award/award_nomination/nominated_for(B,A), /award/award_category/nominees./award/award_nomination/nominated_for(B,C), /tv/tv_program/genre(C,D)

@@ -1,0 +1,3 @@
+1	concept:teamalsoknownas(A,B) <= concept:agentcompeteswithagent(B,A)
+1	concept:teamalsoknownas(A,B) <= concept:teamplaysagainstteam(A,B)
+1	concept:teamalsoknownas(A,C) <= concept:agentparticipatedinevent(A,B), concept:agentparticipatedinevent(C,B)

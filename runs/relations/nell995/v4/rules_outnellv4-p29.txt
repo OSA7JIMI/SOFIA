@@ -1,0 +1,2 @@
+1	concept:hasofficeincity(A,C) <= concept:locationlocatedwithinlocation(B,A), concept:locationlocatedwithinlocation(B,C)
+1	concept:hasofficeincity(A,D) <= concept:companyeconomicsector(A,B), concept:companyeconomicsector(C,B), concept:hasofficeincity(C,D)

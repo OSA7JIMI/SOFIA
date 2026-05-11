@@ -1,0 +1,1 @@
+1	concept:sportfansincountry(A,D) <= concept:sportfansincountry(A,B), concept:countrylocatedingeopoliticallocation(B,C), concept:countrylocatedingeopoliticallocation(D,C)

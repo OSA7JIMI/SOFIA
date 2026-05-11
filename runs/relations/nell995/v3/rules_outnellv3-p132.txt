@@ -1,0 +1,7 @@
+1	concept:teamplaysincity(A,C) <= concept:sportsgameteam(B,A), concept:agentparticipatedinevent(C,B)
+1	concept:teamplaysincity(A,E) <= concept:subpartoforganization(A,B), concept:agentcompeteswithagent(B,C), concept:cityliesonriver(C,D), concept:cityliesonriver(E,D)
+1	concept:teamplaysincity(A,C) <= concept:teamplaysagainstteam(A,B), concept:teamplaysincity(B,C)
+1	concept:teamplaysincity(A,E) <= concept:teamplaysagainstteam(A,B), concept:organizationheadquarteredinstateorprovince(B,C), concept:atlocation(D,C), concept:atlocation(D,E)
+1	concept:teamplaysincity(A,E) <= concept:teamplaysagainstteam(A,B), concept:teamplaysincity(B,C), concept:citylocatedinstate(C,D), concept:mutualproxyfor(D,E)
+1	concept:teamplaysincity(A,D) <= concept:sportsgameteam(B,A), concept:atdate(B,C), concept:atdate(D,C)
+1	concept:teamplaysincity(A,D) <= concept:organizationheadquarteredinstateorprovince(A,B), concept:stateorprovinceisborderedbystateorprovince(C,B), concept:citylocatedinstate(D,C)

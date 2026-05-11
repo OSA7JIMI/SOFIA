@@ -1,0 +1,4 @@
+1	/film/film/production_companies(A,C) <= /film/film/executive_produced_by(A,B), /organization/organization_founder/organizations_founded(B,C)
+1	/film/film/production_companies(A,D) <= /film/film/language(A,B), /film/film/language(C,B), /film/film_distributor/films_distributed./film/film_film_distributor_relationship/film(D,C)
+1	/film/film/production_companies(A,D) <= /film/film/other_crew./film/film_crew_gig/film_crew_role(A,B), /film/film/other_crew./film/film_crew_gig/film_crew_role(C,B), /film/film/production_companies(C,D)
+1	/film/film/production_companies(A,D) <= /film/film/language(A,B), /film/film/language(C,B), /film/film/production_companies(C,D)

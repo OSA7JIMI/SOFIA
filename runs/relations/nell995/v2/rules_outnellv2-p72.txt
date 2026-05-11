@@ -1,0 +1,7 @@
+1	concept:stadiumlocatedincity(A,C) <= concept:locationlocatedwithinlocation(B,A), concept:locationlocatedwithinlocation(B,C)
+1	concept:stadiumlocatedincity(A,E) <= concept:sportusesstadium(B,A), concept:sportfansincountry(B,C), concept:locationlocatedwithinlocation(D,C), concept:locationlocatedwithinlocation(D,E)
+1	concept:stadiumlocatedincity(A,E) <= concept:sportusesstadium(B,A), concept:sportfansincountry(B,C), concept:statelocatedingeopoliticallocation(D,C), concept:statelocatedingeopoliticallocation(D,E)
+1	concept:stadiumlocatedincity(A,D) <= concept:agentactsinlocation(B,A), concept:agentcompeteswithagent(B,C), concept:citylocatedinstate(D,C)
+1	concept:stadiumlocatedincity(A,E) <= concept:sportusesstadium(B,A), concept:teamplayssport(C,B), concept:agentcompeteswithagent(C,D), concept:mutualproxyfor(D,E)
+1	concept:stadiumlocatedincity(A,E) <= concept:agentactsinlocation(B,A), concept:agentcompeteswithagent(B,C), concept:atdate(C,D), concept:atdate(E,D)
+1	concept:stadiumlocatedincity(A,D) <= concept:agentactsinlocation(B,A), concept:subpartoforganization(C,B), concept:locationlocatedwithinlocation(D,C)

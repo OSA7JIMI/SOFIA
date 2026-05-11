@@ -1,0 +1,2 @@
+1	/film/film/dubbing_performances./film/dubbing_performance/actor(A,D) <= /film/film/genre(A,B), /media_common/netflix_genre/titles(B,C), /award/award_winning_work/awards_won./award/award_honor/award_winner(C,D)
+1	/film/film/dubbing_performances./film/dubbing_performance/actor(A,E) <= /film/film/genre(A,B), /film/film/genre(C,B), /film/film/language(C,D), /film/actor/dubbing_performances./film/dubbing_performance/language(E,D)

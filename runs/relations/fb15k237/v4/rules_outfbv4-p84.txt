@@ -1,0 +1,7 @@
+1	/film/film/personal_appearances./film/personal_film_appearance/person(A,B) <= /film/film/music(A,B)
+1	/film/film/personal_appearances./film/personal_film_appearance/person(A,C) <= /film/film/estimated_budget./measurement_unit/dated_money_value/currency(A,B), /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency(C,B)
+1	/film/film/personal_appearances./film/personal_film_appearance/person(A,C) <= /film/film/language(A,B), /people/person/languages(C,B)
+1	/film/film/personal_appearances./film/personal_film_appearance/person(A,D) <= /film/film/personal_appearances./film/personal_film_appearance/person(A,B), /music/record_label/artist(C,B), /music/record_label/artist(C,D)
+1	/film/film/personal_appearances./film/personal_film_appearance/person(A,D) <= /film/film/featured_film_locations(A,B), /government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office(C,B), /government/politician/government_positions_held./government/government_position_held/basic_title(D,C)
+1	/film/film/personal_appearances./film/personal_film_appearance/person(A,D) <= /film/film/language(A,B), /people/ethnicity/languages_spoken(C,B), /people/ethnicity/people(C,D)
+1	/film/film/personal_appearances./film/personal_film_appearance/person(A,E) <= /film/film/language(A,B), /education/field_of_study/students_majoring./education/education/student(B,C), /people/ethnicity/people(D,C), /people/ethnicity/people(D,E)

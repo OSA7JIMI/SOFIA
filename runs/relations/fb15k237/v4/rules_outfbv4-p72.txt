@@ -1,0 +1,3 @@
+1	/film/film/estimated_budget./measurement_unit/dated_money_value/currency(A,D) <= /film/film/other_crew./film/film_crew_gig/film_crew_role(A,B), /film/film/other_crew./film/film_crew_gig/film_crew_role(C,B), /film/film/estimated_budget./measurement_unit/dated_money_value/currency(C,D)
+1	/film/film/estimated_budget./measurement_unit/dated_money_value/currency(A,D) <= /film/film/genre(A,B), /film/film/genre(C,B), /film/film/estimated_budget./measurement_unit/dated_money_value/currency(C,D)
+1	/film/film/estimated_budget./measurement_unit/dated_money_value/currency(A,D) <= /film/film/language(A,B), /language/human_language/countries_spoken_in(B,C), /location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency(C,D)

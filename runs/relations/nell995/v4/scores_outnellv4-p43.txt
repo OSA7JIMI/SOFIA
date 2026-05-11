@@ -1,0 +1,30 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:organizationheadquarteredinstateorprovince
+---------------------------------
+concept:stateorprovince:ny concept:organizationheadquarteredinstateorprovince concept:sportsteam:yankees 0
+
+---------------------------------
+concept:stateorprovince:ny concept:organizationheadquarteredinstateorprovince concept:sportsteam:new_york_football_giants 0
+
+---------------------------------
+concept:stateorprovince:pa concept:organizationheadquarteredinstateorprovince concept:sportsleague:new 0
+
+---------------------------------
+concept:stateorprovince:ny concept:organizationheadquarteredinstateorprovince concept:sportsteam:ny_yankees 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.0258097 0.0265753 0.0131579
+MR: 1 38.75 38.25 76
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.025641 0.0265753 0.0131579
+MR: 1 39 38.25 76
+relation_mr_mrr_1_3_10_n_rf 153.00000000000000000 0.10630112671708597 0.00000000000000000 0.00000000000000000 0.00000000000000000 4 0

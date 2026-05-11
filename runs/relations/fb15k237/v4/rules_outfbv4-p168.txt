@@ -1,0 +1,2 @@
+1	/people/ethnicity/geographic_distribution(A,D) <= /people/ethnicity/people(A,B), /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency(B,C), /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(D,C)
+1	/people/ethnicity/geographic_distribution(A,D) <= /people/ethnicity/geographic_distribution(A,B), /olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics(B,C), /olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics(D,C)

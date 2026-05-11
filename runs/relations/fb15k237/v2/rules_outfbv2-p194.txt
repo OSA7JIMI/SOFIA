@@ -1,0 +1,2 @@
+1	/tv/tv_program/program_creator(A,B) <= /tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(B,A)
+1	/tv/tv_program/program_creator(A,E) <= /tv/tv_program/languages(A,B), /education/field_of_study/students_majoring./education/education/student(B,C), /people/person/profession(C,D), /people/person/profession(E,D)

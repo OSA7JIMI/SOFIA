@@ -1,0 +1,2 @@
+1	concept:arthropodcalledarthropod(A,C) <= concept:animalistypeofanimal(A,B), concept:animalsuchasinvertebrate(B,C)
+1	concept:arthropodcalledarthropod(A,C) <= concept:animalthatfeedoninsect(B,A), concept:animalthatfeedoninsect(B,C)

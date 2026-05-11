@@ -1,0 +1,8 @@
+1	/film/film/country(A,C) <= /award/award_category/winners./award/award_honor/award_winner(A,B), /people/person/nationality(B,C)
+0.5	/film/film/country(A,C) <= /film/film/estimated_budget./measurement_unit/dated_money_value/currency(A,B), /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(C,B)
+0.5	/film/film/country(A,C) <= /film/film/language(A,B), /location/country/official_language(C,B)
+1	/film/film/country(A,C) <= /media_common/netflix_genre/titles(B,A), /location/statistical_region/places_exported_to./location/imports_and_exports/exported_to(C,B)
+1	/film/film/country(A,D) <= /film/film/other_crew./film/film_crew_gig/film_crew_role(A,B), /film/film/other_crew./film/film_crew_gig/film_crew_role(C,B), /film/film/release_date_s./film/film_regional_release_date/film_release_region(C,D)
+1	/film/film/country(A,D) <= /film/film/genre(A,B), /film/film/genre(C,B), /film/film/release_date_s./film/film_regional_release_date/film_release_region(C,D)
+0.5	/film/film/country(A,D) <= /film/film/language(A,B), /film/film/language(C,B), /film/film/release_date_s./film/film_regional_release_date/film_release_region(C,D)
+0.5	/film/film/country(A,E) <= /film/film/language(A,B), /language/human_language/countries_spoken_in(B,C), /government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office(D,C), /government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office(D,E)

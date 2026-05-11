@@ -1,0 +1,2 @@
+1	concept:attractionofcity(A,B) <= concept:proxyfor(B,A)
+1	concept:attractionofcity(A,D) <= concept:locationlocatedwithinlocation(B,A), concept:atlocation(B,C), concept:citylocatedincountry(D,C)

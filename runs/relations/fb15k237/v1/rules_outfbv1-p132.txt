@@ -1,0 +1,1 @@
+1	/organization/organization_member/member_of./organization/organization_membership/organization(A,D) <= /people/person/gender(A,B), /people/person/gender(C,B), /organization/organization_member/member_of./organization/organization_membership/organization(C,D)

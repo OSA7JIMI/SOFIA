@@ -1,0 +1,1 @@
+1	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office(A,B) <= /people/person/places_lived./people/place_lived/location(A,B)

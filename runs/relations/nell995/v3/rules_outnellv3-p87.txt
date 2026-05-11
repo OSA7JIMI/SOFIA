@@ -1,0 +1,7 @@
+1	concept:organizationheadquarteredincity(A,B) <= concept:headquarteredin(A,B)
+1	concept:organizationheadquarteredincity(A,C) <= concept:competeswith(B,A), concept:hasofficeincity(B,C)
+1	concept:organizationheadquarteredincity(A,C) <= concept:worksfor(B,A), concept:organizationhiredperson(C,B)
+1	concept:organizationheadquarteredincity(A,D) <= concept:competeswith(A,B), concept:locationlocatedwithinlocation(C,B), concept:proxyfor(D,C)
+1	concept:organizationheadquarteredincity(A,D) <= concept:locationlocatedwithinlocation(B,A), concept:atlocation(B,C), concept:locationlocatedwithinlocation(C,D)
+1	concept:organizationheadquarteredincity(A,D) <= concept:atdate(A,B), concept:atdate(C,B), concept:locationlocatedwithinlocation(D,C)
+1	concept:organizationheadquarteredincity(A,E) <= concept:agentcompeteswithagent(A,B), concept:atdate(B,C), concept:atdate(D,C), concept:mutualproxyfor(D,E)

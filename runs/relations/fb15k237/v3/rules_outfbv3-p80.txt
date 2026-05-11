@@ -1,0 +1,6 @@
+1	/film/film/music(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(B,A)
+1	/film/film/music(A,D) <= /film/film/dubbing_performances./film/dubbing_performance/actor(A,B), /people/person/gender(B,C), /people/person/gender(D,C)
+1	/film/film/music(A,D) <= /film/film/language(A,B), /film/film/language(C,B), /film/film/music(C,D)
+1	/film/film/music(A,D) <= /film/film/estimated_budget./measurement_unit/dated_money_value/currency(A,B), /film/film/estimated_budget./measurement_unit/dated_money_value/currency(C,B), /film/film/music(C,D)
+1	/film/film/music(A,E) <= /film/film/language(A,B), /education/field_of_study/students_majoring./education/education/student(B,C), /people/person/gender(C,D), /people/person/gender(E,D)
+1	/film/film/music(A,E) <= /film/film/genre(A,B), /film/film/genre(C,B), /award/award_winning_work/awards_won./award/award_honor/award(C,D), /award/award_nominee/award_nominations./award/award_nomination/award(E,D)

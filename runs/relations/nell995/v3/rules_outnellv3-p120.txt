@@ -1,0 +1,2 @@
+1	concept:sportusesstadium(A,C) <= concept:teamplayssport(B,A), concept:teamhomestadium(B,C)
+1	concept:sportusesstadium(A,E) <= concept:sportschoolincountry(A,B), concept:statelocatedingeopoliticallocation(C,B), concept:statelocatedingeopoliticallocation(C,D), concept:proxyfor(D,E)

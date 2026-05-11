@@ -1,0 +1,2 @@
+1	/music/group_member/membership./music/group_membership/role(A,B) <= /music/instrument/instrumentalists(B,A)
+1	/music/group_member/membership./music/group_membership/role(A,D) <= /people/person/gender(A,B), /people/person/gender(C,B), /music/group_member/membership./music/group_membership/role(C,D)

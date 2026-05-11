@@ -1,0 +1,1163 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:competeswith
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:newspaper:times 0
+
+concept:newspaper:journal concept:hasofficeincity concept:newspaper:times 0.5
+---------------------------------
+concept:blog:new_york_sun concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:magazine:wired concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:ap_001 concept:competeswith concept:politicsblog:journal 1
+
+---------------------------------
+concept:website:san_jose_mercury_news concept:competeswith concept:company:daily_news001 0
+
+---------------------------------
+concept:newspaper:star_ledger concept:competeswith concept:company:new_york 0
+
+concept:newspaper:star_ledger concept:hasofficeincity concept:company:new_york 0.5
+concept:newspaper:star_ledger concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:website:the_san_francisco_chronicle concept:competeswith concept:newspaper:journal 1
+
+concept:website:the_san_francisco_chronicle concept:hasofficeincity concept:newspaper:journal 0.5
+---------------------------------
+concept:newspaper:sunday_times concept:competeswith concept:company:telegraph001 0
+
+---------------------------------
+concept:company:new_republic concept:competeswith concept:politicsblog:journal 1
+
+---------------------------------
+concept:company:usa_today001 concept:competeswith concept:company:new_york 0
+
+concept:company:usa_today001 concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:website:the_daily_news concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:boston_herald concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:newspaper:national_review 1
+
+concept:newspaper:journal concept:agentcompeteswithagent concept:newspaper:national_review 1
+concept:newspaper:journal concept:subpartof concept:newspaper:national_review 1
+---------------------------------
+concept:website:new_york_daily concept:competeswith concept:newspaper:journal 1
+
+---------------------------------
+concept:newspaper:new_york_observer concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:buffalo_news concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:new_york_times concept:competeswith concept:company:new_york 0
+
+concept:website:new_york_times concept:companyeconomicsector concept:company:new_york 1.5
+concept:website:new_york_times concept:hasofficeincity concept:company:new_york 0.5
+concept:website:new_york_times concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:newspaper:gq concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:reuters 1
+
+---------------------------------
+concept:blog:entertainment_weekly concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:outside_magazine concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:cnn concept:competeswith concept:politicsblog:journal 1
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:televisionnetwork:cbs 1
+
+concept:newspaper:journal concept:hasofficeincity concept:televisionnetwork:cbs 0.5
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:business_week 0
+
+---------------------------------
+concept:company:sun concept:competeswith concept:company:microsoft 1
+
+---------------------------------
+concept:newspaper:financial_times concept:competeswith concept:company:new_york 0
+
+concept:newspaper:financial_times concept:hasofficeincity concept:company:new_york 0.5
+concept:newspaper:financial_times concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:newspaper:conde_nast_traveler concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:magazine:slate concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:blog:herald concept:competeswith concept:company:los_angeles 0
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:weekly_standard001 1
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:cnn 1
+
+---------------------------------
+concept:blog:new_york_law_journal concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:paris_match concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:magazine:life concept:competeswith concept:company:new_york 0
+
+concept:magazine:life concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:blog:sun concept:competeswith concept:company:oracle 0
+
+---------------------------------
+concept:newspaper:amsterdam_news concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:magazine:the_boston_globe concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:yahoo concept:competeswith concept:website:amazon 0
+
+---------------------------------
+concept:magazine:atlantic_monthly concept:competeswith concept:company:new_york 0
+
+concept:magazine:atlantic_monthly concept:hasofficeincity concept:company:new_york 0.5
+concept:magazine:atlantic_monthly concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:miami_herald001 0
+
+---------------------------------
+concept:politicsblog:wall_street_journal concept:competeswith concept:politicsblog:journal 0
+
+---------------------------------
+concept:newspaper:time_out_new_york concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:magazine:scientific_american concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:new_republic concept:competeswith concept:company:new_york 0
+
+concept:company:new_republic concept:hasofficeincity concept:company:new_york 0.5
+concept:company:new_republic concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:newspaper:staten_island_advance concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:blog:psychology_today concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:vogue001 concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:national_review concept:competeswith concept:newspaper:journal 1
+
+concept:newspaper:national_review concept:agentcollaborateswithagent concept:newspaper:journal 1
+---------------------------------
+concept:blog:sun_times concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:guardian concept:competeswith concept:company:express 0
+
+---------------------------------
+concept:company:fortune001 concept:competeswith concept:company:new_york 0
+
+concept:company:fortune001 concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:company:usa_today001 concept:competeswith concept:politicsblog:journal 1
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:website:san_jose_mercury_news 1
+
+---------------------------------
+concept:company:the_guardian001 concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:economist001 1
+
+---------------------------------
+concept:website:new_yorker_magazine concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:weekly_standard001 concept:competeswith concept:politicsblog:journal 1
+
+---------------------------------
+concept:company:yahoo001 concept:competeswith concept:company:microsoft 0
+
+---------------------------------
+concept:website:facebook concept:competeswith concept:website:yahoo 1
+
+---------------------------------
+concept:televisionnetwork:cbs concept:competeswith concept:company:new_york 0
+
+concept:televisionnetwork:cbs concept:companyeconomicsector concept:company:new_york 1.5
+concept:televisionnetwork:cbs concept:hasofficeincity concept:company:new_york 0.5
+concept:televisionnetwork:cbs concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:televisionnetwork:abc concept:competeswith concept:company:new_york 0
+
+concept:televisionnetwork:abc concept:companyeconomicsector concept:company:new_york 1.5
+concept:televisionnetwork:abc concept:hasofficeincity concept:company:new_york 0.5
+concept:televisionnetwork:abc concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:televisionnetwork:cbs concept:competeswith concept:newspaper:times 0
+
+concept:televisionnetwork:cbs concept:hasofficeincity concept:newspaper:times 0.5
+---------------------------------
+concept:website:the_washington_times concept:competeswith concept:company:new_york 0
+
+concept:website:the_washington_times concept:hasofficeincity concept:company:new_york 0.5
+concept:website:the_washington_times concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:politicsblog:huffington_post concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:ap_001 1
+
+---------------------------------
+concept:blog:sun concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:observer001 concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:washington_post concept:competeswith concept:newspaper:journal 1
+
+concept:website:washington_post concept:agentcollaborateswithagent concept:newspaper:journal 1
+concept:website:washington_post concept:hasofficeincity concept:newspaper:journal 0.5
+---------------------------------
+concept:company:microsoft concept:competeswith concept:company:oracle 0
+
+---------------------------------
+concept:website:san_jose_mercury_news concept:competeswith concept:newspaper:journal 1
+
+---------------------------------
+concept:blog:herald concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:usa_today001 concept:competeswith concept:company:los_angeles 0
+
+concept:company:usa_today001 concept:companyeconomicsector concept:company:los_angeles 0.5
+---------------------------------
+concept:company:yahoo001 concept:competeswith concept:company:new_york 0
+
+concept:company:yahoo001 concept:agentcompeteswithagent concept:company:new_york 0.5
+---------------------------------
+concept:website:new_york_times concept:competeswith concept:company:telegraph001 0
+
+---------------------------------
+concept:website:washington_post concept:competeswith concept:company:telegraph001 0
+
+---------------------------------
+concept:company:oracle concept:competeswith concept:company:sun 0
+
+---------------------------------
+concept:magazine:the_new_york_daily_news concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:seattle_times concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:forbes001 concept:competeswith concept:company:new_york 0
+
+concept:company:forbes001 concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:newspaper:the_san_francisco_examiner concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:fortune001 1
+
+---------------------------------
+concept:company:fox concept:competeswith concept:newspaper:journal 1
+
+concept:company:fox concept:hasofficeincity concept:newspaper:journal 0.5
+---------------------------------
+concept:website:washington_times concept:competeswith concept:company:new_york 0
+
+concept:website:washington_times concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:newspaper:the_detroit_free_press concept:competeswith concept:company:new_york 0
+
+concept:newspaper:the_detroit_free_press concept:companyeconomicsector concept:company:new_york 1.5
+concept:newspaper:the_detroit_free_press concept:hasofficeincity concept:company:new_york 0.5
+concept:newspaper:the_detroit_free_press concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:publication:espn concept:competeswith concept:company:new_york 0
+
+concept:publication:espn concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:newspaper:philadelphia_inquirer concept:competeswith concept:company:new_york 0
+
+concept:newspaper:philadelphia_inquirer concept:companyeconomicsector concept:company:new_york 1.5
+concept:newspaper:philadelphia_inquirer concept:hasofficeincity concept:company:new_york 0.5
+concept:newspaper:philadelphia_inquirer concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:newspaper:times concept:competeswith concept:website:new_york_daily 0
+
+---------------------------------
+concept:company:bloomberg concept:competeswith concept:newspaper:times 0
+
+---------------------------------
+concept:publication:times_book_review concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:magazine:atlantic_monthly 1
+
+---------------------------------
+concept:bank:discover concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:daily_news001 concept:competeswith concept:company:los_angeles 0
+
+---------------------------------
+concept:newspaper:times concept:competeswith concept:website:cnn__fox 1
+
+concept:newspaper:times concept:hasofficeincity concept:website:cnn__fox 0.5
+---------------------------------
+concept:company:ap_001 concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:the_international_herald_tribune concept:competeswith concept:company:new_york 0
+
+concept:newspaper:the_international_herald_tribune concept:hasofficeincity concept:company:new_york 0.5
+concept:newspaper:the_international_herald_tribune concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:company:chronicle001 concept:competeswith concept:company:los_angeles 0
+
+---------------------------------
+concept:company:apple002 concept:competeswith concept:company:hp 0
+
+---------------------------------
+concept:company:boston_globe001 concept:competeswith concept:politicsblog:journal 1
+
+---------------------------------
+concept:newspaper:times concept:competeswith concept:company:telegraph001 0
+
+---------------------------------
+concept:company:forbes001 concept:competeswith concept:politicsblog:journal 1
+
+---------------------------------
+concept:newspaper:salon_com concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:vogue001 concept:competeswith concept:politicsblog:journal 1
+
+---------------------------------
+concept:politicsblog:toronto_star concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:miami_herald001 concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:the_nation concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:weekly_standard001 concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:the_new_york_observer concept:competeswith concept:company:new_york 0
+
+concept:newspaper:the_new_york_observer concept:hasofficeincity concept:company:new_york 0.5
+concept:newspaper:the_new_york_observer concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:company:cnn_ 1
+
+concept:newspaper:journal concept:hasofficeincity concept:company:cnn_ 0.5
+---------------------------------
+concept:politicsblog:bbc concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:the_philadelphia_inquirer concept:competeswith concept:company:new_york 0
+
+concept:newspaper:the_philadelphia_inquirer concept:hasofficeincity concept:company:new_york 0.5
+concept:newspaper:the_philadelphia_inquirer concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:website:chicago_tribune concept:competeswith concept:company:los_angeles 0
+
+concept:website:chicago_tribune concept:companyeconomicsector concept:company:los_angeles 0.5
+---------------------------------
+concept:website:san_jose_mercury_news concept:competeswith concept:newspaper:times 0
+
+---------------------------------
+concept:politicsblog:bookforum concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:financial_times concept:competeswith concept:newspaper:journal 1
+
+concept:newspaper:financial_times concept:agentcollaborateswithagent concept:newspaper:journal 1
+concept:newspaper:financial_times concept:hasofficeincity concept:newspaper:journal 0.5
+---------------------------------
+concept:website:new_york_daily concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:msnbc_com concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:cnn concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:philadelphia_inquirer concept:competeswith concept:newspaper:journal 1
+
+concept:newspaper:philadelphia_inquirer concept:hasofficeincity concept:newspaper:journal 0.5
+---------------------------------
+concept:newspaper:newsday concept:competeswith concept:newspaper:journal 1
+
+concept:newspaper:newsday concept:hasofficeincity concept:newspaper:journal 0.5
+---------------------------------
+concept:company:christian_science_monitor concept:competeswith concept:company:new_york 0
+
+concept:company:christian_science_monitor concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:company:npr concept:competeswith concept:company:new_york 0
+
+concept:company:npr concept:companyeconomicsector concept:company:new_york 1.5
+concept:company:npr concept:hasofficeincity concept:company:new_york 0.5
+concept:company:npr concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:blog:time_magazine concept:competeswith concept:politicsblog:journal 1
+
+---------------------------------
+concept:website:yahoo concept:competeswith concept:website:facebook 1
+
+---------------------------------
+concept:company:npr concept:competeswith concept:company:los_angeles 0
+
+concept:company:npr concept:companyeconomicsector concept:company:los_angeles 0.5
+---------------------------------
+concept:newspaper:new_york_press concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:chicago_tribune concept:competeswith concept:newspaper:journal 0
+
+concept:website:chicago_tribune concept:agentcollaborateswithagent concept:newspaper:journal 1
+concept:website:chicago_tribune concept:hasofficeincity concept:newspaper:journal 0.5
+---------------------------------
+concept:politicsblog:star concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:esquire001 concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:le_monde concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:the_chicago_tribune concept:competeswith concept:company:new_york 0
+
+concept:newspaper:the_chicago_tribune concept:hasofficeincity concept:company:new_york 0.5
+concept:newspaper:the_chicago_tribune concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:politicsblog:the_economist concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:new_york_review_of_books concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:the_new_york_times001 concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:globe_and_mail concept:competeswith concept:company:new_york 0
+
+concept:company:globe_and_mail concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:blog:new_york_times_magazine concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:new_york_american concept:competeswith concept:newspaper:journal 0
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:website:nbc_news 1
+
+concept:newspaper:journal concept:hasofficeincity concept:website:nbc_news 0.5
+---------------------------------
+concept:newspaper:l__a__times concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:national_public_radio 0
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:newspaper:newsday 1
+
+concept:newspaper:journal concept:hasofficeincity concept:newspaper:newsday 0.5
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:christian_science_monitor 1
+
+---------------------------------
+concept:politicsblog:wall_street_journal concept:competeswith concept:company:los_angeles 0
+
+---------------------------------
+concept:company:cnn_ concept:competeswith concept:company:new_york 0
+
+concept:company:cnn_ concept:companyeconomicsector concept:company:new_york 1.5
+concept:company:cnn_ concept:hasofficeincity concept:company:new_york 0.5
+concept:company:cnn_ concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:company:express concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:newspaper:financial_times 1
+
+concept:newspaper:journal concept:agentcompeteswithagent concept:newspaper:financial_times 1
+concept:newspaper:journal concept:subpartof concept:newspaper:financial_times 1
+---------------------------------
+concept:blog:vanity_fair concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:newspaper:la_times 1
+
+concept:newspaper:journal concept:hasofficeincity concept:newspaper:la_times 0.5
+---------------------------------
+concept:company:reuters concept:competeswith concept:politicsblog:journal 1
+
+---------------------------------
+concept:blog:sun concept:competeswith concept:company:los_angeles 0
+
+---------------------------------
+concept:website:cbs_evening_news concept:competeswith concept:company:new_york 0
+
+concept:website:cbs_evening_news concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:televisionstation:associated_press concept:competeswith concept:company:new_york 0
+
+concept:televisionstation:associated_press concept:atdate concept:company:new_york 1.52262
+---------------------------------
+concept:website:associated_press concept:competeswith concept:company:new_york 0
+
+concept:website:associated_press concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:company:economist001 concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:washington_times concept:competeswith concept:newspaper:journal 1
+
+---------------------------------
+concept:website:rolling_stone_magazine concept:competeswith concept:company:new_york 0
+
+concept:website:rolling_stone_magazine concept:hasofficeincity concept:company:new_york 0.5
+concept:website:rolling_stone_magazine concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:magazine:the_village_voice concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:magazine:salon concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:independent concept:competeswith concept:company:telegraph001 0
+
+---------------------------------
+concept:blog:time_magazine concept:competeswith concept:company:new_york 0
+
+concept:blog:time_magazine concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:website:new_york_times concept:competeswith concept:newspaper:journal 1
+
+concept:website:new_york_times concept:hasofficeincity concept:newspaper:journal 0.5
+---------------------------------
+concept:newspaper:times concept:competeswith concept:company:los_angeles 0
+
+concept:newspaper:times concept:agentcompeteswithagent concept:company:los_angeles 0.5
+concept:newspaper:times concept:companyeconomicsector concept:company:los_angeles 0.5
+---------------------------------
+concept:company:microsoft concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:biotechcompany:apple concept:competeswith concept:company:yahoo001 1
+
+concept:biotechcompany:apple concept:agentcompeteswithagent concept:company:yahoo001 0.892822
+concept:biotechcompany:apple concept:agentcreated concept:company:yahoo001 0.5
+---------------------------------
+concept:blog:sun concept:competeswith concept:company:hp 0
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:website:new_york_daily 1
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:website:new_york_times 1
+
+concept:newspaper:journal concept:hasofficeincity concept:website:new_york_times 0.5
+---------------------------------
+concept:magazine:popular_science concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:fox_news_channel concept:competeswith concept:company:new_york 0
+
+concept:company:fox_news_channel concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:newspaper:dallas_morning concept:competeswith concept:newspaper:times 1
+
+---------------------------------
+concept:company:telegraph001 concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:the_new_york_sun concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:blog:nation concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:newspaper:the_international_herald_tribune 1
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:new_republic 1
+
+---------------------------------
+concept:televisionstation:the_times concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:sun concept:competeswith concept:company:express 0
+
+---------------------------------
+concept:website:cnn__fox concept:competeswith concept:newspaper:times 1
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:televisionnetwork:abc 1
+
+concept:newspaper:journal concept:hasofficeincity concept:televisionnetwork:abc 0.5
+---------------------------------
+concept:company:daily_news001 concept:competeswith concept:company:new_york 0
+
+concept:company:daily_news001 concept:hasofficeincity concept:company:new_york 0.5
+concept:company:daily_news001 concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:televisionstation:dallas_morning_news concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:rolling_stone concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:publishers_weekly concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:vogue001 1
+
+---------------------------------
+concept:company:bbc concept:competeswith concept:newspaper:times 0
+
+---------------------------------
+concept:televisionnetwork:abc concept:competeswith concept:newspaper:journal 1
+
+concept:televisionnetwork:abc concept:hasofficeincity concept:newspaper:journal 0.5
+---------------------------------
+concept:company:yahoo001 concept:competeswith concept:biotechcompany:apple 1
+
+concept:company:yahoo001 concept:agentcompeteswithagent concept:biotechcompany:apple 0.5
+---------------------------------
+concept:newspaper:national_review concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:usa_today001 1
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:website:the_san_francisco_chronicle 1
+
+concept:newspaper:journal concept:hasofficeincity concept:website:the_san_francisco_chronicle 0.5
+---------------------------------
+concept:company:chronicle001 concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:website:associated_press 1
+
+concept:newspaper:journal concept:hasofficeincity concept:website:associated_press 0.5
+---------------------------------
+concept:politicsblog:chronicle_of_higher_education concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:washington_post concept:competeswith concept:company:los_angeles 0
+
+concept:website:washington_post concept:atdate concept:company:los_angeles 0.504339
+concept:website:washington_post concept:companyeconomicsector concept:company:los_angeles 0.5
+---------------------------------
+concept:magazine:u_s__news___world_report concept:competeswith concept:company:new_york 0
+
+concept:magazine:u_s__news___world_report concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:blog:the_atlantic_monthly concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:the_financial_times concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:martha_stewart concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:yahoo concept:competeswith concept:newspaper:times 0
+
+---------------------------------
+concept:company:national_public_radio concept:competeswith concept:company:new_york 0
+
+concept:company:national_public_radio concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:newspaper:the_international_herald_tribune concept:competeswith concept:newspaper:journal 1
+
+concept:newspaper:the_international_herald_tribune concept:hasofficeincity concept:newspaper:journal 0.5
+---------------------------------
+concept:company:oprah_show concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:money 0
+
+---------------------------------
+concept:website:new_york_law_journal concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:blog:slashdot concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:nbc_news concept:competeswith concept:newspaper:journal 1
+
+concept:website:nbc_news concept:hasofficeincity concept:newspaper:journal 0.5
+---------------------------------
+concept:website:new_york_american concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:esquire001 0
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:newspaper:philadelphia_inquirer 1
+
+concept:newspaper:journal concept:hasofficeincity concept:newspaper:philadelphia_inquirer 0.5
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:magazine:cosmopolitan 0
+
+---------------------------------
+concept:company:boston_globe001 concept:competeswith concept:company:los_angeles 0
+
+concept:company:boston_globe001 concept:companyeconomicsector concept:company:los_angeles 0.5
+---------------------------------
+concept:blog:sports_illustrated concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:cnn_ concept:competeswith concept:newspaper:journal 1
+
+concept:company:cnn_ concept:hasofficeincity concept:newspaper:journal 0.5
+---------------------------------
+concept:newspaper:new_york_post concept:competeswith concept:company:new_york 0
+
+concept:newspaper:new_york_post concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:newspaper:la_times concept:competeswith concept:company:new_york 0
+
+concept:newspaper:la_times concept:companyeconomicsector concept:company:new_york 1.5
+concept:newspaper:la_times concept:hasofficeincity concept:company:new_york 0.5
+concept:newspaper:la_times concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:company:fox 1
+
+concept:newspaper:journal concept:hasofficeincity concept:company:fox 0.5
+---------------------------------
+concept:blog:sun concept:competeswith concept:politicsblog:star 0
+
+---------------------------------
+concept:company:apple002 concept:competeswith concept:company:sun 0
+
+concept:company:apple002 concept:hasofficeincity concept:company:sun 0.5
+---------------------------------
+concept:televisionstation:cnbc concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:the_christian_science_monitor concept:competeswith concept:company:new_york 0
+
+concept:newspaper:the_christian_science_monitor concept:hasofficeincity concept:company:new_york 0.5
+concept:newspaper:the_christian_science_monitor concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:magazine:the_new_york_times_magazine concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:financial_times concept:competeswith concept:company:telegraph001 0
+
+---------------------------------
+concept:magazine:london_review_of_books concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:the_new_yorker concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:guardian concept:competeswith concept:company:los_angeles 0
+
+---------------------------------
+concept:company:sun concept:competeswith concept:company:ibm 1
+
+concept:company:sun concept:hasofficeincity concept:company:ibm 0.5
+---------------------------------
+concept:televisionnetwork:abc concept:competeswith concept:newspaper:times 0
+
+concept:televisionnetwork:abc concept:hasofficeincity concept:newspaper:times 0.5
+---------------------------------
+concept:politicsblog:people_magazine concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:new_york_times concept:competeswith concept:company:los_angeles 0
+
+concept:website:new_york_times concept:companyeconomicsector concept:company:los_angeles 0.5
+---------------------------------
+concept:biotechcompany:novell concept:competeswith concept:company:sun 0
+
+---------------------------------
+concept:newspaper:times concept:competeswith concept:company:fox 1
+
+concept:newspaper:times concept:hasofficeincity concept:company:fox 0.5
+---------------------------------
+concept:blog:science concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:good_housekeeping concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:washington_post concept:competeswith concept:company:new_york 0
+
+concept:website:washington_post concept:atdate concept:company:new_york 1.52262
+concept:website:washington_post concept:companyeconomicsector concept:company:new_york 1.5
+concept:website:washington_post concept:hasofficeincity concept:company:new_york 0.5
+concept:website:washington_post concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:company:microsoft concept:competeswith concept:company:sun 1
+
+---------------------------------
+concept:magazine:the_weekly_standard concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:the_washington_post concept:competeswith concept:company:los_angeles 0
+
+concept:website:the_washington_post concept:companyeconomicsector concept:company:los_angeles 0.5
+---------------------------------
+concept:magazine:national_enquirer concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:abc_news concept:competeswith concept:company:new_york 0
+
+concept:company:abc_news concept:companyeconomicsector concept:company:new_york 1.5
+concept:company:abc_news concept:hasofficeincity concept:company:new_york 0.5
+concept:company:abc_news concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:website:chicago_tribune concept:competeswith concept:company:new_york 0
+
+concept:website:chicago_tribune concept:companyeconomicsector concept:company:new_york 1.5
+concept:website:chicago_tribune concept:hasofficeincity concept:company:new_york 0.5
+concept:website:chicago_tribune concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:company:economist001 concept:competeswith concept:politicsblog:journal 1
+
+---------------------------------
+concept:politicsblog:mother_jones concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:hp concept:competeswith concept:company:sun 0
+
+---------------------------------
+concept:newspaper:newsday concept:competeswith concept:company:new_york 0
+
+concept:newspaper:newsday concept:companyeconomicsector concept:company:new_york 1.5
+concept:newspaper:newsday concept:hasofficeincity concept:company:new_york 0.5
+concept:newspaper:newsday concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:politicsblog:the_independent concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:newspaper:the_detroit_free_press 0
+
+concept:newspaper:journal concept:hasofficeincity concept:newspaper:the_detroit_free_press 0.5
+---------------------------------
+concept:company:the_new_york_times001 concept:competeswith concept:company:los_angeles 0
+
+---------------------------------
+concept:newspaper:guardian concept:competeswith concept:company:telegraph001 0
+
+---------------------------------
+concept:company:business_week concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:times concept:competeswith concept:company:new_york 0.25
+
+concept:newspaper:times concept:agentcompeteswithagent concept:company:new_york 0.5
+concept:newspaper:times concept:companyeconomicsector concept:company:new_york 1.5
+concept:newspaper:times concept:hasofficeincity concept:company:new_york 0.5
+concept:newspaper:times concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:newspaper:newsday concept:competeswith concept:company:los_angeles 0
+
+concept:newspaper:newsday concept:companyeconomicsector concept:company:los_angeles 0.5
+---------------------------------
+concept:newspaper:sunday_times concept:competeswith concept:company:new_york 0
+
+concept:newspaper:sunday_times concept:hasofficeincity concept:company:new_york 0.5
+concept:newspaper:sunday_times concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:company:espn_com concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:magazine:the_wall_street_journal concept:competeswith concept:company:new_york 0
+
+concept:magazine:the_wall_street_journal concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:bbc 0
+
+---------------------------------
+concept:website:herald_tribune concept:competeswith concept:company:new_york 0
+
+concept:website:herald_tribune concept:hasofficeincity concept:company:new_york 0.5
+concept:website:herald_tribune concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:politicsblog:independent concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:blog:london_observer concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:london_sunday_times concept:competeswith concept:newspaper:journal 0
+
+concept:newspaper:london_sunday_times concept:hasofficeincity concept:newspaper:journal 0.5
+---------------------------------
+concept:televisionstation:baltimore_sun concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:daily_news concept:competeswith concept:website:san_jose_mercury_news 0
+
+---------------------------------
+concept:company:bbc concept:competeswith concept:newspaper:journal 0
+
+---------------------------------
+concept:newspaper:the_new_york_times_book_review concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:the_washington_post concept:competeswith concept:company:new_york 0
+
+concept:website:the_washington_post concept:companyeconomicsector concept:company:new_york 1.5
+concept:website:the_washington_post concept:hasofficeincity concept:company:new_york 0.5
+concept:website:the_washington_post concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:blog:wine_spectator concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:guardian concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:associated_press concept:competeswith concept:newspaper:journal 1
+
+---------------------------------
+concept:website:amazon concept:competeswith concept:website:facebook 1
+
+---------------------------------
+concept:magazine:the_new_republic concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:fox concept:competeswith concept:newspaper:times 1
+
+concept:company:fox concept:hasofficeincity concept:newspaper:times 0.5
+---------------------------------
+concept:website:the_san_francisco_chronicle concept:competeswith concept:company:new_york 0
+
+concept:website:the_san_francisco_chronicle concept:companyeconomicsector concept:company:new_york 1.5
+concept:website:the_san_francisco_chronicle concept:hasofficeincity concept:company:new_york 0.5
+concept:website:the_san_francisco_chronicle concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:politicsblog:village_voice concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:magazine:playboy concept:competeswith concept:company:new_york 0
+
+concept:magazine:playboy concept:hasofficeincity concept:company:new_york 0.5
+concept:magazine:playboy concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:televisionstation:new_york_daily_news concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:bloomberg001 concept:competeswith concept:politicsblog:journal 1
+
+---------------------------------
+concept:magazine:variety concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:jerusalem_post concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:magazine:hollywood_reporter concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:national_post concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:televisionstation:msnbc concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:good_morning_america 0
+
+---------------------------------
+concept:televisionstation:chicago_sun_times concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:blog:national_geographic concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:blog:fox_news concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:the_new_york_review_of_books concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:blog:wired_magazine concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:blog:columbia_journalism_review concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:harper concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:televisionstation:los_angeles_times concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:televisionstation:bbc_news concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:slate__com concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:website:nbc_news concept:competeswith concept:company:new_york 0
+
+concept:website:nbc_news concept:companyeconomicsector concept:company:new_york 1.5
+concept:website:nbc_news concept:hasofficeincity concept:company:new_york 0.5
+concept:website:nbc_news concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:website:facebook concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:christian_science_monitor concept:competeswith concept:politicsblog:journal 1
+
+---------------------------------
+concept:website:facebook concept:competeswith concept:company:apple002 0
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:bloomberg001 1
+
+---------------------------------
+concept:website:the_san_francisco_chronicle concept:competeswith concept:company:los_angeles 0
+
+concept:website:the_san_francisco_chronicle concept:companyeconomicsector concept:company:los_angeles 0.5
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:boston_globe001 1
+
+---------------------------------
+concept:magazine:cosmopolitan concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:wall_street_journal concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:la_times concept:competeswith concept:newspaper:journal 1
+
+concept:newspaper:la_times concept:hasofficeincity concept:newspaper:journal 0.5
+---------------------------------
+concept:website:the_houston_chronicle concept:competeswith concept:company:new_york 0
+
+concept:website:the_houston_chronicle concept:companyeconomicsector concept:company:new_york 1.5
+concept:website:the_houston_chronicle concept:hasofficeincity concept:company:new_york 0.5
+concept:website:the_houston_chronicle concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:company:ibm concept:competeswith concept:company:oracle 0
+
+---------------------------------
+concept:website:facebook concept:competeswith concept:website:amazon 1
+
+---------------------------------
+concept:company:fortune001 concept:competeswith concept:politicsblog:journal 1
+
+---------------------------------
+concept:magazine:atlantic_monthly concept:competeswith concept:newspaper:journal 1
+
+concept:magazine:atlantic_monthly concept:hasofficeincity concept:newspaper:journal 0.5
+---------------------------------
+concept:publication:times_literary_supplement concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:televisionnetwork:cbs concept:competeswith concept:newspaper:journal 1
+
+concept:televisionnetwork:cbs concept:hasofficeincity concept:newspaper:journal 0.5
+---------------------------------
+concept:newspaper:times concept:competeswith concept:company:express 0
+
+---------------------------------
+concept:newspaper:record concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:website:washington_times 1
+
+concept:newspaper:journal concept:hasofficeincity concept:website:washington_times 0.5
+---------------------------------
+concept:newspaper:journal concept:competeswith concept:website:washington_post 1
+
+concept:newspaper:journal concept:agentcompeteswithagent concept:website:washington_post 1
+concept:newspaper:journal concept:hasofficeincity concept:website:washington_post 0.5
+concept:newspaper:journal concept:subpartof concept:website:washington_post 1
+---------------------------------
+concept:newspaper:times concept:competeswith concept:newspaper:dallas_morning 1
+
+---------------------------------
+concept:company:bloomberg001 concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:los_angeles 0
+
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:blog:time_magazine 1
+
+---------------------------------
+concept:company:boston_globe001 concept:competeswith concept:company:new_york 0
+
+concept:company:boston_globe001 concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:company:good_morning_america concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:reuters concept:competeswith concept:company:new_york 0
+
+concept:company:reuters concept:hasofficeincity concept:company:new_york 0.5
+concept:company:reuters concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:politicsblog:journal concept:competeswith concept:company:forbes001 1
+
+---------------------------------
+concept:newspaper:sacramento_bee concept:competeswith concept:company:new_york 0
+
+concept:newspaper:sacramento_bee concept:companyeconomicsector concept:company:new_york 1.5
+---------------------------------
+concept:website:new_york_times_book_review concept:competeswith concept:company:new_york 0
+
+---------------------------------
+concept:company:ibm concept:competeswith concept:company:sun 1
+
+---------------------------------
+concept:newspaper:london_sunday_times concept:competeswith concept:company:new_york 0
+
+concept:newspaper:london_sunday_times concept:hasofficeincity concept:company:new_york 0.5
+concept:newspaper:london_sunday_times concept:organizationheadquarteredincity concept:company:new_york 0.5
+---------------------------------
+concept:newspaper:london_sunday_times concept:competeswith concept:company:telegraph001 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.781538 0.233846 0.24 0.252308
+HITS@3: 0.947692 0.252308 0.252308 0.252308
+HITS@10: 1 0.255385 0.255385 0.255385
+MRR: 0.867128 0.262898 0.265612 0.262721
+MR: 1.39077 29.1631 29.2738 56.8585
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.781538 0.236923 0.24 0.252308
+HITS@3: 0.947692 0.252308 0.252308 0.252308
+HITS@10: 1 0.255385 0.255385 0.255385
+MRR: 0.867128 0.264457 0.265613 0.262721
+MR: 1.39077 29.1292 29.2708 56.8554
+relation_mr_mrr_1_3_10_n_rf 9513.00000000000000000 86.32432555030554511 78.00000000000000000 82.00000000000000000 83.00000000000000000 325 83

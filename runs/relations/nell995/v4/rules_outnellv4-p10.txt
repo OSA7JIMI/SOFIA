@@ -1,0 +1,1 @@
+1	concept:athletehomestadium(A,C) <= concept:organizationhiredperson(B,A), concept:subpartof(C,B)

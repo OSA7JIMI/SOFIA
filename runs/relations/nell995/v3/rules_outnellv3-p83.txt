@@ -1,0 +1,6 @@
+1	concept:objectpartofobject(A,D) <= concept:objectpartofobject(B,A), concept:proxyfor(B,C), concept:proxyfor(D,C)
+1	concept:objectpartofobject(A,D) <= concept:objectpartofobject(A,B), concept:objectpartofobject(C,B), concept:objectpartofobject(C,D)
+1	concept:objectpartofobject(A,D) <= concept:mutualproxyfor(A,B), concept:mutualproxyfor(B,C), concept:objectpartofobject(C,D)
+1	concept:objectpartofobject(A,C) <= concept:objectpartofobject(B,A), concept:objectpartofobject(B,C)
+1	concept:objectpartofobject(A,D) <= concept:atdate(A,B), concept:atdate(C,B), concept:objectpartofobject(C,D)
+1	concept:objectpartofobject(A,C) <= concept:objectpartofobject(A,B), concept:objectpartofobject(C,B)

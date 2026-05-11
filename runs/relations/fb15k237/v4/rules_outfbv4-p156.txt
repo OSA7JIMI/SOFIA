@@ -1,0 +1,5 @@
+1	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency(A,B) <= /business/business_operation/assets./measurement_unit/dated_money_value/currency(A,B)
+1	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency(A,B) <= /education/university/domestic_tuition./measurement_unit/dated_money_value/currency(A,B)
+1	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency(A,B) <= /education/university/local_tuition./measurement_unit/dated_money_value/currency(A,B)
+1	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency(A,C) <= /location/location/contains(B,A), /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(B,C)
+1	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency(A,D) <= /education/educational_degree/people_with_this_degree./education/education/institution(B,A), /education/educational_degree/people_with_this_degree./education/education/institution(B,C), /education/university/local_tuition./measurement_unit/dated_money_value/currency(C,D)

@@ -1,0 +1,3 @@
+1	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency(A,B) <= /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(A,B)
+1	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency(A,C) <= /base/aareas/schema/administrative_area/administrative_parent(A,B), /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(B,C)
+1	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency(A,D) <= /location/location/time_zones(A,B), /location/location/time_zones(C,B), /location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency(C,D)

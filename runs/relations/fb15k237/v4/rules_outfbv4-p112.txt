@@ -1,0 +1,4 @@
+1	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division(A,B) <= /base/aareas/schema/administrative_area/capital(B,A)
+1	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division(A,B) <= /base/biblioness/bibs_location/state(A,B)
+1	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division(A,B) <= /location/location/contains(B,A)
+1	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division(A,C) <= /location/location/contains(B,A), /location/administrative_division/country(C,B)

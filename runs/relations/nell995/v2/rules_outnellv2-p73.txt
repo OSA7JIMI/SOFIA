@@ -1,0 +1,5 @@
+1	concept:statehascapital(A,E) <= concept:stateorprovinceisborderedbystateorprovince(B,A), concept:statelocatedingeopoliticallocation(B,C), concept:agentactsinlocation(D,C), concept:teamplaysincity(D,E)
+1	concept:statehascapital(A,D) <= concept:subpartoforganization(A,B), concept:agentcompeteswithagent(B,C), concept:mutualproxyfor(D,C)
+1	concept:statehascapital(A,D) <= concept:stateorprovinceisborderedbystateorprovince(B,A), concept:statelocatedingeopoliticallocation(B,C), concept:proxyfor(D,C)
+1	concept:statehascapital(A,E) <= concept:subpartoforganization(A,B), concept:agentcompeteswithagent(B,C), concept:teamplaysagainstteam(C,D), concept:teamplaysincity(D,E)
+1	concept:statehascapital(A,D) <= concept:atlocation(B,A), concept:atlocation(B,C), concept:proxyfor(D,C)

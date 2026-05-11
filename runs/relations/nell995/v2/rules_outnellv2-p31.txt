@@ -1,0 +1,2 @@
+1	concept:headquarteredin(A,B) <= concept:organizationheadquarteredincity(A,B)
+1	concept:headquarteredin(A,C) <= concept:statelocatedingeopoliticallocation(B,A), concept:statelocatedingeopoliticallocation(B,C)

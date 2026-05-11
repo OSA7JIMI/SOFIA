@@ -1,0 +1,2 @@
+1	/award/award_winning_work/awards_won./award/award_honor/honored_for(A,C) <= /film/film/language(A,B), /film/film/language(C,B)
+1	/award/award_winning_work/awards_won./award/award_honor/honored_for(A,B) <= /award/award_winning_work/awards_won./award/award_honor/honored_for(B,A)

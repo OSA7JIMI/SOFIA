@@ -1,0 +1,1 @@
+1	concept:specializationof(A,C) <= concept:agentcontrols(B,A), concept:agentcontrols(B,C)

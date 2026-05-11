@@ -1,0 +1,6 @@
+1	/base/popstra/celebrity/dated./base/popstra/dated/participant(A,B) <= /celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity(A,B)
+1	/base/popstra/celebrity/dated./base/popstra/dated/participant(A,C) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B)
+1	/base/popstra/celebrity/dated./base/popstra/dated/participant(A,B) <= /base/popstra/celebrity/dated./base/popstra/dated/participant(B,A)
+1	/base/popstra/celebrity/dated./base/popstra/dated/participant(A,D) <= /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency(A,B), /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency(C,B), /base/popstra/celebrity/dated./base/popstra/dated/participant(C,D)
+1	/base/popstra/celebrity/dated./base/popstra/dated/participant(A,E) <= /people/person/gender(A,B), /people/person/gender(C,B), /music/instrument/instrumentalists(D,C), /music/instrument/instrumentalists(D,E)
+1	/base/popstra/celebrity/dated./base/popstra/dated/participant(A,D) <= /people/person/places_lived./people/place_lived/location(A,B), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(C,B), /people/person/spouse_s./people/marriage/type_of_union(D,C)

@@ -1,0 +1,2 @@
+1	/people/person/sibling_s./people/sibling_relationship/sibling(A,C) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B)
+1	/people/person/sibling_s./people/sibling_relationship/sibling(A,B) <= /people/person/sibling_s./people/sibling_relationship/sibling(B,A)

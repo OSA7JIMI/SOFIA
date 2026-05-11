@@ -1,0 +1,63 @@
+paramsFileName = p_fb.txt
+scoresFileName = v4/scores_outfbv4-p208.txt
+rulesFileName = v4/rules_outfbv4-p208.txt
+inputRulesFileName = v4/rules_all.txt
+-------------------------
+Parameters:
+data_directory ../../../data/inductivefb15k237/v4
+max_complexity 35
+relation_id 208
+use_relation_in_rules true
+use_rules_of_length_one true
+use_relation_in_length_one_rule false
+max_rule_length 4
+penalty_on_complexity 0.03
+print_scores_to_file false
+write_lp_file false
+ranking_type 1
+use_reverse_arcs_in_rules true
+run_only_for_relations_in_test false
+run_for_reverse_relations false
+generate_rules 1
+run_find_best_complexity true
+find_best_complexity_ranking_type 3
+add_penalty_on_negative_pairs 0
+penalty_on_negative_pairs 0
+use_breadth_first_search false
+repeated_nodes_allowed false
+run_mode 1
+use_frequency_bias 0
+use_soft_margin 1
+margin_value 0.1
+slack_penalty 0.01
+use_specificity_weights 0
+use_relaxed_rules 1
+relaxed_weight 0.1
+use_transductive_setting 0
+min_forward_chain_score 1
+use_forward_chain_graph 1
+forward_chain_size 2
+max_chain_size 200000
+-------------------------
+Minimum percent coverage to add column: 0
+Training data loaded: 
+  - Entities: 4707
+  - Relations: 219
+  - Arcs: 33916
+Building queries for all relations...
+All queries built.
+Clearing training graph
+Training graph cleared.
+Loading test entities: 3051
+Test data loaded: 
+  - Entities: 3051
+  - Relations: 219
+  - Arcs: 14554
+Found forward chain graph
+Using reservoir sampling with k=29108
+Forward chain graph reservoir sampling complete:
+  - Total triples in forward chain: 808410
+  - Sampled (added to graph): 29108
+  - Sampling rate: 3.60065%
+  - Final total arcs: 43662
+Total Time: 3.17732

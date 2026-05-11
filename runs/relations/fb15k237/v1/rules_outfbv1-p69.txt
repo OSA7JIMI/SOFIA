@@ -1,0 +1,1 @@
+1	/film/film/prequel(A,C) <= /film/film/language(A,B), /film/film/language(C,B)

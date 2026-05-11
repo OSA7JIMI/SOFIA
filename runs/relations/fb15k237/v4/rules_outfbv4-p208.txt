@@ -1,0 +1,5 @@
+1	/tv/tv_network/programs./tv/tv_network_duration/program(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(A,B)
+1	/tv/tv_network/programs./tv/tv_network_duration/program(A,C) <= /base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language(A,B), /tv/tv_program/languages(C,B)
+1	/tv/tv_network/programs./tv/tv_network_duration/program(A,D) <= /tv/tv_network/programs./tv/tv_network_duration/program(A,B), /tv/tv_program/languages(B,C), /tv/tv_program/languages(D,C)
+1	/tv/tv_network/programs./tv/tv_network_duration/program(A,D) <= /broadcast/content/artist(A,B), /people/person/languages(B,C), /tv/tv_program/languages(D,C)
+1	/tv/tv_network/programs./tv/tv_network_duration/program(A,E) <= /award/award_winner/awards_won./award/award_honor/award_winner(A,B), /tv/tv_network/programs./tv/tv_network_duration/program(B,C), /tv/tv_program/languages(C,D), /tv/tv_program/languages(E,D)

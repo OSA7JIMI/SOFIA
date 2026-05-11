@@ -1,0 +1,3 @@
+0.5	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant(A,B) <= /base/popstra/celebrity/friendship./base/popstra/friendship/participant(A,B)
+0.5	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant(A,C) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B)
+0.5	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant(A,B) <= /base/popstra/celebrity/canoodled./base/popstra/canoodled/participant(B,A)

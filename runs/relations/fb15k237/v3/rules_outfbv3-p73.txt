@@ -1,0 +1,7 @@
+1	/film/film/featured_film_locations(A,C) <= /film/film/estimated_budget./measurement_unit/dated_money_value/currency(A,B), /location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency(C,B)
+1	/film/film/featured_film_locations(A,C) <= /film/film/estimated_budget./measurement_unit/dated_money_value/currency(A,B), /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(C,B)
+1	/film/film/featured_film_locations(A,C) <= /film/film/estimated_budget./measurement_unit/dated_money_value/currency(A,B), /education/university/local_tuition./measurement_unit/dated_money_value/currency(C,B)
+1	/film/film/featured_film_locations(A,E) <= /film/film/language(A,B), /education/field_of_study/students_majoring./education/education/student(B,C), /people/person/spouse_s./people/marriage/type_of_union(C,D), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(D,E)
+1	/film/film/featured_film_locations(A,E) <= /film/film/language(A,B), /language/human_language/countries_spoken_in(B,C), /location/location/time_zones(C,D), /location/location/time_zones(E,D)
+1	/film/film/featured_film_locations(A,D) <= /film/film/other_crew./film/film_crew_gig/film_crew_role(A,B), /film/film/other_crew./film/film_crew_gig/film_crew_role(C,B), /film/film/featured_film_locations(C,D)
+1	/film/film/featured_film_locations(A,D) <= /film/film/country(A,B), /location/location/time_zones(B,C), /location/location/time_zones(D,C)

@@ -1,0 +1,3 @@
+1	/base/locations/continents/countries_within(A,C) <= /base/locations/continents/countries_within(A,B), /location/location/adjoin_s./location/adjoining_relationship/adjoins(B,C)
+1	/base/locations/continents/countries_within(A,D) <= /location/location/contains(A,B), /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(B,C), /location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency(D,C)
+1	/base/locations/continents/countries_within(A,D) <= /location/location/contains(A,B), /education/university/local_tuition./measurement_unit/dated_money_value/currency(B,C), /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(D,C)

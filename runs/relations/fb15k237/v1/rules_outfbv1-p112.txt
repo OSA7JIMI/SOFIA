@@ -1,0 +1,1 @@
+1	/music/genre/parent_genre(A,C) <= /music/genre/artists(A,B), /music/genre/artists(C,B)

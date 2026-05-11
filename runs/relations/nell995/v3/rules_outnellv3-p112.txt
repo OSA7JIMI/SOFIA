@@ -1,0 +1,4 @@
+1	concept:professionistypeofprofession(A,B) <= concept:professionistypeofprofession(B,A)
+1	concept:professionistypeofprofession(A,C) <= concept:professionistypeofprofession(A,B), concept:professionistypeofprofession(C,B)
+1	concept:professionistypeofprofession(A,D) <= concept:professionistypeofprofession(B,A), concept:professionistypeofprofession(B,C), concept:professionistypeofprofession(C,D)
+1	concept:professionistypeofprofession(A,D) <= concept:professionistypeofprofession(A,B), concept:mutualproxyfor(B,C), concept:mutualproxyfor(C,D)

@@ -1,0 +1,2 @@
+1	/education/field_of_study/students_majoring./education/education/student(A,B) <= /film/actor/dubbing_performances./film/dubbing_performance/language(B,A)
+1	/education/field_of_study/students_majoring./education/education/student(A,D) <= /education/field_of_study/students_majoring./education/education/student(A,B), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/person/spouse_s./people/marriage/type_of_union(D,C)

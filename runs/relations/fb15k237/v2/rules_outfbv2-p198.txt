@@ -1,0 +1,1 @@
+1	/user/jg/default_domain/olympic_games/sports(A,C) <= /olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics(B,A), /olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country(C,B)

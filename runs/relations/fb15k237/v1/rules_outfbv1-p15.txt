@@ -1,0 +1,3 @@
+1	/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee(A,E) <= /award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee(A,B), /people/person/gender(B,C), /people/person/gender(D,C), /music/group_member/membership./music/group_membership/group(D,E)
+1	/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee(A,D) <= /award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee(A,B), /people/person/gender(B,C), /people/person/gender(D,C)
+1	/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee(A,E) <= /award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee(A,B), /people/person/gender(B,C), /people/person/gender(D,C), /award/award_nominee/award_nominations./award/award_nomination/award_nominee(D,E)

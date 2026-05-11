@@ -1,0 +1,1 @@
+1	concept:televisionstationaffiliatedwith(A,D) <= concept:agentcontrols(B,A), concept:agentcontrols(B,C), concept:televisionstationaffiliatedwith(C,D)

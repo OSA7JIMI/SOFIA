@@ -1,0 +1,363 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:hasofficeincity
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:company:new_republic 0
+
+concept:city:new_york concept:competeswith concept:company:new_republic 0.5
+---------------------------------
+concept:city:denver concept:hasofficeincity concept:website:daily_news 0
+
+concept:city:denver concept:agentbelongstoorganization concept:website:daily_news 1
+concept:city:denver concept:agentcompeteswithagent concept:website:daily_news 1.5
+concept:city:denver concept:agentcontrols concept:website:daily_news 1
+concept:city:denver concept:organizationheadquarteredincity concept:website:daily_news 1
+concept:city:denver concept:subpartoforganization concept:website:daily_news 1
+---------------------------------
+concept:city:chicago concept:hasofficeincity concept:biotechcompany:apple 0
+
+---------------------------------
+concept:city:alghero concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:treviso concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:washington_d_c concept:hasofficeincity concept:company:daily_news001 0
+
+concept:city:washington_d_c concept:competeswith concept:company:daily_news001 0.5
+---------------------------------
+concept:city:bournemouth concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:turin concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:charleroi concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:newspaper:newsday 1
+
+concept:city:new_york concept:agentactsinlocation concept:newspaper:newsday 0.5
+concept:city:new_york concept:competeswith concept:newspaper:newsday 0.5
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:newspaper:the_philadelphia_inquirer 0
+
+---------------------------------
+concept:city:l_a_ concept:hasofficeincity concept:newspaper:journal 1
+
+concept:city:l_a_ concept:agentbelongstoorganization concept:newspaper:journal 1
+concept:city:l_a_ concept:agentcompeteswithagent concept:newspaper:journal 1.5
+concept:city:l_a_ concept:agentcontrols concept:newspaper:journal 1
+concept:city:l_a_ concept:competeswith concept:newspaper:journal 0.5
+concept:city:l_a_ concept:organizationheadquarteredincity concept:newspaper:journal 1
+concept:city:l_a_ concept:subpartoforganization concept:newspaper:journal 1
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:website:nbc_news 1
+
+concept:city:new_york concept:agentactsinlocation concept:website:nbc_news 0.5
+concept:city:new_york concept:competeswith concept:website:nbc_news 0.5
+concept:city:new_york concept:headquarteredin concept:website:nbc_news 1
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:newspaper:financial_times 0
+
+concept:city:new_york concept:competeswith concept:newspaper:financial_times 0.5
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:newspaper:philadelphia_inquirer 1
+
+concept:city:new_york concept:agentactsinlocation concept:newspaper:philadelphia_inquirer 0.5
+concept:city:new_york concept:competeswith concept:newspaper:philadelphia_inquirer 0.5
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:newspaper:la_times 1
+
+concept:city:new_york concept:agentactsinlocation concept:newspaper:la_times 0.5
+concept:city:new_york concept:competeswith concept:newspaper:la_times 0.5
+---------------------------------
+concept:city:tenerife concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:newspaper:london_sunday_times 0
+
+---------------------------------
+concept:city:washington_dc concept:hasofficeincity concept:newspaper:the_national 0
+
+concept:city:washington_dc concept:cityliesonriver concept:newspaper:the_national 0.25
+concept:city:washington_dc concept:hasofficeincountry concept:newspaper:the_national 0.25
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:newspaper:the_national 0
+
+concept:city:new_york concept:atdate concept:newspaper:the_national 0.5
+concept:city:new_york concept:cityalsoknownas concept:newspaper:the_national 0.5
+concept:city:new_york concept:cityliesonriver concept:newspaper:the_national 0.25
+concept:city:new_york concept:hasofficeincountry concept:newspaper:the_national 0.25
+concept:city:new_york concept:mutualproxyfor concept:newspaper:the_national 0.5
+concept:city:new_york concept:organizationhiredperson concept:newspaper:the_national 0.5
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:newspaper:the_chicago_tribune 0
+
+---------------------------------
+concept:city:st___petersburg concept:hasofficeincity concept:newspaper:times 0
+
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:website:the_houston_chronicle 1
+
+concept:city:new_york concept:agentactsinlocation concept:website:the_houston_chronicle 0.5
+---------------------------------
+concept:city:carcassonne concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:grenoble concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:washington_d_c concept:hasofficeincity concept:newspaper:journal 1
+
+concept:city:washington_d_c concept:agentcompeteswithagent concept:newspaper:journal 0.5
+concept:city:washington_d_c concept:competeswith concept:newspaper:journal 0.5
+concept:city:washington_d_c concept:organizationterminatedperson concept:newspaper:journal 0.5
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:company:cnn_ 1
+
+concept:city:new_york concept:agentactsinlocation concept:company:cnn_ 0.5
+concept:city:new_york concept:competeswith concept:company:cnn_ 0.5
+concept:city:new_york concept:headquarteredin concept:company:cnn_ 1
+---------------------------------
+concept:city:washington_d_c concept:hasofficeincity concept:company:fox 1
+
+concept:city:washington_d_c concept:competeswith concept:company:fox 0.5
+---------------------------------
+concept:city:liverpool concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:company:npr 1
+
+concept:city:new_york concept:agentactsinlocation concept:company:npr 0.5
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:website:rolling_stone_magazine 0
+
+concept:city:new_york concept:headquarteredin concept:website:rolling_stone_magazine 1
+---------------------------------
+concept:city:l_a_ concept:hasofficeincity concept:newspaper:times 1
+
+concept:city:l_a_ concept:agentcompeteswithagent concept:newspaper:times 0.5
+concept:city:l_a_ concept:competeswith concept:newspaper:times 0.5
+concept:city:l_a_ concept:headquarteredin concept:newspaper:times 1
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:newspaper:the_christian_science_monitor 0
+
+---------------------------------
+concept:county:los_angeles_county concept:hasofficeincity concept:website:the_san_francisco_chronicle 1
+
+concept:county:los_angeles_county concept:competeswith concept:website:the_san_francisco_chronicle 0.5
+---------------------------------
+concept:county:los_angeles_county concept:hasofficeincity concept:televisionnetwork:cbs 1
+
+concept:county:los_angeles_county concept:competeswith concept:televisionnetwork:cbs 0.5
+---------------------------------
+concept:city:la concept:hasofficeincity concept:newspaper:times 1
+
+concept:city:la concept:competeswith concept:newspaper:times 0.5
+---------------------------------
+concept:city:la concept:hasofficeincity concept:company:daily_news001 0
+
+concept:city:la concept:competeswith concept:company:daily_news001 0.5
+---------------------------------
+concept:city:rimini concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:east_midlands concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:pula concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:washington_d_c concept:hasofficeincity concept:company:wjla 0
+
+concept:city:washington_d_c concept:subpartof concept:company:wjla 0.25
+---------------------------------
+concept:city:jerusalem concept:hasofficeincity concept:newspaper:times 0
+
+concept:city:jerusalem concept:competeswith concept:newspaper:times 0.5
+---------------------------------
+concept:county:los_angeles_county concept:hasofficeincity concept:company:fox 1
+
+concept:county:los_angeles_county concept:competeswith concept:company:fox 0.5
+---------------------------------
+concept:city:la concept:hasofficeincity concept:newspaper:journal 1
+
+concept:city:la concept:competeswith concept:newspaper:journal 0.5
+---------------------------------
+concept:city:washington_d_c concept:hasofficeincity concept:company:abc_news 1
+
+---------------------------------
+concept:county:los_angeles_county concept:hasofficeincity concept:televisionnetwork:abc 1
+
+concept:county:los_angeles_county concept:competeswith concept:televisionnetwork:abc 0.5
+concept:county:los_angeles_county concept:leaguestadiums concept:televisionnetwork:abc 0.25
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:magazine:atlantic_monthly 0
+
+concept:city:new_york concept:competeswith concept:magazine:atlantic_monthly 0.5
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:newspaper:the_new_york_observer 0
+
+concept:city:new_york concept:headquarteredin concept:newspaper:the_new_york_observer 1
+---------------------------------
+concept:city:philadelphia concept:hasofficeincity concept:televisionnetwork:cbs 0
+
+---------------------------------
+concept:county:los_angeles_county concept:hasofficeincity concept:newspaper:times 1
+
+concept:county:los_angeles_county concept:competeswith concept:newspaper:times 0.5
+---------------------------------
+concept:city:paris concept:hasofficeincity concept:newspaper:times 0
+
+---------------------------------
+concept:city:la concept:hasofficeincity concept:website:chicago_tribune 1
+
+---------------------------------
+concept:city:fez concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:county:los_angeles_county concept:hasofficeincity concept:newspaper:journal 1
+
+concept:county:los_angeles_county concept:competeswith concept:newspaper:journal 0.5
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:website:chicago_tribune 1
+
+concept:city:new_york concept:agentactsinlocation concept:website:chicago_tribune 0.5
+---------------------------------
+concept:visualizablething:rodez concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:malta concept:hasofficeincity concept:company:ryanair001 0
+
+concept:city:malta concept:atdate concept:company:ryanair001 0.00433913
+---------------------------------
+concept:city:perugia concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:website:washington_post 1
+
+concept:city:new_york concept:agentactsinlocation concept:website:washington_post 0.5
+concept:city:new_york concept:agentparticipatedinevent concept:website:washington_post 0.5
+concept:city:new_york concept:atdate concept:website:washington_post 0.5
+concept:city:new_york concept:cityliesonriver concept:website:washington_post 0.5
+concept:city:new_york concept:competeswith concept:website:washington_post 0.5
+concept:city:new_york concept:hasofficeincountry concept:website:washington_post 0.5
+concept:city:new_york concept:mutualproxyfor concept:website:washington_post 0.5
+concept:city:new_york concept:proxyfor concept:website:washington_post 0.5
+concept:city:new_york concept:sportsgameteam concept:website:washington_post 0.5
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:newspaper:star_ledger 0
+
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:newspaper:the_detroit_free_press 1
+
+concept:city:new_york concept:agentactsinlocation concept:newspaper:the_detroit_free_press 0.5
+concept:city:new_york concept:competeswith concept:newspaper:the_detroit_free_press 0.5
+---------------------------------
+concept:county:los_angeles_county concept:hasofficeincity concept:website:new_york_times 1
+
+concept:county:los_angeles_county concept:competeswith concept:website:new_york_times 0.5
+---------------------------------
+concept:city:glasgow_prestwick concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:company:apple002 0
+
+concept:city:new_york concept:competeswith concept:company:apple002 0.5
+---------------------------------
+concept:city:eindhoven concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:geopoliticallocation:hahn concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:perpignan concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:faro concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:girona concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:reus concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:murcia concept:hasofficeincity concept:company:ryanair001 0
+
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:website:herald_tribune 0
+
+concept:city:new_york concept:headquarteredin concept:website:herald_tribune 1
+---------------------------------
+concept:city:la concept:hasofficeincity concept:company:sun 1
+
+concept:city:la concept:competeswith concept:company:sun 0.5
+---------------------------------
+concept:city:denver concept:hasofficeincity concept:newspaper:times 0
+
+concept:city:denver concept:agentbelongstoorganization concept:newspaper:times 1
+concept:city:denver concept:agentcompeteswithagent concept:newspaper:times 1.5
+concept:city:denver concept:agentcontrols concept:newspaper:times 1
+concept:city:denver concept:competeswith concept:newspaper:times 0.5
+concept:city:denver concept:organizationheadquarteredincity concept:newspaper:times 1
+concept:city:denver concept:subpartoforganization concept:newspaper:times 1
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:newspaper:sunday_times 0
+
+---------------------------------
+concept:city:washington_d_c concept:hasofficeincity concept:televisionnetwork:abc 1
+
+concept:city:washington_d_c concept:competeswith concept:televisionnetwork:abc 0.5
+concept:city:washington_d_c concept:leaguestadiums concept:televisionnetwork:abc 0.75
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:website:the_san_francisco_chronicle 1
+
+concept:city:new_york concept:agentactsinlocation concept:website:the_san_francisco_chronicle 0.5
+concept:city:new_york concept:competeswith concept:website:the_san_francisco_chronicle 0.5
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:website:the_washington_times 0
+
+concept:city:new_york concept:headquarteredin concept:website:the_washington_times 1
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:newspaper:the_international_herald_tribune 0
+
+concept:city:new_york concept:competeswith concept:newspaper:the_international_herald_tribune 0.5
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:website:the_washington_post 1
+
+concept:city:new_york concept:agentactsinlocation concept:website:the_washington_post 0.5
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:company:reuters 0
+
+concept:city:new_york concept:competeswith concept:company:reuters 0.5
+concept:city:new_york concept:headquarteredin concept:company:reuters 1
+---------------------------------
+concept:county:los_angeles_county concept:hasofficeincity concept:company:sun 1
+
+concept:county:los_angeles_county concept:competeswith concept:company:sun 0.5
+---------------------------------
+concept:city:washington_d_c concept:hasofficeincity concept:televisionnetwork:cbs 1
+
+concept:city:washington_d_c concept:competeswith concept:televisionnetwork:cbs 0.5
+---------------------------------
+concept:city:new_york concept:hasofficeincity concept:magazine:playboy 0
+
+concept:city:new_york concept:headquarteredin concept:magazine:playboy 1
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.75 0.345238 0.333333 0.357143
+HITS@3: 0.964286 0.357143 0.369048 0.369048
+HITS@10: 1 0.369048 0.369048 0.369048
+MRR: 0.85856 0.370407 0.365826 0.371397
+MR: 1.44048 24.9405 24.7262 48.3333
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.75 0.333333 0.333333 0.357143
+HITS@3: 0.964286 0.357143 0.369048 0.369048
+HITS@10: 1 0.369048 0.369048 0.369048
+MRR: 0.85856 0.36451 0.365848 0.371412
+MR: 1.44048 24.869 24.6905 48.25
+relation_mr_mrr_1_3_10_n_rf 2074.00000000000000000 30.73123139304065887 28.00000000000000000 31.00000000000000000 31.00000000000000000 84 31

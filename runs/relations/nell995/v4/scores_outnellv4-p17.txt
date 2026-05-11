@@ -1,0 +1,22 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:citycapitalofcountry
+---------------------------------
+concept:country:united_states_of_america concept:citycapitalofcountry concept:city:washington_d_c 0
+
+concept:country:united_states_of_america concept:citylocatedincountry concept:city:washington_d_c 1
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 0.5 0.025641 0.0263158 0.0131579
+MR: 2 39 38 76
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 0.5 0.025641 0.0263158 0.0131579
+MR: 2 39 38 76
+relation_mr_mrr_1_3_10_n_rf 38.00000000000000000 0.02631578947368421 0.00000000000000000 0.00000000000000000 0.00000000000000000 1 0

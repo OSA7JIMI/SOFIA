@@ -1,0 +1,4 @@
+1	/award/award_winning_work/awards_won./award/award_honor/honored_for(A,C) <= /film/film/language(A,B), /tv/tv_program/languages(C,B)
+1	/award/award_winning_work/awards_won./award/award_honor/honored_for(A,C) <= /film/film/language(A,B), /film/film/language(C,B)
+1	/award/award_winning_work/awards_won./award/award_honor/honored_for(A,C) <= /film/film/other_crew./film/film_crew_gig/film_crew_role(A,B), /film/film/other_crew./film/film_crew_gig/film_crew_role(C,B)
+1	/award/award_winning_work/awards_won./award/award_honor/honored_for(A,B) <= /award/award_winning_work/awards_won./award/award_honor/honored_for(B,A)

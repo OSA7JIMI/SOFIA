@@ -1,0 +1,37 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:politicianrepresentslocation
+---------------------------------
+concept:city:new_york concept:politicianrepresentslocation concept:politicianus:rudy_giuliani 0.5
+
+concept:city:new_york concept:atlocation concept:politicianus:rudy_giuliani 1
+concept:city:new_york concept:citylocatedingeopoliticallocation concept:politicianus:rudy_giuliani 1
+concept:city:new_york concept:citylocatedinstate concept:politicianus:rudy_giuliani 1
+concept:city:new_york concept:coachesteam concept:politicianus:rudy_giuliani 1
+concept:city:new_york concept:locationlocatedwithinlocation concept:politicianus:rudy_giuliani 1
+concept:city:new_york concept:mutualproxyfor concept:politicianus:rudy_giuliani 1
+concept:city:new_york concept:personbelongstoorganization concept:politicianus:rudy_giuliani 1
+concept:city:new_york concept:personhasresidenceingeopoliticallocation concept:politicianus:rudy_giuliani 1
+concept:city:new_york concept:personleadsgeopoliticalorganization concept:politicianus:rudy_giuliani 2
+concept:city:new_york concept:personleadsorganization concept:politicianus:rudy_giuliani 2
+concept:city:new_york concept:proxyfor concept:politicianus:rudy_giuliani 1.5
+concept:city:new_york concept:subpartof concept:politicianus:rudy_giuliani 1
+concept:city:new_york concept:worksfor concept:politicianus:rudy_giuliani 1
+---------------------------------
+concept:stateorprovince:alaska concept:politicianrepresentslocation concept:politicianus:sarah_palin 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.5 0 0 0
+HITS@3: 0.5 0 0 0
+HITS@10: 0.5 0 0 0
+MRR: 0.535714 0.0485348 0.0488722 0.0422932
+MR: 7.5 26.5 26 45
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.5 0 0 0
+HITS@3: 0.5 0 0 0
+HITS@10: 0.5 0 0 0
+MRR: 0.535714 0.0485348 0.0488722 0.0422932
+MR: 7.5 26.5 26 45
+relation_mr_mrr_1_3_10_n_rf 52.00000000000000000 0.09774436090225563 0.00000000000000000 0.00000000000000000 0.00000000000000000 2 1

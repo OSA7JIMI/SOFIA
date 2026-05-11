@@ -1,0 +1,5 @@
+1	concept:plantgrowinginplant(A,B) <= concept:plantincludeplant(B,A)
+1	concept:plantgrowinginplant(A,C) <= concept:plantincludeplant(A,B), concept:plantgrowinginplant(B,C)
+1	concept:plantgrowinginplant(A,D) <= concept:plantincludeplant(B,A), concept:plantgrowinginplant(B,C), concept:plantgrowinginplant(C,D)
+1	concept:plantgrowinginplant(A,B) <= concept:plantgrowinginplant(B,A)
+1	concept:plantgrowinginplant(A,C) <= concept:plantgrowinginplant(A,B), concept:plantgrowinginplant(B,C)

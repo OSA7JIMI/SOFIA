@@ -1,0 +1,4 @@
+1	concept:countryalsoknownas(A,B) <= concept:organizationalsoknownas(A,B)
+1	concept:countryalsoknownas(A,C) <= concept:countrylocatedingeopoliticallocation(A,B), concept:countrylocatedingeopoliticallocation(C,B)
+1	concept:countryalsoknownas(A,B) <= concept:countryalsoknownas(B,A)
+1	concept:countryalsoknownas(A,D) <= concept:countrylocatedingeopoliticallocation(A,B), concept:countrylocatedingeopoliticallocation(C,B), concept:countryalsoknownas(C,D)

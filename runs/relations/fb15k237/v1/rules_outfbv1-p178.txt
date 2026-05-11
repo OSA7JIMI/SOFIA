@@ -1,0 +1,1 @@
+1	/user/jg/default_domain/olympic_games/sports(A,B) <= /olympics/olympic_games/sports(A,B)

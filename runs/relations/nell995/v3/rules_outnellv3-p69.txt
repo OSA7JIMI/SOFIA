@@ -1,0 +1,7 @@
+1	concept:headquarteredin(A,B) <= concept:organizationheadquarteredincity(A,B)
+1	concept:headquarteredin(A,C) <= concept:agentcontrols(B,A), concept:organizationheadquarteredincity(B,C)
+1	concept:headquarteredin(A,C) <= concept:locationlocatedwithinlocation(B,A), concept:proxyfor(C,B)
+1	concept:headquarteredin(A,C) <= concept:statelocatedingeopoliticallocation(B,A), concept:statelocatedingeopoliticallocation(B,C)
+1	concept:headquarteredin(A,C) <= concept:competeswith(A,B), concept:headquarteredin(B,C)
+1	concept:headquarteredin(A,D) <= concept:locationlocatedwithinlocation(B,A), concept:locationlocatedwithinlocation(B,C), concept:citylocatedincountry(D,C)
+1	concept:headquarteredin(A,E) <= concept:companyeconomicsector(A,B), concept:companyeconomicsector(C,B), concept:istallerthan(D,C), concept:mutualproxyfor(D,E)

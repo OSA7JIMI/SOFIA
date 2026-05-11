@@ -1,0 +1,4 @@
+1	/film/actor/dubbing_performances./film/dubbing_performance/language(A,B) <= /people/person/languages(A,B)
+1	/film/actor/dubbing_performances./film/dubbing_performance/language(A,C) <= /film/actor/film./film/performance/film(A,B), /film/film/language(B,C)
+1	/film/actor/dubbing_performances./film/dubbing_performance/language(A,D) <= /people/person/profession(A,B), /people/person/profession(C,B), /people/person/languages(C,D)
+1	/film/actor/dubbing_performances./film/dubbing_performance/language(A,D) <= /people/person/places_lived./people/place_lived/location(A,B), /people/person/places_lived./people/place_lived/location(C,B), /people/person/languages(C,D)

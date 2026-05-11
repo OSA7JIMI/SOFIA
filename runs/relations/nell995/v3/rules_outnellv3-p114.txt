@@ -1,0 +1,8 @@
+1	concept:riveremptiesintoriver(A,C) <= concept:cityliesonriver(B,A), concept:cityliesonriver(B,C)
+1	concept:riveremptiesintoriver(A,D) <= concept:cityliesonriver(B,A), concept:cityliesonriver(B,C), concept:riveremptiesintoriver(C,D)
+1	concept:riveremptiesintoriver(A,D) <= concept:riveremptiesintoriver(A,B), concept:riveremptiesintoriver(B,C), concept:riveremptiesintoriver(C,D)
+1	concept:riveremptiesintoriver(A,B) <= concept:riveremptiesintoriver(B,A)
+1	concept:riveremptiesintoriver(A,D) <= concept:cityliesonriver(B,A), concept:proxyfor(B,C), concept:locationlocatedwithinlocation(C,D)
+1	concept:riveremptiesintoriver(A,E) <= concept:atdate(A,B), concept:atdate(C,B), concept:cityliesonriver(C,D), concept:riveremptiesintoriver(D,E)
+1	concept:riveremptiesintoriver(A,D) <= concept:cityliesonriver(B,A), concept:atdate(B,C), concept:atdate(D,C)
+1	concept:riveremptiesintoriver(A,E) <= concept:cityliesonriver(B,A), concept:proxyfor(B,C), concept:locationlocatedwithinlocation(C,D), concept:cityliesonriver(D,E)

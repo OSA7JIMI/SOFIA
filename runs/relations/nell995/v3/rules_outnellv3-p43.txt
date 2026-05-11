@@ -1,0 +1,4 @@
+1	concept:buildinglocatedincity(A,C) <= concept:locationlocatedwithinlocation(B,A), concept:locationlocatedwithinlocation(B,C)
+1	concept:buildinglocatedincity(A,D) <= concept:proxyfor(A,B), concept:atlocation(B,C), concept:buildinglocatedincity(C,D)
+1	concept:buildinglocatedincity(A,E) <= concept:atlocation(B,A), concept:atlocation(B,C), concept:atdate(C,D), concept:atdate(E,D)
+1	concept:buildinglocatedincity(A,D) <= concept:atlocation(A,B), concept:cityliesonriver(B,C), concept:cityliesonriver(D,C)

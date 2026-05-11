@@ -1,0 +1,6 @@
+1	/people/cause_of_death/people(A,D) <= /people/cause_of_death/people(A,B), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/person/spouse_s./people/marriage/type_of_union(D,C)
+1	/people/cause_of_death/people(A,D) <= /people/cause_of_death/people(A,B), /people/deceased_person/place_of_death(B,C), /people/deceased_person/place_of_death(D,C)
+1	/people/cause_of_death/people(A,D) <= /people/cause_of_death/people(A,B), /people/person/gender(B,C), /people/person/gender(D,C)
+1	/people/cause_of_death/people(A,D) <= /people/cause_of_death/people(A,B), /people/person/profession(B,C), /people/person/profession(D,C)
+1	/people/cause_of_death/people(A,E) <= /people/cause_of_death/people(A,B), /people/person/profession(B,C), /people/person/profession(D,C), /award/award_nominee/award_nominations./award/award_nomination/award_nominee(D,E)
+1	/people/cause_of_death/people(A,E) <= /people/cause_of_death/people(A,B), /award/award_winner/awards_won./award/award_honor/award_winner(B,C), /people/person/profession(C,D), /people/person/profession(E,D)

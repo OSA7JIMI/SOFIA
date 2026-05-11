@@ -1,0 +1,1 @@
+1	/film/film/featured_film_locations(A,E) <= /film/film/language(A,B), /education/field_of_study/students_majoring./education/education/student(B,C), /people/person/spouse_s./people/marriage/type_of_union(C,D), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(D,E)

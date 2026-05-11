@@ -1,0 +1,1 @@
+1	/film/film/dubbing_performances./film/dubbing_performance/actor(A,E) <= /film/film/genre(A,B), /tv/tv_program/genre(C,B), /tv/tv_program/languages(C,D), /film/actor/dubbing_performances./film/dubbing_performance/language(E,D)

@@ -1,0 +1,4 @@
+1	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics(A,B) <= /time/event/locations(B,A)
+1	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics(A,C) <= /military/military_combatant/military_conflicts./military/military_combatant_group/combatants(A,B), /olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics(B,C)
+1	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics(A,C) <= /olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country(B,A), /olympics/olympic_games/sports(C,B)
+1	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics(A,D) <= /location/location/adjoin_s./location/adjoining_relationship/adjoins(A,B), /olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country(C,B), /olympics/olympic_games/sports(D,C)

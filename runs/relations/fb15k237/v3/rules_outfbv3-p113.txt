@@ -1,0 +1,1 @@
+1	/location/country/second_level_divisions(A,B) <= /base/biblioness/bibs_location/country(B,A)

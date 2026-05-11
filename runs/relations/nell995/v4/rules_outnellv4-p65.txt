@@ -1,0 +1,6 @@
+1	concept:statelocatedincountry(A,C) <= concept:statelocatedingeopoliticallocation(B,A), concept:countrylocatedingeopoliticallocation(C,B)
+1	concept:statelocatedincountry(A,C) <= concept:stateorprovinceisborderedbystateorprovince(B,A), concept:countrylocatedingeopoliticallocation(C,B)
+1	concept:statelocatedincountry(A,C) <= concept:stateorprovinceisborderedbystateorprovince(B,A), concept:statelocatedingeopoliticallocation(B,C)
+1	concept:statelocatedincountry(A,C) <= concept:stateorprovinceisborderedbystateorprovince(A,B), concept:statelocatedincountry(B,C)
+1	concept:statelocatedincountry(A,D) <= concept:statelocatedingeopoliticallocation(A,B), concept:countrylocatedingeopoliticallocation(B,C), concept:countrylocatedingeopoliticallocation(D,C)
+1	concept:statelocatedincountry(A,D) <= concept:citylocatedinstate(B,A), concept:atdate(B,C), concept:atdate(D,C)

@@ -1,0 +1,3 @@
+0.5	concept:coachesinleague(A,E) <= concept:coachwontrophy(A,B), concept:teamwontrophy(C,B), concept:organizationhiredperson(C,D), concept:coachesinleague(D,E)
+0.5	concept:coachesinleague(A,D) <= concept:organizationhiredperson(B,A), concept:organizationhiredperson(B,C), concept:coachesinleague(C,D)
+0.5	concept:coachesinleague(A,E) <= concept:organizationhiredperson(B,A), concept:locationlocatedwithinlocation(C,B), concept:locationlocatedwithinlocation(C,D), concept:leaguestadiums(E,D)

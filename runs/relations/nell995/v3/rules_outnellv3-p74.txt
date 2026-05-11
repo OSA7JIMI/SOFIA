@@ -1,0 +1,1 @@
+1	concept:journalistwritesforpublication(A,D) <= concept:agentcollaborateswithagent(A,B), concept:agentbelongstoorganization(B,C), concept:headquarteredin(D,C)

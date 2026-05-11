@@ -1,0 +1,4 @@
+1	concept:bakedgoodservedwithbeverage(A,C) <= concept:bakedgoodservedwithbeverage(A,B), concept:beveragemadefrombeverage(C,B)
+1	concept:bakedgoodservedwithbeverage(A,D) <= concept:bakedgoodservedwithbeverage(A,B), concept:beveragemadefrombeverage(B,C), concept:beveragemadefrombeverage(D,C)
+1	concept:bakedgoodservedwithbeverage(A,E) <= concept:animaleatfood(B,A), concept:animaleatfood(B,C), concept:beveragecontainsprotein(C,D), concept:beveragecontainsprotein(E,D)
+1	concept:bakedgoodservedwithbeverage(A,D) <= concept:fishservedwithfood(B,A), concept:fishservedwithfood(B,C), concept:bakedgoodservedwithbeverage(C,D)

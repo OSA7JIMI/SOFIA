@@ -1,0 +1,7 @@
+1	/film/director/film(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(A,B)
+1	/film/director/film(A,B) <= /award/award_winning_work/awards_won./award/award_honor/award_winner(B,A)
+1	/film/director/film(A,B) <= /film/film/produced_by(B,A)
+1	/film/director/film(A,B) <= /film/film/story_by(B,A)
+1	/film/director/film(A,D) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B), /award/award_winning_work/awards_won./award/award_honor/award_winner(D,C)
+1	/film/director/film(A,D) <= /film/director/film(A,B), /film/film/language(B,C), /film/film/language(D,C)
+1	/film/director/film(A,E) <= /award/award_winner/awards_won./award/award_honor/award_winner(A,B), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/person/spouse_s./people/marriage/type_of_union(D,C), /film/actor/film./film/performance/film(D,E)

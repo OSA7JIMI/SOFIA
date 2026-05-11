@@ -1,0 +1,1 @@
+1	concept:teamhomestadium(A,C) <= concept:teamplaysinleague(A,B), concept:leaguestadiums(B,C)

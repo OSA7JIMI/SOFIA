@@ -1,0 +1,2 @@
+1	/location/administrative_division/first_level_division_of(A,B) <= /location/administrative_division/country(A,B)
+1	/location/administrative_division/first_level_division_of(A,B) <= /location/location/contains(B,A)

@@ -1,0 +1,4 @@
+1	/broadcast/content/artist(A,B) <= /music/genre/artists(A,B)
+1	/broadcast/content/artist(A,D) <= /broadcast/content/artist(A,B), /award/award_nominee/award_nominations./award/award_nomination/award(B,C), /award/award_nominee/award_nominations./award/award_nomination/award(D,C)
+1	/broadcast/content/artist(A,D) <= /broadcast/content/artist(A,B), /music/record_label/artist(C,B), /music/record_label/artist(C,D)
+1	/broadcast/content/artist(A,E) <= /broadcast/content/artist(A,B), /music/record_label/artist(C,B), /organization/organization/child./organization/organization_relationship/child(D,C), /music/record_label/artist(D,E)

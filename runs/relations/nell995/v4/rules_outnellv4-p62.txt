@@ -1,0 +1,1 @@
+1	concept:sportsgameteam(A,D) <= concept:atdate(A,B), concept:atdate(C,B), concept:proxyfor(C,D)

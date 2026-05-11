@@ -1,0 +1,8 @@
+1	/tv/tv_program/languages(A,D) <= /award/award_winning_work/awards_won./award/award_honor/award(A,B), /award/award_category/nominees./award/award_nomination/nominated_for(B,C), /tv/tv_program/languages(C,D)
+1	/tv/tv_program/languages(A,D) <= /tv/tv_program/genre(A,B), /tv/tv_program/genre(C,B), /tv/tv_program/languages(C,D)
+1	/tv/tv_program/languages(A,D) <= /award/award_ceremony/awards_presented./award/award_honor/honored_for(B,A), /award/award_ceremony/awards_presented./award/award_honor/honored_for(B,C), /tv/tv_program/languages(C,D)
+1	/tv/tv_program/languages(A,D) <= /tv/tv_program/genre(A,B), /film/film/genre(C,B), /film/film/language(C,D)
+1	/tv/tv_program/languages(A,D) <= /tv/tv_network/programs./tv/tv_network_duration/program(B,A), /broadcast/content/artist(B,C), /people/person/languages(C,D)
+1	/tv/tv_program/languages(A,E) <= /tv/tv_program/regular_cast./tv/regular_tv_appearance/actor(A,B), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(C,D), /language/human_language/countries_spoken_in(E,D)
+1	/tv/tv_program/languages(A,D) <= /film/film/genre(A,B), /film/film/genre(C,B), /film/film/language(C,D)
+1	/tv/tv_program/languages(A,D) <= /tv/tv_network/programs./tv/tv_network_duration/program(B,A), /tv/tv_network/programs./tv/tv_network_duration/program(B,C), /tv/tv_program/languages(C,D)

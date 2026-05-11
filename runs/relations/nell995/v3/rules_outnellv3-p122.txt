@@ -1,0 +1,7 @@
+1	concept:statehascapital(A,C) <= concept:organizationheadquarteredinstateorprovince(B,A), concept:subpartof(C,B)
+1	concept:statehascapital(A,C) <= concept:stateorprovinceisborderedbystateorprovince(B,A), concept:proxyfor(C,B)
+1	concept:statehascapital(A,D) <= concept:statelocatedincountry(A,B), concept:statelocatedincountry(C,B), concept:mutualproxyfor(C,D)
+1	concept:statehascapital(A,D) <= concept:statelocatedincountry(A,B), concept:atlocation(C,B), concept:atlocation(C,D)
+1	concept:statehascapital(A,D) <= concept:organizationterminatedperson(A,B), concept:worksfor(B,C), concept:mutualproxyfor(D,C)
+1	concept:statehascapital(A,D) <= concept:proxyfor(A,B), concept:proxyfor(C,B), concept:atdate(D,C)
+1	concept:statehascapital(A,D) <= concept:statelocatedingeopoliticallocation(B,A), concept:statelocatedingeopoliticallocation(B,C), concept:citylocatedincountry(D,C)

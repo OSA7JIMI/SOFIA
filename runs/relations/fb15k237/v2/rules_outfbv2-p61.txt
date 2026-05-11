@@ -1,0 +1,1 @@
+1	/film/film/distributors./film/film_film_distributor_relationship/region(A,C) <= /film/film/language(A,B), /language/human_language/countries_spoken_in(B,C)

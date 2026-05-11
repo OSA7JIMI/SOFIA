@@ -1,0 +1,1 @@
+1	_instance_hypernym(A,D) <= _derivationally_related_form(A,B), _derivationally_related_form(B,C), _hypernym(C,D)

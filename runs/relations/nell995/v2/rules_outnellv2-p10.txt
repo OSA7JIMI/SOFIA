@@ -1,0 +1,1 @@
+1	concept:athletehomestadium(A,C) <= concept:coachesteam(A,B), concept:teamhomestadium(B,C)

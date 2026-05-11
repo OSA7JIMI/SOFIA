@@ -1,0 +1,8 @@
+1	concept:worksfor(A,B) <= concept:agentcollaborateswithagent(B,A)
+1	concept:worksfor(A,B) <= concept:organizationhiredperson(B,A)
+1	concept:worksfor(A,B) <= concept:personleadsorganization(A,B)
+1	concept:worksfor(A,C) <= concept:organizationhiredperson(B,A), concept:organizationheadquarteredincity(C,B)
+1	concept:worksfor(A,C) <= concept:organizationhiredperson(B,A), concept:hasofficeincity(C,B)
+1	concept:worksfor(A,D) <= concept:personleadsorganization(A,B), concept:atdate(B,C), concept:atdate(D,C)
+1	concept:worksfor(A,D) <= concept:personleadsorganization(A,B), concept:statelocatedingeopoliticallocation(C,B), concept:statelocatedingeopoliticallocation(C,D)
+1	concept:worksfor(A,D) <= concept:persongraduatedschool(A,B), concept:persongraduatedschool(C,B), concept:organizationhiredperson(D,C)

@@ -1,0 +1,1 @@
+1	concept:hassibling(A,C) <= concept:personbelongstoorganization(A,B), concept:personbelongstoorganization(C,B)

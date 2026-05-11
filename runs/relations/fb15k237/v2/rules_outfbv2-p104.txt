@@ -1,0 +1,1 @@
+1	/location/country/second_level_divisions(A,B) <= /location/administrative_division/country(B,A)

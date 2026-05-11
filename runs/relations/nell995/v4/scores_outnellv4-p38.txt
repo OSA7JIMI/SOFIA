@@ -1,0 +1,50 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:organizationacronymhasname
+---------------------------------
+concept:sportsleague:cfl concept:organizationacronymhasname concept:sportsleague:major_league_baseball 0
+
+concept:sportsleague:cfl concept:organizationalsoknownas concept:sportsleague:major_league_baseball 1
+---------------------------------
+concept:sportsleague:national_football_league concept:organizationacronymhasname concept:sportsleague:nfl 0
+
+concept:sportsleague:national_football_league concept:organizationalsoknownas concept:sportsleague:nfl 1
+---------------------------------
+concept:sportsleague:atlantic_coast_conference concept:organizationacronymhasname concept:sportsleague:acc 0
+
+concept:sportsleague:atlantic_coast_conference concept:organizationalsoknownas concept:sportsleague:acc 1
+---------------------------------
+concept:sportsleague:the_national_football_league concept:organizationacronymhasname concept:sportsleague:nfl 0
+
+concept:sportsleague:the_national_football_league concept:organizationalsoknownas concept:sportsleague:nfl 1
+---------------------------------
+concept:sportsleague:national_hockey_league concept:organizationacronymhasname concept:sportsleague:nhl 0
+
+concept:sportsleague:national_hockey_league concept:organizationalsoknownas concept:sportsleague:nhl 1
+---------------------------------
+concept:politicalparty:united_national_congress concept:organizationacronymhasname concept:university:unc 0
+
+concept:politicalparty:united_national_congress concept:organizationalsoknownas concept:university:unc 1
+---------------------------------
+concept:sportsleague:major_league_baseball concept:organizationacronymhasname concept:sportsleague:mlb 0
+
+concept:sportsleague:major_league_baseball concept:organizationalsoknownas concept:sportsleague:mlb 1
+---------------------------------
+concept:sportsteam:o_s concept:organizationacronymhasname concept:sportsteam:oakland_athletics 0.5
+
+concept:sportsteam:o_s concept:organizationalsoknownas concept:sportsteam:oakland_athletics 1
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0 0 0 0
+HITS@3: 1 0.125 0.125 0.125
+HITS@10: 1 0.125 0.125 0.125
+MRR: 0.5 0.0849359 0.083722 0.0740132
+MR: 2 34.375 36.625 66.75
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0 0 0 0
+HITS@3: 1 0.125 0.125 0.125
+HITS@10: 1 0.125 0.125 0.125
+MRR: 0.5 0.0849359 0.083722 0.0740132
+MR: 2 34.375 36.625 66.75
+relation_mr_mrr_1_3_10_n_rf 293.00000000000000000 0.66977561114135320 0.00000000000000000 1.00000000000000000 1.00000000000000000 8 1

@@ -1,0 +1,5 @@
+1	/film/film/music(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(B,A)
+1	/film/film/music(A,D) <= /film/film/language(A,B), /film/film/language(C,B), /film/film/music(C,D)
+1	/film/film/music(A,E) <= /film/film/language(A,B), /education/field_of_study/students_majoring./education/education/student(B,C), /people/person/gender(C,D), /people/person/gender(E,D)
+1	/film/film/music(A,E) <= /film/film/language(A,B), /people/person/languages(C,B), /music/group_member/membership./music/group_membership/role(C,D), /music/performance_role/regular_performances./music/group_membership/group(D,E)
+1	/film/film/music(A,D) <= /film/film/genre(A,B), /film/film/genre(C,B), /film/film/music(C,D)

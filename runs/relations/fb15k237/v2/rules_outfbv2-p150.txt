@@ -1,0 +1,2 @@
+1	/people/deceased_person/place_of_burial(A,D) <= /people/person/gender(A,B), /people/person/gender(C,B), /people/deceased_person/place_of_burial(C,D)
+1	/people/deceased_person/place_of_burial(A,D) <= /film/actor/film./film/performance/film(A,B), /film/film/release_date_s./film/film_regional_release_date/film_release_region(B,C), /location/location/partially_contains(D,C)

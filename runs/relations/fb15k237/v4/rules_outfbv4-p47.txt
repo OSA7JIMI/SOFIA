@@ -1,0 +1,4 @@
+1	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity(A,B) <= /base/popstra/celebrity/dated./base/popstra/dated/participant(A,B)
+1	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity(A,B) <= /base/popstra/celebrity/dated./base/popstra/dated/participant(B,A)
+1	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity(A,C) <= /base/popstra/celebrity/dated./base/popstra/dated/participant(B,A), /award/award_nominee/award_nominations./award/award_nomination/award_nominee(C,B)
+1	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity(A,B) <= /celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity(B,A)

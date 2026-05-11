@@ -1,0 +1,2 @@
+1	concept:parkincity(A,C) <= concept:proxyfor(A,B), concept:proxyfor(C,B)
+1	concept:parkincity(A,D) <= concept:locationlocatedwithinlocation(B,A), concept:locationlocatedwithinlocation(B,C), concept:mutualproxyfor(C,D)

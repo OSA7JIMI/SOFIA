@@ -1,0 +1,6 @@
+1	/location/country/official_language(A,B) <= /language/human_language/countries_spoken_in(B,A)
+1	/location/country/official_language(A,C) <= /film/film/country(B,A), /film/film/language(B,C)
+1	/location/country/official_language(A,D) <= /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(A,B), /education/university/domestic_tuition./measurement_unit/dated_money_value/currency(C,B), /education/educational_institution/students_graduates./education/education/major_field_of_study(C,D)
+1	/location/country/official_language(A,D) <= /location/country/form_of_government(A,B), /location/country/form_of_government(C,B), /location/country/official_language(C,D)
+1	/location/country/official_language(A,D) <= /military/military_combatant/military_conflicts./military/military_combatant_group/combatants(A,B), /film/film/release_date_s./film/film_regional_release_date/film_release_region(C,B), /film/film/language(C,D)
+1	/location/country/official_language(A,E) <= /people/person/places_lived./people/place_lived/location(B,A), /people/person/religion(B,C), /location/statistical_region/religions./location/religion_percentage/religion(D,C), /location/country/official_language(D,E)

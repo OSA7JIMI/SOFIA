@@ -1,0 +1,3 @@
+1	/film/film/written_by(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(B,A)
+1	/film/film/written_by(A,B) <= /film/film/produced_by(A,B)
+1	/film/film/written_by(A,E) <= /film/film/language(A,B), /education/field_of_study/students_majoring./education/education/student(B,C), /people/person/profession(C,D), /people/person/profession(E,D)

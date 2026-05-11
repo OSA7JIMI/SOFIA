@@ -1,0 +1,93 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:athletehomestadium
+---------------------------------
+concept:stadiumoreventvenue:cleveland_browns_stadium concept:athletehomestadium concept:athlete:butch_davis 0
+
+---------------------------------
+concept:stadiumoreventvenue:prudential_center_2 concept:athletehomestadium concept:athlete:larry_robinson 0
+
+---------------------------------
+concept:stadiumoreventvenue:fedex_field concept:athletehomestadium concept:coach:vince_lombardi 0
+
+---------------------------------
+concept:stadiumoreventvenue:tiger_stadium concept:athletehomestadium concept:coach:les_miles 0
+
+---------------------------------
+concept:stadiumoreventvenue:metrodome concept:athletehomestadium concept:coach:brad_childress 0
+
+---------------------------------
+concept:stadiumoreventvenue:pnc_park concept:athletehomestadium concept:athlete:ramirez 0
+
+---------------------------------
+concept:stadiumoreventvenue:arrowhead_stadium concept:athletehomestadium concept:athlete:herman_edwards 0
+
+---------------------------------
+concept:stadiumoreventvenue:pete_times_forum concept:athletehomestadium concept:athlete:mike_mccarthy 0
+
+---------------------------------
+concept:stadiumoreventvenue:td_garden concept:athletehomestadium concept:athlete:rick_pitino 0
+
+---------------------------------
+concept:stadiumoreventvenue:yankee_stadium concept:athletehomestadium concept:personmexico:craig_counsell 0
+
+---------------------------------
+concept:stadiumoreventvenue:fedex_field concept:athletehomestadium concept:coach:jim_zorn 0
+
+---------------------------------
+concept:stadiumoreventvenue:nassau_coliseum concept:athletehomestadium concept:coach:mike_comrie 0
+
+---------------------------------
+concept:stadiumoreventvenue:palace_of_auburn_hills concept:athletehomestadium concept:coach:richard_hamilton 0
+
+---------------------------------
+concept:stadiumoreventvenue:invesco_field concept:athletehomestadium concept:athlete:jeremy_bates 0
+
+---------------------------------
+concept:stadiumoreventvenue:verizon_center concept:athletehomestadium concept:coach:al_jefferson 0
+
+---------------------------------
+concept:stadiumoreventvenue:petco_park concept:athletehomestadium concept:athlete:marty_schottenheimer 0
+
+---------------------------------
+concept:stadiumoreventvenue:cleveland_browns_stadium concept:athletehomestadium concept:athlete:paul_brown 0
+
+---------------------------------
+concept:stadiumoreventvenue:td_garden concept:athletehomestadium concept:coach:doc_rivers 0
+
+---------------------------------
+concept:stadiumoreventvenue:tiger_stadium concept:athletehomestadium concept:athlete:john_brady 0
+
+---------------------------------
+concept:stadiumoreventvenue:united_center concept:athletehomestadium concept:athlete:vinny_del_negro 0
+
+---------------------------------
+concept:stadiumoreventvenue:invesco_field concept:athletehomestadium concept:coach:mike_shanahan 0
+
+---------------------------------
+concept:stadiumoreventvenue:joe_louis_arena concept:athletehomestadium concept:athlete:lidstrom 0
+
+---------------------------------
+concept:stadiumoreventvenue:prudential_center_2 concept:athletehomestadium concept:athlete:john_madden 0
+
+---------------------------------
+concept:stadiumoreventvenue:pete_times_forum concept:athletehomestadium concept:athlete:mike_smith 0
+
+---------------------------------
+concept:stadiumoreventvenue:heinz_field concept:athletehomestadium concept:coach:cowher 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.0260729 0.0254774 0.0131579
+MR: 1 38.36 39.68 76
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.0259379 0.0254774 0.0131579
+MR: 1 38.56 39.68 76
+relation_mr_mrr_1_3_10_n_rf 992.00000000000000000 0.63693439049048972 0.00000000000000000 0.00000000000000000 0.00000000000000000 25 0

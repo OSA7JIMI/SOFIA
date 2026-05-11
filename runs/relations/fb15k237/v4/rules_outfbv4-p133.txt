@@ -1,0 +1,5 @@
+1	/medicine/symptom/symptom_of(A,D) <= /medicine/symptom/symptom_of(A,B), /medicine/disease/risk_factors(B,C), /medicine/disease/risk_factors(D,C)
+1	/medicine/symptom/symptom_of(A,D) <= /medicine/symptom/symptom_of(A,B), /medicine/symptom/symptom_of(C,B), /medicine/symptom/symptom_of(C,D)
+1	/medicine/symptom/symptom_of(A,E) <= /medicine/symptom/symptom_of(A,B), /medicine/disease/risk_factors(B,C), /people/person/gender(D,C), /medicine/disease/notable_people_with_this_condition(E,D)
+1	/medicine/symptom/symptom_of(A,E) <= /medicine/symptom/symptom_of(A,B), /people/cause_of_death/people(B,C), /influence/influence_node/influenced_by(C,D), /people/cause_of_death/people(E,D)
+1	/medicine/symptom/symptom_of(A,C) <= /medicine/symptom/symptom_of(A,B), /medicine/disease/risk_factors(C,B)

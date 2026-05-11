@@ -1,0 +1,6 @@
+1	concept:companyeconomicsector(A,D) <= concept:hasofficeincountry(A,B), concept:hasofficeincountry(C,B), concept:companyeconomicsector(C,D)
+1	concept:companyeconomicsector(A,D) <= concept:mutualproxyfor(A,B), concept:atlocation(B,C), concept:companyeconomicsector(C,D)
+1	concept:companyeconomicsector(A,D) <= concept:agentactsinlocation(A,B), concept:agentactsinlocation(C,B), concept:companyeconomicsector(C,D)
+1	concept:companyeconomicsector(A,C) <= concept:agentcompeteswithagent(B,A), concept:companyeconomicsector(B,C)
+1	concept:companyeconomicsector(A,E) <= concept:locationlocatedwithinlocation(A,B), concept:atdate(B,C), concept:atdate(D,C), concept:companyeconomicsector(D,E)
+1	concept:companyeconomicsector(A,D) <= concept:organizationhiredperson(A,B), concept:worksfor(B,C), concept:companyeconomicsector(C,D)

@@ -1,0 +1,8 @@
+1	/location/country/capital(A,B) <= /base/biblioness/bibs_location/country(B,A)
+1	/location/country/capital(A,B) <= /location/location/contains(A,B)
+1	/location/country/capital(A,C) <= /olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics(A,B), /time/event/locations(B,C)
+1	/location/country/capital(A,E) <= /military/military_combatant/military_conflicts./military/military_combatant_group/combatants(A,B), /film/film/release_date_s./film/film_regional_release_date/film_release_region(C,B), /film/film/story_by(C,D), /people/person/place_of_birth(D,E)
+1	/location/country/capital(A,D) <= /location/country/form_of_government(A,B), /location/country/form_of_government(C,B), /base/biblioness/bibs_location/country(D,C)
+1	/location/country/capital(A,E) <= /military/military_conflict/combatants./military/military_combatant_group/combatants(B,A), /time/event/locations(B,C), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(D,C), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(D,E)
+1	/location/country/capital(A,E) <= /base/culturalevent/event/entity_involved(B,A), /time/event/locations(B,C), /location/location/adjoin_s./location/adjoining_relationship/adjoins(C,D), /location/country/capital(D,E)
+1	/location/country/capital(A,D) <= /location/country/official_language(A,B), /film/actor/dubbing_performances./film/dubbing_performance/language(C,B), /people/person/place_of_birth(C,D)

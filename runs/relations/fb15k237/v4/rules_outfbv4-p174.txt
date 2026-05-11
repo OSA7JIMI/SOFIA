@@ -1,0 +1,7 @@
+1	/people/person/languages(A,D) <= /people/person/profession(A,B), /people/person/profession(C,B), /people/person/languages(C,D)
+1	/people/person/languages(A,D) <= /people/person/gender(A,B), /people/person/gender(C,B), /people/person/languages(C,D)
+1	/people/person/languages(A,D) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B), /people/person/languages(C,D)
+1	/people/person/languages(A,D) <= /people/person/places_lived./people/place_lived/location(A,B), /people/person/places_lived./people/place_lived/location(C,B), /people/person/languages(C,D)
+1	/people/person/languages(A,D) <= /award/award_nominee/award_nominations./award/award_nomination/award(A,B), /award/award_nominee/award_nominations./award/award_nomination/award(C,B), /people/person/languages(C,D)
+1	/people/person/languages(A,D) <= /people/person/languages(A,B), /base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language(C,B), /base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language(C,D)
+1	/people/person/languages(A,D) <= /people/person/nationality(A,B), /military/military_combatant/military_conflicts./military/military_combatant_group/combatants(C,B), /location/country/official_language(C,D)

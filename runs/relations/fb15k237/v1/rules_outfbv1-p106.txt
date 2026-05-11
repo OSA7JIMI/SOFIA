@@ -1,0 +1,1 @@
+1	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants(A,B) <= /military/military_combatant/military_conflicts./military/military_combatant_group/combatants(B,A)

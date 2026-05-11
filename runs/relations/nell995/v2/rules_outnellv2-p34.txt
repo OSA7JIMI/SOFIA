@@ -1,0 +1,1 @@
+1	concept:lakeinstate(A,D) <= concept:proxyfor(A,B), concept:locationlocatedwithinlocation(B,C), concept:stateorprovinceisborderedbystateorprovince(C,D)

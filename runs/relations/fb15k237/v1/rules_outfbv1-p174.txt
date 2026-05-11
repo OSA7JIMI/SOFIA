@@ -1,0 +1,1 @@
+1	/tv/tv_program/program_creator(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(B,A)

@@ -1,0 +1,3 @@
+1	/music/group_member/membership./music/group_membership/group(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,B)
+1	/music/group_member/membership./music/group_membership/group(A,E) <= /people/person/gender(A,B), /people/person/gender(C,B), /music/record_label/artist(D,C), /music/record_label/artist(D,E)
+1	/music/group_member/membership./music/group_membership/group(A,D) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B), /music/group_member/membership./music/group_membership/group(C,D)

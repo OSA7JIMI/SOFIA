@@ -1,0 +1,8 @@
+1	/base/aareas/schema/administrative_area/administrative_parent(A,B) <= /location/administrative_division/country(A,B)
+1	/base/aareas/schema/administrative_area/administrative_parent(A,B) <= /location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division(A,B)
+1	/base/aareas/schema/administrative_area/administrative_parent(A,B) <= /location/location/contains(B,A)
+1	/base/aareas/schema/administrative_area/administrative_parent(A,C) <= /location/location/time_zones(A,B), /location/location/time_zones(C,B)
+1	/base/aareas/schema/administrative_area/administrative_parent(A,C) <= /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(A,B), /location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency(C,B)
+1	/base/aareas/schema/administrative_area/administrative_parent(A,C) <= /location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency(A,B), /location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency(C,B)
+1	/base/aareas/schema/administrative_area/administrative_parent(A,C) <= /organization/organization/headquarters./location/mailing_address/citytown(B,A), /organization/organization/place_founded(B,C)
+1	/base/aareas/schema/administrative_area/administrative_parent(A,C) <= /location/location/adjoin_s./location/adjoining_relationship/adjoins(A,B), /base/aareas/schema/administrative_area/administrative_parent(B,C)

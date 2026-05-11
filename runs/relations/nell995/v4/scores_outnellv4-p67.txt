@@ -1,0 +1,18 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:stateorprovinceisborderedbystateorprovince
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0 0 0 0
+HITS@3: 0 0 0 0
+HITS@10: 0 0 0 0
+MRR: 0 0 0 0
+MR: 0 0 0 0
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0 0 0 0
+HITS@3: 0 0 0 0
+HITS@10: 0 0 0 0
+MRR: 0 0 0 0
+MR: 0 0 0 0
+relation_mr_mrr_1_3_10_n_rf 0.00000000000000000 0.00000000000000000 0.00000000000000000 0.00000000000000000 0.00000000000000000 0 0

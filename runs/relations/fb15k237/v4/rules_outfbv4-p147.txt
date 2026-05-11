@@ -1,0 +1,2 @@
+1	/music/performance_role/regular_performances./music/group_membership/role(A,B) <= /music/performance_role/regular_performances./music/group_membership/role(B,A)
+1	/music/performance_role/regular_performances./music/group_membership/role(A,D) <= /music/performance_role/regular_performances./music/group_membership/role(A,B), /music/performance_role/track_performances./music/track_contribution/role(B,C), /music/performance_role/track_performances./music/track_contribution/role(C,D)

@@ -1,0 +1,1 @@
+1	/people/deceased_person/place_of_burial(A,D) <= /people/person/gender(A,B), /people/person/gender(C,B), /people/deceased_person/place_of_burial(C,D)

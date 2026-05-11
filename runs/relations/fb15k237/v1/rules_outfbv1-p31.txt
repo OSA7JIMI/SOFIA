@@ -1,0 +1,1 @@
+1	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location(A,D) <= /organization/organization/headquarters./location/mailing_address/citytown(A,B), /travel/travel_destination/climate./travel/travel_destination_monthly_climate/month(B,C), /travel/travel_destination/climate./travel/travel_destination_monthly_climate/month(D,C)

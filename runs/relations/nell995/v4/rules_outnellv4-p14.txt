@@ -1,0 +1,1 @@
+1	concept:bankbankincountry(A,D) <= concept:bankbankincountry(A,B), concept:countryalsoknownas(B,C), concept:countryalsoknownas(C,D)

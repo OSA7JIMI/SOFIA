@@ -1,0 +1,2 @@
+1	concept:citylocatedincountry(A,D) <= concept:statelocatedingeopoliticallocation(B,A), concept:statelocatedingeopoliticallocation(B,C), concept:countrylocatedingeopoliticallocation(D,C)
+1	concept:citylocatedincountry(A,E) <= concept:mutualproxyfor(A,B), concept:atdate(B,C), concept:atdate(D,C), concept:countrylocatedingeopoliticallocation(E,D)

@@ -1,0 +1,1 @@
+1	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for(A,B) <= /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for(B,A)

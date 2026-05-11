@@ -1,0 +1,4 @@
+1	/film/film_subject/films(A,D) <= /location/location/adjoin_s./location/adjoining_relationship/adjoins(A,B), /location/country/official_language(B,C), /film/film/language(D,C)
+1	/film/film_subject/films(A,E) <= /education/field_of_study/students_majoring./education/education/major_field_of_study(A,B), /people/person/gender(B,C), /people/person/gender(D,C), /award/award_nominee/award_nominations./award/award_nomination/nominated_for(D,E)
+1	/film/film_subject/films(A,D) <= /film/actor/film./film/performance/film(A,B), /film/film/genre(B,C), /media_common/netflix_genre/titles(C,D)
+1	/film/film_subject/films(A,D) <= /film/film_subject/films(A,B), /film/film/language(B,C), /film/film/language(D,C)

@@ -1,0 +1,8 @@
+1	_has_part(A,C) <= _hypernym(A,B), _hypernym(C,B)
+1	_has_part(A,C) <= _synset_domain_topic_of(A,B), _synset_domain_topic_of(C,B)
+1	_has_part(A,F) <= _has_part(A,B), _hypernym(B,C), _hypernym(C,D), _hypernym(E,D), _hypernym(F,E)
+1	_has_part(A,D) <= _has_part(A,B), _hypernym(B,C), _hypernym(D,C)
+1	_has_part(A,E) <= _has_part(B,A), _has_part(B,C), _hypernym(C,D), _hypernym(E,D)
+1	_has_part(A,C) <= _has_part(A,B), _hypernym(C,B)
+0.571429	_has_part(A,G) <= _has_part(A,B), _hypernym(B,C), _hypernym(C,D), _hypernym(E,D), _hypernym(F,E), _hypernym(G,F)
+1	_has_part(A,G) <= _has_part(B,A), _has_part(B,C), _hypernym(C,D), _hypernym(D,E), _hypernym(F,E), _hypernym(G,F)

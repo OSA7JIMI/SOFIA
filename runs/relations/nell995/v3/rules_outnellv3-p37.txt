@@ -1,0 +1,3 @@
+1	concept:attractionofcity(A,B) <= concept:proxyfor(B,A)
+1	concept:attractionofcity(A,C) <= concept:locationlocatedwithinlocation(B,A), concept:locationlocatedwithinlocation(B,C)
+1	concept:attractionofcity(A,E) <= concept:atlocation(A,B), concept:proxyfor(B,C), concept:sportsgameteam(D,C), concept:agentparticipatedinevent(E,D)

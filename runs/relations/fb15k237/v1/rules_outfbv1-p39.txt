@@ -1,0 +1,1 @@
+1	/dataworld/gardening_hint/split_to(A,B) <= /base/aareas/schema/administrative_area/administrative_parent(B,A)

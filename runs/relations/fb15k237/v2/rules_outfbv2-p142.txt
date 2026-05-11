@@ -1,0 +1,2 @@
+1	/organization/organization/child./organization/organization_relationship/child(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(B,A)
+1	/organization/organization/child./organization/organization_relationship/child(A,D) <= /organization/organization/child./organization/organization_relationship/child(A,B), /music/record_label/artist(B,C), /music/record_label/artist(D,C)

@@ -1,0 +1,1 @@
+1	/user/ktrueman/default_domain/international_organization/member_states(A,D) <= /user/ktrueman/default_domain/international_organization/member_states(A,B), /location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency(B,C), /location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency(D,C)

@@ -1,0 +1,1 @@
+1	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(A,B) <= /location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency(A,B)

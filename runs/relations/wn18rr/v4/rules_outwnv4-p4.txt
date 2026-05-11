@@ -1,0 +1,3 @@
+1	_instance_hypernym(A,E) <= _instance_hypernym(A,B), _hypernym(B,C), _hypernym(C,D), _hypernym(E,D)
+1	_instance_hypernym(A,E) <= _instance_hypernym(A,B), _hypernym(B,C), _hypernym(D,C), _hypernym(E,D)
+1	_instance_hypernym(A,D) <= _derivationally_related_form(A,B), _derivationally_related_form(B,C), _hypernym(C,D)

@@ -1,0 +1,1 @@
+1	concept:topmemberoforganization(A,B) <= concept:ceoof(A,B)

@@ -1,0 +1,3 @@
+1	/tv/tv_program/program_creator(A,B) <= /tv/tv_producer/programs_produced./tv/tv_producer_term/program(B,A)
+1	/tv/tv_program/program_creator(A,B) <= /tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program(B,A)
+1	/tv/tv_program/program_creator(A,D) <= /tv/tv_program/genre(A,B), /tv/tv_program/genre(C,B), /tv/tv_program/program_creator(C,D)

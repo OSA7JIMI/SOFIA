@@ -1,0 +1,1 @@
+1	/organization/role/leaders./organization/leadership/organization(A,D) <= /organization/role/leaders./organization/leadership/organization(A,B), /organization/organization/headquarters./location/mailing_address/state_province_region(B,C), /organization/organization/headquarters./location/mailing_address/state_province_region(D,C)

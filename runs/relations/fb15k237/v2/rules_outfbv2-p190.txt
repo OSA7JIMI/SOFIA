@@ -1,0 +1,2 @@
+1	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(A,B)
+1	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program(A,D) <= /people/ethnicity/people(B,A), /people/ethnicity/languages_spoken(B,C), /tv/tv_program/languages(D,C)

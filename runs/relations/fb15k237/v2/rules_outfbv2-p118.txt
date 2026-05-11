@@ -1,0 +1,3 @@
+1	/medicine/symptom/symptom_of(A,C) <= /medicine/symptom/symptom_of(A,B), /medicine/disease/risk_factors(C,B)
+1	/medicine/symptom/symptom_of(A,E) <= /medicine/symptom/symptom_of(A,B), /medicine/disease/risk_factors(B,C), /people/person/gender(D,C), /people/cause_of_death/people(E,D)
+1	/medicine/symptom/symptom_of(A,C) <= /medicine/symptom/symptom_of(A,B), /medicine/disease/risk_factors(B,C)

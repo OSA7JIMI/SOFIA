@@ -1,0 +1,2 @@
+1	/film/film/film_art_direction_by(A,D) <= /film/film/language(A,B), /film/film/language(C,B), /film/film/film_art_direction_by(C,D)
+1	/film/film/film_art_direction_by(A,E) <= /film/film/language(A,B), /film/film/language(C,B), /award/award_winning_work/awards_won./award/award_honor/award_winner(C,D), /award/award_nominee/award_nominations./award/award_nomination/award_nominee(D,E)

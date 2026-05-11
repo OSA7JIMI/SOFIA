@@ -1,0 +1,1 @@
+1	/film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue(A,D) <= /film/film/release_date_s./film/film_regional_release_date/film_release_region(A,B), /film/film/release_date_s./film/film_regional_release_date/film_release_region(C,B), /film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue(C,D)

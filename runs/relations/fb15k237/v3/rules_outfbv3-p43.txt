@@ -1,0 +1,4 @@
+1	/business/business_operation/revenue./measurement_unit/dated_money_value/currency(A,B) <= /business/business_operation/assets./measurement_unit/dated_money_value/currency(A,B)
+1	/business/business_operation/revenue./measurement_unit/dated_money_value/currency(A,B) <= /business/business_operation/operating_income./measurement_unit/dated_money_value/currency(A,B)
+1	/business/business_operation/revenue./measurement_unit/dated_money_value/currency(A,B) <= /education/university/domestic_tuition./measurement_unit/dated_money_value/currency(A,B)
+1	/business/business_operation/revenue./measurement_unit/dated_money_value/currency(A,D) <= /base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language(A,B), /language/human_language/countries_spoken_in(B,C), /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(C,D)

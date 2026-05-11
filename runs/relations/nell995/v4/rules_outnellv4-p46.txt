@@ -1,0 +1,1 @@
+1	concept:parkincity(A,C) <= concept:proxyfor(A,B), concept:proxyfor(C,B)

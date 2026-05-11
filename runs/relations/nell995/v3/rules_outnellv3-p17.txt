@@ -1,0 +1,7 @@
+1	concept:agriculturalproductincludingagriculturalproduct(A,C) <= concept:agriculturalproductcomingfromvertebrate(A,B), concept:agriculturalproductcomingfromvertebrate(C,B)
+1	concept:agriculturalproductincludingagriculturalproduct(A,C) <= concept:agriculturalproductcookedwithagriculturalproduct(A,B), concept:agriculturalproductcookedwithagriculturalproduct(B,C)
+1	concept:agriculturalproductincludingagriculturalproduct(A,C) <= concept:animaleatvegetable(A,B), concept:animaleatvegetable(C,B)
+1	concept:agriculturalproductincludingagriculturalproduct(A,C) <= concept:fooddecreasestheriskofdisease(A,B), concept:fooddecreasestheriskofdisease(C,B)
+1	concept:agriculturalproductincludingagriculturalproduct(A,D) <= concept:agriculturalproductincludingagriculturalproduct(A,B), concept:agriculturalproductcookedwithagriculturalproduct(B,C), concept:agriculturalproductcookedwithagriculturalproduct(C,D)
+1	concept:agriculturalproductincludingagriculturalproduct(A,D) <= concept:agriculturalproductincludingagriculturalproduct(A,B), concept:agriculturalproductcontainchemical(B,C), concept:agriculturalproductcontainchemical(D,C)
+1	concept:agriculturalproductincludingagriculturalproduct(A,D) <= concept:animalistypeofanimal(A,B), concept:animalpreyson(B,C), concept:agriculturalproductcomingfromvertebrate(D,C)

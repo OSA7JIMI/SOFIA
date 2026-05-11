@@ -1,0 +1,548 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:synonymfor
+---------------------------------
+concept:sportsteam:florida_state concept:synonymfor concept:sportsteam:state_university 1
+
+concept:sportsteam:florida_state concept:countryalsoknownas concept:sportsteam:state_university 1
+concept:sportsteam:florida_state concept:organizationacronymhasname concept:sportsteam:state_university 1
+---------------------------------
+concept:university:illinois_state concept:synonymfor concept:university:state_university 1
+
+concept:university:illinois_state concept:countryalsoknownas concept:university:state_university 1
+concept:university:illinois_state concept:organizationacronymhasname concept:university:state_university 1
+---------------------------------
+concept:university:north_dakota_state concept:synonymfor concept:university:state_university 1
+
+---------------------------------
+concept:retailstore:apple_computer_inc_ concept:synonymfor concept:biotechcompany:apple 0
+
+concept:retailstore:apple_computer_inc_ concept:agentcontrols concept:biotechcompany:apple 0.75
+concept:retailstore:apple_computer_inc_ concept:atdate concept:biotechcompany:apple 0.0161079
+concept:retailstore:apple_computer_inc_ concept:mutualproxyfor concept:biotechcompany:apple 0.5
+---------------------------------
+concept:sportsteam:mary_hardin_baylor_crusaders concept:synonymfor concept:sportsteam:state_university 0
+
+concept:sportsteam:mary_hardin_baylor_crusaders concept:teamplaysagainstteam concept:sportsteam:state_university 1
+---------------------------------
+concept:university:state_university concept:synonymfor concept:geopoliticallocation:arizona_state 1
+
+---------------------------------
+concept:university:state_university concept:synonymfor concept:sportsteam:michigan_state 1
+
+---------------------------------
+concept:university:state_university concept:synonymfor concept:university:north_dakota_state 1
+
+concept:university:state_university concept:countryalsoknownas concept:university:north_dakota_state 1
+concept:university:state_university concept:organizationacronymhasname concept:university:north_dakota_state 1
+---------------------------------
+concept:sportsteam:arizona_cardinals_27_23 concept:synonymfor concept:coach:philadelphia_eagles 0
+
+concept:sportsteam:arizona_cardinals_27_23 concept:agentbelongstoorganization concept:coach:philadelphia_eagles 1.5
+concept:sportsteam:arizona_cardinals_27_23 concept:agentcompeteswithagent concept:coach:philadelphia_eagles 2
+concept:sportsteam:arizona_cardinals_27_23 concept:agentcontrols concept:coach:philadelphia_eagles 1
+concept:sportsteam:arizona_cardinals_27_23 concept:organizationheadquarteredincity concept:coach:philadelphia_eagles 1
+concept:sportsteam:arizona_cardinals_27_23 concept:organizationhiredperson concept:coach:philadelphia_eagles 0.25
+concept:sportsteam:arizona_cardinals_27_23 concept:politicianusmemberofpoliticalgroup concept:coach:philadelphia_eagles 1
+concept:sportsteam:arizona_cardinals_27_23 concept:subpartoforganization concept:coach:philadelphia_eagles 1
+---------------------------------
+concept:university:state_university concept:synonymfor concept:building:oklahoma_state 1
+
+---------------------------------
+concept:sportsteam:northern_illinois concept:synonymfor concept:sportsteam:state_university 0
+
+concept:sportsteam:northern_illinois concept:countryalsoknownas concept:sportsteam:state_university 1
+concept:sportsteam:northern_illinois concept:organizationacronymhasname concept:sportsteam:state_university 1
+---------------------------------
+concept:geopoliticallocation:vanderbilt concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+concept:university:north_carolina_state concept:synonymfor concept:university:state_university 1
+
+concept:university:north_carolina_state concept:countryalsoknownas concept:university:state_university 1
+concept:university:north_carolina_state concept:organizationacronymhasname concept:university:state_university 1
+---------------------------------
+concept:geopoliticallocation:wright_state concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+concept:university:western_illinois concept:synonymfor concept:university:state_university 1
+
+---------------------------------
+concept:programminglanguage:state concept:synonymfor concept:politicalparty:college 2
+
+concept:programminglanguage:state concept:atdate concept:politicalparty:college 0.25
+---------------------------------
+concept:university:ohio concept:synonymfor concept:university:state_university 0
+
+concept:university:ohio concept:atdate concept:university:state_university 0.0161079
+concept:university:ohio concept:countryalsoknownas concept:university:state_university 1
+concept:university:ohio concept:mutualproxyfor concept:university:state_university 0.5
+concept:university:ohio concept:organizationacronymhasname concept:university:state_university 1
+---------------------------------
+concept:university:washington_state concept:synonymfor concept:university:state_university 1
+
+concept:university:washington_state concept:countryalsoknownas concept:university:state_university 1
+concept:university:washington_state concept:organizationacronymhasname concept:university:state_university 1
+---------------------------------
+concept:geopoliticallocation:duke concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+concept:biotechcompany:apple concept:synonymfor concept:website:mac 0
+
+concept:biotechcompany:apple concept:subpartoforganization concept:website:mac 1
+---------------------------------
+concept:university:depauw concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+concept:university:western_washington concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+concept:sportsteam:state_university concept:synonymfor concept:sportsteam:northern_arizona 1
+
+concept:sportsteam:state_university concept:countryalsoknownas concept:sportsteam:northern_arizona 1
+concept:sportsteam:state_university concept:organizationacronymhasname concept:sportsteam:northern_arizona 1
+---------------------------------
+concept:politicaloffice:office concept:synonymfor concept:jobposition:agency 2
+
+concept:politicaloffice:office concept:agentcontrols concept:jobposition:agency 1
+concept:politicaloffice:office concept:agentparticipatedinevent concept:jobposition:agency 1
+concept:politicaloffice:office concept:atdate concept:jobposition:agency 0.754339
+concept:politicaloffice:office concept:citycapitalofcountry concept:jobposition:agency 1
+concept:politicaloffice:office concept:istallerthan concept:jobposition:agency 1
+concept:politicaloffice:office concept:mutualproxyfor concept:jobposition:agency 0.5
+concept:politicaloffice:office concept:personleadsgeopoliticalorganization concept:jobposition:agency 1
+concept:politicaloffice:office concept:proxyfor concept:jobposition:agency 0.666667
+---------------------------------
+concept:jobposition:adjunct_professor concept:synonymfor concept:university:state_university 1
+
+---------------------------------
+concept:university:auburn concept:synonymfor concept:university:state_university 1
+
+concept:university:auburn concept:atlocation concept:university:state_university 0.125
+concept:university:auburn concept:countryalsoknownas concept:university:state_university 1
+concept:university:auburn concept:organizationacronymhasname concept:university:state_university 1
+concept:university:auburn concept:subpartoforganization concept:university:state_university 0.109162
+---------------------------------
+concept:sportsteam:state_university concept:synonymfor concept:sportsteam:florida_state 1
+
+concept:sportsteam:state_university concept:countryalsoknownas concept:sportsteam:florida_state 1
+concept:sportsteam:state_university concept:organizationacronymhasname concept:sportsteam:florida_state 1
+---------------------------------
+concept:politicaloffice:office concept:synonymfor concept:profession:division 2
+
+concept:politicaloffice:office concept:agentcontrols concept:profession:division 1
+concept:politicaloffice:office concept:agentparticipatedinevent concept:profession:division 1
+concept:politicaloffice:office concept:atdate concept:profession:division 0.75
+concept:politicaloffice:office concept:citycapitalofcountry concept:profession:division 1
+concept:politicaloffice:office concept:istallerthan concept:profession:division 1
+concept:politicaloffice:office concept:mutualproxyfor concept:profession:division 0.5
+concept:politicaloffice:office concept:personleadsgeopoliticalorganization concept:profession:division 1
+concept:politicaloffice:office concept:proxyfor concept:profession:division 0.666667
+---------------------------------
+concept:governmentorganization:u_s_department concept:synonymfor concept:jobposition:agency 0
+
+---------------------------------
+concept:trainstation:george_mason concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+concept:university:state_university concept:synonymfor concept:county:penn_state 1
+
+concept:university:state_university concept:agentactsinlocation concept:county:penn_state 0.141967
+concept:university:state_university concept:countryalsoknownas concept:county:penn_state 1
+concept:university:state_university concept:organizationacronymhasname concept:county:penn_state 1
+---------------------------------
+concept:university:kansas_state concept:synonymfor concept:university:state_university 0
+
+concept:university:kansas_state concept:countryalsoknownas concept:university:state_university 1
+concept:university:kansas_state concept:organizationacronymhasname concept:university:state_university 1
+---------------------------------
+concept:sportsteam:new_england_patriots concept:synonymfor concept:sportsteam:new_york_giants 0
+
+concept:sportsteam:new_england_patriots concept:agentbelongstoorganization concept:sportsteam:new_york_giants 2
+concept:sportsteam:new_england_patriots concept:agentcompeteswithagent concept:sportsteam:new_york_giants 2*
+concept:sportsteam:new_england_patriots concept:agentcontrols concept:sportsteam:new_york_giants 1
+concept:sportsteam:new_england_patriots concept:organizationacronymhasname concept:sportsteam:new_york_giants 1
+concept:sportsteam:new_england_patriots concept:organizationheadquarteredincity concept:sportsteam:new_york_giants 2
+concept:sportsteam:new_england_patriots concept:organizationhiredperson concept:sportsteam:new_york_giants 0.75
+concept:sportsteam:new_england_patriots concept:subpartoforganization concept:sportsteam:new_york_giants 1
+---------------------------------
+concept:boardgame:board concept:synonymfor concept:politicalparty:college 1
+
+concept:boardgame:board concept:atdate concept:politicalparty:college 0.25
+---------------------------------
+concept:university:state_university concept:synonymfor concept:geopoliticallocation:rutgers 1
+
+---------------------------------
+concept:university:case_western_reserve concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+concept:jobposition:compiler concept:synonymfor concept:room:development 0
+
+---------------------------------
+concept:geopoliticallocation:rutgers concept:synonymfor concept:university:state_university 1
+
+---------------------------------
+concept:agent:southern_illinois concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+concept:city:princeton concept:synonymfor concept:university:state_university 0
+
+concept:city:princeton concept:atlocation concept:university:state_university 0.125
+concept:city:princeton concept:proxyfor concept:university:state_university 0.5
+---------------------------------
+concept:musicartist:colleges concept:synonymfor concept:university:state_university 0
+
+concept:musicartist:colleges concept:countryalsoknownas concept:university:state_university 1
+concept:musicartist:colleges concept:organizationacronymhasname concept:university:state_university 1
+---------------------------------
+concept:biotechcompany:apple concept:synonymfor concept:company:apple 0
+
+concept:biotechcompany:apple concept:agentcollaborateswithagent concept:company:apple 0.5
+concept:biotechcompany:apple concept:agentcreated concept:company:apple 0.5
+concept:biotechcompany:apple concept:atdate concept:company:apple 0.00433913
+concept:biotechcompany:apple concept:companyeconomicsector concept:company:apple 0.5
+concept:biotechcompany:apple concept:hasofficeincity concept:company:apple 0.5
+concept:biotechcompany:apple concept:organizationterminatedperson concept:company:apple 0.5
+---------------------------------
+concept:university:state_university concept:synonymfor concept:university:emory 1
+
+concept:university:state_university concept:countryalsoknownas concept:university:emory 1
+concept:university:state_university concept:organizationacronymhasname concept:university:emory 1
+---------------------------------
+concept:county:penn_state concept:synonymfor concept:university:state_university 1
+
+concept:county:penn_state concept:subpartoforganization concept:university:state_university 0.109162
+---------------------------------
+concept:sportsteam:arizona_cardinals_27_23 concept:synonymfor concept:sportsteam:steelers 0.5
+
+concept:sportsteam:arizona_cardinals_27_23 concept:agentbelongstoorganization concept:sportsteam:steelers 2
+concept:sportsteam:arizona_cardinals_27_23 concept:agentcollaborateswithagent concept:sportsteam:steelers 0.5
+concept:sportsteam:arizona_cardinals_27_23 concept:agentcompeteswithagent concept:sportsteam:steelers 2*
+concept:sportsteam:arizona_cardinals_27_23 concept:agentcontrols concept:sportsteam:steelers 1
+concept:sportsteam:arizona_cardinals_27_23 concept:organizationacronymhasname concept:sportsteam:steelers 1
+concept:sportsteam:arizona_cardinals_27_23 concept:organizationheadquarteredincity concept:sportsteam:steelers 2
+concept:sportsteam:arizona_cardinals_27_23 concept:organizationhiredperson concept:sportsteam:steelers 0.75
+concept:sportsteam:arizona_cardinals_27_23 concept:subpartoforganization concept:sportsteam:steelers 1
+---------------------------------
+concept:sportsteam:san_diego_padres concept:synonymfor concept:sportsteam:state_university 0
+
+---------------------------------
+concept:university:ohio concept:synonymfor concept:programminglanguage:state 0
+
+concept:university:ohio concept:agentcontrols concept:programminglanguage:state 0.75
+concept:university:ohio concept:mutualproxyfor concept:programminglanguage:state 0.5
+---------------------------------
+concept:governmentorganization:u_s_department concept:synonymfor concept:website:jobs 0
+
+---------------------------------
+concept:visualizablething:tar concept:synonymfor concept:sportsequipment:balls 0
+
+---------------------------------
+concept:emotion:college concept:synonymfor concept:university:state_university 1
+
+concept:emotion:college concept:atdate concept:university:state_university 0.254339
+concept:emotion:college concept:atlocation concept:university:state_university 1
+concept:emotion:college concept:citylocatedingeopoliticallocation concept:university:state_university 1
+concept:emotion:college concept:citylocatedinstate concept:university:state_university 1
+concept:emotion:college concept:locationlocatedwithinlocation concept:university:state_university 1
+concept:emotion:college concept:mutualproxyfor concept:university:state_university 1
+concept:emotion:college concept:personleadsgeopoliticalorganization concept:university:state_university 1
+concept:emotion:college concept:proxyfor concept:university:state_university 1
+concept:emotion:college concept:subpartof concept:university:state_university 1
+---------------------------------
+concept:university:san_jose_state concept:synonymfor concept:university:state_university 0
+
+concept:university:san_jose_state concept:atlocation concept:university:state_university 0.125
+---------------------------------
+concept:university:state_university concept:synonymfor concept:university:colorado_state 1
+
+concept:university:state_university concept:agentactsinlocation concept:university:colorado_state 0.141967
+concept:university:state_university concept:countryalsoknownas concept:university:colorado_state 1
+concept:university:state_university concept:organizationacronymhasname concept:university:colorado_state 1
+---------------------------------
+concept:politicaloffice:office concept:synonymfor concept:website:jobs 0
+
+---------------------------------
+concept:university:kent_state concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+concept:city:washington_d_c concept:synonymfor concept:politicaloffice:office 1.5
+
+concept:city:washington_d_c concept:agentcompeteswithagent concept:politicaloffice:office 0.5
+concept:city:washington_d_c concept:agentcontrols concept:politicaloffice:office 1.75
+concept:city:washington_d_c concept:agentparticipatedinevent concept:politicaloffice:office 1
+concept:city:washington_d_c concept:atdate concept:politicaloffice:office 0.770447
+concept:city:washington_d_c concept:atlocation concept:politicaloffice:office 0.3125
+concept:city:washington_d_c concept:citycapitalofcountry concept:politicaloffice:office 1
+concept:city:washington_d_c concept:cityliesonriver concept:politicaloffice:office 0.5
+concept:city:washington_d_c concept:hasofficeincountry concept:politicaloffice:office 0.5
+concept:city:washington_d_c concept:istallerthan concept:politicaloffice:office 1
+concept:city:washington_d_c concept:mutualproxyfor concept:politicaloffice:office 1
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:politicaloffice:office 1
+concept:city:washington_d_c concept:proxyfor concept:politicaloffice:office 1.66667
+concept:city:washington_d_c concept:sportsgameteam concept:politicaloffice:office 0.5
+concept:city:washington_d_c concept:subpartof concept:politicaloffice:office 1
+concept:city:washington_d_c concept:subpartoforganization concept:politicaloffice:office 0.109162
+---------------------------------
+concept:building:ohio_state concept:synonymfor concept:university:state_university 1
+
+---------------------------------
+concept:politicalparty:college concept:synonymfor concept:programminglanguage:state 1.5
+
+---------------------------------
+concept:university:state_university concept:synonymfor concept:university:illinois_state 1
+
+concept:university:state_university concept:countryalsoknownas concept:university:illinois_state 1
+concept:university:state_university concept:organizationacronymhasname concept:university:illinois_state 1
+---------------------------------
+concept:mountain:columbia concept:synonymfor concept:city:washington_d_c 1.5
+
+concept:mountain:columbia concept:agentactsinlocation concept:city:washington_d_c 0.141967
+concept:mountain:columbia concept:mutualproxyfor concept:city:washington_d_c 1.5
+concept:mountain:columbia concept:parkincity concept:city:washington_d_c 1
+concept:mountain:columbia concept:proxyfor concept:city:washington_d_c 1.05
+concept:mountain:columbia concept:sportsgameteam concept:city:washington_d_c 0.5
+concept:mountain:columbia concept:stadiumlocatedincity concept:city:washington_d_c 1
+concept:mountain:columbia concept:subpartof concept:city:washington_d_c 0.182539
+---------------------------------
+concept:geopoliticallocation:central_michigan concept:synonymfor concept:university:state_university 1
+
+---------------------------------
+concept:university:state_university concept:synonymfor concept:university:brigham_young 1
+
+---------------------------------
+concept:sportsteam:montana_state concept:synonymfor concept:sportsteam:state_university 0
+
+---------------------------------
+concept:sportsteam:drake concept:synonymfor concept:sportsteam:state_university 0
+
+---------------------------------
+concept:university:state_university concept:synonymfor concept:geopoliticallocation:carnegie_mellon 1
+
+---------------------------------
+concept:university:pepperdine concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+concept:city:washington_d_c concept:synonymfor concept:mountain:columbia 1
+
+concept:city:washington_d_c concept:agentbelongstoorganization concept:mountain:columbia 0.5
+concept:city:washington_d_c concept:atdate concept:mountain:columbia 0.768277
+concept:city:washington_d_c concept:atlocation concept:mountain:columbia 0.75
+concept:city:washington_d_c concept:cityliesonriver concept:mountain:columbia 0.75
+concept:city:washington_d_c concept:lakeinstate concept:mountain:columbia 0.5
+concept:city:washington_d_c concept:mutualproxyfor concept:mountain:columbia 0.5
+concept:city:washington_d_c concept:parkincity concept:mountain:columbia 1
+concept:city:washington_d_c concept:stadiumlocatedincity concept:mountain:columbia 1
+concept:city:washington_d_c concept:subpartoforganization concept:mountain:columbia 0.110863
+---------------------------------
+concept:university:state_university concept:synonymfor concept:university:north_carolina_state 1
+
+concept:university:state_university concept:countryalsoknownas concept:university:north_carolina_state 1
+concept:university:state_university concept:organizationacronymhasname concept:university:north_carolina_state 1
+---------------------------------
+concept:university:colorado_state concept:synonymfor concept:university:state_university 1
+
+---------------------------------
+concept:university:ball_state concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+concept:programminglanguage:state concept:synonymfor concept:university:state_university 1
+
+concept:programminglanguage:state concept:atdate concept:university:state_university 0.254339
+concept:programminglanguage:state concept:subpartof concept:university:state_university 0.5
+---------------------------------
+concept:university:state_university concept:synonymfor concept:emotion:northwestern 1
+
+---------------------------------
+concept:university:pennsylvania_state concept:synonymfor concept:university:state_university 1
+
+concept:university:pennsylvania_state concept:countryalsoknownas concept:university:state_university 1
+concept:university:pennsylvania_state concept:organizationacronymhasname concept:university:state_university 1
+---------------------------------
+concept:jobposition:agency concept:synonymfor concept:politicaloffice:office 2.5
+
+concept:jobposition:agency concept:agentcontrols concept:politicaloffice:office 2
+concept:jobposition:agency concept:agentparticipatedinevent concept:politicaloffice:office 1
+concept:jobposition:agency concept:atdate concept:politicaloffice:office 0.754339
+concept:jobposition:agency concept:citycapitalofcountry concept:politicaloffice:office 1
+concept:jobposition:agency concept:istallerthan concept:politicaloffice:office 1
+concept:jobposition:agency concept:mutualproxyfor concept:politicaloffice:office 0.5
+concept:jobposition:agency concept:personleadsgeopoliticalorganization concept:politicaloffice:office 1
+concept:jobposition:agency concept:proxyfor concept:politicaloffice:office 0.666667
+concept:jobposition:agency concept:subpartof concept:politicaloffice:office 1
+---------------------------------
+concept:jobposition:dean concept:synonymfor concept:university:state_university 1
+
+concept:jobposition:dean concept:atdate concept:university:state_university 0.254339
+---------------------------------
+concept:sportsteam:northern_arizona concept:synonymfor concept:sportsteam:state_university 1
+
+---------------------------------
+concept:sportsteam:michigan_state concept:synonymfor concept:university:state_university 1
+
+---------------------------------
+concept:university:brigham_young concept:synonymfor concept:university:state_university 1
+
+---------------------------------
+concept:profession:division concept:synonymfor concept:politicaloffice:office 2.5
+
+concept:profession:division concept:agentcontrols concept:politicaloffice:office 2
+concept:profession:division concept:agentparticipatedinevent concept:politicaloffice:office 1
+concept:profession:division concept:atdate concept:politicaloffice:office 0.754339
+concept:profession:division concept:citycapitalofcountry concept:politicaloffice:office 1
+concept:profession:division concept:istallerthan concept:politicaloffice:office 1
+concept:profession:division concept:personleadsgeopoliticalorganization concept:politicaloffice:office 1
+concept:profession:division concept:proxyfor concept:politicaloffice:office 0.666667
+concept:profession:division concept:subpartof concept:politicaloffice:office 1
+---------------------------------
+concept:university:state_university concept:synonymfor concept:university:pennsylvania_state 1
+
+concept:university:state_university concept:countryalsoknownas concept:university:pennsylvania_state 1
+concept:university:state_university concept:organizationacronymhasname concept:university:pennsylvania_state 1
+---------------------------------
+concept:university:the_ohio_state concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+concept:university:state_university concept:synonymfor concept:building:ohio_state 1
+
+---------------------------------
+concept:writer:harvard concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+concept:university:state_university concept:synonymfor concept:university:auburn 1
+
+concept:university:state_university concept:countryalsoknownas concept:university:auburn 1
+concept:university:state_university concept:organizationacronymhasname concept:university:auburn 1
+---------------------------------
+concept:university:utah_state concept:synonymfor concept:university:state_university 1
+
+concept:university:utah_state concept:countryalsoknownas concept:university:state_university 1
+concept:university:utah_state concept:organizationacronymhasname concept:university:state_university 1
+---------------------------------
+concept:school:johns_hopkins concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+concept:university:state_university concept:synonymfor concept:bank:iowa_state 1
+
+concept:university:state_university concept:countryalsoknownas concept:bank:iowa_state 1
+concept:university:state_university concept:organizationacronymhasname concept:bank:iowa_state 1
+---------------------------------
+concept:emotion:northwestern concept:synonymfor concept:university:state_university 1
+
+---------------------------------
+concept:company:west_virginia concept:synonymfor concept:university:state_university 0
+
+concept:company:west_virginia concept:atdate concept:university:state_university 0.0161079
+concept:company:west_virginia concept:countryalsoknownas concept:university:state_university 1
+concept:company:west_virginia concept:mutualproxyfor concept:university:state_university 0.5
+concept:company:west_virginia concept:organizationacronymhasname concept:university:state_university 1
+concept:company:west_virginia concept:subpartoforganization concept:university:state_university 0.109162
+---------------------------------
+concept:geopoliticallocation:yale concept:synonymfor concept:university:state_university 1
+
+---------------------------------
+concept:governmentorganization:gcc concept:synonymfor concept:jobposition:compiler 0
+
+---------------------------------
+concept:geopoliticallocation:stanford concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+concept:university:state_university concept:synonymfor concept:jobposition:adjunct_professor 1
+
+---------------------------------
+concept:county:louisiana_state concept:synonymfor concept:university:state_university 0
+
+concept:county:louisiana_state concept:countryalsoknownas concept:university:state_university 1
+concept:county:louisiana_state concept:organizationacronymhasname concept:university:state_university 1
+---------------------------------
+concept:university:state_university concept:synonymfor concept:university:washington_state 1
+
+concept:university:state_university concept:agentactsinlocation concept:university:washington_state 0.141967
+concept:university:state_university concept:countryalsoknownas concept:university:washington_state 1
+concept:university:state_university concept:organizationacronymhasname concept:university:washington_state 1
+---------------------------------
+concept:county:san_francisco_state concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+concept:geopoliticallocation:carnegie_mellon concept:synonymfor concept:university:state_university 1
+
+---------------------------------
+concept:university:state_university concept:synonymfor concept:university:utah_state 1
+
+concept:university:state_university concept:agentactsinlocation concept:university:utah_state 0.141967
+concept:university:state_university concept:countryalsoknownas concept:university:utah_state 1
+concept:university:state_university concept:organizationacronymhasname concept:university:utah_state 1
+---------------------------------
+concept:university:oregon_st concept:synonymfor concept:university:state_university 0
+
+concept:university:oregon_st concept:countryalsoknownas concept:university:state_university 1
+concept:university:oregon_st concept:organizationacronymhasname concept:university:state_university 1
+---------------------------------
+concept:geopoliticallocation:arizona_state concept:synonymfor concept:university:state_university 1
+
+---------------------------------
+concept:university:state_university concept:synonymfor concept:geopoliticallocation:yale 1
+
+---------------------------------
+concept:bank:iowa_state concept:synonymfor concept:university:state_university 1
+
+concept:bank:iowa_state concept:countryalsoknownas concept:university:state_university 1
+concept:bank:iowa_state concept:organizationacronymhasname concept:university:state_university 1
+concept:bank:iowa_state concept:subpartoforganization concept:university:state_university 0.109162
+---------------------------------
+concept:university:state_university concept:synonymfor concept:politicalparty:college 0
+
+concept:university:state_university concept:agentactsinlocation concept:politicalparty:college 0.141967
+concept:university:state_university concept:countryalsoknownas concept:politicalparty:college 1
+concept:university:state_university concept:organizationacronymhasname concept:politicalparty:college 1
+---------------------------------
+concept:university:state_university concept:synonymfor concept:geopoliticallocation:central_michigan 1
+
+concept:university:state_university concept:countryalsoknownas concept:geopoliticallocation:central_michigan 1
+concept:university:state_university concept:organizationacronymhasname concept:geopoliticallocation:central_michigan 1
+---------------------------------
+concept:university:emory concept:synonymfor concept:university:state_university 1
+
+---------------------------------
+concept:building:oklahoma_state concept:synonymfor concept:university:state_university 1
+
+---------------------------------
+concept:sportsteam:cardinals_27_23 concept:synonymfor concept:sportsteam:steelers 0
+
+concept:sportsteam:cardinals_27_23 concept:teamalsoknownas concept:sportsteam:steelers 1
+---------------------------------
+concept:university:state_university concept:synonymfor concept:university:western_illinois 1
+
+---------------------------------
+concept:profession:meetings concept:synonymfor concept:boardgame:board 0
+
+concept:profession:meetings concept:mutualproxyfor concept:boardgame:board 0.5
+---------------------------------
+concept:stateorprovince:mississippi_state concept:synonymfor concept:university:state_university 0
+
+concept:stateorprovince:mississippi_state concept:countryalsoknownas concept:university:state_university 1
+concept:stateorprovince:mississippi_state concept:organizationacronymhasname concept:university:state_university 1
+concept:stateorprovince:mississippi_state concept:subpartoforganization concept:university:state_university 0.109162
+---------------------------------
+concept:boardgame:board concept:synonymfor concept:website:boards 0
+
+concept:boardgame:board concept:atdate concept:website:boards 0.00433913
+concept:boardgame:board concept:specializationof concept:website:boards 1
+---------------------------------
+concept:university:new_mexico_state concept:synonymfor concept:university:state_university 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.792793 0.342342 0.405405 0.558559
+HITS@3: 0.918919 0.558559 0.558559 0.567568
+HITS@10: 1 0.576577 0.576577 0.576577
+MRR: 0.857068 0.46258 0.484305 0.568259
+MR: 1.61261 17.4775 17.3333 32.8378
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.792793 0.333333 0.405405 0.558559
+HITS@3: 0.918919 0.558559 0.558559 0.567568
+HITS@10: 1 0.576577 0.576577 0.576577
+MRR: 0.85739 0.45839 0.484472 0.568437
+MR: 1.59459 17.4234 17.2703 32.7297
+relation_mr_mrr_1_3_10_n_rf 1917.00000000000000000 53.77639288532097339 45.00000000000000000 62.00000000000000000 64.00000000000000000 111 64

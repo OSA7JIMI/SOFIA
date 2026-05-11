@@ -1,0 +1,5 @@
+1	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant(A,B) <= /award/award_winner/awards_won./award/award_honor/award_winner(A,B)
+1	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant(A,C) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B)
+1	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant(A,B) <= /base/popstra/celebrity/canoodled./base/popstra/canoodled/participant(B,A)
+1	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant(A,D) <= /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency(A,B), /location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency(C,B), /people/person/places_lived./people/place_lived/location(D,C)
+1	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant(A,D) <= /people/person/languages(A,B), /language/human_language/countries_spoken_in(B,C), /base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer(C,D)

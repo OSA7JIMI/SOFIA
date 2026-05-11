@@ -1,0 +1,1 @@
+1	/people/person/spouse_s./people/marriage/spouse(A,B) <= /people/person/spouse_s./people/marriage/spouse(B,A)

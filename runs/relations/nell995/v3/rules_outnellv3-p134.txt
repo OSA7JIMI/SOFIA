@@ -1,0 +1,5 @@
+1	concept:teamplayssport(A,C) <= concept:teamplaysagainstteam(A,B), concept:teamplayssport(B,C)
+1	concept:teamplayssport(A,C) <= concept:subpartoforganization(A,B), concept:teamplayssport(B,C)
+1	concept:teamplayssport(A,D) <= concept:sportsgameteam(B,A), concept:sportsgameteam(B,C), concept:teamplayssport(C,D)
+1	concept:teamplayssport(A,C) <= concept:agentcompeteswithagent(A,B), concept:teamplayssport(B,C)
+1	concept:teamplayssport(A,D) <= concept:organizationhiredperson(A,B), concept:worksfor(B,C), concept:teamplayssport(C,D)

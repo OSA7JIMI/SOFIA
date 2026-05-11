@@ -1,0 +1,6 @@
+1	concept:personborninlocation(A,B) <= concept:personbornincity(A,B)
+1	concept:personborninlocation(A,B) <= concept:personhasresidenceingeopoliticallocation(A,B)
+1	concept:personborninlocation(A,C) <= concept:politicianrepresentslocation(A,B), concept:atlocation(B,C)
+1	concept:personborninlocation(A,D) <= concept:agentparticipatedinevent(A,B), concept:agentparticipatedinevent(C,B), concept:personbornincity(C,D)
+1	concept:personborninlocation(A,D) <= concept:agentbelongstoorganization(A,B), concept:organizationheadquarteredincountry(B,C), concept:citylocatedincountry(D,C)
+1	concept:personborninlocation(A,D) <= concept:agentcollaborateswithagent(B,A), concept:atlocation(C,B), concept:atlocation(C,D)

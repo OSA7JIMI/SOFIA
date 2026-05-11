@@ -1,0 +1,2 @@
+1	/people/cause_of_death/people(A,C) <= /medicine/disease/risk_factors(A,B), /people/person/gender(C,B)
+1	/people/cause_of_death/people(A,D) <= /people/cause_of_death/people(A,B), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/person/spouse_s./people/marriage/type_of_union(D,C)

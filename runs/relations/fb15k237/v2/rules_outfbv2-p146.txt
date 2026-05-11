@@ -1,0 +1,7 @@
+1	/organization/organization_founder/organizations_founded(A,B) <= /government/political_party/politicians_in_this_party./government/political_party_tenure/politician(B,A)
+1	/organization/organization_founder/organizations_founded(A,B) <= /organization/organization_member/member_of./organization/organization_membership/organization(A,B)
+1	/organization/organization_founder/organizations_founded(A,B) <= /people/person/employment_history./business/employment_tenure/company(A,B)
+1	/organization/organization_founder/organizations_founded(A,D) <= /people/person/gender(A,B), /people/person/gender(C,B), /organization/organization_founder/organizations_founded(C,D)
+1	/organization/organization_founder/organizations_founded(A,D) <= /people/person/gender(A,B), /people/person/gender(C,B), /education/educational_institution/students_graduates./education/education/student(D,C)
+1	/organization/organization_founder/organizations_founded(A,D) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(B,C), /location/location/contains(C,D)
+1	/organization/organization_founder/organizations_founded(A,D) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(B,C), /organization/organization/headquarters./location/mailing_address/state_province_region(D,C)

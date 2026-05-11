@@ -1,0 +1,28 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:agentinvolvedwithitem
+---------------------------------
+concept:videogame:solaris concept:agentinvolvedwithitem concept:male:sun 0
+
+---------------------------------
+concept:videogamesystem:ipod concept:agentinvolvedwithitem concept:company:apple 0
+
+---------------------------------
+concept:videogamesystem:ipod concept:agentinvolvedwithitem concept:biotechcompany:apple 0
+
+concept:videogamesystem:ipod concept:agentcompeteswithagent concept:biotechcompany:apple 0.0595295
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.666667 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 0.833333 0.025641 0.0245127 0.0131579
+MR: 1.33333 39 41 76
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.666667 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 0.833333 0.0258659 0.0248947 0.0132749
+MR: 1.33333 38.6667 40.3333 75.3333
+relation_mr_mrr_1_3_10_n_rf 121.00000000000000000 0.07468408784198258 0.00000000000000000 0.00000000000000000 0.00000000000000000 3 0

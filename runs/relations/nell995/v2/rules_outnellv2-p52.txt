@@ -1,0 +1,1 @@
+1	concept:personchargedwithcrime(A,D) <= concept:personborninlocation(A,B), concept:personborninlocation(C,B), concept:personchargedwithcrime(C,D)

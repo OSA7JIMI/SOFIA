@@ -1,0 +1,3 @@
+1	/sports/sports_position/players./sports/sports_team_roster/team(A,B) <= /sports/sports_team/roster./american_football/football_historical_roster_position/position_s(B,A)
+1	/sports/sports_position/players./sports/sports_team_roster/team(A,B) <= /sports/sports_team/roster./baseball/baseball_roster_position/position(B,A)
+1	/sports/sports_position/players./sports/sports_team_roster/team(A,D) <= /sports/sports_position/players./sports/sports_team_roster/team(A,B), /sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft(B,C), /sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft(D,C)

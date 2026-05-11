@@ -1,0 +1,2 @@
+1	/time/event/instance_of_recurring_event(A,C) <= /award/award_category/winners./award/award_honor/ceremony(B,A), /award/award_category/category_of(B,C)
+1	/time/event/instance_of_recurring_event(A,E) <= /film/film/film_festivals(B,A), /film/film/other_crew./film/film_crew_gig/film_crew_role(B,C), /film/film/other_crew./film/film_crew_gig/film_crew_role(D,C), /film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue(D,E)

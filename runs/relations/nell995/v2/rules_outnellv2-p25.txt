@@ -1,0 +1,1 @@
+1	concept:competeswith(A,D) <= concept:agentparticipatedinevent(A,B), concept:agentparticipatedinevent(C,B), concept:competeswith(C,D)

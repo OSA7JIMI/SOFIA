@@ -1,0 +1,8 @@
+0.2	_instance_hypernym(A,E) <= _instance_hypernym(A,B), _hypernym(B,C), _hypernym(D,C), _hypernym(E,D)
+1	_instance_hypernym(A,D) <= _has_part(B,A), _has_part(B,C), _instance_hypernym(C,D)
+1	_instance_hypernym(A,C) <= _has_part(B,A), _instance_hypernym(B,C)
+1	_instance_hypernym(A,G) <= _has_part(A,B), _instance_hypernym(B,C), _hypernym(C,D), _hypernym(D,E), _hypernym(F,E), _hypernym(G,F)
+1	_instance_hypernym(A,D) <= _derivationally_related_form(A,B), _derivationally_related_form(B,C), _hypernym(C,D)
+1	_instance_hypernym(A,G) <= _has_part(B,A), _instance_hypernym(B,C), _hypernym(C,D), _hypernym(D,E), _hypernym(F,E), _hypernym(G,F)
+1	_instance_hypernym(A,D) <= _synset_domain_topic_of(B,A), _synset_domain_topic_of(B,C), _hypernym(C,D)
+1	_instance_hypernym(A,E) <= _instance_hypernym(A,B), _hypernym(B,C), _hypernym(C,D), _hypernym(E,D)

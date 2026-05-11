@@ -1,0 +1,4 @@
+1	concept:agriculturalproducttoattractinsect(A,B) <= concept:animaleatfood(B,A)
+1	concept:agriculturalproducttoattractinsect(A,B) <= concept:invertebratefeedonfood(B,A)
+1	concept:agriculturalproducttoattractinsect(A,D) <= concept:agriculturalproductcookedwithagriculturalproduct(A,B), concept:agriculturalproductcookedwithagriculturalproduct(B,C), concept:agriculturalproducttoattractinsect(C,D)
+1	concept:agriculturalproducttoattractinsect(A,D) <= concept:agriculturalproducttoattractinsect(A,B), concept:animalsuchasinsect(C,B), concept:animalthatfeedoninsect(C,D)

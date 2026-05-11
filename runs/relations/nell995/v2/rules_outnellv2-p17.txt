@@ -1,0 +1,2 @@
+1	concept:cityalsoknownas(A,C) <= concept:statelocatedingeopoliticallocation(B,A), concept:statelocatedingeopoliticallocation(B,C)
+1	concept:cityalsoknownas(A,D) <= concept:citylocatedingeopoliticallocation(A,B), concept:statelocatedincountry(C,B), concept:citylocatedinstate(D,C)

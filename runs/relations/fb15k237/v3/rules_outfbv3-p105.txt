@@ -1,0 +1,2 @@
+1	/influence/influence_node/peers./influence/peer_relationship/peers(A,B) <= /influence/influence_node/influenced_by(A,B)
+1	/influence/influence_node/peers./influence/peer_relationship/peers(A,C) <= /people/person/gender(A,B), /people/person/gender(C,B)

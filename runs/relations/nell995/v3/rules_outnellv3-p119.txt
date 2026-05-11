@@ -1,0 +1,4 @@
+1	concept:sportsgamewinner(A,C) <= concept:sportsgameteam(A,B), concept:teamplaysagainstteam(C,B)
+1	concept:sportsgamewinner(A,D) <= concept:agentparticipatedinevent(B,A), concept:agentparticipatedinevent(B,C), concept:sportsgamewinner(C,D)
+1	concept:sportsgamewinner(A,E) <= concept:proxyfor(B,A), concept:atlocation(B,C), concept:agentparticipatedinevent(C,D), concept:sportsgameteam(D,E)
+1	concept:sportsgamewinner(A,D) <= concept:agentparticipatedinevent(B,A), concept:agentbelongstoorganization(B,C), concept:teamplaysinleague(D,C)

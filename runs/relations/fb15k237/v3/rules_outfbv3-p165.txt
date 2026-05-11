@@ -1,0 +1,4 @@
+1	/people/ethnicity/geographic_distribution(A,C) <= /people/ethnicity/people(A,B), /people/person/nationality(B,C)
+1	/people/ethnicity/geographic_distribution(A,D) <= /people/ethnicity/languages_spoken(A,B), /film/film/language(C,B), /film/film/featured_film_locations(C,D)
+1	/people/ethnicity/geographic_distribution(A,D) <= /people/ethnicity/geographic_distribution(A,B), /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(B,C), /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(D,C)
+1	/people/ethnicity/geographic_distribution(A,C) <= /people/ethnicity/geographic_distribution(A,B), /location/location/adjoin_s./location/adjoining_relationship/adjoins(B,C)

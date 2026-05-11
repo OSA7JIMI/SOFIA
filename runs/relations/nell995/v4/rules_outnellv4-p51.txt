@@ -1,0 +1,2 @@
+1	concept:persongraduatedfromuniversity(A,D) <= concept:worksfor(A,B), concept:organizationhiredperson(B,C), concept:persongraduatedschool(C,D)
+1	concept:persongraduatedfromuniversity(A,D) <= concept:personchargedwithcrime(A,B), concept:personchargedwithcrime(C,B), concept:persongraduatedfromuniversity(C,D)

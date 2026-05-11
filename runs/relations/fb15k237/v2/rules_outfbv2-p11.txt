@@ -1,0 +1,5 @@
+1	/award/award_winner/awards_won./award/award_honor/award_winner(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,B)
+1	/award/award_winner/awards_won./award/award_honor/award_winner(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(B,A)
+1	/award/award_winner/awards_won./award/award_honor/award_winner(A,C) <= /people/person/profession(A,B), /people/person/profession(C,B)
+1	/award/award_winner/awards_won./award/award_honor/award_winner(A,C) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B)
+1	/award/award_winner/awards_won./award/award_honor/award_winner(A,B) <= /award/award_winner/awards_won./award/award_honor/award_winner(B,A)

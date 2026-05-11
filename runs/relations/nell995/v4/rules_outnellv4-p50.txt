@@ -1,0 +1,1 @@
+1	concept:persondiedincountry(A,D) <= concept:worksfor(A,B), concept:atdate(B,C), concept:atdate(D,C)

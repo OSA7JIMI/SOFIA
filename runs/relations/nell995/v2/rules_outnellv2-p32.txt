@@ -1,0 +1,1 @@
+1	concept:hotelincity(A,C) <= concept:buildinglocatedincity(A,B), concept:locationlocatedwithinlocation(C,B)

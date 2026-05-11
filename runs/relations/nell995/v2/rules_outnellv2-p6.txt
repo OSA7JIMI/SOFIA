@@ -1,0 +1,1 @@
+1	concept:agentcreated(A,C) <= concept:locationlocatedwithinlocation(B,A), concept:locationlocatedwithinlocation(B,C)

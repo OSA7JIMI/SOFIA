@@ -1,0 +1,1 @@
+1	/people/person/employment_history./business/employment_tenure/company(A,B) <= /organization/organization_founder/organizations_founded(A,B)

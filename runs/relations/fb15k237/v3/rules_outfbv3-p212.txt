@@ -1,0 +1,2 @@
+1	/user/alexander/philosophy/philosopher/interests(A,D) <= /influence/influence_node/influenced_by(A,B), /influence/influence_node/influenced_by(C,B), /user/alexander/philosophy/philosopher/interests(C,D)
+1	/user/alexander/philosophy/philosopher/interests(A,E) <= /people/person/gender(A,B), /people/person/gender(C,B), /education/educational_degree/people_with_this_degree./education/education/student(D,C), /education/educational_degree/people_with_this_degree./education/education/major_field_of_study(D,E)

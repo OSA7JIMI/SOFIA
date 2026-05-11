@@ -1,0 +1,1 @@
+1	concept:riveremptiesintoriver(A,E) <= concept:cityliesonriver(B,A), concept:atlocation(B,C), concept:atlocation(D,C), concept:cityliesonriver(D,E)

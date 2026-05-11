@@ -1,0 +1,1 @@
+1	concept:politicianrepresentslocation(A,D) <= concept:personborninlocation(A,B), concept:locationlocatedwithinlocation(B,C), concept:locationlocatedwithinlocation(D,C)

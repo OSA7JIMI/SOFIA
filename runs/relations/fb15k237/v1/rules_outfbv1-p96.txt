@@ -1,0 +1,2 @@
+1	/location/hud_county_place/county(A,B) <= /location/location/contains(B,A)
+1	/location/hud_county_place/county(A,C) <= /base/biblioness/bibs_location/state(A,B), /location/location/contains(B,C)

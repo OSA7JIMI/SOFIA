@@ -1,0 +1,5 @@
+1	/base/biblioness/bibs_location/country(A,B) <= /base/aareas/schema/administrative_area/administrative_parent(A,B)
+1	/base/biblioness/bibs_location/country(A,B) <= /location/location/contains(B,A)
+1	/base/biblioness/bibs_location/country(A,C) <= /base/biblioness/bibs_location/state(A,B), /location/administrative_division/country(B,C)
+1	/base/biblioness/bibs_location/country(A,C) <= /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(B,A), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(B,C)
+1	/base/biblioness/bibs_location/country(A,D) <= /location/country/capital(B,A), /location/country/form_of_government(B,C), /location/country/form_of_government(D,C)

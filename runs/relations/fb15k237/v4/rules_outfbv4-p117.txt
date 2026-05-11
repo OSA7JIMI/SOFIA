@@ -1,0 +1,4 @@
+1	/location/hud_county_place/county(A,B) <= /location/location/contains(B,A)
+1	/location/hud_county_place/county(A,C) <= /location/location/contains(B,A), /location/location/contains(B,C)
+1	/location/hud_county_place/county(A,D) <= /location/location/time_zones(A,B), /location/location/time_zones(C,B), /location/location/adjoin_s./location/adjoining_relationship/adjoins(C,D)
+1	/location/hud_county_place/county(A,D) <= /people/person/place_of_birth(B,A), /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency(B,C), /location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency(D,C)

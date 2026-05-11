@@ -1,0 +1,8 @@
+0.5	/base/aareas/schema/administrative_area/administrative_parent(A,B) <= /base/biblioness/bibs_location/country(A,B)
+1	/base/aareas/schema/administrative_area/administrative_parent(A,B) <= /location/administrative_division/country(A,B)
+1	/base/aareas/schema/administrative_area/administrative_parent(A,B) <= /location/location/contains(B,A)
+0.5	/base/aareas/schema/administrative_area/administrative_parent(A,C) <= /location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency(A,B), /location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency(C,B)
+0.5	/base/aareas/schema/administrative_area/administrative_parent(A,C) <= /location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency(A,B), /location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency(C,B)
+0.5	/base/aareas/schema/administrative_area/administrative_parent(A,C) <= /location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency(A,B), /location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency(C,B)
+0.5	/base/aareas/schema/administrative_area/administrative_parent(A,C) <= /location/location/adjoin_s./location/adjoining_relationship/adjoins(A,B), /base/aareas/schema/administrative_area/administrative_parent(B,C)
+0.5	/base/aareas/schema/administrative_area/administrative_parent(A,D) <= /location/country/official_language(A,B), /language/human_language/countries_spoken_in(B,C), /base/aareas/schema/administrative_area/administrative_parent(C,D)

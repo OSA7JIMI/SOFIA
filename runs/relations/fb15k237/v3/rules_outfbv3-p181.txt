@@ -1,0 +1,3 @@
+1	/people/profession/specialization_of(A,E) <= /people/person/profession(B,A), /people/person/gender(B,C), /people/person/gender(D,C), /people/person/profession(D,E)
+1	/people/profession/specialization_of(A,D) <= /film/film/other_crew./film/film_crew_gig/film_crew_role(B,A), /award/award_winning_work/awards_won./award/award_honor/award_winner(B,C), /people/person/profession(C,D)
+1	/people/profession/specialization_of(A,D) <= /education/educational_degree/people_with_this_degree./education/education/major_field_of_study(B,A), /education/educational_degree/people_with_this_degree./education/education/student(B,C), /people/person/profession(C,D)

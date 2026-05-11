@@ -1,0 +1,3357 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:agentactsinlocation
+---------------------------------
+concept:city:jessup concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:jessup concept:agentcontrols concept:musicartist:american 1
+concept:city:jessup concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:street:arlington concept:agentactsinlocation concept:musicartist:american 0.5
+
+concept:street:arlington concept:agentcontrols concept:musicartist:american 1
+concept:street:arlington concept:atlocation concept:musicartist:american 0.625
+---------------------------------
+concept:trainstation:brookhaven concept:agentactsinlocation concept:musicartist:american 1
+
+concept:trainstation:brookhaven concept:agentcontrols concept:musicartist:american 1
+concept:trainstation:brookhaven concept:atlocation concept:musicartist:american 0.25
+concept:trainstation:brookhaven concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:company:national_city concept:agentactsinlocation concept:university:national 2
+
+concept:company:national_city concept:agentcontrols concept:university:national 1
+concept:company:national_city concept:atlocation concept:university:national 1
+---------------------------------
+concept:geopoliticallocation:devon concept:agentactsinlocation concept:musicartist:american 1
+
+concept:geopoliticallocation:devon concept:agentcontrols concept:musicartist:american 1
+concept:geopoliticallocation:devon concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:mableton concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:mableton concept:agentcontrols concept:musicartist:american 1
+concept:city:mableton concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:website:marietta concept:agentactsinlocation concept:musicartist:american 0
+
+concept:website:marietta concept:agentcontrols concept:musicartist:american 1
+concept:website:marietta concept:atlocation concept:musicartist:american 0.25
+concept:website:marietta concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:mountain:shasta concept:agentactsinlocation concept:musicartist:american 1
+
+concept:mountain:shasta concept:agentcontrols concept:musicartist:american 1
+concept:mountain:shasta concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:carle_place concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:carle_place concept:agentcontrols concept:musicartist:american 1
+concept:city:carle_place concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:blackwood concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:blackwood concept:agentcontrols concept:musicartist:american 1
+concept:city:blackwood concept:atlocation concept:musicartist:american 0.25
+concept:city:blackwood concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:spring_valley concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:spring_valley concept:agentcontrols concept:musicartist:american 1
+concept:city:spring_valley concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:berwyn concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:berwyn concept:agentcontrols concept:musicartist:american 1
+concept:city:berwyn concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:building:glendale concept:agentactsinlocation concept:musicartist:american 1
+
+concept:building:glendale concept:agentbelongstoorganization concept:musicartist:american 1
+concept:building:glendale concept:agentcontrols concept:musicartist:american 1
+concept:building:glendale concept:atlocation concept:musicartist:american 0.25*
+concept:building:glendale concept:proxyfor concept:musicartist:american 1
+concept:building:glendale concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:downers_grove concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:downers_grove concept:agentcontrols concept:musicartist:american 1
+concept:city:downers_grove concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:coronado concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:coronado concept:agentcontrols concept:musicartist:american 1
+concept:city:coronado concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:stateorprovince:waipahu concept:agentactsinlocation concept:musicartist:american 1
+
+concept:stateorprovince:waipahu concept:agentbelongstoorganization concept:musicartist:american 1
+concept:stateorprovince:waipahu concept:agentcontrols concept:musicartist:american 1
+concept:stateorprovince:waipahu concept:atlocation concept:musicartist:american 0.25*
+concept:stateorprovince:waipahu concept:proxyfor concept:musicartist:american 1
+concept:stateorprovince:waipahu concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:website:louisville concept:agentactsinlocation concept:musicartist:american 1
+
+concept:website:louisville concept:agentcontrols concept:musicartist:american 1
+concept:website:louisville concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:angels_camp concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:angels_camp concept:agentcontrols concept:musicartist:american 1
+concept:city:angels_camp concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:bogota concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bogota concept:agentcontrols concept:musicartist:american 1
+concept:city:bogota concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:mountain:rockford concept:agentactsinlocation concept:musicartist:american 1
+
+concept:mountain:rockford concept:agentcontrols concept:musicartist:american 1
+concept:mountain:rockford concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:galena_park concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:galena_park concept:agentcontrols concept:musicartist:american 1
+concept:city:galena_park concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:trainstation:covina concept:agentactsinlocation concept:musicartist:american 2
+
+concept:trainstation:covina concept:agentbelongstoorganization concept:musicartist:american 1
+concept:trainstation:covina concept:agentcontrols concept:musicartist:american 1
+concept:trainstation:covina concept:atlocation concept:musicartist:american 0.25*
+concept:trainstation:covina concept:proxyfor concept:musicartist:american 1
+concept:trainstation:covina concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:website:bangladesh concept:agentactsinlocation concept:university:national 1
+
+concept:website:bangladesh concept:agentcontrols concept:university:national 1
+concept:website:bangladesh concept:atdate concept:university:national 0.5
+concept:website:bangladesh concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:four_lakes concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:four_lakes concept:agentcontrols concept:musicartist:american 1
+concept:city:four_lakes concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:pearland concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:pearland concept:agentcontrols concept:musicartist:american 1
+concept:city:pearland concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:river:evansville concept:agentactsinlocation concept:musicartist:american 0
+
+concept:river:evansville concept:agentcontrols concept:musicartist:american 1
+concept:river:evansville concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:harbor_city concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:harbor_city concept:agentcontrols concept:musicartist:american 1
+concept:city:harbor_city concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:obrien concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:obrien concept:agentcontrols concept:musicartist:american 1
+concept:city:obrien concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:visualizablething:purvis concept:agentactsinlocation concept:geopoliticallocation:national 1
+
+concept:visualizablething:purvis concept:agentcontrols concept:geopoliticallocation:national 1
+concept:visualizablething:purvis concept:atlocation concept:geopoliticallocation:national 0.25
+---------------------------------
+concept:city:spicewood concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:spicewood concept:agentcontrols concept:musicartist:american 1
+concept:city:spicewood concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:park:charlestown concept:agentactsinlocation concept:musicartist:american 0
+
+concept:park:charlestown concept:agentcontrols concept:musicartist:american 1
+concept:park:charlestown concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:room:fresno concept:agentactsinlocation concept:musicartist:american 1
+
+concept:room:fresno concept:agentcontrols concept:musicartist:american 1
+concept:room:fresno concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:visualizablescene:arverne concept:agentactsinlocation concept:musicartist:american 0
+
+concept:visualizablescene:arverne concept:agentcontrols concept:musicartist:american 1
+concept:visualizablescene:arverne concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:los_angeles_county concept:agentactsinlocation concept:musicartist:american 2
+
+concept:county:los_angeles_county concept:agentcontrols concept:musicartist:american 1
+concept:county:los_angeles_county concept:atdate concept:musicartist:american 0.5
+concept:county:los_angeles_county concept:atlocation concept:musicartist:american 0.25
+concept:county:los_angeles_county concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:nimes concept:agentactsinlocation concept:company:ryanair001 0
+
+concept:city:nimes concept:agentcontrols concept:company:ryanair001 1
+concept:city:nimes concept:atlocation concept:company:ryanair001 0.25
+---------------------------------
+concept:city:jamul concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:jamul concept:agentcontrols concept:musicartist:american 1
+concept:city:jamul concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:beach:massachusetts concept:agentactsinlocation concept:university:national 1.14197
+
+concept:beach:massachusetts concept:agentcontrols concept:university:national 1
+concept:beach:massachusetts concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:etna concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:etna concept:agentcontrols concept:musicartist:american 1
+concept:city:etna concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:carlstadt concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:carlstadt concept:agentcontrols concept:musicartist:american 1
+concept:city:carlstadt concept:atlocation concept:musicartist:american 0.25
+concept:city:carlstadt concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:transportation:ada concept:agentactsinlocation concept:musicartist:american 0
+
+concept:transportation:ada concept:agentcontrols concept:musicartist:american 1
+concept:transportation:ada concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:geopoliticallocation:maryland concept:agentactsinlocation concept:university:national 1
+
+concept:geopoliticallocation:maryland concept:agentcontrols concept:university:national 1
+concept:geopoliticallocation:maryland concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:beirut concept:agentactsinlocation concept:male:notre_dame 0
+
+concept:city:beirut concept:agentcontrols concept:male:notre_dame 1
+concept:city:beirut concept:atlocation concept:male:notre_dame 0.25
+---------------------------------
+concept:city:bryn_athyn concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bryn_athyn concept:agentcontrols concept:musicartist:american 1
+concept:city:bryn_athyn concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:website:kenya concept:agentactsinlocation concept:university:national 1
+
+concept:website:kenya concept:agentcontrols concept:university:national 1
+concept:website:kenya concept:atdate concept:university:national 0.5
+concept:website:kenya concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:county:columbus concept:agentactsinlocation concept:musicartist:american 0
+
+concept:county:columbus concept:agentcontrols concept:musicartist:american 1
+concept:county:columbus concept:atlocation concept:musicartist:american 0.25
+concept:county:columbus concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:trainstation:glenview concept:agentactsinlocation concept:musicartist:american 2
+
+concept:trainstation:glenview concept:agentbelongstoorganization concept:musicartist:american 1
+concept:trainstation:glenview concept:agentcontrols concept:musicartist:american 1
+concept:trainstation:glenview concept:atlocation concept:musicartist:american 0.25*
+concept:trainstation:glenview concept:proxyfor concept:musicartist:american 1
+concept:trainstation:glenview concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:calumet_city concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:calumet_city concept:agentcontrols concept:musicartist:american 1
+concept:city:calumet_city concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:bayside concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bayside concept:agentcontrols concept:musicartist:american 1
+concept:city:bayside concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:hacienda_heights concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:hacienda_heights concept:agentcontrols concept:musicartist:american 1
+concept:city:hacienda_heights concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:geopoliticalorganization:brea concept:agentactsinlocation concept:musicartist:american 0
+
+concept:geopoliticalorganization:brea concept:agentcontrols concept:musicartist:american 1
+concept:geopoliticalorganization:brea concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:harwood_heights concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:harwood_heights concept:agentcontrols concept:musicartist:american 1
+concept:city:harwood_heights concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:rancho_santa_fe concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:rancho_santa_fe concept:agentcontrols concept:musicartist:american 1
+concept:city:rancho_santa_fe concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:dumont concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:dumont concept:agentcontrols concept:musicartist:american 1
+concept:city:dumont concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:huntsville concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:huntsville concept:agentcontrols concept:musicartist:american 1
+concept:city:huntsville concept:atlocation concept:musicartist:american 0.75
+---------------------------------
+concept:skiarea:french_gulch concept:agentactsinlocation concept:university:national 2
+
+concept:skiarea:french_gulch concept:agentcontrols concept:university:national 1
+concept:skiarea:french_gulch concept:atlocation concept:university:national 1
+---------------------------------
+concept:airport:canton concept:agentactsinlocation concept:musicartist:american 0
+
+concept:airport:canton concept:agentcontrols concept:musicartist:american 1
+concept:airport:canton concept:atlocation concept:musicartist:american 0.25
+concept:airport:canton concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:stadiumoreventvenue:browns_stadium concept:agentactsinlocation concept:sportsleague:nfl 0
+
+concept:stadiumoreventvenue:browns_stadium concept:agentcontrols concept:sportsleague:nfl 1
+concept:stadiumoreventvenue:browns_stadium concept:atlocation concept:sportsleague:nfl 0.25
+---------------------------------
+concept:city:hillside concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:hillside concept:agentcontrols concept:musicartist:american 1
+concept:city:hillside concept:atlocation concept:musicartist:american 0.25
+concept:city:hillside concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:hickory_hills concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:hickory_hills concept:agentcontrols concept:musicartist:american 1
+concept:city:hickory_hills concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:tustin concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:tustin concept:agentcontrols concept:musicartist:american 1
+concept:city:tustin concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:rose_garden concept:agentactsinlocation concept:sportsteam:trail_blazers 0.5
+
+concept:city:rose_garden concept:agentcontrols concept:sportsteam:trail_blazers 1
+concept:city:rose_garden concept:atlocation concept:sportsteam:trail_blazers 0.25
+---------------------------------
+concept:city:harvey concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:harvey concept:agentcontrols concept:musicartist:american 1
+concept:city:harvey concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:audubon concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:audubon concept:agentcontrols concept:musicartist:american 1
+concept:city:audubon concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:franklin_park concept:agentactsinlocation concept:musicartist:american 0.141967
+
+concept:city:franklin_park concept:agentcontrols concept:musicartist:american 1
+concept:city:franklin_park concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:honolulu concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:honolulu concept:agentcontrols concept:musicartist:american 1
+concept:city:honolulu concept:atlocation concept:musicartist:american 0.25
+concept:city:honolulu concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:kunia concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:kunia concept:agentcontrols concept:musicartist:american 1
+concept:city:kunia concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:hathorne concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:hathorne concept:agentcontrols concept:musicartist:american 1
+concept:city:hathorne concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:hanover concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:hanover concept:agentcontrols concept:musicartist:american 1
+concept:city:hanover concept:atlocation concept:musicartist:american 0.25
+concept:city:hanover concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:matthews concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:matthews concept:agentcontrols concept:musicartist:american 1
+concept:city:matthews concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:visualizablething:elmhurst concept:agentactsinlocation concept:musicartist:american 2
+
+concept:visualizablething:elmhurst concept:agentbelongstoorganization concept:musicartist:american 1
+concept:visualizablething:elmhurst concept:agentcontrols concept:musicartist:american 1
+concept:visualizablething:elmhurst concept:atlocation concept:musicartist:american 0.25*
+concept:visualizablething:elmhurst concept:proxyfor concept:musicartist:american 1
+concept:visualizablething:elmhurst concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:aguanga concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:aguanga concept:agentcontrols concept:musicartist:american 1
+concept:city:aguanga concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:glendora concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:glendora concept:agentcontrols concept:musicartist:american 1
+concept:city:glendora concept:atlocation concept:musicartist:american 0.25
+concept:city:glendora concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:trainstation:glenview concept:agentactsinlocation concept:university:national 2
+
+concept:trainstation:glenview concept:agentcontrols concept:university:national 1
+concept:trainstation:glenview concept:atlocation concept:university:national 1
+---------------------------------
+concept:city:stafford concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:stafford concept:agentcontrols concept:musicartist:american 1
+concept:city:stafford concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:clark concept:agentactsinlocation concept:musicartist:american 0
+
+concept:county:clark concept:agentcontrols concept:musicartist:american 1
+concept:county:clark concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:skiarea:farmington concept:agentactsinlocation concept:university:national 0
+
+concept:skiarea:farmington concept:agentcontrols concept:university:national 1
+concept:skiarea:farmington concept:atlocation concept:university:national 0.25
+concept:skiarea:farmington concept:proxyfor concept:university:national 0.05
+---------------------------------
+concept:stateorprovince:rimini concept:agentactsinlocation concept:company:ryanair001 0
+
+concept:stateorprovince:rimini concept:agentcontrols concept:company:ryanair001 1
+concept:stateorprovince:rimini concept:atlocation concept:company:ryanair001 0.25
+---------------------------------
+concept:hotel:aston concept:agentactsinlocation concept:university:national 1
+
+concept:hotel:aston concept:agentcontrols concept:university:national 1
+concept:hotel:aston concept:atlocation concept:university:national 1
+---------------------------------
+concept:island:san_antonio concept:agentactsinlocation concept:musicartist:american 1
+
+concept:island:san_antonio concept:agentbelongstoorganization concept:musicartist:american 1
+concept:island:san_antonio concept:agentcontrols concept:musicartist:american 1
+concept:island:san_antonio concept:atlocation concept:musicartist:american 0.75*
+concept:island:san_antonio concept:proxyfor concept:musicartist:american 1
+concept:island:san_antonio concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:sherwood concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:sherwood concept:agentcontrols concept:musicartist:american 1
+concept:city:sherwood concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:mountain:shasta concept:agentactsinlocation concept:university:national 1
+
+concept:mountain:shasta concept:agentcontrols concept:university:national 1
+concept:mountain:shasta concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:trainstation:corona concept:agentactsinlocation concept:musicartist:american 2
+
+concept:trainstation:corona concept:agentbelongstoorganization concept:musicartist:american 1
+concept:trainstation:corona concept:agentcontrols concept:musicartist:american 1
+concept:trainstation:corona concept:atlocation concept:musicartist:american 0.25*
+concept:trainstation:corona concept:proxyfor concept:musicartist:american 1
+concept:trainstation:corona concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:beach:sunset_beach concept:agentactsinlocation concept:university:national 0
+
+concept:beach:sunset_beach concept:agentcontrols concept:university:national 1
+concept:beach:sunset_beach concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:mountain:rockford concept:agentactsinlocation concept:university:national 1
+
+concept:mountain:rockford concept:agentcontrols concept:university:national 1
+concept:mountain:rockford concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:deer_park concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:deer_park concept:agentcontrols concept:musicartist:american 1
+concept:city:deer_park concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:room:way concept:agentactsinlocation concept:university:national 0
+
+concept:room:way concept:agentcontrols concept:university:national 1
+concept:room:way concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:van_wyck concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:van_wyck concept:agentcontrols concept:musicartist:american 1
+concept:city:van_wyck concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:trail:carroll concept:agentactsinlocation concept:university:national 0
+
+concept:trail:carroll concept:agentcontrols concept:university:national 1
+concept:trail:carroll concept:atlocation concept:university:national 0.25
+concept:trail:carroll concept:proxyfor concept:university:national 0.05
+---------------------------------
+concept:city:eastlake concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:eastlake concept:agentcontrols concept:musicartist:american 1
+concept:city:eastlake concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:hotel:salisbury concept:agentactsinlocation concept:musicartist:american 2
+
+concept:hotel:salisbury concept:agentbelongstoorganization concept:musicartist:american 1
+concept:hotel:salisbury concept:agentcontrols concept:musicartist:american 1
+concept:hotel:salisbury concept:atlocation concept:musicartist:american 0.25*
+concept:hotel:salisbury concept:proxyfor concept:musicartist:american 1.55
+concept:hotel:salisbury concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:geopoliticallocation:grand_junction concept:agentactsinlocation concept:geopoliticallocation:national 2
+
+concept:geopoliticallocation:grand_junction concept:agentbelongstoorganization concept:geopoliticallocation:national 1
+concept:geopoliticallocation:grand_junction concept:agentcontrols concept:geopoliticallocation:national 1
+concept:geopoliticallocation:grand_junction concept:atlocation concept:geopoliticallocation:national 0.25*
+concept:geopoliticallocation:grand_junction concept:cityalsoknownas concept:geopoliticallocation:national 0.5
+concept:geopoliticallocation:grand_junction concept:proxyfor concept:geopoliticallocation:national 1
+concept:geopoliticallocation:grand_junction concept:subpartof concept:geopoliticallocation:national 1
+---------------------------------
+concept:visualizablething:purvis concept:agentactsinlocation concept:musicartist:american 1
+
+concept:visualizablething:purvis concept:agentcontrols concept:musicartist:american 1
+concept:visualizablething:purvis concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:zoo:theodore concept:agentactsinlocation concept:musicartist:american 1
+
+concept:zoo:theodore concept:agentcontrols concept:musicartist:american 1
+concept:zoo:theodore concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:chula_vista concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:chula_vista concept:agentcontrols concept:musicartist:american 1
+concept:city:chula_vista concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:website:march_2007 concept:agentactsinlocation concept:university:national 0
+
+concept:website:march_2007 concept:agentcontrols concept:university:national 1
+concept:website:march_2007 concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:fort_shafter concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:fort_shafter concept:agentcontrols concept:musicartist:american 1
+concept:city:fort_shafter concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:holbrook concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:holbrook concept:agentcontrols concept:musicartist:american 1
+concept:city:holbrook concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:trainstation:fall concept:agentactsinlocation concept:university:national 1
+
+concept:trainstation:fall concept:agentcontrols concept:university:national 1
+concept:trainstation:fall concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:blog:harrisburg concept:agentactsinlocation concept:musicartist:american 1
+
+concept:blog:harrisburg concept:agentcontrols concept:musicartist:american 1
+concept:blog:harrisburg concept:atlocation concept:musicartist:american 0.25
+concept:blog:harrisburg concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:geopoliticalorganization:laguna_hills concept:agentactsinlocation concept:musicartist:american 0
+
+concept:geopoliticalorganization:laguna_hills concept:agentcontrols concept:musicartist:american 1
+concept:geopoliticalorganization:laguna_hills concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:river:midway concept:agentactsinlocation concept:musicartist:american 0
+
+concept:river:midway concept:agentcontrols concept:musicartist:american 1
+concept:river:midway concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:danvers concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:danvers concept:agentcontrols concept:musicartist:american 1
+concept:city:danvers concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:park:roswell concept:agentactsinlocation concept:musicartist:american 0
+
+concept:park:roswell concept:agentcontrols concept:musicartist:american 1
+concept:park:roswell concept:atlocation concept:musicartist:american 0.25
+concept:park:roswell concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:mission_viejo concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:mission_viejo concept:agentcontrols concept:musicartist:american 1
+concept:city:mission_viejo concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:hawaiian_gardens concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:hawaiian_gardens concept:agentcontrols concept:musicartist:american 1
+concept:city:hawaiian_gardens concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:visualizablething:sugar_land concept:agentactsinlocation concept:musicartist:american 1
+
+concept:visualizablething:sugar_land concept:agentcontrols concept:musicartist:american 1
+concept:visualizablething:sugar_land concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:san_juan_capistrano concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:san_juan_capistrano concept:agentcontrols concept:musicartist:american 1
+concept:city:san_juan_capistrano concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:alta concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:alta concept:agentcontrols concept:musicartist:american 1
+concept:city:alta concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:mount_holly concept:agentactsinlocation concept:musicartist:american 0.141967
+
+concept:city:mount_holly concept:agentcontrols concept:musicartist:american 1
+concept:city:mount_holly concept:atlocation concept:musicartist:american 0.25
+concept:city:mount_holly concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:dedham concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:dedham concept:agentcontrols concept:musicartist:american 1
+concept:city:dedham concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:street:azusa concept:agentactsinlocation concept:university:national 1
+
+concept:street:azusa concept:agentcontrols concept:university:national 1
+concept:street:azusa concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:peoria concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:peoria concept:agentcontrols concept:musicartist:american 1
+concept:city:peoria concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:mobile concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:mobile concept:agentcontrols concept:musicartist:american 1
+concept:city:mobile concept:atlocation concept:musicartist:american 0.25
+concept:city:mobile concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:street:indian_trail concept:agentactsinlocation concept:musicartist:american 0
+
+concept:street:indian_trail concept:agentcontrols concept:musicartist:american 1
+concept:street:indian_trail concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:duluth concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:duluth concept:agentcontrols concept:musicartist:american 1
+concept:city:duluth concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:broadview concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:broadview concept:agentcontrols concept:musicartist:american 1
+concept:city:broadview concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:visualizablething:brockton concept:agentactsinlocation concept:musicartist:american 0
+
+concept:visualizablething:brockton concept:agentcontrols concept:musicartist:american 1
+concept:visualizablething:brockton concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:eagleville concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:eagleville concept:agentcontrols concept:musicartist:american 1
+concept:city:eagleville concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:collegeville concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:collegeville concept:agentcontrols concept:musicartist:american 1
+concept:city:collegeville concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:monument:smithsonian_institution concept:agentactsinlocation concept:university:national 0
+
+concept:monument:smithsonian_institution concept:agentcontrols concept:university:national 1
+concept:monument:smithsonian_institution concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:avondale_estates concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:avondale_estates concept:agentcontrols concept:musicartist:american 1
+concept:city:avondale_estates concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:brookfield concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:brookfield concept:agentcontrols concept:musicartist:american 1
+concept:city:brookfield concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:airport:santa_ana concept:agentactsinlocation concept:musicartist:american 0
+
+concept:airport:santa_ana concept:agentcontrols concept:musicartist:american 1
+concept:airport:santa_ana concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:creola concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:creola concept:agentcontrols concept:musicartist:american 1
+concept:city:creola concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:carson concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:carson concept:agentcontrols concept:musicartist:american 1
+concept:city:carson concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:whiting concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:whiting concept:agentcontrols concept:musicartist:american 1
+concept:city:whiting concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:pearl_city concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:pearl_city concept:agentcontrols concept:musicartist:american 1
+concept:city:pearl_city concept:atlocation concept:musicartist:american 0.25
+concept:city:pearl_city concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:monument:smithsonian_institute concept:agentactsinlocation concept:university:national 0
+
+concept:monument:smithsonian_institute concept:agentcontrols concept:university:national 1
+concept:monument:smithsonian_institute concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:shoppingmall:memphis concept:agentactsinlocation concept:university:national 0
+
+concept:shoppingmall:memphis concept:agentcontrols concept:university:national 1
+concept:shoppingmall:memphis concept:atlocation concept:university:national 0.75
+---------------------------------
+concept:visualizablething:north_bend concept:agentactsinlocation concept:geopoliticallocation:national 0
+
+concept:visualizablething:north_bend concept:agentcontrols concept:geopoliticallocation:national 1
+concept:visualizablething:north_bend concept:atlocation concept:geopoliticallocation:national 0.25
+---------------------------------
+concept:city:elk_grove_village concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:elk_grove_village concept:agentcontrols concept:musicartist:american 1
+concept:city:elk_grove_village concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:enfield_center concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:enfield_center concept:agentcontrols concept:musicartist:american 1
+concept:city:enfield_center concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:newell concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:newell concept:agentcontrols concept:musicartist:american 1
+concept:city:newell concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:alta_loma concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:alta_loma concept:agentcontrols concept:musicartist:american 1
+concept:city:alta_loma concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:geopoliticallocation:penn concept:agentactsinlocation concept:county:penn_state 0
+
+concept:geopoliticallocation:penn concept:agentcontrols concept:county:penn_state 1
+concept:geopoliticallocation:penn concept:atlocation concept:county:penn_state 0.25
+---------------------------------
+concept:visualizablescene:nz concept:agentactsinlocation concept:university:national 1
+
+concept:visualizablescene:nz concept:agentcontrols concept:university:national 1
+concept:visualizablescene:nz concept:atdate concept:university:national 0.5
+concept:visualizablescene:nz concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:rio_rancho concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:rio_rancho concept:agentcontrols concept:musicartist:american 1
+concept:city:rio_rancho concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:creamery concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:creamery concept:agentcontrols concept:musicartist:american 1
+concept:city:creamery concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:mooringsport concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:mooringsport concept:agentcontrols concept:musicartist:american 1
+concept:city:mooringsport concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:wilmer concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:wilmer concept:agentcontrols concept:musicartist:american 1
+concept:city:wilmer concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:country:orleans concept:agentactsinlocation concept:sportsleague:new 0
+
+concept:country:orleans concept:agentcontrols concept:sportsleague:new 1
+concept:country:orleans concept:atlocation concept:sportsleague:new 0.25
+---------------------------------
+concept:county:orange_county concept:agentactsinlocation concept:musicartist:american 0
+
+concept:county:orange_county concept:agentcontrols concept:musicartist:american 1
+concept:county:orange_county concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:applegate concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:applegate concept:agentcontrols concept:musicartist:american 1
+concept:city:applegate concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:website:april_2006 concept:agentactsinlocation concept:musicartist:american 0
+
+concept:website:april_2006 concept:agentcontrols concept:musicartist:american 1
+concept:website:april_2006 concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:lakewood concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:lakewood concept:agentcontrols concept:musicartist:american 1
+concept:city:lakewood concept:atlocation concept:musicartist:american 0.25
+concept:city:lakewood concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:jerusalem concept:agentactsinlocation concept:musicartist:times 0
+
+concept:city:jerusalem concept:agentcontrols concept:musicartist:times 1
+concept:city:jerusalem concept:atlocation concept:musicartist:times 0.25
+---------------------------------
+concept:planet:order concept:agentactsinlocation concept:university:national 0
+
+concept:planet:order concept:agentcontrols concept:university:national 1
+concept:planet:order concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:blog:la_palma concept:agentactsinlocation concept:musicartist:american 1
+
+concept:blog:la_palma concept:agentcontrols concept:musicartist:american 1
+concept:blog:la_palma concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:leander concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:leander concept:agentcontrols concept:musicartist:american 1
+concept:city:leander concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:evergreen_park concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:evergreen_park concept:agentcontrols concept:musicartist:american 1
+concept:city:evergreen_park concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:adin concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:adin concept:agentcontrols concept:musicartist:american 1
+concept:city:adin concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:comstock_park concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:comstock_park concept:agentcontrols concept:musicartist:american 1
+concept:city:comstock_park concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:azerbaijan concept:agentactsinlocation concept:terroristorganization:state 0
+
+concept:city:azerbaijan concept:agentcontrols concept:terroristorganization:state 1
+concept:city:azerbaijan concept:atlocation concept:terroristorganization:state 0.25
+---------------------------------
+concept:website:pages concept:agentactsinlocation concept:university:national 1
+
+concept:website:pages concept:agentcontrols concept:university:national 1
+concept:website:pages concept:atdate concept:university:national 0.5
+concept:website:pages concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:york concept:agentactsinlocation concept:sportsleague:new 0.141967
+
+concept:city:york concept:agentcontrols concept:sportsleague:new 1
+concept:city:york concept:atlocation concept:sportsleague:new 0.25
+---------------------------------
+concept:city:new_bedford concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:new_bedford concept:agentcontrols concept:musicartist:american 1
+concept:city:new_bedford concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:east_irvine concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:east_irvine concept:agentcontrols concept:musicartist:american 1
+concept:city:east_irvine concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:addison concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:addison concept:agentcontrols concept:musicartist:american 1
+concept:city:addison concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:tripler_army_medical_center concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:tripler_army_medical_center concept:agentcontrols concept:musicartist:american 1
+concept:city:tripler_army_medical_center concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:pineville concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:pineville concept:agentcontrols concept:musicartist:american 1
+concept:city:pineville concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:elm_grove concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:elm_grove concept:agentcontrols concept:musicartist:american 1
+concept:city:elm_grove concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:beaumont concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:beaumont concept:agentcontrols concept:musicartist:american 1
+concept:city:beaumont concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:orlando concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:orlando concept:agentcontrols concept:musicartist:american 1
+concept:city:orlando concept:atlocation concept:musicartist:american 0.25
+concept:city:orlando concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:alpharetta concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:alpharetta concept:agentcontrols concept:musicartist:american 1
+concept:city:alpharetta concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:transportation:santa_barbara concept:agentactsinlocation concept:musicartist:american 0
+
+concept:transportation:santa_barbara concept:agentcontrols concept:musicartist:american 1
+concept:transportation:santa_barbara concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:clarkston concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:clarkston concept:agentcontrols concept:musicartist:american 1
+concept:city:clarkston concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:everett concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:everett concept:agentcontrols concept:musicartist:american 1
+concept:city:everett concept:atlocation concept:musicartist:american 0.75
+concept:city:everett concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:geopoliticallocation:alabama concept:agentactsinlocation concept:musicartist:american 0
+
+concept:geopoliticallocation:alabama concept:agentcontrols concept:musicartist:american 1
+concept:geopoliticallocation:alabama concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:geopoliticalorganization:pasadena concept:agentactsinlocation concept:musicartist:american 1
+
+concept:geopoliticalorganization:pasadena concept:agentbelongstoorganization concept:musicartist:american 1
+concept:geopoliticalorganization:pasadena concept:agentcontrols concept:musicartist:american 1
+concept:geopoliticalorganization:pasadena concept:atlocation concept:musicartist:american 0.25*
+concept:geopoliticalorganization:pasadena concept:proxyfor concept:musicartist:american 1
+concept:geopoliticalorganization:pasadena concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:rancho_santa_margarita concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:rancho_santa_margarita concept:agentcontrols concept:musicartist:american 1
+concept:city:rancho_santa_margarita concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:stadiumoreventvenue:assembly_hall_in concept:agentactsinlocation concept:politicalparty:college 0
+
+concept:stadiumoreventvenue:assembly_hall_in concept:agentcontrols concept:politicalparty:college 1
+concept:stadiumoreventvenue:assembly_hall_in concept:atlocation concept:politicalparty:college 0.25
+---------------------------------
+concept:county:dublin concept:agentactsinlocation concept:company:ryanair001 0
+
+concept:county:dublin concept:agentcontrols concept:company:ryanair001 1
+concept:county:dublin concept:atlocation concept:company:ryanair001 0.25
+---------------------------------
+concept:city:la concept:agentactsinlocation concept:musicartist:times 0
+
+concept:city:la concept:agentcontrols concept:musicartist:times 1
+concept:city:la concept:atlocation concept:musicartist:times 0.25
+---------------------------------
+concept:river:shasta_lake concept:agentactsinlocation concept:musicartist:american 0
+
+concept:river:shasta_lake concept:agentcontrols concept:musicartist:american 1
+concept:river:shasta_lake concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:monument:georgetown concept:agentactsinlocation concept:university:national 1
+
+concept:monument:georgetown concept:agentcontrols concept:university:national 1
+concept:monument:georgetown concept:atlocation concept:university:national 0.75
+---------------------------------
+concept:hotel:alpine concept:agentactsinlocation concept:musicartist:american 2
+
+concept:hotel:alpine concept:agentbelongstoorganization concept:musicartist:american 1
+concept:hotel:alpine concept:agentcontrols concept:musicartist:american 1
+concept:hotel:alpine concept:atlocation concept:musicartist:american 0.25*
+concept:hotel:alpine concept:proxyfor concept:musicartist:american 1
+concept:hotel:alpine concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:visualizablescene:lake_elsinore concept:agentactsinlocation concept:musicartist:american 0
+
+concept:visualizablescene:lake_elsinore concept:agentcontrols concept:musicartist:american 1
+concept:visualizablescene:lake_elsinore concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:blog:la_palma concept:agentactsinlocation concept:university:national 1
+
+concept:blog:la_palma concept:agentcontrols concept:university:national 1
+concept:blog:la_palma concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:north_houston concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:north_houston concept:agentcontrols concept:musicartist:american 1
+concept:city:north_houston concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:trainstation:cypress concept:agentactsinlocation concept:university:national 1
+
+concept:trainstation:cypress concept:agentcontrols concept:university:national 1
+concept:trainstation:cypress concept:atlocation concept:university:national 1
+---------------------------------
+concept:city:san_francisco concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:san_francisco concept:agentcontrols concept:musicartist:american 1
+concept:city:san_francisco concept:agentparticipatedinevent concept:musicartist:american 0.5
+concept:city:san_francisco concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:evanston concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:evanston concept:agentcontrols concept:musicartist:american 1
+concept:city:evanston concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:bedford concept:agentactsinlocation concept:sportsleague:new 0.5
+
+concept:county:bedford concept:agentcontrols concept:sportsleague:new 1
+concept:county:bedford concept:atlocation concept:sportsleague:new 0.25
+---------------------------------
+concept:city:austell concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:austell concept:agentcontrols concept:musicartist:american 1
+concept:city:austell concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:trail:saint_elmo concept:agentactsinlocation concept:university:national 0
+
+concept:trail:saint_elmo concept:agentcontrols concept:university:national 1
+concept:trail:saint_elmo concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:street:spring concept:agentactsinlocation concept:university:national 0
+
+concept:street:spring concept:agentcontrols concept:university:national 1
+concept:street:spring concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:hotel:union concept:agentactsinlocation concept:terroristorganization:state 0
+
+concept:hotel:union concept:agentcontrols concept:terroristorganization:state 1
+concept:hotel:union concept:atlocation concept:terroristorganization:state 0.25
+---------------------------------
+concept:visualizablething:elmhurst concept:agentactsinlocation concept:university:national 2
+
+concept:visualizablething:elmhurst concept:agentcontrols concept:university:national 1
+concept:visualizablething:elmhurst concept:atlocation concept:university:national 1
+---------------------------------
+concept:city:ambler concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:ambler concept:agentcontrols concept:musicartist:american 1
+concept:city:ambler concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:visualizablescene:eldorado_springs concept:agentactsinlocation concept:musicartist:american 0
+
+concept:visualizablescene:eldorado_springs concept:agentcontrols concept:musicartist:american 1
+concept:visualizablescene:eldorado_springs concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:el_segundo concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:el_segundo concept:agentcontrols concept:musicartist:american 1
+concept:city:el_segundo concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:cerritos concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:cerritos concept:agentcontrols concept:musicartist:american 1
+concept:city:cerritos concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:camden concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:camden concept:agentcontrols concept:musicartist:american 1
+concept:city:camden concept:atlocation concept:musicartist:american 0.75
+---------------------------------
+concept:city:south_colby concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:south_colby concept:agentcontrols concept:musicartist:american 1
+concept:city:south_colby concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:landscapefeatures:lakes concept:agentactsinlocation concept:geopoliticallocation:national 0
+
+concept:landscapefeatures:lakes concept:agentcontrols concept:geopoliticallocation:national 1
+concept:landscapefeatures:lakes concept:atlocation concept:geopoliticallocation:national 0.25
+---------------------------------
+concept:city:haddonfield concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:haddonfield concept:agentcontrols concept:musicartist:american 1
+concept:city:haddonfield concept:atlocation concept:musicartist:american 0.25
+concept:city:haddonfield concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:airway_heights concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:airway_heights concept:agentcontrols concept:musicartist:american 1
+concept:city:airway_heights concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:trail:apple_valley concept:agentactsinlocation concept:university:national 1
+
+concept:trail:apple_valley concept:agentcontrols concept:university:national 1
+concept:trail:apple_valley concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:lowell concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:lowell concept:agentcontrols concept:musicartist:american 1
+concept:city:lowell concept:atlocation concept:musicartist:american 0.75
+concept:city:lowell concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:newman_lake concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:newman_lake concept:agentcontrols concept:musicartist:american 1
+concept:city:newman_lake concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:mountain:clarkdale concept:agentactsinlocation concept:musicartist:american 0
+
+concept:mountain:clarkdale concept:agentcontrols concept:musicartist:american 1
+concept:mountain:clarkdale concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:bedford concept:agentactsinlocation concept:musicartist:american 0.5
+
+concept:county:bedford concept:agentcontrols concept:musicartist:american 1
+concept:county:bedford concept:atlocation concept:musicartist:american 0.625
+---------------------------------
+concept:island:dover concept:agentactsinlocation concept:musicartist:american 1
+
+concept:island:dover concept:agentbelongstoorganization concept:musicartist:american 1
+concept:island:dover concept:agentcontrols concept:musicartist:american 1
+concept:island:dover concept:atlocation concept:musicartist:american 0.25*
+concept:island:dover concept:proxyfor concept:musicartist:american 1
+concept:island:dover concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:ballico concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:ballico concept:agentcontrols concept:musicartist:american 1
+concept:city:ballico concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:grand_rapids_kalamazoo_battle_creek concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:grand_rapids_kalamazoo_battle_creek concept:agentcontrols concept:musicartist:american 1
+concept:city:grand_rapids_kalamazoo_battle_creek concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:mountain:altadena concept:agentactsinlocation concept:musicartist:american 1
+
+concept:mountain:altadena concept:agentcontrols concept:musicartist:american 1
+concept:mountain:altadena concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:whiskeytown concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:whiskeytown concept:agentcontrols concept:musicartist:american 1
+concept:city:whiskeytown concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:baton_rouge concept:agentactsinlocation concept:university:national 1
+
+concept:county:baton_rouge concept:agentcontrols concept:university:national 1
+concept:county:baton_rouge concept:atlocation concept:university:national 0.75
+---------------------------------
+concept:city:north_metro concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:north_metro concept:agentcontrols concept:musicartist:american 1
+concept:city:north_metro concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:lithonia concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:lithonia concept:agentcontrols concept:musicartist:american 1
+concept:city:lithonia concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:crum_lynne concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:crum_lynne concept:agentcontrols concept:musicartist:american 1
+concept:city:crum_lynne concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:englewood concept:agentactsinlocation concept:musicartist:american 0.641967
+
+concept:city:englewood concept:agentcontrols concept:musicartist:american 1
+concept:city:englewood concept:atlocation concept:musicartist:american 0.625
+concept:city:englewood concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:museum:benton concept:agentactsinlocation concept:musicartist:american 2
+
+concept:museum:benton concept:agentbelongstoorganization concept:musicartist:american 1
+concept:museum:benton concept:agentcontrols concept:musicartist:american 1
+concept:museum:benton concept:atlocation concept:musicartist:american 0.25*
+concept:museum:benton concept:proxyfor concept:musicartist:american 1
+concept:museum:benton concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:lebanon concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:lebanon concept:agentcontrols concept:musicartist:american 1
+concept:city:lebanon concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:la_habra concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:la_habra concept:agentcontrols concept:musicartist:american 1
+concept:city:la_habra concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:edmonds concept:agentactsinlocation concept:musicartist:american 0.283934
+
+concept:city:edmonds concept:agentcontrols concept:musicartist:american 1
+concept:city:edmonds concept:atlocation concept:musicartist:american 0.75
+concept:city:edmonds concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:stone_mountain concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:stone_mountain concept:agentcontrols concept:musicartist:american 1
+concept:city:stone_mountain concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:baldwin_park concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:baldwin_park concept:agentcontrols concept:musicartist:american 1
+concept:city:baldwin_park concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:beach:fort_worth concept:agentactsinlocation concept:university:national 1
+
+concept:beach:fort_worth concept:agentcontrols concept:university:national 1
+concept:beach:fort_worth concept:atlocation concept:university:national 1
+---------------------------------
+concept:city:banning concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:banning concept:agentcontrols concept:musicartist:american 1
+concept:city:banning concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:airport:jersey concept:agentactsinlocation concept:company:new_york 1
+
+concept:airport:jersey concept:agentbelongstoorganization concept:company:new_york 1
+concept:airport:jersey concept:agentcontrols concept:company:new_york 1
+concept:airport:jersey concept:atlocation concept:company:new_york 0.25*
+concept:airport:jersey concept:competeswith concept:company:new_york 0.5
+concept:airport:jersey concept:proxyfor concept:company:new_york 1
+concept:airport:jersey concept:subpartof concept:company:new_york 1.31746
+---------------------------------
+concept:geopoliticallocation:anderson concept:agentactsinlocation concept:musicartist:american 1
+
+concept:geopoliticallocation:anderson concept:agentbelongstoorganization concept:musicartist:american 1
+concept:geopoliticallocation:anderson concept:agentcontrols concept:musicartist:american 1
+concept:geopoliticallocation:anderson concept:atlocation concept:musicartist:american 0.25*
+concept:geopoliticallocation:anderson concept:proxyfor concept:musicartist:american 1
+concept:geopoliticallocation:anderson concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:buena_park concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:buena_park concept:agentcontrols concept:musicartist:american 1
+concept:city:buena_park concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:beach:massachusetts concept:agentactsinlocation concept:musicartist:american 1.14197
+
+concept:beach:massachusetts concept:agentcontrols concept:musicartist:american 1
+concept:beach:massachusetts concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:museum:fairview concept:agentactsinlocation concept:university:national 0
+
+concept:museum:fairview concept:agentcontrols concept:university:national 1
+concept:museum:fairview concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:mountain:altadena concept:agentactsinlocation concept:university:national 1
+
+concept:mountain:altadena concept:agentcontrols concept:university:national 1
+concept:mountain:altadena concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:chattaroy concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:chattaroy concept:agentcontrols concept:musicartist:american 1
+concept:city:chattaroy concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:museum:wichita concept:agentactsinlocation concept:university:national 2
+
+concept:museum:wichita concept:agentcontrols concept:university:national 1
+concept:museum:wichita concept:atlocation concept:university:national 1
+concept:museum:wichita concept:proxyfor concept:university:national 0.05
+---------------------------------
+concept:hotel:fullerton concept:agentactsinlocation concept:musicartist:american 2
+
+concept:hotel:fullerton concept:agentbelongstoorganization concept:musicartist:american 1
+concept:hotel:fullerton concept:agentcontrols concept:musicartist:american 1
+concept:hotel:fullerton concept:atlocation concept:musicartist:american 0.25*
+concept:hotel:fullerton concept:proxyfor concept:musicartist:american 1
+concept:hotel:fullerton concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:morrisville concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:morrisville concept:agentcontrols concept:musicartist:american 1
+concept:city:morrisville concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:kaaawa concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:kaaawa concept:agentcontrols concept:musicartist:american 1
+concept:city:kaaawa concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:beach:greenville concept:agentactsinlocation concept:sportsteam:east_carolina 0.141967
+
+concept:beach:greenville concept:agentcontrols concept:sportsteam:east_carolina 1
+concept:beach:greenville concept:atlocation concept:sportsteam:east_carolina 0.25
+---------------------------------
+concept:trainstation:fall concept:agentactsinlocation concept:musicartist:american 1
+
+concept:trainstation:fall concept:agentcontrols concept:musicartist:american 1
+concept:trainstation:fall concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:east_orange concept:agentactsinlocation concept:musicartist:american 0.5
+
+concept:city:east_orange concept:agentcontrols concept:musicartist:american 1
+concept:city:east_orange concept:atlocation concept:musicartist:american 0.625
+concept:city:east_orange concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:museum:cedarhurst concept:agentactsinlocation concept:university:national 2
+
+concept:museum:cedarhurst concept:agentcontrols concept:university:national 1
+concept:museum:cedarhurst concept:atlocation concept:university:national 1
+---------------------------------
+concept:city:morrison concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:morrison concept:agentcontrols concept:musicartist:american 1
+concept:city:morrison concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:stateorprovince:ardmore concept:agentactsinlocation concept:university:national 3
+
+concept:stateorprovince:ardmore concept:agentbelongstoorganization concept:university:national 1
+concept:stateorprovince:ardmore concept:agentcontrols concept:university:national 1
+concept:stateorprovince:ardmore concept:atlocation concept:university:national 1*
+concept:stateorprovince:ardmore concept:proxyfor concept:university:national 1.05
+concept:stateorprovince:ardmore concept:subpartof concept:university:national 1
+---------------------------------
+concept:city:bellwood concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bellwood concept:agentcontrols concept:musicartist:american 1
+concept:city:bellwood concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:concordville concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:concordville concept:agentcontrols concept:musicartist:american 1
+concept:city:concordville concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:beverly concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:beverly concept:agentcontrols concept:musicartist:american 1
+concept:city:beverly concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:alamo concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:alamo concept:agentcontrols concept:musicartist:american 1
+concept:city:alamo concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:fort_mill concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:fort_mill concept:agentcontrols concept:musicartist:american 1
+concept:city:fort_mill concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:bangor concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bangor concept:agentcontrols concept:musicartist:american 1
+concept:city:bangor concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:banta concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:banta concept:agentcontrols concept:musicartist:american 1
+concept:city:banta concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:anza concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:anza concept:agentcontrols concept:musicartist:american 1
+concept:city:anza concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:lake_forest concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:lake_forest concept:agentcontrols concept:musicartist:american 1
+concept:city:lake_forest concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:visualizablescene:alviso concept:agentactsinlocation concept:musicartist:american 0
+
+concept:visualizablescene:alviso concept:agentcontrols concept:musicartist:american 1
+concept:visualizablescene:alviso concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:aromas concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:aromas concept:agentcontrols concept:musicartist:american 1
+concept:city:aromas concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:signal_hill concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:signal_hill concept:agentcontrols concept:musicartist:american 1
+concept:city:signal_hill concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:humble concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:humble concept:agentcontrols concept:musicartist:american 1
+concept:city:humble concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:brighton concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:brighton concept:agentcontrols concept:musicartist:american 1
+concept:city:brighton concept:atlocation concept:musicartist:american 0.25
+concept:city:brighton concept:cityliesonriver concept:musicartist:american 0.2
+---------------------------------
+concept:website:october_2007 concept:agentactsinlocation concept:university:national 0
+
+concept:website:october_2007 concept:agentcontrols concept:university:national 1
+concept:website:october_2007 concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:mc_adenville concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:mc_adenville concept:agentcontrols concept:musicartist:american 1
+concept:city:mc_adenville concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:kailua concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:kailua concept:agentcontrols concept:musicartist:american 1
+concept:city:kailua concept:atlocation concept:musicartist:american 0.25
+concept:city:kailua concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:la_puente concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:la_puente concept:agentcontrols concept:musicartist:american 1
+concept:city:la_puente concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:bergenfield concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bergenfield concept:agentcontrols concept:musicartist:american 1
+concept:city:bergenfield concept:atlocation concept:musicartist:american 0.25
+concept:city:bergenfield concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:clarksboro concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:clarksboro concept:agentcontrols concept:musicartist:american 1
+concept:city:clarksboro concept:atlocation concept:musicartist:american 0.25
+concept:city:clarksboro concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:powell concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:powell concept:agentcontrols concept:musicartist:american 1
+concept:city:powell concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:dolton concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:dolton concept:agentcontrols concept:musicartist:american 1
+concept:city:dolton concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:monument:cherry_hill concept:agentactsinlocation concept:university:national 0
+
+concept:monument:cherry_hill concept:agentcontrols concept:university:national 1
+concept:monument:cherry_hill concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:bethesda concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bethesda concept:agentcontrols concept:musicartist:american 1
+concept:city:bethesda concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:palo_cedro concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:palo_cedro concept:agentcontrols concept:musicartist:american 1
+concept:city:palo_cedro concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:huntington_park concept:agentactsinlocation concept:musicartist:american 0.5
+
+concept:city:huntington_park concept:agentcontrols concept:musicartist:american 1
+concept:city:huntington_park concept:atlocation concept:musicartist:american 0.625
+---------------------------------
+concept:landscapefeatures:old concept:agentactsinlocation concept:musicartist:times 0
+
+concept:landscapefeatures:old concept:agentcontrols concept:musicartist:times 1
+concept:landscapefeatures:old concept:atlocation concept:musicartist:times 0.25
+---------------------------------
+concept:city:costa_mesa concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:costa_mesa concept:agentcontrols concept:musicartist:american 1
+concept:city:costa_mesa concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:angelus_oaks concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:angelus_oaks concept:agentcontrols concept:musicartist:american 1
+concept:city:angelus_oaks concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:kittredge concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:kittredge concept:agentcontrols concept:musicartist:american 1
+concept:city:kittredge concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:lomita concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:lomita concept:agentcontrols concept:musicartist:american 1
+concept:city:lomita concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:amboy concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:amboy concept:agentcontrols concept:musicartist:american 1
+concept:city:amboy concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:trail:apple_valley concept:agentactsinlocation concept:musicartist:american 1
+
+concept:trail:apple_valley concept:agentcontrols concept:musicartist:american 1
+concept:trail:apple_valley concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:airport:minneapolis concept:agentactsinlocation concept:musicartist:american 0
+
+concept:airport:minneapolis concept:agentcontrols concept:musicartist:american 1
+concept:airport:minneapolis concept:atlocation concept:musicartist:american 0.25
+concept:airport:minneapolis concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:west_covina concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:west_covina concept:agentcontrols concept:musicartist:american 1
+concept:city:west_covina concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:cheltenham concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:cheltenham concept:agentcontrols concept:musicartist:american 1
+concept:city:cheltenham concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:hotel:westminster concept:agentactsinlocation concept:university:national 1
+
+concept:hotel:westminster concept:agentcontrols concept:university:national 1
+concept:hotel:westminster concept:atlocation concept:university:national 1
+---------------------------------
+concept:city:alderpoint concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:alderpoint concept:agentcontrols concept:musicartist:american 1
+concept:city:alderpoint concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:solana_beach concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:solana_beach concept:agentcontrols concept:musicartist:american 1
+concept:city:solana_beach concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:marseille concept:agentactsinlocation concept:company:ryanair001 0
+
+concept:city:marseille concept:agentcontrols concept:company:ryanair001 1
+concept:city:marseille concept:atlocation concept:company:ryanair001 0.25
+---------------------------------
+concept:city:cheyney concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:cheyney concept:agentcontrols concept:musicartist:american 1
+concept:city:cheyney concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:arvada concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:arvada concept:agentcontrols concept:musicartist:american 1
+concept:city:arvada concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:silverado concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:silverado concept:agentcontrols concept:musicartist:american 1
+concept:city:silverado concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:bensalem concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bensalem concept:agentcontrols concept:musicartist:american 1
+concept:city:bensalem concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:hattiesburg concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:hattiesburg concept:agentcontrols concept:musicartist:american 1
+concept:city:hattiesburg concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:caldwell concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:caldwell concept:agentcontrols concept:musicartist:american 1
+concept:city:caldwell concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:atwater concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:atwater concept:agentcontrols concept:musicartist:american 1
+concept:city:atwater concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:bell concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bell concept:agentcontrols concept:musicartist:american 1
+concept:city:bell concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:stadiumoreventvenue:lexington concept:agentactsinlocation concept:university:national 1
+
+concept:stadiumoreventvenue:lexington concept:agentcontrols concept:university:national 1
+concept:stadiumoreventvenue:lexington concept:atlocation concept:university:national 0.25
+concept:stadiumoreventvenue:lexington concept:proxyfor concept:university:national 0.05
+---------------------------------
+concept:website:march_2005 concept:agentactsinlocation concept:musicartist:american 0
+
+concept:website:march_2005 concept:agentcontrols concept:musicartist:american 1
+concept:website:march_2005 concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:artesia concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:artesia concept:agentcontrols concept:musicartist:american 1
+concept:city:artesia concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:tucson concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:tucson concept:agentcontrols concept:musicartist:american 1
+concept:city:tucson concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:greenwood concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:greenwood concept:agentcontrols concept:musicartist:american 1
+concept:city:greenwood concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:antelope concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:antelope concept:agentcontrols concept:musicartist:american 1
+concept:city:antelope concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:stateorprovince:auburn concept:agentactsinlocation concept:university:national 3
+
+concept:stateorprovince:auburn concept:agentbelongstoorganization concept:university:national 1
+concept:stateorprovince:auburn concept:agentcontrols concept:university:national 1
+concept:stateorprovince:auburn concept:atlocation concept:university:national 1*
+concept:stateorprovince:auburn concept:proxyfor concept:university:national 1.05
+concept:stateorprovince:auburn concept:subpartof concept:university:national 1
+---------------------------------
+concept:geopoliticalorganization:marshall concept:agentactsinlocation concept:musicartist:american 0
+
+concept:geopoliticalorganization:marshall concept:agentcontrols concept:musicartist:american 1
+concept:geopoliticalorganization:marshall concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:aiea concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:aiea concept:agentcontrols concept:musicartist:american 1
+concept:city:aiea concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:alief concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:alief concept:agentcontrols concept:musicartist:american 1
+concept:city:alief concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:san_francisco_last_month concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:san_francisco_last_month concept:agentcontrols concept:musicartist:american 1
+concept:city:san_francisco_last_month concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:stateorprovince:ardmore concept:agentactsinlocation concept:musicartist:american 3
+
+concept:stateorprovince:ardmore concept:agentbelongstoorganization concept:musicartist:american 1
+concept:stateorprovince:ardmore concept:agentcontrols concept:musicartist:american 1
+concept:stateorprovince:ardmore concept:atlocation concept:musicartist:american 1*
+concept:stateorprovince:ardmore concept:proxyfor concept:musicartist:american 1.55
+concept:stateorprovince:ardmore concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:kingston concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:kingston concept:agentcontrols concept:musicartist:american 1
+concept:city:kingston concept:atlocation concept:musicartist:american 0.25
+concept:city:kingston concept:cityliesonriver concept:musicartist:american 0.2
+concept:city:kingston concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:carlisle concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:carlisle concept:agentcontrols concept:musicartist:american 1
+concept:city:carlisle concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:inglewood concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:inglewood concept:agentcontrols concept:musicartist:american 1
+concept:city:inglewood concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:midway_city concept:agentactsinlocation concept:musicartist:american 1
+
+concept:county:midway_city concept:agentcontrols concept:musicartist:american 1
+concept:county:midway_city concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:salt_lake concept:agentactsinlocation concept:musicartist:american 0
+
+concept:county:salt_lake concept:agentcontrols concept:musicartist:american 1
+concept:county:salt_lake concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:albuquerque concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:albuquerque concept:agentcontrols concept:musicartist:american 1
+concept:city:albuquerque concept:atlocation concept:musicartist:american 0.25
+concept:city:albuquerque concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:skiarea:tennessee concept:agentactsinlocation concept:university:national 0
+
+concept:skiarea:tennessee concept:agentcontrols concept:university:national 1
+concept:skiarea:tennessee concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:website:support concept:agentactsinlocation concept:university:national 2
+
+concept:website:support concept:agentcontrols concept:university:national 1
+concept:website:support concept:atdate concept:university:national 0.5
+concept:website:support concept:atlocation concept:university:national 1
+---------------------------------
+concept:city:cedar_park concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:cedar_park concept:agentcontrols concept:musicartist:american 1
+concept:city:cedar_park concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:museum:wilmington concept:agentactsinlocation concept:university:national 0
+
+concept:museum:wilmington concept:agentcontrols concept:university:national 1
+concept:museum:wilmington concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:la_canada_flintridge concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:la_canada_flintridge concept:agentcontrols concept:musicartist:american 1
+concept:city:la_canada_flintridge concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:politicsblog:republic concept:agentactsinlocation concept:terroristorganization:state 0.5
+
+concept:politicsblog:republic concept:agentcontrols concept:terroristorganization:state 1
+concept:politicsblog:republic concept:atlocation concept:terroristorganization:state 0.25
+---------------------------------
+concept:city:eight_mile concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:eight_mile concept:agentcontrols concept:musicartist:american 1
+concept:city:eight_mile concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:laguna_niguel concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:laguna_niguel concept:agentcontrols concept:musicartist:american 1
+concept:city:laguna_niguel concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:missouri_city concept:agentactsinlocation concept:musicartist:american 0
+
+concept:county:missouri_city concept:agentcontrols concept:musicartist:american 1
+concept:county:missouri_city concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:kansas_city concept:agentactsinlocation concept:musicartist:american 0
+
+concept:county:kansas_city concept:agentcontrols concept:musicartist:american 1
+concept:county:kansas_city concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:drexel_hill concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:drexel_hill concept:agentcontrols concept:musicartist:american 1
+concept:city:drexel_hill concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:agent:elizabeth concept:agentactsinlocation concept:musicartist:american 0
+
+concept:agent:elizabeth concept:agentcontrols concept:musicartist:american 1
+concept:agent:elizabeth concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:ellenwood concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:ellenwood concept:agentcontrols concept:musicartist:american 1
+concept:city:ellenwood concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:barker concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:barker concept:agentcontrols concept:musicartist:american 1
+concept:city:barker concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:blanchard concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:blanchard concept:agentcontrols concept:musicartist:american 1
+concept:city:blanchard concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:new_york concept:agentactsinlocation concept:geopoliticallocation:delta 0.641967
+
+concept:city:new_york concept:agentcontrols concept:geopoliticallocation:delta 1
+concept:city:new_york concept:atlocation concept:geopoliticallocation:delta 0.25
+---------------------------------
+concept:city:elmwood_park concept:agentactsinlocation concept:musicartist:american 0.141967
+
+concept:city:elmwood_park concept:agentcontrols concept:musicartist:american 1
+concept:city:elmwood_park concept:atlocation concept:musicartist:american 0.25
+concept:city:elmwood_park concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:retailstore:albertson concept:agentactsinlocation concept:musicartist:american 1
+
+concept:retailstore:albertson concept:agentcontrols concept:musicartist:american 1
+concept:retailstore:albertson concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:trainstation:corona concept:agentactsinlocation concept:university:national 2
+
+concept:trainstation:corona concept:agentcontrols concept:university:national 1
+concept:trainstation:corona concept:atlocation concept:university:national 1
+---------------------------------
+concept:city:portsmouth concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:portsmouth concept:agentcontrols concept:musicartist:american 1
+concept:city:portsmouth concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:redan concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:redan concept:agentcontrols concept:musicartist:american 1
+concept:city:redan concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:forest_park concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:forest_park concept:agentcontrols concept:musicartist:american 1
+concept:city:forest_park concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:bloomfield concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bloomfield concept:agentcontrols concept:musicartist:american 1
+concept:city:bloomfield concept:atlocation concept:musicartist:american 0.25
+concept:city:bloomfield concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:visualizablescene:fort_collins concept:agentactsinlocation concept:university:colorado_state 0
+
+concept:visualizablescene:fort_collins concept:agentcontrols concept:university:colorado_state 1
+concept:visualizablescene:fort_collins concept:atlocation concept:university:colorado_state 0.25
+---------------------------------
+concept:city:dresher concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:dresher concept:agentcontrols concept:musicartist:american 1
+concept:city:dresher concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:darien concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:darien concept:agentcontrols concept:musicartist:american 1
+concept:city:darien concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:hotel:harvey concept:agentactsinlocation concept:university:national 1
+
+concept:hotel:harvey concept:agentcontrols concept:university:national 1
+concept:hotel:harvey concept:atlocation concept:university:national 1
+---------------------------------
+concept:city:placitas concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:placitas concept:agentcontrols concept:musicartist:american 1
+concept:city:placitas concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:lincoln_acres concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:lincoln_acres concept:agentcontrols concept:musicartist:american 1
+concept:city:lincoln_acres concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:street:alameda concept:agentactsinlocation concept:university:national 1
+
+concept:street:alameda concept:agentcontrols concept:university:national 1
+concept:street:alameda concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:hawthorne concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:hawthorne concept:agentcontrols concept:musicartist:american 1
+concept:city:hawthorne concept:atlocation concept:musicartist:american 0.25
+concept:city:hawthorne concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:visualizablething:burbank concept:agentactsinlocation concept:musicartist:american 0
+
+concept:visualizablething:burbank concept:agentcontrols concept:musicartist:american 1
+concept:visualizablething:burbank concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:avenel concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:avenel concept:agentcontrols concept:musicartist:american 1
+concept:city:avenel concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:bossier_city concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bossier_city concept:agentcontrols concept:musicartist:american 1
+concept:city:bossier_city concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:scottdale concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:scottdale concept:agentcontrols concept:musicartist:american 1
+concept:city:scottdale concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:pearl_harbor concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:pearl_harbor concept:agentcontrols concept:musicartist:american 1
+concept:city:pearl_harbor concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:providence concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:providence concept:agentcontrols concept:musicartist:american 1
+concept:city:providence concept:atlocation concept:musicartist:american 0.25
+concept:city:providence concept:cityliesonriver concept:musicartist:american 0.2
+concept:city:providence concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:auburndale concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:auburndale concept:agentcontrols concept:musicartist:american 1
+concept:city:auburndale concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:luttrell concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:luttrell concept:agentcontrols concept:musicartist:american 1
+concept:city:luttrell concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:alhambra concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:alhambra concept:agentcontrols concept:musicartist:american 1
+concept:city:alhambra concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:fountain_valley concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:fountain_valley concept:agentcontrols concept:musicartist:american 1
+concept:city:fountain_valley concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:website:concord concept:agentactsinlocation concept:musicartist:american 1
+
+concept:website:concord concept:agentcontrols concept:musicartist:american 1
+concept:website:concord concept:atlocation concept:musicartist:american 0.25
+concept:website:concord concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:airport:juneau concept:agentactsinlocation concept:musicartist:american 0
+
+concept:airport:juneau concept:agentcontrols concept:musicartist:american 1
+concept:airport:juneau concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:keithville concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:keithville concept:agentcontrols concept:musicartist:american 1
+concept:city:keithville concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:geopoliticallocation:el_toro concept:agentactsinlocation concept:musicartist:american 0
+
+concept:geopoliticallocation:el_toro concept:agentcontrols concept:musicartist:american 1
+concept:geopoliticallocation:el_toro concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:politicsblog:raleigh concept:agentactsinlocation concept:university:national 1
+
+concept:politicsblog:raleigh concept:agentcontrols concept:university:national 1
+concept:politicsblog:raleigh concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:company:pakistan concept:agentactsinlocation concept:university:national 0
+
+concept:company:pakistan concept:agentcontrols concept:university:national 1
+concept:company:pakistan concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:poway concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:poway concept:agentcontrols concept:musicartist:american 1
+concept:city:poway concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:chester_heights concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:chester_heights concept:agentcontrols concept:musicartist:american 1
+concept:city:chester_heights concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:cleveland concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:cleveland concept:agentcontrols concept:musicartist:american 1
+concept:city:cleveland concept:atlocation concept:musicartist:american 0.25
+concept:city:cleveland concept:cityliesonriver concept:musicartist:american 0.2
+---------------------------------
+concept:stadiumoreventvenue:giants_stadium concept:agentactsinlocation concept:sportsleague:nhl 0
+
+concept:stadiumoreventvenue:giants_stadium concept:agentcontrols concept:sportsleague:nhl 1
+concept:stadiumoreventvenue:giants_stadium concept:atlocation concept:sportsleague:nhl 0.25
+concept:stadiumoreventvenue:giants_stadium concept:subpartoforganization concept:sportsleague:nhl 0.109162
+---------------------------------
+concept:highway:gardena concept:agentactsinlocation concept:musicartist:american 1
+
+concept:highway:gardena concept:agentbelongstoorganization concept:musicartist:american 1
+concept:highway:gardena concept:agentcontrols concept:musicartist:american 1
+concept:highway:gardena concept:atlocation concept:musicartist:american 0.25*
+concept:highway:gardena concept:proxyfor concept:musicartist:american 1
+concept:highway:gardena concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:red_oak concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:red_oak concept:agentcontrols concept:musicartist:american 1
+concept:city:red_oak concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:wahiawa concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:wahiawa concept:agentcontrols concept:musicartist:american 1
+concept:city:wahiawa concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:charlotte concept:agentactsinlocation concept:musicartist:american 2
+
+concept:city:charlotte concept:agentcontrols concept:musicartist:american 1
+concept:city:charlotte concept:atdate concept:musicartist:american 0.5
+concept:city:charlotte concept:atlocation concept:musicartist:american 0.25
+concept:city:charlotte concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:mc_neil concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:mc_neil concept:agentcontrols concept:musicartist:american 1
+concept:city:mc_neil concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:annapolis concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:annapolis concept:agentcontrols concept:musicartist:american 1
+concept:city:annapolis concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:avon concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:avon concept:agentcontrols concept:musicartist:american 1
+concept:city:avon concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:claremont concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:claremont concept:agentcontrols concept:musicartist:american 1
+concept:city:claremont concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:hotel:pullman concept:agentactsinlocation concept:university:washington_state 0.5
+
+concept:hotel:pullman concept:agentcontrols concept:university:washington_state 1
+concept:hotel:pullman concept:atlocation concept:university:washington_state 0.25
+---------------------------------
+concept:city:colbert concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:colbert concept:agentcontrols concept:musicartist:american 1
+concept:city:colbert concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:chester concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:chester concept:agentcontrols concept:musicartist:american 1
+concept:city:chester concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:bala_cynwyd concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:bala_cynwyd concept:agentcontrols concept:musicartist:american 1
+concept:city:bala_cynwyd concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:shreveport concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:shreveport concept:agentcontrols concept:musicartist:american 1
+concept:city:shreveport concept:atlocation concept:musicartist:american 0.75
+concept:city:shreveport concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:bell_gardens concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:bell_gardens concept:agentcontrols concept:musicartist:american 1
+concept:city:bell_gardens concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:alexis concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:alexis concept:agentcontrols concept:musicartist:american 1
+concept:city:alexis concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:la_mirada concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:la_mirada concept:agentcontrols concept:musicartist:american 1
+concept:city:la_mirada concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:visualizablescene:cedar_grove concept:agentactsinlocation concept:musicartist:american 0.141967
+
+concept:visualizablescene:cedar_grove concept:agentcontrols concept:musicartist:american 1
+concept:visualizablescene:cedar_grove concept:atlocation concept:musicartist:american 0.25
+concept:visualizablescene:cedar_grove concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:county:derby concept:agentactsinlocation concept:musicartist:american 0
+
+concept:county:derby concept:agentcontrols concept:musicartist:american 1
+concept:county:derby concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:island:cedars concept:agentactsinlocation concept:musicartist:american 0
+
+concept:island:cedars concept:agentcontrols concept:musicartist:american 1
+concept:island:cedars concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:rochester concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:rochester concept:agentcontrols concept:musicartist:american 1
+concept:city:rochester concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:cornelius concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:cornelius concept:agentcontrols concept:musicartist:american 1
+concept:city:cornelius concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:laguna_woods concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:laguna_woods concept:agentcontrols concept:musicartist:american 1
+concept:city:laguna_woods concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:laguna_beach concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:laguna_beach concept:agentcontrols concept:musicartist:american 1
+concept:city:laguna_beach concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:amador_city concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:amador_city concept:agentcontrols concept:musicartist:american 1
+concept:city:amador_city concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:los_angeles_county concept:agentactsinlocation concept:musicartist:times 2
+
+concept:county:los_angeles_county concept:agentcontrols concept:musicartist:times 1
+concept:county:los_angeles_county concept:atlocation concept:musicartist:times 0.25
+---------------------------------
+concept:city:idledale concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:idledale concept:agentcontrols concept:musicartist:american 1
+concept:city:idledale concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:geopoliticallocation:colorado concept:agentactsinlocation concept:university:national 1
+
+concept:geopoliticallocation:colorado concept:agentcontrols concept:university:national 1
+concept:geopoliticallocation:colorado concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:website:concord concept:agentactsinlocation concept:university:national 1
+
+concept:website:concord concept:agentcontrols concept:university:national 1
+concept:website:concord concept:atlocation concept:university:national 0.25
+concept:website:concord concept:proxyfor concept:university:national 0.05
+---------------------------------
+concept:politicsblog:portland concept:agentactsinlocation concept:university:national 1
+
+concept:politicsblog:portland concept:agentcontrols concept:university:national 1
+concept:politicsblog:portland concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:ladera_ranch concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:ladera_ranch concept:agentcontrols concept:musicartist:american 1
+concept:city:ladera_ranch concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:shoppingmall:schofield_barracks concept:agentactsinlocation concept:musicartist:american 0
+
+concept:shoppingmall:schofield_barracks concept:agentcontrols concept:musicartist:american 1
+concept:shoppingmall:schofield_barracks concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:zoo:theodore concept:agentactsinlocation concept:university:national 1
+
+concept:zoo:theodore concept:agentcontrols concept:university:national 1
+concept:zoo:theodore concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:l_a_ concept:agentactsinlocation concept:musicartist:times 0
+
+concept:city:l_a_ concept:agentcompeteswithagent concept:musicartist:times 0.5
+concept:city:l_a_ concept:agentcontrols concept:musicartist:times 1
+concept:city:l_a_ concept:atlocation concept:musicartist:times 0.25
+---------------------------------
+concept:geopoliticallocation:devon concept:agentactsinlocation concept:university:national 1
+
+concept:geopoliticallocation:devon concept:agentcontrols concept:university:national 1
+concept:geopoliticallocation:devon concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:skiarea:lithia_springs concept:agentactsinlocation concept:musicartist:american 1
+
+concept:skiarea:lithia_springs concept:agentbelongstoorganization concept:musicartist:american 1
+concept:skiarea:lithia_springs concept:agentcontrols concept:musicartist:american 1
+concept:skiarea:lithia_springs concept:atlocation concept:musicartist:american 0.25*
+concept:skiarea:lithia_springs concept:proxyfor concept:musicartist:american 1
+concept:skiarea:lithia_springs concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:bayonne concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bayonne concept:agentcontrols concept:musicartist:american 1
+concept:city:bayonne concept:atlocation concept:musicartist:american 0.25
+concept:city:bayonne concept:cityliesonriver concept:musicartist:american 0.2
+concept:city:bayonne concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:website:louisville concept:agentactsinlocation concept:university:national 1
+
+concept:website:louisville concept:agentcontrols concept:university:national 1
+concept:website:louisville concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:attraction:lakeside concept:agentactsinlocation concept:musicartist:american 1
+
+concept:attraction:lakeside concept:agentbelongstoorganization concept:musicartist:american 1
+concept:attraction:lakeside concept:agentcontrols concept:musicartist:american 1
+concept:attraction:lakeside concept:atlocation concept:musicartist:american 0.25*
+concept:attraction:lakeside concept:proxyfor concept:musicartist:american 1
+concept:attraction:lakeside concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:st_louis concept:agentactsinlocation concept:musicartist:american 2
+
+concept:city:st_louis concept:agentcontrols concept:musicartist:american 1
+concept:city:st_louis concept:agentparticipatedinevent concept:musicartist:american 0.5
+concept:city:st_louis concept:atdate concept:musicartist:american 0.5
+concept:city:st_louis concept:atlocation concept:musicartist:american 0.25
+concept:city:st_louis concept:cityliesonriver concept:musicartist:american 0.2
+concept:city:st_louis concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:hotel:alpine concept:agentactsinlocation concept:university:national 2
+
+concept:hotel:alpine concept:agentcontrols concept:university:national 1
+concept:hotel:alpine concept:atlocation concept:university:national 1
+---------------------------------
+concept:city:north_las_vegas concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:north_las_vegas concept:agentcontrols concept:musicartist:american 1
+concept:city:north_las_vegas concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:washington_d_c concept:agentactsinlocation concept:university:washington_state 0.641967
+
+concept:city:washington_d_c concept:agentcontrols concept:university:washington_state 1
+concept:city:washington_d_c concept:atdate concept:university:washington_state 0.25
+concept:city:washington_d_c concept:atlocation concept:university:washington_state 0.25
+---------------------------------
+concept:website:bethseda concept:agentactsinlocation concept:university:national 0
+
+concept:website:bethseda concept:agentcontrols concept:university:national 1
+concept:website:bethseda concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:diamond_bar concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:diamond_bar concept:agentcontrols concept:musicartist:american 1
+concept:city:diamond_bar concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:visualizablething:sugar_land concept:agentactsinlocation concept:geopoliticallocation:national 1
+
+concept:visualizablething:sugar_land concept:agentcontrols concept:geopoliticallocation:national 1
+concept:visualizablething:sugar_land concept:atlocation concept:geopoliticallocation:national 0.25
+---------------------------------
+concept:trainstation:studies concept:agentactsinlocation concept:university:national 0.141967
+
+concept:trainstation:studies concept:agentcontrols concept:university:national 1
+concept:trainstation:studies concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:bryn_mawr concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bryn_mawr concept:agentcontrols concept:musicartist:american 1
+concept:city:bryn_mawr concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:hammond concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:hammond concept:agentcontrols concept:musicartist:american 1
+concept:city:hammond concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:river:bridgeport concept:agentactsinlocation concept:musicartist:american 0
+
+concept:river:bridgeport concept:agentcontrols concept:musicartist:american 1
+concept:river:bridgeport concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:cedar_rapids concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:cedar_rapids concept:agentcontrols concept:musicartist:american 1
+concept:city:cedar_rapids concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:roanoke concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:roanoke concept:agentcontrols concept:musicartist:american 1
+concept:city:roanoke concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:cincinnati concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:cincinnati concept:agentcontrols concept:musicartist:american 1
+concept:city:cincinnati concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:wheeler_army_airfield concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:wheeler_army_airfield concept:agentcontrols concept:musicartist:american 1
+concept:city:wheeler_army_airfield concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:museum:benton concept:agentactsinlocation concept:university:national 2
+
+concept:museum:benton concept:agentcontrols concept:university:national 1
+concept:museum:benton concept:atlocation concept:university:national 1
+---------------------------------
+concept:city:bonita concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bonita concept:agentcontrols concept:musicartist:american 1
+concept:city:bonita concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:white_river_junction concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:white_river_junction concept:agentcontrols concept:musicartist:american 1
+concept:city:white_river_junction concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:brooklyn concept:agentactsinlocation concept:university:national 0.141967
+
+concept:county:brooklyn concept:agentcontrols concept:university:national 1
+concept:county:brooklyn concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:stateorprovince:kapolei concept:agentactsinlocation concept:musicartist:american 0
+
+concept:stateorprovince:kapolei concept:agentcontrols concept:musicartist:american 1
+concept:stateorprovince:kapolei concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:building:anaheim concept:agentactsinlocation concept:musicartist:american 2
+
+concept:building:anaheim concept:agentbelongstoorganization concept:musicartist:american 1
+concept:building:anaheim concept:agentcontrols concept:musicartist:american 1
+concept:building:anaheim concept:atlocation concept:musicartist:american 0.25*
+concept:building:anaheim concept:proxyfor concept:musicartist:american 1
+concept:building:anaheim concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:monument:georgetown concept:agentactsinlocation concept:musicartist:american 1
+
+concept:monument:georgetown concept:agentcontrols concept:musicartist:american 1
+concept:monument:georgetown concept:atlocation concept:musicartist:american 0.75
+---------------------------------
+concept:city:washington_d_c concept:agentactsinlocation concept:city:herald 1.64197
+
+concept:city:washington_d_c concept:agentbelongstoorganization concept:city:herald 1
+concept:city:washington_d_c concept:agentcompeteswithagent concept:city:herald 0.5
+concept:city:washington_d_c concept:agentcontrols concept:city:herald 1
+concept:city:washington_d_c concept:atdate concept:city:herald 0.5
+concept:city:washington_d_c concept:atlocation concept:city:herald 1.125*
+concept:city:washington_d_c concept:cityliesonriver concept:city:herald 0.2
+concept:city:washington_d_c concept:proxyfor concept:city:herald 1.05
+concept:city:washington_d_c concept:subpartof concept:city:herald 1
+---------------------------------
+concept:city:westminster concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:westminster concept:agentcontrols concept:musicartist:american 1
+concept:city:westminster concept:atlocation concept:musicartist:american 0.25
+concept:city:westminster concept:cityliesonriver concept:musicartist:american 0.2
+---------------------------------
+concept:city:friendsville concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:friendsville concept:agentcontrols concept:musicartist:american 1
+concept:city:friendsville concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:babson_park concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:babson_park concept:agentcontrols concept:musicartist:american 1
+concept:city:babson_park concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:stadiumoreventvenue:bank_united_center concept:agentactsinlocation concept:politicalparty:college 0
+
+concept:stadiumoreventvenue:bank_united_center concept:agentcontrols concept:politicalparty:college 1
+concept:stadiumoreventvenue:bank_united_center concept:atlocation concept:politicalparty:college 0.25
+---------------------------------
+concept:city:chino concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:chino concept:agentcontrols concept:musicartist:american 1
+concept:city:chino concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:hope concept:agentactsinlocation concept:sportsleague:new 0.141967
+
+concept:city:hope concept:agentcontrols concept:sportsleague:new 1
+concept:city:hope concept:atlocation concept:sportsleague:new 0.25
+---------------------------------
+concept:city:bosque_farms concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bosque_farms concept:agentcontrols concept:musicartist:american 1
+concept:city:bosque_farms concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:clayton concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:clayton concept:agentcontrols concept:musicartist:american 1
+concept:city:clayton concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:visualizablething:march_2006 concept:agentactsinlocation concept:musicartist:american 0
+
+concept:visualizablething:march_2006 concept:agentcontrols concept:musicartist:american 1
+concept:visualizablething:march_2006 concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:braintree concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:braintree concept:agentcontrols concept:musicartist:american 1
+concept:city:braintree concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:stateorprovince:afternoon concept:agentactsinlocation concept:university:national 1
+
+concept:stateorprovince:afternoon concept:agentcontrols concept:university:national 1
+concept:stateorprovince:afternoon concept:atdate concept:university:national 0.5
+concept:stateorprovince:afternoon concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:huntington_beach concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:huntington_beach concept:agentcontrols concept:musicartist:american 1
+concept:city:huntington_beach concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:brookline_village concept:agentactsinlocation concept:musicartist:american 1
+
+concept:county:brookline_village concept:agentcontrols concept:musicartist:american 1
+concept:county:brookline_village concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:delhi concept:agentactsinlocation concept:sportsleague:new 0
+
+concept:city:delhi concept:agentcontrols concept:sportsleague:new 1
+concept:city:delhi concept:atlocation concept:sportsleague:new 0.25
+---------------------------------
+concept:city:huntersville concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:huntersville concept:agentcontrols concept:musicartist:american 1
+concept:city:huntersville concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:caledonia concept:agentactsinlocation concept:sportsleague:new 0
+
+concept:city:caledonia concept:agentcontrols concept:sportsleague:new 1
+concept:city:caledonia concept:atlocation concept:sportsleague:new 0.25
+---------------------------------
+concept:city:milwaukee concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:milwaukee concept:agentcontrols concept:musicartist:american 1
+concept:city:milwaukee concept:agentparticipatedinevent concept:musicartist:american 0.5
+concept:city:milwaukee concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:cicero concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:cicero concept:agentcontrols concept:musicartist:american 1
+concept:city:cicero concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:trabuco_canyon concept:agentactsinlocation concept:musicartist:american 0
+
+concept:county:trabuco_canyon concept:agentcontrols concept:musicartist:american 1
+concept:county:trabuco_canyon concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:highway:the_new concept:agentactsinlocation concept:musicartist:times 0.141967
+
+concept:highway:the_new concept:agentcontrols concept:musicartist:times 1
+concept:highway:the_new concept:atlocation concept:musicartist:times 0.25
+---------------------------------
+concept:city:arcadia concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:arcadia concept:agentcontrols concept:musicartist:american 1
+concept:city:arcadia concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:los_alamitos concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:los_alamitos concept:agentcontrols concept:musicartist:american 1
+concept:city:los_alamitos concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:davidson concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:davidson concept:agentcontrols concept:musicartist:american 1
+concept:city:davidson concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:brookline_village concept:agentactsinlocation concept:geopoliticallocation:national 1
+
+concept:county:brookline_village concept:agentcontrols concept:geopoliticallocation:national 1
+concept:county:brookline_village concept:atlocation concept:geopoliticallocation:national 0.25
+---------------------------------
+concept:county:marion concept:agentactsinlocation concept:musicartist:american 0
+
+concept:county:marion concept:agentcontrols concept:musicartist:american 1
+concept:county:marion concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:conshohocken concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:conshohocken concept:agentcontrols concept:musicartist:american 1
+concept:city:conshohocken concept:atlocation concept:musicartist:american 0.25
+concept:city:conshohocken concept:cityliesonriver concept:musicartist:american 0.2
+---------------------------------
+concept:city:ames concept:agentactsinlocation concept:sportsteam:ncaa_mens_midwest_regionals 0
+
+concept:city:ames concept:agentcontrols concept:sportsteam:ncaa_mens_midwest_regionals 1
+concept:city:ames concept:atlocation concept:sportsteam:ncaa_mens_midwest_regionals 0.25
+---------------------------------
+concept:county:florence concept:agentactsinlocation concept:musicartist:american 0
+
+concept:county:florence concept:agentcontrols concept:musicartist:american 1
+concept:county:florence concept:atlocation concept:musicartist:american 0.25
+concept:county:florence concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:cramerton concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:cramerton concept:agentcontrols concept:musicartist:american 1
+concept:city:cramerton concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:irvine concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:irvine concept:agentcontrols concept:musicartist:american 1
+concept:city:irvine concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:street:alameda concept:agentactsinlocation concept:musicartist:american 1
+
+concept:street:alameda concept:agentcontrols concept:musicartist:american 1
+concept:street:alameda concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:skiarea:galena concept:agentactsinlocation concept:university:national 0
+
+concept:skiarea:galena concept:agentcontrols concept:university:national 1
+concept:skiarea:galena concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:washington_d_c concept:agentactsinlocation concept:musicartist:american 1.64197
+
+concept:city:washington_d_c concept:agentcontrols concept:musicartist:american 1
+concept:city:washington_d_c concept:atdate concept:musicartist:american 0.5
+concept:city:washington_d_c concept:atlocation concept:musicartist:american 1.125
+concept:city:washington_d_c concept:cityliesonriver concept:musicartist:american 0.2
+concept:city:washington_d_c concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:paw_creek concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:paw_creek concept:agentcontrols concept:musicartist:american 1
+concept:city:paw_creek concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:beach:alpaugh concept:agentactsinlocation concept:university:national 2
+
+concept:beach:alpaugh concept:agentcontrols concept:university:national 1
+concept:beach:alpaugh concept:atlocation concept:university:national 1
+---------------------------------
+concept:geopoliticallocation:albion concept:agentactsinlocation concept:musicartist:american 0
+
+concept:geopoliticallocation:albion concept:agentcontrols concept:musicartist:american 1
+concept:geopoliticallocation:albion concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:trail:henderson concept:agentactsinlocation concept:university:national 0
+
+concept:trail:henderson concept:agentcontrols concept:university:national 1
+concept:trail:henderson concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:mountain:guasti concept:agentactsinlocation concept:university:national 1
+
+concept:mountain:guasti concept:agentcontrols concept:university:national 1
+concept:mountain:guasti concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:newport_beach concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:newport_beach concept:agentcontrols concept:musicartist:american 1
+concept:city:newport_beach concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:stadiumoreventvenue:lexington concept:agentactsinlocation concept:musicartist:american 1
+
+concept:stadiumoreventvenue:lexington concept:agentcontrols concept:musicartist:american 1
+concept:stadiumoreventvenue:lexington concept:atlocation concept:musicartist:american 0.25
+concept:stadiumoreventvenue:lexington concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:barrington concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:barrington concept:agentcontrols concept:musicartist:american 1
+concept:city:barrington concept:atlocation concept:musicartist:american 0.25
+concept:city:barrington concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:valleyford concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:valleyford concept:agentcontrols concept:musicartist:american 1
+concept:city:valleyford concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:colmar concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:colmar concept:agentcontrols concept:musicartist:american 1
+concept:city:colmar concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:creighton concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:creighton concept:agentcontrols concept:musicartist:american 1
+concept:city:creighton concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:skiarea:french_gulch concept:agentactsinlocation concept:musicartist:american 2
+
+concept:skiarea:french_gulch concept:agentbelongstoorganization concept:musicartist:american 1
+concept:skiarea:french_gulch concept:agentcontrols concept:musicartist:american 1
+concept:skiarea:french_gulch concept:atlocation concept:musicartist:american 0.25*
+concept:skiarea:french_gulch concept:proxyfor concept:musicartist:american 1
+concept:skiarea:french_gulch concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:visualizablething:alturas concept:agentactsinlocation concept:musicartist:american 0
+
+concept:visualizablething:alturas concept:agentcontrols concept:musicartist:american 1
+concept:visualizablething:alturas concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:foothill_ranch concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:foothill_ranch concept:agentcontrols concept:musicartist:american 1
+concept:city:foothill_ranch concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:trainstation:lynwood concept:agentactsinlocation concept:university:national 0
+
+concept:trainstation:lynwood concept:agentcontrols concept:university:national 1
+concept:trainstation:lynwood concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:aliso_viejo concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:aliso_viejo concept:agentcontrols concept:musicartist:american 1
+concept:city:aliso_viejo concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:museum:wichita concept:agentactsinlocation concept:musicartist:american 2
+
+concept:museum:wichita concept:agentbelongstoorganization concept:musicartist:american 1
+concept:museum:wichita concept:agentcontrols concept:musicartist:american 1
+concept:museum:wichita concept:atlocation concept:musicartist:american 0.25*
+concept:museum:wichita concept:proxyfor concept:musicartist:american 1.55
+concept:museum:wichita concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:river:montrose concept:agentactsinlocation concept:musicartist:american 0
+
+concept:river:montrose concept:agentcontrols concept:musicartist:american 1
+concept:river:montrose concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:bridge:ford concept:agentactsinlocation concept:university:national 2
+
+concept:bridge:ford concept:agentcontrols concept:university:national 1
+concept:bridge:ford concept:atlocation concept:university:national 1
+---------------------------------
+concept:visualizablescene:union_city concept:agentactsinlocation concept:musicartist:american 0
+
+concept:visualizablescene:union_city concept:agentcontrols concept:musicartist:american 1
+concept:visualizablescene:union_city concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:fort_collins_loveland concept:agentactsinlocation concept:sportsteam:colorado_state 0
+
+concept:city:fort_collins_loveland concept:agentcontrols concept:sportsteam:colorado_state 1
+concept:city:fort_collins_loveland concept:atlocation concept:sportsteam:colorado_state 0.25
+---------------------------------
+concept:city:mascot concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:mascot concept:agentcontrols concept:musicartist:american 1
+concept:city:mascot concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:houston concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:houston concept:agentcontrols concept:musicartist:american 1
+concept:city:houston concept:atlocation concept:musicartist:american 0.25
+concept:city:houston concept:cityliesonriver concept:musicartist:american 0.2
+---------------------------------
+concept:county:dublin concept:agentactsinlocation concept:musicartist:american 1
+
+concept:county:dublin concept:agentbelongstoorganization concept:musicartist:american 1
+concept:county:dublin concept:agentcontrols concept:musicartist:american 1
+concept:county:dublin concept:atlocation concept:musicartist:american 0.25*
+concept:county:dublin concept:proxyfor concept:musicartist:american 1
+concept:county:dublin concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:country:king concept:agentactsinlocation concept:musicartist:american 0
+
+concept:country:king concept:agentcontrols concept:musicartist:american 1
+concept:country:king concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:highway:yorba_linda concept:agentactsinlocation concept:musicartist:american 1
+
+concept:highway:yorba_linda concept:agentbelongstoorganization concept:musicartist:american 1
+concept:highway:yorba_linda concept:agentcontrols concept:musicartist:american 1
+concept:highway:yorba_linda concept:atlocation concept:musicartist:american 0.25*
+concept:highway:yorba_linda concept:proxyfor concept:musicartist:american 1
+concept:highway:yorba_linda concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:room:development concept:agentactsinlocation concept:university:national 1
+
+concept:room:development concept:agentcontrols concept:university:national 1
+concept:room:development concept:atlocation concept:university:national 1
+---------------------------------
+concept:city:capistrano_beach concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:capistrano_beach concept:agentcontrols concept:musicartist:american 1
+concept:city:capistrano_beach concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:bellaire concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bellaire concept:agentcontrols concept:musicartist:american 1
+concept:city:bellaire concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:room:cary concept:agentactsinlocation concept:university:national 0.141967
+
+concept:room:cary concept:agentcontrols concept:university:national 1
+concept:room:cary concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:clifton concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:clifton concept:agentcontrols concept:musicartist:american 1
+concept:city:clifton concept:atlocation concept:musicartist:american 0.25
+concept:city:clifton concept:cityliesonriver concept:musicartist:american 0.2
+concept:city:clifton concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:haughton concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:haughton concept:agentcontrols concept:musicartist:american 1
+concept:city:haughton concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:tucker concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:tucker concept:agentcontrols concept:musicartist:american 1
+concept:city:tucker concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:morrow concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:morrow concept:agentcontrols concept:musicartist:american 1
+concept:city:morrow concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:shoppingmall:ardsley concept:agentactsinlocation concept:university:national 0
+
+concept:shoppingmall:ardsley concept:agentcontrols concept:university:national 1
+concept:shoppingmall:ardsley concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:pflugerville concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:pflugerville concept:agentcontrols concept:musicartist:american 1
+concept:city:pflugerville concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:east_rockaway concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:east_rockaway concept:agentcontrols concept:musicartist:american 1
+concept:city:east_rockaway concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:santee concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:santee concept:agentcontrols concept:musicartist:american 1
+concept:city:santee concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:littleton concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:littleton concept:agentcontrols concept:musicartist:american 1
+concept:city:littleton concept:atlocation concept:musicartist:american 0.25
+concept:city:littleton concept:cityliesonriver concept:musicartist:american 0.2
+---------------------------------
+concept:city:mica concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:mica concept:agentcontrols concept:musicartist:american 1
+concept:city:mica concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:hospital:elkins_park concept:agentactsinlocation concept:university:national 0
+
+concept:hospital:elkins_park concept:agentcontrols concept:university:national 1
+concept:hospital:elkins_park concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:lemon_grove concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:lemon_grove concept:agentcontrols concept:musicartist:american 1
+concept:city:lemon_grove concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:adelanto concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:adelanto concept:agentcontrols concept:musicartist:american 1
+concept:city:adelanto concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:port:iberia concept:agentactsinlocation concept:sportsleague:new 0
+
+concept:port:iberia concept:agentcontrols concept:sportsleague:new 1
+concept:port:iberia concept:atlocation concept:sportsleague:new 0.25
+---------------------------------
+concept:highway:the_new concept:agentactsinlocation concept:city:new_york 0.141967
+
+concept:highway:the_new concept:agentcontrols concept:city:new_york 1.5
+concept:highway:the_new concept:atdate concept:city:new_york 0.0161079
+concept:highway:the_new concept:atlocation concept:city:new_york 0.375
+concept:highway:the_new concept:hasofficeincountry concept:city:new_york 0.5
+concept:highway:the_new concept:lakeinstate concept:city:new_york 0.5
+concept:highway:the_new concept:locationlocatedwithinlocation concept:city:new_york 1.125
+concept:highway:the_new concept:mutualproxyfor concept:city:new_york 1
+---------------------------------
+concept:city:long_beach concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:long_beach concept:agentcontrols concept:musicartist:american 1
+concept:city:long_beach concept:atlocation concept:musicartist:american 0.25
+concept:city:long_beach concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:denver concept:agentactsinlocation concept:musicartist:american 3
+
+concept:city:denver concept:agentcontrols concept:musicartist:american 1
+concept:city:denver concept:atdate concept:musicartist:american 0.5
+concept:city:denver concept:atlocation concept:musicartist:american 0.25
+concept:city:denver concept:cityliesonriver concept:musicartist:american 0.2
+concept:city:denver concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:mountain:preston concept:agentactsinlocation concept:university:national 0
+
+concept:mountain:preston concept:agentcontrols concept:university:national 1
+concept:mountain:preston concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:atwood concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:atwood concept:agentcontrols concept:musicartist:american 1
+concept:city:atwood concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:museum:smithsonian concept:agentactsinlocation concept:university:national 0
+
+concept:museum:smithsonian concept:agentcontrols concept:university:national 1
+concept:museum:smithsonian concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:geopoliticallocation:golden concept:agentactsinlocation concept:university:national 0
+
+concept:geopoliticallocation:golden concept:agentcontrols concept:university:national 1
+concept:geopoliticallocation:golden concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:veradale concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:veradale concept:agentcontrols concept:musicartist:american 1
+concept:city:veradale concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:fox_valley concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:fox_valley concept:agentcontrols concept:musicartist:american 1
+concept:city:fox_valley concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:broomall concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:broomall concept:agentcontrols concept:musicartist:american 1
+concept:city:broomall concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:bensenville concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bensenville concept:agentcontrols concept:musicartist:american 1
+concept:city:bensenville concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:beach:bethesda_maryland concept:agentactsinlocation concept:university:national 0
+
+concept:beach:bethesda_maryland concept:agentcontrols concept:university:national 1
+concept:beach:bethesda_maryland concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:hutto concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:hutto concept:agentcontrols concept:musicartist:american 1
+concept:city:hutto concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:island:meridian concept:agentactsinlocation concept:musicartist:american 0
+
+concept:island:meridian concept:agentcontrols concept:musicartist:american 1
+concept:island:meridian concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:clifton_heights concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:clifton_heights concept:agentcontrols concept:musicartist:american 1
+concept:city:clifton_heights concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:san_ysidro concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:san_ysidro concept:agentcontrols concept:musicartist:american 1
+concept:city:san_ysidro concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:macon concept:agentactsinlocation concept:musicartist:american 0
+
+concept:county:macon concept:agentcontrols concept:musicartist:american 1
+concept:county:macon concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:visualizablescene:pine_lake concept:agentactsinlocation concept:musicartist:american 0
+
+concept:visualizablescene:pine_lake concept:agentcontrols concept:musicartist:american 1
+concept:visualizablescene:pine_lake concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:company:stanley concept:agentactsinlocation concept:musicartist:american 0
+
+concept:company:stanley concept:agentcontrols concept:musicartist:american 1
+concept:company:stanley concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:mililani concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:mililani concept:agentcontrols concept:musicartist:american 1
+concept:city:mililani concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:la_crescenta concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:la_crescenta concept:agentcontrols concept:musicartist:american 1
+concept:city:la_crescenta concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:skyscraper:autzen_stadium concept:agentactsinlocation concept:personmexico:ncaa 0
+
+concept:skyscraper:autzen_stadium concept:agentcontrols concept:personmexico:ncaa 1
+concept:skyscraper:autzen_stadium concept:atlocation concept:personmexico:ncaa 0.25
+---------------------------------
+concept:mountain:mount_wilson concept:agentactsinlocation concept:university:national 0
+
+concept:mountain:mount_wilson concept:agentcontrols concept:university:national 1
+concept:mountain:mount_wilson concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:county:lafayette concept:agentactsinlocation concept:university:national 1
+
+concept:county:lafayette concept:agentcontrols concept:university:national 1
+concept:county:lafayette concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:harper_woods concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:harper_woods concept:agentcontrols concept:musicartist:american 1
+concept:city:harper_woods concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:alma concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:alma concept:agentcontrols concept:musicartist:american 1
+concept:city:alma concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:planet:harvest concept:agentactsinlocation concept:university:national 0
+
+concept:planet:harvest concept:agentcontrols concept:university:national 1
+concept:planet:harvest concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:chino_hills concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:chino_hills concept:agentcontrols concept:musicartist:american 1
+concept:city:chino_hills concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:manchaca concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:manchaca concept:agentcontrols concept:musicartist:american 1
+concept:city:manchaca concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:channelview concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:channelview concept:agentcontrols concept:musicartist:american 1
+concept:city:channelview concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:kaneohe concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:kaneohe concept:agentcontrols concept:musicartist:american 1
+concept:city:kaneohe concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:website:november_2005 concept:agentactsinlocation concept:musicartist:american 0
+
+concept:website:november_2005 concept:agentcontrols concept:musicartist:american 1
+concept:website:november_2005 concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:transportation:belleville concept:agentactsinlocation concept:musicartist:american 0
+
+concept:transportation:belleville concept:agentcontrols concept:musicartist:american 1
+concept:transportation:belleville concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:baker concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:baker concept:agentcontrols concept:musicartist:american 1
+concept:city:baker concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:stockbridge concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:stockbridge concept:agentcontrols concept:musicartist:american 1
+concept:city:stockbridge concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:brookline concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:brookline concept:agentcontrols concept:musicartist:american 1
+concept:city:brookline concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:chestnut_hill concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:chestnut_hill concept:agentcontrols concept:musicartist:american 1
+concept:city:chestnut_hill concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:stonewall concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:stonewall concept:agentcontrols concept:musicartist:american 1
+concept:city:stonewall concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:zoo:tiger_stadium concept:agentactsinlocation concept:personmexico:ncaa 0
+
+concept:zoo:tiger_stadium concept:agentcontrols concept:personmexico:ncaa 1
+concept:zoo:tiger_stadium concept:atlocation concept:personmexico:ncaa 0.25
+---------------------------------
+concept:city:chalfont concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:chalfont concept:agentcontrols concept:musicartist:american 1
+concept:city:chalfont concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:attraction:colorado_springs concept:agentactsinlocation concept:musicartist:american 0
+
+concept:attraction:colorado_springs concept:agentcontrols concept:musicartist:american 1
+concept:attraction:colorado_springs concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:shoppingmall:montebello concept:agentactsinlocation concept:musicartist:american 1
+
+concept:shoppingmall:montebello concept:agentcontrols concept:musicartist:american 1
+concept:shoppingmall:montebello concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:cohasset concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:cohasset concept:agentcontrols concept:musicartist:american 1
+concept:city:cohasset concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:geopoliticalorganization:franconia concept:agentactsinlocation concept:geopoliticallocation:national 0
+
+concept:geopoliticalorganization:franconia concept:agentcontrols concept:geopoliticallocation:national 1
+concept:geopoliticalorganization:franconia concept:atlocation concept:geopoliticallocation:national 0.25
+---------------------------------
+concept:museum:versailles concept:agentactsinlocation concept:university:national 0
+
+concept:museum:versailles concept:agentcontrols concept:university:national 1
+concept:museum:versailles concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:south_houston concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:south_houston concept:agentcontrols concept:musicartist:american 1
+concept:city:south_houston concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:retailstore:rex concept:agentactsinlocation concept:musicartist:american 0
+
+concept:retailstore:rex concept:agentcontrols concept:musicartist:american 1
+concept:retailstore:rex concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:island:haven concept:agentactsinlocation concept:sportsleague:new 0
+
+concept:island:haven concept:agentcontrols concept:sportsleague:new 1
+concept:island:haven concept:atlocation concept:sportsleague:new 0.25
+---------------------------------
+concept:city:newport_coast concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:newport_coast concept:agentcontrols concept:musicartist:american 1
+concept:city:newport_coast concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:des_plaines concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:des_plaines concept:agentcontrols concept:musicartist:american 1
+concept:city:des_plaines concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:visualizablescene:manchester_airports concept:agentactsinlocation concept:company:ryanair001 0
+
+concept:visualizablescene:manchester_airports concept:agentcontrols concept:company:ryanair001 1
+concept:visualizablescene:manchester_airports concept:atlocation concept:company:ryanair001 0.25
+---------------------------------
+concept:city:poulsbo concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:poulsbo concept:agentcontrols concept:musicartist:american 1
+concept:city:poulsbo concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:ewa_beach concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:ewa_beach concept:agentcontrols concept:musicartist:american 1
+concept:city:ewa_beach concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:leesville concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:leesville concept:agentcontrols concept:musicartist:american 1
+concept:city:leesville concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:lilburn concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:lilburn concept:agentcontrols concept:musicartist:american 1
+concept:city:lilburn concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:geopoliticallocation:ball concept:agentactsinlocation concept:university:ball_state 0
+
+concept:geopoliticallocation:ball concept:agentcontrols concept:university:ball_state 1
+concept:geopoliticallocation:ball concept:atlocation concept:university:ball_state 0.25
+---------------------------------
+concept:city:abington concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:abington concept:agentcontrols concept:musicartist:american 1
+concept:city:abington concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:museum:site concept:agentactsinlocation concept:university:national 0
+
+concept:museum:site concept:agentcontrols concept:university:national 1
+concept:museum:site concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:logan concept:agentactsinlocation concept:university:utah_state 0
+
+concept:city:logan concept:agentcontrols concept:university:utah_state 1
+concept:city:logan concept:atlocation concept:university:utah_state 0.25
+---------------------------------
+concept:city:villa_park concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:villa_park concept:agentcontrols concept:musicartist:american 1
+concept:city:villa_park concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:framingham concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:framingham concept:agentcontrols concept:musicartist:american 1
+concept:city:framingham concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:artois concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:artois concept:agentcontrols concept:musicartist:american 1
+concept:city:artois concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:alsip concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:alsip concept:agentcontrols concept:musicartist:american 1
+concept:city:alsip concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:blue_bell concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:blue_bell concept:agentcontrols concept:musicartist:american 1
+concept:city:blue_bell concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:arcola concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:arcola concept:agentcontrols concept:musicartist:american 1
+concept:city:arcola concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:commerce_city concept:agentactsinlocation concept:musicartist:american 0
+
+concept:county:commerce_city concept:agentcontrols concept:musicartist:american 1
+concept:county:commerce_city concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:waimanalo concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:waimanalo concept:agentcontrols concept:musicartist:american 1
+concept:city:waimanalo concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:trainstation:berkley concept:agentactsinlocation concept:university:national 0
+
+concept:trainstation:berkley concept:agentcontrols concept:university:national 1
+concept:trainstation:berkley concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:clarendon_hills concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:clarendon_hills concept:agentcontrols concept:musicartist:american 1
+concept:city:clarendon_hills concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:website:report concept:agentactsinlocation concept:university:national 0
+
+concept:website:report concept:agentcontrols concept:university:national 1
+concept:website:report concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:arlington_heights concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:arlington_heights concept:agentcontrols concept:musicartist:american 1
+concept:city:arlington_heights concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:aston concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:aston concept:agentcontrols concept:musicartist:american 1
+concept:city:aston concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:denver concept:agentactsinlocation concept:musicartist:times 2
+
+concept:city:denver concept:agentcompeteswithagent concept:musicartist:times 0.5
+concept:city:denver concept:agentcontrols concept:musicartist:times 1
+concept:city:denver concept:atlocation concept:musicartist:times 0.25
+---------------------------------
+concept:stateorprovince:metairie concept:agentactsinlocation concept:university:national 1
+
+concept:stateorprovince:metairie concept:agentbelongstoorganization concept:university:national 1
+concept:stateorprovince:metairie concept:agentcontrols concept:university:national 1
+concept:stateorprovince:metairie concept:atlocation concept:university:national 0.25*
+concept:stateorprovince:metairie concept:proxyfor concept:university:national 1.05
+concept:stateorprovince:metairie concept:subpartof concept:university:national 1
+---------------------------------
+concept:room:fresno concept:agentactsinlocation concept:university:national 1
+
+concept:room:fresno concept:agentcontrols concept:university:national 1
+concept:room:fresno concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:museum:franklin concept:agentactsinlocation concept:university:national 0
+
+concept:museum:franklin concept:agentcontrols concept:university:national 1
+concept:museum:franklin concept:atlocation concept:university:national 0.25
+concept:museum:franklin concept:proxyfor concept:university:national 0.05
+---------------------------------
+concept:city:newark concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:newark concept:agentcontrols concept:musicartist:american 1
+concept:city:newark concept:atlocation concept:musicartist:american 0.75
+concept:city:newark concept:cityliesonriver concept:musicartist:american 0.2
+concept:city:newark concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:geopoliticallocation:colorado concept:agentactsinlocation concept:musicartist:american 1
+
+concept:geopoliticallocation:colorado concept:agentcontrols concept:musicartist:american 1
+concept:geopoliticallocation:colorado concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:visualizablescene:demarest concept:agentactsinlocation concept:musicartist:american 0
+
+concept:visualizablescene:demarest concept:agentcontrols concept:musicartist:american 1
+concept:visualizablescene:demarest concept:atlocation concept:musicartist:american 0.25
+concept:visualizablescene:demarest concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:gastonia concept:agentactsinlocation concept:musicartist:american 0.141967
+
+concept:city:gastonia concept:agentcontrols concept:musicartist:american 1
+concept:city:gastonia concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:indianapolis concept:agentactsinlocation concept:musicartist:american 1.14197
+
+concept:city:indianapolis concept:agentcontrols concept:musicartist:american 1
+concept:city:indianapolis concept:atlocation concept:musicartist:american 0.25
+concept:city:indianapolis concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:clementon concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:clementon concept:agentcontrols concept:musicartist:american 1
+concept:city:clementon concept:atlocation concept:musicartist:american 0.25
+concept:city:clementon concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:retailstore:burlington concept:agentactsinlocation concept:university:national 2.14197
+
+concept:retailstore:burlington concept:agentcontrols concept:university:national 1
+concept:retailstore:burlington concept:atlocation concept:university:national 1.5
+concept:retailstore:burlington concept:proxyfor concept:university:national 0.05
+---------------------------------
+concept:stateorprovince:auburn concept:agentactsinlocation concept:musicartist:american 3
+
+concept:stateorprovince:auburn concept:agentbelongstoorganization concept:musicartist:american 1
+concept:stateorprovince:auburn concept:agentcontrols concept:musicartist:american 1
+concept:stateorprovince:auburn concept:atlocation concept:musicartist:american 1*
+concept:stateorprovince:auburn concept:proxyfor concept:musicartist:american 1.55
+concept:stateorprovince:auburn concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:trainstation:covina concept:agentactsinlocation concept:university:national 2
+
+concept:trainstation:covina concept:agentcontrols concept:university:national 1
+concept:trainstation:covina concept:atlocation concept:university:national 1
+---------------------------------
+concept:city:irvington concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:irvington concept:agentcontrols concept:musicartist:american 1
+concept:city:irvington concept:atlocation concept:musicartist:american 0.25
+concept:city:irvington concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:clinton concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:clinton concept:agentcontrols concept:musicartist:american 1
+concept:city:clinton concept:agentparticipatedinevent concept:musicartist:american 0.5
+concept:city:clinton concept:atlocation concept:musicartist:american 0.25
+concept:city:clinton concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:street:azusa concept:agentactsinlocation concept:musicartist:american 1
+
+concept:street:azusa concept:agentcontrols concept:musicartist:american 1
+concept:street:azusa concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:county:lafayette concept:agentactsinlocation concept:musicartist:american 1
+
+concept:county:lafayette concept:agentcontrols concept:musicartist:american 1
+concept:county:lafayette concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:retailstore:albertson concept:agentactsinlocation concept:university:national 1
+
+concept:retailstore:albertson concept:agentcontrols concept:university:national 1
+concept:retailstore:albertson concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:cranford concept:agentactsinlocation concept:musicartist:american 0.141967
+
+concept:city:cranford concept:agentcontrols concept:musicartist:american 1
+concept:city:cranford concept:atlocation concept:musicartist:american 0.25
+concept:city:cranford concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:geopoliticallocation:grand_junction concept:agentactsinlocation concept:musicartist:american 2
+
+concept:geopoliticallocation:grand_junction concept:agentcontrols concept:musicartist:american 1
+concept:geopoliticallocation:grand_junction concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:company:national_city concept:agentactsinlocation concept:musicartist:american 2
+
+concept:company:national_city concept:agentbelongstoorganization concept:musicartist:american 1
+concept:company:national_city concept:agentcontrols concept:musicartist:american 1
+concept:company:national_city concept:atlocation concept:musicartist:american 0.25*
+concept:company:national_city concept:proxyfor concept:musicartist:american 1
+concept:company:national_city concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:phoenix concept:agentactsinlocation concept:musicartist:american 2
+
+concept:city:phoenix concept:agentcontrols concept:musicartist:american 1
+concept:city:phoenix concept:atdate concept:musicartist:american 0.5
+concept:city:phoenix concept:atlocation concept:musicartist:american 0.25
+concept:city:phoenix concept:cityliesonriver concept:musicartist:american 0.2
+concept:city:phoenix concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:building:nation concept:agentactsinlocation concept:university:national 0
+
+concept:building:nation concept:agentcontrols concept:university:national 1
+concept:building:nation concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:city:pocatello concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:pocatello concept:agentcontrols concept:musicartist:american 1
+concept:city:pocatello concept:atlocation concept:musicartist:american 0.25
+concept:city:pocatello concept:cityliesonriver concept:musicartist:american 0.2
+---------------------------------
+concept:county:baton_rouge concept:agentactsinlocation concept:musicartist:american 1
+
+concept:county:baton_rouge concept:agentcontrols concept:musicartist:american 1
+concept:county:baton_rouge concept:atlocation concept:musicartist:american 0.75
+---------------------------------
+concept:trainstation:brookhaven concept:agentactsinlocation concept:university:national 1
+
+concept:trainstation:brookhaven concept:agentcontrols concept:university:national 1
+concept:trainstation:brookhaven concept:atlocation concept:university:national 0.25
+concept:trainstation:brookhaven concept:proxyfor concept:university:national 0.05
+---------------------------------
+concept:blog:harrisburg concept:agentactsinlocation concept:university:national 1
+
+concept:blog:harrisburg concept:agentcontrols concept:university:national 1
+concept:blog:harrisburg concept:atlocation concept:university:national 0.25
+concept:blog:harrisburg concept:proxyfor concept:university:national 0.05
+---------------------------------
+concept:retailstore:burlington concept:agentactsinlocation concept:musicartist:american 2.64197
+
+concept:retailstore:burlington concept:agentbelongstoorganization concept:musicartist:american 1
+concept:retailstore:burlington concept:agentcontrols concept:musicartist:american 1
+concept:retailstore:burlington concept:atlocation concept:musicartist:american 1.125*
+concept:retailstore:burlington concept:proxyfor concept:musicartist:american 1.55
+concept:retailstore:burlington concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:bridge:ford concept:agentactsinlocation concept:musicartist:american 2
+
+concept:bridge:ford concept:agentbelongstoorganization concept:musicartist:american 1
+concept:bridge:ford concept:agentcontrols concept:musicartist:american 1
+concept:bridge:ford concept:atlocation concept:musicartist:american 0.25*
+concept:bridge:ford concept:proxyfor concept:musicartist:american 1
+concept:bridge:ford concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:visualizablething:spokane concept:agentactsinlocation concept:musicartist:american 0
+
+concept:visualizablething:spokane concept:agentcontrols concept:musicartist:american 1
+concept:visualizablething:spokane concept:atlocation concept:musicartist:american 0.75
+---------------------------------
+concept:beach:alpaugh concept:agentactsinlocation concept:musicartist:american 2
+
+concept:beach:alpaugh concept:agentbelongstoorganization concept:musicartist:american 1
+concept:beach:alpaugh concept:agentcontrols concept:musicartist:american 1
+concept:beach:alpaugh concept:atlocation concept:musicartist:american 0.25*
+concept:beach:alpaugh concept:proxyfor concept:musicartist:american 1
+concept:beach:alpaugh concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:mountain:guasti concept:agentactsinlocation concept:musicartist:american 1
+
+concept:mountain:guasti concept:agentcontrols concept:musicartist:american 1
+concept:mountain:guasti concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:norwich concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:norwich concept:agentcontrols concept:musicartist:american 1
+concept:city:norwich concept:atlocation concept:musicartist:american 0.25
+concept:city:norwich concept:cityliesonriver concept:musicartist:american 0.2
+---------------------------------
+concept:planet:aurora concept:agentactsinlocation concept:university:national 2
+
+concept:planet:aurora concept:agentcontrols concept:university:national 1
+concept:planet:aurora concept:atlocation concept:university:national 1
+---------------------------------
+concept:politicsblog:raleigh concept:agentactsinlocation concept:musicartist:american 1
+
+concept:politicsblog:raleigh concept:agentcontrols concept:musicartist:american 1
+concept:politicsblog:raleigh concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:washington_d_c concept:agentactsinlocation concept:male:sun 0.641967
+
+concept:city:washington_d_c concept:agentbelongstoorganization concept:male:sun 1
+concept:city:washington_d_c concept:agentcompeteswithagent concept:male:sun 1.5
+concept:city:washington_d_c concept:agentcontrols concept:male:sun 2
+concept:city:washington_d_c concept:atlocation concept:male:sun 0.25
+concept:city:washington_d_c concept:organizationheadquarteredincity concept:male:sun 1
+concept:city:washington_d_c concept:organizationterminatedperson concept:male:sun 0.5
+concept:city:washington_d_c concept:politicianrepresentslocation concept:male:sun 0.5
+concept:city:washington_d_c concept:subpartof concept:male:sun 0.25
+concept:city:washington_d_c concept:subpartoforganization concept:male:sun 1
+---------------------------------
+concept:geopoliticallocation:maryland concept:agentactsinlocation concept:musicartist:american 1
+
+concept:geopoliticallocation:maryland concept:agentcontrols concept:musicartist:american 1
+concept:geopoliticallocation:maryland concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:city:washington_dc concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:washington_dc concept:agentcontrols concept:musicartist:american 1
+concept:city:washington_dc concept:atlocation concept:musicartist:american 0.75
+concept:city:washington_dc concept:cityliesonriver concept:musicartist:american 0.2
+---------------------------------
+concept:stadiumoreventvenue:jack_trice_stadium concept:agentactsinlocation concept:sportsteam:ncaa_mens_midwest_regionals 0
+
+concept:stadiumoreventvenue:jack_trice_stadium concept:agentcontrols concept:sportsteam:ncaa_mens_midwest_regionals 1
+concept:stadiumoreventvenue:jack_trice_stadium concept:atlocation concept:sportsteam:ncaa_mens_midwest_regionals 0.25
+concept:stadiumoreventvenue:jack_trice_stadium concept:subpartoforganization concept:sportsteam:ncaa_mens_midwest_regionals 0.109162
+---------------------------------
+concept:politicsblog:portland concept:agentactsinlocation concept:musicartist:american 1
+
+concept:politicsblog:portland concept:agentcontrols concept:musicartist:american 1
+concept:politicsblog:portland concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:museum:cedarhurst concept:agentactsinlocation concept:musicartist:american 2
+
+concept:museum:cedarhurst concept:agentbelongstoorganization concept:musicartist:american 1
+concept:museum:cedarhurst concept:agentcontrols concept:musicartist:american 1
+concept:museum:cedarhurst concept:atlocation concept:musicartist:american 0.25*
+concept:museum:cedarhurst concept:proxyfor concept:musicartist:american 1
+concept:museum:cedarhurst concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:riverdale concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:riverdale concept:agentcontrols concept:musicartist:american 1
+concept:city:riverdale concept:atlocation concept:musicartist:american 0.25
+concept:city:riverdale concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:room:kent concept:agentactsinlocation concept:university:kent_state 0.141967
+
+concept:room:kent concept:agentcontrols concept:university:kent_state 1
+concept:room:kent concept:atlocation concept:university:kent_state 0.25
+---------------------------------
+concept:city:collingswood concept:agentactsinlocation concept:musicartist:american 0.141967
+
+concept:city:collingswood concept:agentcontrols concept:musicartist:american 1
+concept:city:collingswood concept:atlocation concept:musicartist:american 0.25
+concept:city:collingswood concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:building:anaheim concept:agentactsinlocation concept:university:national 2
+
+concept:building:anaheim concept:agentcontrols concept:university:national 1
+concept:building:anaheim concept:atlocation concept:university:national 1
+---------------------------------
+concept:shoppingmall:montebello concept:agentactsinlocation concept:university:national 1
+
+concept:shoppingmall:montebello concept:agentcontrols concept:university:national 1
+concept:shoppingmall:montebello concept:atlocation concept:university:national 0.25
+---------------------------------
+concept:planet:aurora concept:agentactsinlocation concept:musicartist:american 2
+
+concept:planet:aurora concept:agentbelongstoorganization concept:musicartist:american 1
+concept:planet:aurora concept:agentcontrols concept:musicartist:american 1
+concept:planet:aurora concept:atlocation concept:musicartist:american 0.25*
+concept:planet:aurora concept:proxyfor concept:musicartist:american 1
+concept:planet:aurora concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:attraction:beverly_hills concept:agentactsinlocation concept:musicartist:american 1
+
+concept:attraction:beverly_hills concept:agentbelongstoorganization concept:musicartist:american 1
+concept:attraction:beverly_hills concept:agentcontrols concept:musicartist:american 1
+concept:attraction:beverly_hills concept:atlocation concept:musicartist:american 0.25*
+concept:attraction:beverly_hills concept:proxyfor concept:musicartist:american 1
+concept:attraction:beverly_hills concept:subpartof concept:musicartist:american 1
+---------------------------------
+concept:city:knoxville concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:knoxville concept:agentcontrols concept:musicartist:american 1
+concept:city:knoxville concept:atlocation concept:musicartist:american 0.25
+concept:city:knoxville concept:cityliesonriver concept:musicartist:american 0.2
+---------------------------------
+concept:highway:the_new concept:agentactsinlocation concept:company:new_york 0.141967
+
+concept:highway:the_new concept:agentcompeteswithagent concept:company:new_york 0.5
+concept:highway:the_new concept:agentcontrols concept:company:new_york 1.5
+concept:highway:the_new concept:atdate concept:company:new_york 0.0161079
+concept:highway:the_new concept:atlocation concept:company:new_york 1.875
+concept:highway:the_new concept:citylocatedingeopoliticallocation concept:company:new_york 1
+concept:highway:the_new concept:citylocatedinstate concept:company:new_york 1
+concept:highway:the_new concept:competeswith concept:company:new_york 0.5
+concept:highway:the_new concept:hasofficeincountry concept:company:new_york 0.5
+concept:highway:the_new concept:lakeinstate concept:company:new_york 0.5
+concept:highway:the_new concept:locationlocatedwithinlocation concept:company:new_york 1
+concept:highway:the_new concept:mutualproxyfor concept:company:new_york 2*
+concept:highway:the_new concept:personleadsgeopoliticalorganization concept:company:new_york 1
+concept:highway:the_new concept:politicianrepresentslocation concept:company:new_york 0.5
+concept:highway:the_new concept:proxyfor concept:company:new_york 1
+concept:highway:the_new concept:subpartof concept:company:new_york 1.5
+---------------------------------
+concept:city:bellmawr concept:agentactsinlocation concept:musicartist:american 0
+
+concept:city:bellmawr concept:agentcontrols concept:musicartist:american 1
+concept:city:bellmawr concept:atlocation concept:musicartist:american 0.25
+concept:city:bellmawr concept:proxyfor concept:musicartist:american 0.55
+---------------------------------
+concept:city:palm_springs concept:agentactsinlocation concept:musicartist:american 1
+
+concept:city:palm_springs concept:agentcontrols concept:musicartist:american 1
+concept:city:palm_springs concept:atlocation concept:musicartist:american 0.25
+---------------------------------
+concept:hotel:salisbury concept:agentactsinlocation concept:university:national 2
+
+concept:hotel:salisbury concept:agentcontrols concept:university:national 1
+concept:hotel:salisbury concept:atlocation concept:university:national 1
+concept:hotel:salisbury concept:proxyfor concept:university:national 0.05
+---------------------------------
+concept:hotel:fullerton concept:agentactsinlocation concept:university:national 2
+
+concept:hotel:fullerton concept:agentcontrols concept:university:national 1
+concept:hotel:fullerton concept:atlocation concept:university:national 1
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.289644 0.18123 0.171521 0.289644
+HITS@3: 0.909385 0.325243 0.313916 0.325243
+HITS@10: 0.998382 0.339806 0.339806 0.339806
+MRR: 0.520377 0.266037 0.259855 0.316043
+MR: 2.52913 26.6699 26.8172 50.5243
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.289644 0.160194 0.171521 0.289644
+HITS@3: 0.909385 0.323625 0.313916 0.325243
+HITS@10: 0.998382 0.339806 0.339806 0.339806
+MRR: 0.520384 0.255411 0.259863 0.316051
+MR: 2.52751 26.6618 26.8155 50.5227
+relation_mr_mrr_1_3_10_n_rf 16572.00000000000000000 160.59521192548950808 106.00000000000000000 194.00000000000000000 210.00000000000000000 618 211

@@ -1,0 +1,3 @@
+1	/people/ethnicity/languages_spoken(A,E) <= /people/ethnicity/people(A,B), /people/person/profession(B,C), /people/person/profession(D,C), /people/person/languages(D,E)
+1	/people/ethnicity/languages_spoken(A,E) <= /people/ethnicity/people(A,B), /people/person/nationality(B,C), /film/film/release_date_s./film/film_regional_release_date/film_release_region(D,C), /film/film/language(D,E)
+1	/people/ethnicity/languages_spoken(A,E) <= /people/ethnicity/people(A,B), /people/person/languages(B,C), /film/film/language(D,C), /film/film/language(D,E)

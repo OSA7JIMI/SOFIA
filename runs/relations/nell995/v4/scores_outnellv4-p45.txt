@@ -1,0 +1,165 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:organizationterminatedperson
+---------------------------------
+concept:coach:tony_dicicco concept:organizationterminatedperson concept:nongovorganization:u_s_ 1
+
+concept:coach:tony_dicicco concept:organizationhiredperson concept:nongovorganization:u_s_ 1*
+---------------------------------
+concept:politician:jobs concept:organizationterminatedperson concept:company:apple 1
+
+concept:politician:jobs concept:agentcollaborateswithagent concept:company:apple 0.5
+concept:politician:jobs concept:agentcontrols concept:company:apple 1
+concept:politician:jobs concept:agentparticipatedinevent concept:company:apple 0.5
+concept:politician:jobs concept:atlocation concept:company:apple 1
+concept:politician:jobs concept:citylocatedingeopoliticallocation concept:company:apple 1
+concept:politician:jobs concept:citylocatedinstate concept:company:apple 1
+concept:politician:jobs concept:locationlocatedwithinlocation concept:company:apple 1
+concept:politician:jobs concept:mutualproxyfor concept:company:apple 1*
+concept:politician:jobs concept:organizationhiredperson concept:company:apple 1
+concept:politician:jobs concept:personleadsgeopoliticalorganization concept:company:apple 1
+concept:politician:jobs concept:proxyfor concept:company:apple 1.5
+concept:politician:jobs concept:subpartof concept:company:apple 1.5
+---------------------------------
+concept:scientist:no_ concept:organizationterminatedperson concept:university:ohio 0
+
+concept:scientist:no_ concept:organizationhiredperson concept:university:ohio 1
+---------------------------------
+concept:person:ty_willingham concept:organizationterminatedperson concept:city:washington_d_c 1
+
+concept:person:ty_willingham concept:agentcollaborateswithagent concept:city:washington_d_c 1
+concept:person:ty_willingham concept:agentcompeteswithagent concept:city:washington_d_c 0.0595295
+concept:person:ty_willingham concept:organizationhiredperson concept:city:washington_d_c 2*
+---------------------------------
+concept:person:juan_carlos_osorio concept:organizationterminatedperson concept:company:new_york 0
+
+concept:person:juan_carlos_osorio concept:agentcompeteswithagent concept:company:new_york 0.0595295
+concept:person:juan_carlos_osorio concept:organizationhiredperson concept:company:new_york 1
+---------------------------------
+concept:coach:greg_ryan concept:organizationterminatedperson concept:nongovorganization:u_s_ 1
+
+concept:coach:greg_ryan concept:organizationhiredperson concept:nongovorganization:u_s_ 1*
+---------------------------------
+concept:scientist:no_ concept:organizationterminatedperson concept:city:new_york 0
+
+concept:scientist:no_ concept:organizationhiredperson concept:city:new_york 1
+---------------------------------
+concept:personus:theo_epstein concept:organizationterminatedperson concept:sportsteam:red_sox 1
+
+concept:personus:theo_epstein concept:agentcollaborateswithagent concept:sportsteam:red_sox 1
+concept:personus:theo_epstein concept:organizationhiredperson concept:sportsteam:red_sox 2*
+---------------------------------
+concept:personaustralia:gary_pinkel concept:organizationterminatedperson concept:company:missouri 1
+
+concept:personaustralia:gary_pinkel concept:organizationhiredperson concept:company:missouri 1*
+---------------------------------
+concept:person:juan_carlos_osorio concept:organizationterminatedperson concept:company:millonarios 0
+
+concept:person:juan_carlos_osorio concept:organizationhiredperson concept:company:millonarios 1
+---------------------------------
+concept:politicianus:rudy_giuliani concept:organizationterminatedperson concept:city:new_york 1
+
+concept:politicianus:rudy_giuliani concept:agentcollaborateswithagent concept:city:new_york 1.40897
+concept:politicianus:rudy_giuliani concept:organizationhiredperson concept:city:new_york 1*
+---------------------------------
+concept:personeurope:disney concept:organizationterminatedperson concept:recordlabel:walt_disney 1
+
+concept:personeurope:disney concept:organizationhiredperson concept:recordlabel:walt_disney 2
+---------------------------------
+concept:scientist:no_ concept:organizationterminatedperson concept:creditunion:wisconsin 0
+
+concept:scientist:no_ concept:organizationhiredperson concept:creditunion:wisconsin 1
+---------------------------------
+concept:personus:norm_stewart concept:organizationterminatedperson concept:company:missouri 1
+
+concept:personus:norm_stewart concept:organizationhiredperson concept:company:missouri 1*
+---------------------------------
+concept:scientist:no_ concept:organizationterminatedperson concept:radiostation:new_jersey 0
+
+concept:scientist:no_ concept:organizationhiredperson concept:radiostation:new_jersey 1
+---------------------------------
+concept:scientist:no_ concept:organizationterminatedperson concept:company:new_york 0
+
+concept:scientist:no_ concept:organizationhiredperson concept:company:new_york 1
+---------------------------------
+concept:person:juan_carlos_osorio concept:organizationterminatedperson concept:city:new_york 1
+
+concept:person:juan_carlos_osorio concept:organizationhiredperson concept:city:new_york 1*
+---------------------------------
+concept:person:mcpherson concept:organizationterminatedperson concept:city:abc 1
+
+concept:person:mcpherson concept:organizationhiredperson concept:city:abc 2
+---------------------------------
+concept:scientist:no_ concept:organizationterminatedperson concept:nongovorganization:u_s_ 0
+
+concept:scientist:no_ concept:organizationhiredperson concept:nongovorganization:u_s_ 1
+---------------------------------
+concept:person:john_o_leary concept:organizationterminatedperson concept:company:ryanair001 1
+
+concept:person:john_o_leary concept:agentcollaborateswithagent concept:company:ryanair001 0.5
+concept:person:john_o_leary concept:organizationhiredperson concept:company:ryanair001 1*
+---------------------------------
+concept:personaustralia:derek_jeter concept:organizationterminatedperson concept:company:new_york 0
+
+concept:personaustralia:derek_jeter concept:agentcollaborateswithagent concept:company:new_york 1.5
+concept:personaustralia:derek_jeter concept:organizationhiredperson concept:company:new_york 1
+---------------------------------
+concept:scientist:no_ concept:organizationterminatedperson concept:company:north_carolina 0
+
+concept:scientist:no_ concept:organizationhiredperson concept:company:north_carolina 1
+---------------------------------
+concept:coach:rich_brooks concept:organizationterminatedperson concept:sportsteam:rams 0
+
+concept:coach:rich_brooks concept:organizationhiredperson concept:sportsteam:rams 1
+---------------------------------
+concept:personmexico:mike_anderson concept:organizationterminatedperson concept:company:missouri 0
+
+concept:personmexico:mike_anderson concept:organizationhiredperson concept:company:missouri 1
+---------------------------------
+concept:person:jeff_van_gundy concept:organizationterminatedperson concept:company:new_york 1
+
+concept:person:jeff_van_gundy concept:agentcompeteswithagent concept:company:new_york 0.0595295
+concept:person:jeff_van_gundy concept:organizationhiredperson concept:company:new_york 2*
+---------------------------------
+concept:coach:eric_mangini concept:organizationterminatedperson concept:radiostation:cleveland 1
+
+concept:coach:eric_mangini concept:organizationhiredperson concept:radiostation:cleveland 2*
+---------------------------------
+concept:scientist:no_ concept:organizationterminatedperson concept:sportsleague:nfl 0
+
+concept:scientist:no_ concept:organizationhiredperson concept:sportsleague:nfl 1
+---------------------------------
+concept:scientist:no_ concept:organizationterminatedperson concept:terroristorganization:state 0
+
+concept:scientist:no_ concept:organizationhiredperson concept:terroristorganization:state 1
+---------------------------------
+concept:scientist:no_ concept:organizationterminatedperson concept:university:google 0
+
+concept:scientist:no_ concept:organizationhiredperson concept:university:google 1
+---------------------------------
+concept:politician:jobs concept:organizationterminatedperson concept:biotechcompany:apple 1
+
+concept:politician:jobs concept:agentbelongstoorganization concept:biotechcompany:apple 0.5
+concept:politician:jobs concept:agentcollaborateswithagent concept:biotechcompany:apple 0.5
+concept:politician:jobs concept:agentcontrols concept:biotechcompany:apple 0.199549
+concept:politician:jobs concept:agentparticipatedinevent concept:biotechcompany:apple 1
+concept:politician:jobs concept:mutualproxyfor concept:biotechcompany:apple 0.5
+concept:politician:jobs concept:organizationhiredperson concept:biotechcompany:apple 1
+concept:politician:jobs concept:proxyfor concept:biotechcompany:apple 0.5
+concept:politician:jobs concept:sportsgameteam concept:biotechcompany:apple 0.5
+concept:politician:jobs concept:subpartof concept:biotechcompany:apple 1
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.233333 0.166667 0.1 0.233333
+HITS@3: 1 0.466667 0.466667 0.5
+HITS@10: 1 0.5 0.5 0.5
+MRR: 0.6 0.31754 0.288978 0.36769
+MR: 1.86667 20.6667 21.3 38.8
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.366667 0.333333 0.3 0.366667
+HITS@3: 1 0.466667 0.466667 0.5
+HITS@10: 1 0.5 0.5 0.5
+MRR: 0.666667 0.411984 0.400684 0.434363
+MR: 1.73333 20.4333 21 38.6333
+relation_mr_mrr_1_3_10_n_rf 630.00000000000000000 12.02052599529175936 9.00000000000000000 14.00000000000000000 15.00000000000000000 30 15

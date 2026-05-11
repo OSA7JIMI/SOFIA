@@ -1,0 +1,2 @@
+1	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician(A,B) <= /organization/organization_founder/organizations_founded(B,A)
+1	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician(A,D) <= /government/political_party/politicians_in_this_party./government/political_party_tenure/politician(A,B), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/person/spouse_s./people/marriage/type_of_union(D,C)

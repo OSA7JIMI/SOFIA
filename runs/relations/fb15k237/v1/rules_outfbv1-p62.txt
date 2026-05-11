@@ -1,0 +1,1 @@
+1	/film/film/film_production_design_by(A,D) <= /film/film/written_by(A,B), /people/person/gender(B,C), /people/person/gender(D,C)

@@ -1,0 +1,2349 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:mutualproxyfor
+---------------------------------
+concept:sportsequipment:board concept:mutualproxyfor concept:politicaloffice:office 2
+
+concept:sportsequipment:board concept:agentcontrols concept:politicaloffice:office 1
+concept:sportsequipment:board concept:atlocation concept:politicaloffice:office 1
+concept:sportsequipment:board concept:citylocatedingeopoliticallocation concept:politicaloffice:office 1
+concept:sportsequipment:board concept:citylocatedinstate concept:politicaloffice:office 1
+concept:sportsequipment:board concept:locationlocatedwithinlocation concept:politicaloffice:office 1
+concept:sportsequipment:board concept:personleadsgeopoliticalorganization concept:politicaloffice:office 1
+concept:sportsequipment:board concept:proxyfor concept:politicaloffice:office 1
+concept:sportsequipment:board concept:subpartof concept:politicaloffice:office 2
+---------------------------------
+concept:beach:massachusetts concept:mutualproxyfor concept:winery:framingham 1.5
+
+concept:beach:massachusetts concept:agentactsinlocation concept:winery:framingham 1
+concept:beach:massachusetts concept:agentbelongstoorganization concept:winery:framingham 1
+concept:beach:massachusetts concept:atdate concept:winery:framingham 0.0161079
+concept:beach:massachusetts concept:atlocation concept:winery:framingham 1*
+concept:beach:massachusetts concept:citylocatedingeopoliticallocation concept:winery:framingham 1
+concept:beach:massachusetts concept:citylocatedinstate concept:winery:framingham 1
+concept:beach:massachusetts concept:locationlocatedwithinlocation concept:winery:framingham 1
+concept:beach:massachusetts concept:personleadsgeopoliticalorganization concept:winery:framingham 1
+concept:beach:massachusetts concept:proxyfor concept:winery:framingham 2
+concept:beach:massachusetts concept:subpartof concept:winery:framingham 2
+---------------------------------
+concept:company:charleston concept:mutualproxyfor concept:company:west_virginia 1
+
+concept:company:charleston concept:agentcontrols concept:company:west_virginia 1
+concept:company:charleston concept:atlocation concept:company:west_virginia 1
+concept:company:charleston concept:attractionofcity concept:company:west_virginia 1
+concept:company:charleston concept:locationlocatedwithinlocation concept:company:west_virginia 1
+concept:company:charleston concept:proxyfor concept:company:west_virginia 1.5
+concept:company:charleston concept:subpartof concept:company:west_virginia 1.5
+---------------------------------
+concept:celebrity:dodge_city concept:mutualproxyfor concept:creditunion:kansas 1
+
+concept:celebrity:dodge_city concept:atlocation concept:creditunion:kansas 1
+concept:celebrity:dodge_city concept:attractionofcity concept:creditunion:kansas 1
+concept:celebrity:dodge_city concept:locationlocatedwithinlocation concept:creditunion:kansas 1
+concept:celebrity:dodge_city concept:proxyfor concept:creditunion:kansas 1
+concept:celebrity:dodge_city concept:subpartof concept:creditunion:kansas 1
+---------------------------------
+concept:beach:massachusetts concept:mutualproxyfor concept:beverage:plymouth 1.5
+
+concept:beach:massachusetts concept:agentactsinlocation concept:beverage:plymouth 1
+concept:beach:massachusetts concept:agentbelongstoorganization concept:beverage:plymouth 1
+concept:beach:massachusetts concept:atdate concept:beverage:plymouth 0.0161079
+concept:beach:massachusetts concept:atlocation concept:beverage:plymouth 1*
+concept:beach:massachusetts concept:citylocatedingeopoliticallocation concept:beverage:plymouth 1
+concept:beach:massachusetts concept:citylocatedinstate concept:beverage:plymouth 1
+concept:beach:massachusetts concept:locationlocatedwithinlocation concept:beverage:plymouth 1
+concept:beach:massachusetts concept:personleadsgeopoliticalorganization concept:beverage:plymouth 1
+concept:beach:massachusetts concept:proxyfor concept:beverage:plymouth 2
+concept:beach:massachusetts concept:subpartof concept:beverage:plymouth 2
+---------------------------------
+concept:emotion:new concept:mutualproxyfor concept:trainstation:studies 0.5
+
+concept:emotion:new concept:atdate concept:trainstation:studies 0.0161079
+---------------------------------
+concept:politicsissue:officers concept:mutualproxyfor concept:sportsequipment:board 0
+
+---------------------------------
+concept:city:hackensack concept:mutualproxyfor concept:stateorprovince:new_jersey 3
+
+concept:city:hackensack concept:agentcontrols concept:stateorprovince:new_jersey 1
+concept:city:hackensack concept:atlocation concept:stateorprovince:new_jersey 1.25
+concept:city:hackensack concept:attractionofcity concept:stateorprovince:new_jersey 1
+concept:city:hackensack concept:locationlocatedwithinlocation concept:stateorprovince:new_jersey 1
+concept:city:hackensack concept:proxyfor concept:stateorprovince:new_jersey 3
+concept:city:hackensack concept:sportsgameteam concept:stateorprovince:new_jersey 0.5
+concept:city:hackensack concept:subpartof concept:stateorprovince:new_jersey 1
+---------------------------------
+concept:stateorprovince:new_jersey concept:mutualproxyfor concept:city:mount_holly 0.5
+
+concept:stateorprovince:new_jersey concept:atdate concept:city:mount_holly 0.538724
+concept:stateorprovince:new_jersey concept:atlocation concept:city:mount_holly 0.75
+concept:stateorprovince:new_jersey concept:lakeinstate concept:city:mount_holly 0.5
+---------------------------------
+concept:stateorprovince:auburn concept:mutualproxyfor concept:university:alabama 0
+
+concept:stateorprovince:auburn concept:subpartof concept:university:alabama 0.5
+---------------------------------
+concept:profession:hours concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:profession:hours concept:atlocation concept:sportsequipment:new 1
+concept:profession:hours concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:profession:hours concept:citylocatedinstate concept:sportsequipment:new 1
+concept:profession:hours concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:profession:hours concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:profession:hours concept:proxyfor concept:sportsequipment:new 1
+concept:profession:hours concept:subpartof concept:sportsequipment:new 1
+---------------------------------
+concept:university:ohio concept:mutualproxyfor concept:vehicle:toledo 1.5
+
+concept:university:ohio concept:atdate concept:vehicle:toledo 0.0161079
+concept:university:ohio concept:atlocation concept:vehicle:toledo 1
+concept:university:ohio concept:citylocatedingeopoliticallocation concept:vehicle:toledo 1
+concept:university:ohio concept:citylocatedinstate concept:vehicle:toledo 1
+concept:university:ohio concept:locationlocatedwithinlocation concept:vehicle:toledo 1
+concept:university:ohio concept:personleadsgeopoliticalorganization concept:vehicle:toledo 1
+concept:university:ohio concept:proxyfor concept:vehicle:toledo 1
+concept:university:ohio concept:subpartof concept:vehicle:toledo 1
+---------------------------------
+concept:personnorthamerica:everett concept:mutualproxyfor concept:city:washington_d_c 3
+
+concept:personnorthamerica:everett concept:agentactsinlocation concept:city:washington_d_c 0.141967
+concept:personnorthamerica:everett concept:agentcontrols concept:city:washington_d_c 2
+concept:personnorthamerica:everett concept:atlocation concept:city:washington_d_c 2
+concept:personnorthamerica:everett concept:citylocatedingeopoliticallocation concept:city:washington_d_c 1
+concept:personnorthamerica:everett concept:citylocatedinstate concept:city:washington_d_c 1.35714
+concept:personnorthamerica:everett concept:lakeinstate concept:city:washington_d_c 0.5
+concept:personnorthamerica:everett concept:locationlocatedwithinlocation concept:city:washington_d_c 1.5
+concept:personnorthamerica:everett concept:personleadsgeopoliticalorganization concept:city:washington_d_c 1
+concept:personnorthamerica:everett concept:proxyfor concept:city:washington_d_c 2
+concept:personnorthamerica:everett concept:subpartof concept:city:washington_d_c 2
+---------------------------------
+concept:city:warren concept:mutualproxyfor concept:university:ohio 1
+
+concept:city:warren concept:atlocation concept:university:ohio 1
+concept:city:warren concept:attractionofcity concept:university:ohio 1
+concept:city:warren concept:locationlocatedwithinlocation concept:university:ohio 1
+concept:city:warren concept:proxyfor concept:university:ohio 1.5
+concept:city:warren concept:subpartof concept:university:ohio 1
+---------------------------------
+concept:politicaloffice:new concept:mutualproxyfor concept:governmentorganization:states_department 1.5
+
+concept:politicaloffice:new concept:atdate concept:governmentorganization:states_department 0.0161079
+concept:politicaloffice:new concept:atlocation concept:governmentorganization:states_department 1
+concept:politicaloffice:new concept:citylocatedingeopoliticallocation concept:governmentorganization:states_department 1
+concept:politicaloffice:new concept:citylocatedinstate concept:governmentorganization:states_department 1
+concept:politicaloffice:new concept:locationlocatedwithinlocation concept:governmentorganization:states_department 1
+concept:politicaloffice:new concept:personleadsgeopoliticalorganization concept:governmentorganization:states_department 1
+concept:politicaloffice:new concept:proxyfor concept:governmentorganization:states_department 1
+concept:politicaloffice:new concept:subpartof concept:governmentorganization:states_department 1
+---------------------------------
+concept:sportsteam:sacramento_kings concept:mutualproxyfor concept:company:los_angeles 0
+
+concept:sportsteam:sacramento_kings concept:organizationhiredperson concept:company:los_angeles 0.25
+---------------------------------
+concept:musicartist:harlem concept:mutualproxyfor concept:sportsequipment:new 0
+
+---------------------------------
+concept:retailstore:burlington concept:mutualproxyfor concept:radiostation:new_jersey 1
+
+concept:retailstore:burlington concept:atlocation concept:radiostation:new_jersey 1.1875
+concept:retailstore:burlington concept:citylocatedingeopoliticallocation concept:radiostation:new_jersey 1
+concept:retailstore:burlington concept:citylocatedinstate concept:radiostation:new_jersey 1
+concept:retailstore:burlington concept:locationlocatedwithinlocation concept:radiostation:new_jersey 1
+concept:retailstore:burlington concept:personleadsgeopoliticalorganization concept:radiostation:new_jersey 1
+concept:retailstore:burlington concept:proxyfor concept:radiostation:new_jersey 1.5
+concept:retailstore:burlington concept:subpartof concept:radiostation:new_jersey 1
+---------------------------------
+concept:profession:law concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:profession:law concept:atlocation concept:sportsequipment:new 1
+concept:profession:law concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:profession:law concept:citylocatedinstate concept:sportsequipment:new 1
+concept:profession:law concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:profession:law concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:profession:law concept:proxyfor concept:sportsequipment:new 1
+concept:profession:law concept:subpartof concept:sportsequipment:new 1.5
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:profession:professionals 0
+
+concept:sportsequipment:new concept:subpartof concept:profession:professionals 0.75
+---------------------------------
+concept:room:cary concept:mutualproxyfor concept:company:north_carolina 1.5
+
+concept:room:cary concept:agentcontrols concept:company:north_carolina 1
+concept:room:cary concept:atlocation concept:company:north_carolina 1
+concept:room:cary concept:citylocatedingeopoliticallocation concept:company:north_carolina 1
+concept:room:cary concept:citylocatedinstate concept:company:north_carolina 1
+concept:room:cary concept:locationlocatedwithinlocation concept:company:north_carolina 1
+concept:room:cary concept:personleadsgeopoliticalorganization concept:company:north_carolina 1
+concept:room:cary concept:proxyfor concept:company:north_carolina 1
+concept:room:cary concept:subpartof concept:company:north_carolina 2
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:academicfield:delhi 1
+
+concept:sportsequipment:new concept:atlocation concept:academicfield:delhi 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:academicfield:delhi 1
+concept:sportsequipment:new concept:citylocatedinstate concept:academicfield:delhi 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:academicfield:delhi 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:academicfield:delhi 1
+concept:sportsequipment:new concept:proxyfor concept:academicfield:delhi 1
+concept:sportsequipment:new concept:subpartof concept:academicfield:delhi 1.5
+---------------------------------
+concept:profession:movers concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:profession:movers concept:atlocation concept:sportsequipment:new 1
+concept:profession:movers concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:profession:movers concept:citylocatedinstate concept:sportsequipment:new 1
+concept:profession:movers concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:profession:movers concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:profession:movers concept:proxyfor concept:sportsequipment:new 1
+concept:profession:movers concept:subpartof concept:sportsequipment:new 1
+---------------------------------
+concept:company:north_carolina concept:mutualproxyfor concept:retailstore:burlington 0.5
+
+concept:company:north_carolina concept:atdate concept:retailstore:burlington 1.03872
+concept:company:north_carolina concept:lakeinstate concept:retailstore:burlington 0.5
+concept:company:north_carolina concept:locationlocatedwithinlocation concept:retailstore:burlington 0.5
+concept:company:north_carolina concept:subpartof concept:retailstore:burlington 0.5
+---------------------------------
+concept:sportsteam:denver_nuggets concept:mutualproxyfor concept:company:los_angeles 1.5
+
+concept:sportsteam:denver_nuggets concept:atlocation concept:company:los_angeles 1
+concept:sportsteam:denver_nuggets concept:citylocatedingeopoliticallocation concept:company:los_angeles 1
+concept:sportsteam:denver_nuggets concept:citylocatedinstate concept:company:los_angeles 1
+concept:sportsteam:denver_nuggets concept:locationlocatedwithinlocation concept:company:los_angeles 1
+concept:sportsteam:denver_nuggets concept:personleadsgeopoliticalorganization concept:company:los_angeles 1
+concept:sportsteam:denver_nuggets concept:proxyfor concept:company:los_angeles 1
+concept:sportsteam:denver_nuggets concept:subpartof concept:company:los_angeles 1
+---------------------------------
+concept:sportsteam:raptors concept:mutualproxyfor concept:company:los_angeles 0
+
+concept:sportsteam:raptors concept:organizationhiredperson concept:company:los_angeles 0.25
+---------------------------------
+concept:company:new_york concept:mutualproxyfor concept:highway:the_new 2
+
+concept:company:new_york concept:agentparticipatedinevent concept:highway:the_new 0.5
+concept:company:new_york concept:atdate concept:highway:the_new 0.520447
+concept:company:new_york concept:atlocation concept:highway:the_new 1.1875
+concept:company:new_york concept:citylocatedingeopoliticallocation concept:highway:the_new 1
+concept:company:new_york concept:citylocatedinstate concept:highway:the_new 1
+concept:company:new_york concept:companyeconomicsector concept:highway:the_new 0.75
+concept:company:new_york concept:locationlocatedwithinlocation concept:highway:the_new 2
+concept:company:new_york concept:organizationhiredperson concept:highway:the_new 0.5
+concept:company:new_york concept:personleadsgeopoliticalorganization concept:highway:the_new 1
+concept:company:new_york concept:proxyfor concept:highway:the_new 2
+concept:company:new_york concept:subpartof concept:highway:the_new 1.5
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:jobposition:candidate 1
+
+concept:sportsequipment:new concept:atlocation concept:jobposition:candidate 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:jobposition:candidate 1
+concept:sportsequipment:new concept:citylocatedinstate concept:jobposition:candidate 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:jobposition:candidate 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:jobposition:candidate 1
+concept:sportsequipment:new concept:proxyfor concept:jobposition:candidate 1
+concept:sportsequipment:new concept:subpartof concept:jobposition:candidate 1.5
+---------------------------------
+concept:televisionstation:saint_louis concept:mutualproxyfor concept:company:missouri 1
+
+concept:televisionstation:saint_louis concept:atlocation concept:company:missouri 1
+concept:televisionstation:saint_louis concept:attractionofcity concept:company:missouri 1
+concept:televisionstation:saint_louis concept:locationlocatedwithinlocation concept:company:missouri 1
+concept:televisionstation:saint_louis concept:organizationhiredperson concept:company:missouri 0.5
+concept:televisionstation:saint_louis concept:proxyfor concept:company:missouri 1
+concept:televisionstation:saint_louis concept:subpartof concept:company:missouri 1
+---------------------------------
+concept:radiostation:new_jersey concept:mutualproxyfor concept:city:princeton 0.5
+
+concept:radiostation:new_jersey concept:atdate concept:city:princeton 0.0161079
+concept:radiostation:new_jersey concept:companyeconomicsector concept:city:princeton 1
+concept:radiostation:new_jersey concept:lakeinstate concept:city:princeton 1
+concept:radiostation:new_jersey concept:proxyfor concept:city:princeton 0.2
+---------------------------------
+concept:nongovorganization:cities concept:mutualproxyfor concept:sportsequipment:new 2
+
+concept:nongovorganization:cities concept:atdate concept:sportsequipment:new 0.00433913
+concept:nongovorganization:cities concept:atlocation concept:sportsequipment:new 1
+concept:nongovorganization:cities concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:nongovorganization:cities concept:citylocatedinstate concept:sportsequipment:new 1
+concept:nongovorganization:cities concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:nongovorganization:cities concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:nongovorganization:cities concept:proxyfor concept:sportsequipment:new 1.5
+concept:nongovorganization:cities concept:subpartof concept:sportsequipment:new 1.18254
+---------------------------------
+concept:musicartist:delaware concept:mutualproxyfor concept:chemical:wilmington 1
+
+concept:musicartist:delaware concept:atdate concept:chemical:wilmington 0.00433913
+concept:musicartist:delaware concept:atlocation concept:chemical:wilmington 1
+concept:musicartist:delaware concept:citylocatedingeopoliticallocation concept:chemical:wilmington 1
+concept:musicartist:delaware concept:citylocatedinstate concept:chemical:wilmington 1
+concept:musicartist:delaware concept:locationlocatedwithinlocation concept:chemical:wilmington 1
+concept:musicartist:delaware concept:personleadsgeopoliticalorganization concept:chemical:wilmington 1
+concept:musicartist:delaware concept:proxyfor concept:chemical:wilmington 1.66667
+concept:musicartist:delaware concept:subpartof concept:chemical:wilmington 1*
+---------------------------------
+concept:vehicle:toledo concept:mutualproxyfor concept:university:ohio 1
+
+concept:vehicle:toledo concept:atlocation concept:university:ohio 1
+concept:vehicle:toledo concept:citylocatedingeopoliticallocation concept:university:ohio 1
+concept:vehicle:toledo concept:citylocatedinstate concept:university:ohio 1
+concept:vehicle:toledo concept:locationlocatedwithinlocation concept:university:ohio 1
+concept:vehicle:toledo concept:personleadsgeopoliticalorganization concept:university:ohio 1
+concept:vehicle:toledo concept:proxyfor concept:university:ohio 1
+concept:vehicle:toledo concept:subpartof concept:university:ohio 1
+---------------------------------
+concept:highway:trenton concept:mutualproxyfor concept:city:nj 2.5
+
+concept:highway:trenton concept:agentactsinlocation concept:city:nj 1
+concept:highway:trenton concept:agentcollaborateswithagent concept:city:nj 1
+concept:highway:trenton concept:agentcontrols concept:city:nj 1
+concept:highway:trenton concept:atlocation concept:city:nj 1
+concept:highway:trenton concept:attractionofcity concept:city:nj 1
+concept:highway:trenton concept:hasofficeincountry concept:city:nj 0.25
+concept:highway:trenton concept:locationlocatedwithinlocation concept:city:nj 1
+concept:highway:trenton concept:proxyfor concept:city:nj 2
+concept:highway:trenton concept:subpartof concept:city:nj 1.5
+---------------------------------
+concept:sportsteam:los_angeles_clippers concept:mutualproxyfor concept:company:los_angeles 0
+
+---------------------------------
+concept:company:los_angeles concept:mutualproxyfor concept:sportsteam:golden_state_warriors 1
+
+concept:company:los_angeles concept:agentparticipatedinevent concept:sportsteam:golden_state_warriors 0.5
+concept:company:los_angeles concept:atdate concept:sportsteam:golden_state_warriors 0.00433913
+concept:company:los_angeles concept:atlocation concept:sportsteam:golden_state_warriors 1
+concept:company:los_angeles concept:citylocatedingeopoliticallocation concept:sportsteam:golden_state_warriors 1
+concept:company:los_angeles concept:citylocatedinstate concept:sportsteam:golden_state_warriors 1
+concept:company:los_angeles concept:locationlocatedwithinlocation concept:sportsteam:golden_state_warriors 1
+concept:company:los_angeles concept:personleadsgeopoliticalorganization concept:sportsteam:golden_state_warriors 1
+concept:company:los_angeles concept:proxyfor concept:sportsteam:golden_state_warriors 1
+concept:company:los_angeles concept:subpartof concept:sportsteam:golden_state_warriors 1
+---------------------------------
+concept:highway:the_new concept:mutualproxyfor concept:company:new_york 2
+
+concept:highway:the_new concept:agentactsinlocation concept:company:new_york 0.141967*
+concept:highway:the_new concept:agentcompeteswithagent concept:company:new_york 0.5
+concept:highway:the_new concept:agentcontrols concept:company:new_york 1.5
+concept:highway:the_new concept:atdate concept:company:new_york 0.0161079
+concept:highway:the_new concept:atlocation concept:company:new_york 1.875
+concept:highway:the_new concept:citylocatedingeopoliticallocation concept:company:new_york 1
+concept:highway:the_new concept:citylocatedinstate concept:company:new_york 1
+concept:highway:the_new concept:competeswith concept:company:new_york 0.5
+concept:highway:the_new concept:hasofficeincountry concept:company:new_york 0.5
+concept:highway:the_new concept:lakeinstate concept:company:new_york 0.5
+concept:highway:the_new concept:locationlocatedwithinlocation concept:company:new_york 1
+concept:highway:the_new concept:personleadsgeopoliticalorganization concept:company:new_york 1
+concept:highway:the_new concept:politicianrepresentslocation concept:company:new_york 0.5
+concept:highway:the_new concept:proxyfor concept:company:new_york 1
+concept:highway:the_new concept:subpartof concept:company:new_york 1.5
+---------------------------------
+concept:bodypart:affected_areas concept:mutualproxyfor concept:politicaloffice:new 0
+
+concept:bodypart:affected_areas concept:subpartof concept:politicaloffice:new 0.5
+---------------------------------
+concept:charactertrait:institutions concept:mutualproxyfor concept:sportsequipment:new 0
+
+concept:charactertrait:institutions concept:atdate concept:sportsequipment:new 0.00433913
+concept:charactertrait:institutions concept:subpartof concept:sportsequipment:new 0.5
+---------------------------------
+concept:jobposition:headquarters concept:mutualproxyfor concept:sportsequipment:new 0
+
+---------------------------------
+concept:city:washington_d_c concept:mutualproxyfor concept:personnorthamerica:everett 1.5
+
+concept:city:washington_d_c concept:agentactsinlocation concept:personnorthamerica:everett 1.14197
+concept:city:washington_d_c concept:agentbelongstoorganization concept:personnorthamerica:everett 1
+concept:city:washington_d_c concept:atdate concept:personnorthamerica:everett 0.520447
+concept:city:washington_d_c concept:atlocation concept:personnorthamerica:everett 2*
+concept:city:washington_d_c concept:cityliesonriver concept:personnorthamerica:everett 0.2
+concept:city:washington_d_c concept:citylocatedingeopoliticallocation concept:personnorthamerica:everett 1
+concept:city:washington_d_c concept:citylocatedinstate concept:personnorthamerica:everett 1
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:personnorthamerica:everett 1
+concept:city:washington_d_c concept:personleadsgeopoliticalorganization concept:personnorthamerica:everett 1
+concept:city:washington_d_c concept:proxyfor concept:personnorthamerica:everett 3.21667
+concept:city:washington_d_c concept:subpartof concept:personnorthamerica:everett 3.5*
+concept:city:washington_d_c concept:subpartoforganization concept:personnorthamerica:everett 0.109162
+---------------------------------
+concept:celebrity:staten_island concept:mutualproxyfor concept:company:new_york 1.5
+
+concept:celebrity:staten_island concept:agentactsinlocation concept:company:new_york 0.141967
+concept:celebrity:staten_island concept:atlocation concept:company:new_york 1
+concept:celebrity:staten_island concept:attractionofcity concept:company:new_york 1
+concept:celebrity:staten_island concept:locationlocatedwithinlocation concept:company:new_york 1
+concept:celebrity:staten_island concept:proxyfor concept:company:new_york 2.05
+concept:celebrity:staten_island concept:sportsgameteam concept:company:new_york 0.5
+concept:celebrity:staten_island concept:subpartof concept:company:new_york 1.18254
+---------------------------------
+concept:county:plattsburgh concept:mutualproxyfor concept:company:new_york 1.5
+
+concept:county:plattsburgh concept:agentactsinlocation concept:company:new_york 0.141967
+concept:county:plattsburgh concept:atlocation concept:company:new_york 1
+concept:county:plattsburgh concept:attractionofcity concept:company:new_york 1
+concept:county:plattsburgh concept:locationlocatedwithinlocation concept:company:new_york 1
+concept:county:plattsburgh concept:proxyfor concept:company:new_york 2.05
+concept:county:plattsburgh concept:sportsgameteam concept:company:new_york 0.5
+concept:county:plattsburgh concept:subpartof concept:company:new_york 1.18254
+---------------------------------
+concept:county:columbus concept:mutualproxyfor concept:university:ohio 1
+
+concept:county:columbus concept:agentcontrols concept:university:ohio 1
+concept:county:columbus concept:atlocation concept:university:ohio 1
+concept:county:columbus concept:attractionofcity concept:university:ohio 1
+concept:county:columbus concept:locationlocatedwithinlocation concept:university:ohio 1
+concept:county:columbus concept:proxyfor concept:university:ohio 1.5
+concept:county:columbus concept:subpartof concept:university:ohio 1.5
+---------------------------------
+concept:city:kennewick concept:mutualproxyfor concept:city:washington_d_c 2.5
+
+concept:city:kennewick concept:agentactsinlocation concept:city:washington_d_c 1.14197
+concept:city:kennewick concept:agentcollaborateswithagent concept:city:washington_d_c 1
+concept:city:kennewick concept:agentcompeteswithagent concept:city:washington_d_c 0.5
+concept:city:kennewick concept:agentcontrols concept:city:washington_d_c 1
+concept:city:kennewick concept:atlocation concept:city:washington_d_c 1.5
+concept:city:kennewick concept:attractionofcity concept:city:washington_d_c 1
+concept:city:kennewick concept:cityliesonriver concept:city:washington_d_c 2.7
+concept:city:kennewick concept:hasofficeincountry concept:city:washington_d_c 0.75
+concept:city:kennewick concept:locationlocatedwithinlocation concept:city:washington_d_c 1.5
+concept:city:kennewick concept:proxyfor concept:city:washington_d_c 3.05
+concept:city:kennewick concept:sportsgameteam concept:city:washington_d_c 0.5
+concept:city:kennewick concept:subpartof concept:city:washington_d_c 2.68254
+---------------------------------
+concept:company:north_carolina concept:mutualproxyfor concept:room:cary 1.5
+
+concept:company:north_carolina concept:atdate concept:room:cary 0.020447
+concept:company:north_carolina concept:atlocation concept:room:cary 1
+concept:company:north_carolina concept:citylocatedingeopoliticallocation concept:room:cary 1
+concept:company:north_carolina concept:citylocatedinstate concept:room:cary 1
+concept:company:north_carolina concept:locationlocatedwithinlocation concept:room:cary 1
+concept:company:north_carolina concept:personleadsgeopoliticalorganization concept:room:cary 1
+concept:company:north_carolina concept:proxyfor concept:room:cary 1.66667
+concept:company:north_carolina concept:subpartof concept:room:cary 1.5*
+---------------------------------
+concept:county:marion concept:mutualproxyfor concept:university:ohio 0
+
+---------------------------------
+concept:company:north_carolina concept:mutualproxyfor concept:city:gastonia 0.5
+
+concept:company:north_carolina concept:atdate concept:city:gastonia 0.020447
+concept:company:north_carolina concept:subpartof concept:city:gastonia 0.5
+---------------------------------
+concept:person:mccain concept:mutualproxyfor concept:nongovorganization:indian_affairs_committee 0
+
+---------------------------------
+concept:person:mugabe concept:mutualproxyfor concept:city:hope 0
+
+---------------------------------
+concept:radiostation:newark concept:mutualproxyfor concept:radiostation:new_jersey 1
+
+concept:radiostation:newark concept:atlocation concept:radiostation:new_jersey 1
+concept:radiostation:newark concept:citylocatedingeopoliticallocation concept:radiostation:new_jersey 1
+concept:radiostation:newark concept:citylocatedinstate concept:radiostation:new_jersey 1
+concept:radiostation:newark concept:locationlocatedwithinlocation concept:radiostation:new_jersey 1
+concept:radiostation:newark concept:personleadsgeopoliticalorganization concept:radiostation:new_jersey 1
+concept:radiostation:newark concept:proxyfor concept:radiostation:new_jersey 1
+concept:radiostation:newark concept:subpartof concept:radiostation:new_jersey 1.5
+---------------------------------
+concept:sportsteam:charlotte_bobcats concept:mutualproxyfor concept:company:los_angeles 0
+
+---------------------------------
+concept:scientist:associate_professor concept:mutualproxyfor concept:university:state_university 1
+
+concept:scientist:associate_professor concept:atlocation concept:university:state_university 1
+concept:scientist:associate_professor concept:citylocatedingeopoliticallocation concept:university:state_university 1
+concept:scientist:associate_professor concept:citylocatedinstate concept:university:state_university 1
+concept:scientist:associate_professor concept:locationlocatedwithinlocation concept:university:state_university 1
+concept:scientist:associate_professor concept:personleadsgeopoliticalorganization concept:university:state_university 1
+concept:scientist:associate_professor concept:proxyfor concept:university:state_university 1
+concept:scientist:associate_professor concept:subpartof concept:university:state_university 1
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:profession:newark 1
+
+concept:sportsequipment:new concept:atlocation concept:profession:newark 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:profession:newark 1
+concept:sportsequipment:new concept:citylocatedinstate concept:profession:newark 1
+concept:sportsequipment:new concept:lakeinstate concept:profession:newark 0.5
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:profession:newark 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:profession:newark 1
+concept:sportsequipment:new concept:proxyfor concept:profession:newark 1
+concept:sportsequipment:new concept:subpartof concept:profession:newark 1.5
+---------------------------------
+concept:nongovorganization:democrat concept:mutualproxyfor concept:sportsequipment:new 2
+
+concept:nongovorganization:democrat concept:atlocation concept:sportsequipment:new 1
+concept:nongovorganization:democrat concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:nongovorganization:democrat concept:citylocatedinstate concept:sportsequipment:new 1
+concept:nongovorganization:democrat concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:nongovorganization:democrat concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:nongovorganization:democrat concept:proxyfor concept:sportsequipment:new 1.5
+concept:nongovorganization:democrat concept:subpartof concept:sportsequipment:new 1.18254
+---------------------------------
+concept:person:mugabe concept:mutualproxyfor concept:nongovorganization:friend 0
+
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:academicfield:businesses 2
+
+concept:sportsequipment:new concept:atlocation concept:academicfield:businesses 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:academicfield:businesses 1
+concept:sportsequipment:new concept:citylocatedinstate concept:academicfield:businesses 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:academicfield:businesses 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:academicfield:businesses 1
+concept:sportsequipment:new concept:proxyfor concept:academicfield:businesses 1
+concept:sportsequipment:new concept:subpartof concept:academicfield:businesses 2
+---------------------------------
+concept:city:oklahoma_city concept:mutualproxyfor concept:stateorprovince:oklahoma 2
+
+concept:city:oklahoma_city concept:atlocation concept:stateorprovince:oklahoma 1
+concept:city:oklahoma_city concept:attractionofcity concept:stateorprovince:oklahoma 1
+concept:city:oklahoma_city concept:locationlocatedwithinlocation concept:stateorprovince:oklahoma 1
+concept:city:oklahoma_city concept:proxyfor concept:stateorprovince:oklahoma 1
+concept:city:oklahoma_city concept:subpartof concept:stateorprovince:oklahoma 1
+---------------------------------
+concept:person:ed_koch001 concept:mutualproxyfor concept:company:new_york 0
+
+---------------------------------
+concept:sportsteam:golden_state_warriors concept:mutualproxyfor concept:company:los_angeles 1.5
+
+concept:sportsteam:golden_state_warriors concept:atlocation concept:company:los_angeles 1
+concept:sportsteam:golden_state_warriors concept:citylocatedingeopoliticallocation concept:company:los_angeles 1
+concept:sportsteam:golden_state_warriors concept:citylocatedinstate concept:company:los_angeles 1
+concept:sportsteam:golden_state_warriors concept:locationlocatedwithinlocation concept:company:los_angeles 1
+concept:sportsteam:golden_state_warriors concept:organizationhiredperson concept:company:los_angeles 0.25
+concept:sportsteam:golden_state_warriors concept:personleadsgeopoliticalorganization concept:company:los_angeles 1
+concept:sportsteam:golden_state_warriors concept:proxyfor concept:company:los_angeles 1
+concept:sportsteam:golden_state_warriors concept:subpartof concept:company:los_angeles 1
+---------------------------------
+concept:company:los_angeles concept:mutualproxyfor concept:sportsteam:denver_nuggets 1
+
+concept:company:los_angeles concept:agentparticipatedinevent concept:sportsteam:denver_nuggets 0.5
+concept:company:los_angeles concept:atdate concept:sportsteam:denver_nuggets 0.00433913
+concept:company:los_angeles concept:atlocation concept:sportsteam:denver_nuggets 1
+concept:company:los_angeles concept:citylocatedingeopoliticallocation concept:sportsteam:denver_nuggets 1
+concept:company:los_angeles concept:citylocatedinstate concept:sportsteam:denver_nuggets 1
+concept:company:los_angeles concept:locationlocatedwithinlocation concept:sportsteam:denver_nuggets 1
+concept:company:los_angeles concept:personleadsgeopoliticalorganization concept:sportsteam:denver_nuggets 1
+concept:company:los_angeles concept:proxyfor concept:sportsteam:denver_nuggets 1
+concept:company:los_angeles concept:subpartof concept:sportsteam:denver_nuggets 1
+---------------------------------
+concept:emotion:college concept:mutualproxyfor concept:sportsequipment:board 0
+
+concept:emotion:college concept:atdate concept:sportsequipment:board 0.00433913
+---------------------------------
+concept:governmentorganization:state_courts concept:mutualproxyfor concept:politicaloffice:new 1
+
+concept:governmentorganization:state_courts concept:atlocation concept:politicaloffice:new 1
+concept:governmentorganization:state_courts concept:citylocatedingeopoliticallocation concept:politicaloffice:new 1
+concept:governmentorganization:state_courts concept:citylocatedinstate concept:politicaloffice:new 1
+concept:governmentorganization:state_courts concept:locationlocatedwithinlocation concept:politicaloffice:new 1
+concept:governmentorganization:state_courts concept:personleadsgeopoliticalorganization concept:politicaloffice:new 1
+concept:governmentorganization:state_courts concept:proxyfor concept:politicaloffice:new 1
+concept:governmentorganization:state_courts concept:subpartof concept:politicaloffice:new 1
+---------------------------------
+concept:personus:jobs concept:mutualproxyfor concept:biotechcompany:apple 0
+
+concept:personus:jobs concept:agentbelongstoorganization concept:biotechcompany:apple 1
+concept:personus:jobs concept:agentcollaborateswithagent concept:biotechcompany:apple 2*
+concept:personus:jobs concept:agentcontrols concept:biotechcompany:apple 1*
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:nongovorganization:u_s_ 2
+
+concept:sportsequipment:new concept:atlocation concept:nongovorganization:u_s_ 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:nongovorganization:u_s_ 1
+concept:sportsequipment:new concept:citylocatedinstate concept:nongovorganization:u_s_ 1
+concept:sportsequipment:new concept:lakeinstate concept:nongovorganization:u_s_ 0.5
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:nongovorganization:u_s_ 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:nongovorganization:u_s_ 1
+concept:sportsequipment:new concept:proxyfor concept:nongovorganization:u_s_ 1
+concept:sportsequipment:new concept:subpartof concept:nongovorganization:u_s_ 2
+---------------------------------
+concept:county:bellingham concept:mutualproxyfor concept:city:washington_d_c 2.5
+
+concept:county:bellingham concept:agentactsinlocation concept:city:washington_d_c 1.14197
+concept:county:bellingham concept:agentcollaborateswithagent concept:city:washington_d_c 1
+concept:county:bellingham concept:agentcompeteswithagent concept:city:washington_d_c 0.5
+concept:county:bellingham concept:agentcontrols concept:city:washington_d_c 1
+concept:county:bellingham concept:atlocation concept:city:washington_d_c 1.5
+concept:county:bellingham concept:attractionofcity concept:city:washington_d_c 1
+concept:county:bellingham concept:hasofficeincountry concept:city:washington_d_c 0.75
+concept:county:bellingham concept:locationlocatedwithinlocation concept:city:washington_d_c 1.5
+concept:county:bellingham concept:proxyfor concept:city:washington_d_c 3.05
+concept:county:bellingham concept:sportsgameteam concept:city:washington_d_c 0.5
+concept:county:bellingham concept:subpartof concept:city:washington_d_c 2.68254
+---------------------------------
+concept:musician:streets concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:musician:streets concept:atlocation concept:sportsequipment:new 1
+concept:musician:streets concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:musician:streets concept:citylocatedinstate concept:sportsequipment:new 1
+concept:musician:streets concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:musician:streets concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:musician:streets concept:proxyfor concept:sportsequipment:new 1
+concept:musician:streets concept:subpartof concept:sportsequipment:new 1
+---------------------------------
+concept:city:elyria concept:mutualproxyfor concept:university:ohio 1
+
+concept:city:elyria concept:agentcontrols concept:university:ohio 1
+concept:city:elyria concept:atlocation concept:university:ohio 1
+concept:city:elyria concept:attractionofcity concept:university:ohio 1
+concept:city:elyria concept:locationlocatedwithinlocation concept:university:ohio 1
+concept:city:elyria concept:proxyfor concept:university:ohio 1.5
+concept:city:elyria concept:subpartof concept:university:ohio 1.5
+---------------------------------
+concept:person:monroe concept:mutualproxyfor concept:musicsong:louisiana 1
+
+concept:person:monroe concept:agentcontrols concept:musicsong:louisiana 1
+concept:person:monroe concept:atlocation concept:musicsong:louisiana 1
+concept:person:monroe concept:attractionofcity concept:musicsong:louisiana 1
+concept:person:monroe concept:locationlocatedwithinlocation concept:musicsong:louisiana 1
+concept:person:monroe concept:proxyfor concept:musicsong:louisiana 1.5
+concept:person:monroe concept:subpartof concept:musicsong:louisiana 1.5
+---------------------------------
+concept:skyscraper:financial_center concept:mutualproxyfor concept:politicaloffice:new 0
+
+---------------------------------
+concept:highway:trenton concept:mutualproxyfor concept:radiostation:new_jersey 1
+
+concept:highway:trenton concept:atlocation concept:radiostation:new_jersey 1
+concept:highway:trenton concept:attractionofcity concept:radiostation:new_jersey 1
+concept:highway:trenton concept:locationlocatedwithinlocation concept:radiostation:new_jersey 1
+concept:highway:trenton concept:proxyfor concept:radiostation:new_jersey 1.5
+concept:highway:trenton concept:subpartof concept:radiostation:new_jersey 1.5
+---------------------------------
+concept:musicartist:surprise concept:mutualproxyfor concept:sportsequipment:new 0
+
+---------------------------------
+concept:city:flemington concept:mutualproxyfor concept:stateorprovince:new_jersey 4
+
+concept:city:flemington concept:agentcontrols concept:stateorprovince:new_jersey 1
+concept:city:flemington concept:atlocation concept:stateorprovince:new_jersey 1.25
+concept:city:flemington concept:attractionofcity concept:stateorprovince:new_jersey 1
+concept:city:flemington concept:locationlocatedwithinlocation concept:stateorprovince:new_jersey 1
+concept:city:flemington concept:proxyfor concept:stateorprovince:new_jersey 3
+concept:city:flemington concept:sportsgameteam concept:stateorprovince:new_jersey 0.5
+concept:city:flemington concept:subpartof concept:stateorprovince:new_jersey 1
+---------------------------------
+concept:radiostation:new_jersey concept:mutualproxyfor concept:hotel:somerset 1.5
+
+concept:radiostation:new_jersey concept:atdate concept:hotel:somerset 0.0161079
+concept:radiostation:new_jersey concept:atlocation concept:hotel:somerset 1
+concept:radiostation:new_jersey concept:citylocatedingeopoliticallocation concept:hotel:somerset 1
+concept:radiostation:new_jersey concept:citylocatedinstate concept:hotel:somerset 1
+concept:radiostation:new_jersey concept:companyeconomicsector concept:hotel:somerset 0.5
+concept:radiostation:new_jersey concept:locationlocatedwithinlocation concept:hotel:somerset 1
+concept:radiostation:new_jersey concept:personleadsgeopoliticalorganization concept:hotel:somerset 1
+concept:radiostation:new_jersey concept:proxyfor concept:hotel:somerset 1
+concept:radiostation:new_jersey concept:subpartof concept:hotel:somerset 1
+---------------------------------
+concept:politicaloffice:new concept:mutualproxyfor concept:governmentorganization:state_courts 1.5
+
+concept:politicaloffice:new concept:atdate concept:governmentorganization:state_courts 0.0161079
+concept:politicaloffice:new concept:atlocation concept:governmentorganization:state_courts 1
+concept:politicaloffice:new concept:citylocatedingeopoliticallocation concept:governmentorganization:state_courts 1
+concept:politicaloffice:new concept:citylocatedinstate concept:governmentorganization:state_courts 1
+concept:politicaloffice:new concept:locationlocatedwithinlocation concept:governmentorganization:state_courts 1
+concept:politicaloffice:new concept:personleadsgeopoliticalorganization concept:governmentorganization:state_courts 1
+concept:politicaloffice:new concept:proxyfor concept:governmentorganization:state_courts 1
+concept:politicaloffice:new concept:subpartof concept:governmentorganization:state_courts 1
+---------------------------------
+concept:city:edmonds concept:mutualproxyfor concept:city:washington_d_c 2.5
+
+concept:city:edmonds concept:agentactsinlocation concept:city:washington_d_c 1.14197
+concept:city:edmonds concept:agentcollaborateswithagent concept:city:washington_d_c 1
+concept:city:edmonds concept:agentcompeteswithagent concept:city:washington_d_c 0.5
+concept:city:edmonds concept:atlocation concept:city:washington_d_c 1.5
+concept:city:edmonds concept:attractionofcity concept:city:washington_d_c 1
+concept:city:edmonds concept:hasofficeincountry concept:city:washington_d_c 0.75
+concept:city:edmonds concept:locationlocatedwithinlocation concept:city:washington_d_c 1.5
+concept:city:edmonds concept:proxyfor concept:city:washington_d_c 3.05
+concept:city:edmonds concept:sportsgameteam concept:city:washington_d_c 0.5
+concept:city:edmonds concept:subpartof concept:city:washington_d_c 1.68254
+---------------------------------
+concept:nongovorganization:u_s_ concept:mutualproxyfor concept:sportsequipment:new 2
+
+concept:nongovorganization:u_s_ concept:agentparticipatedinevent concept:sportsequipment:new 0.5
+concept:nongovorganization:u_s_ concept:atdate concept:sportsequipment:new 0.020447
+concept:nongovorganization:u_s_ concept:atlocation concept:sportsequipment:new 1
+concept:nongovorganization:u_s_ concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:nongovorganization:u_s_ concept:citylocatedinstate concept:sportsequipment:new 1
+concept:nongovorganization:u_s_ concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:nongovorganization:u_s_ concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:nongovorganization:u_s_ concept:proxyfor concept:sportsequipment:new 1.5
+concept:nongovorganization:u_s_ concept:subpartof concept:sportsequipment:new 1.18254
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:nongovorganization:cities 2
+
+concept:sportsequipment:new concept:atlocation concept:nongovorganization:cities 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:nongovorganization:cities 1
+concept:sportsequipment:new concept:citylocatedinstate concept:nongovorganization:cities 1
+concept:sportsequipment:new concept:lakeinstate concept:nongovorganization:cities 0.5
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:nongovorganization:cities 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:nongovorganization:cities 1
+concept:sportsequipment:new concept:proxyfor concept:nongovorganization:cities 1
+concept:sportsequipment:new concept:subpartof concept:nongovorganization:cities 2
+---------------------------------
+concept:city:wenatchee concept:mutualproxyfor concept:city:washington_d_c 2.5
+
+concept:city:wenatchee concept:agentactsinlocation concept:city:washington_d_c 1.14197
+concept:city:wenatchee concept:agentcollaborateswithagent concept:city:washington_d_c 1
+concept:city:wenatchee concept:agentcompeteswithagent concept:city:washington_d_c 0.5
+concept:city:wenatchee concept:atlocation concept:city:washington_d_c 1.5
+concept:city:wenatchee concept:attractionofcity concept:city:washington_d_c 1
+concept:city:wenatchee concept:hasofficeincountry concept:city:washington_d_c 0.75
+concept:city:wenatchee concept:locationlocatedwithinlocation concept:city:washington_d_c 1.5
+concept:city:wenatchee concept:proxyfor concept:city:washington_d_c 3.05
+concept:city:wenatchee concept:sportsgameteam concept:city:washington_d_c 0.5
+concept:city:wenatchee concept:subpartof concept:city:washington_d_c 1.68254
+---------------------------------
+concept:radiostation:new_jersey concept:mutualproxyfor concept:retailstore:burlington 1.5
+
+concept:radiostation:new_jersey concept:atdate concept:retailstore:burlington 0.0161079
+concept:radiostation:new_jersey concept:atlocation concept:retailstore:burlington 1
+concept:radiostation:new_jersey concept:citylocatedingeopoliticallocation concept:retailstore:burlington 1
+concept:radiostation:new_jersey concept:citylocatedinstate concept:retailstore:burlington 1
+concept:radiostation:new_jersey concept:companyeconomicsector concept:retailstore:burlington 0.75
+concept:radiostation:new_jersey concept:lakeinstate concept:retailstore:burlington 0.5
+concept:radiostation:new_jersey concept:locationlocatedwithinlocation concept:retailstore:burlington 1.5
+concept:radiostation:new_jersey concept:personleadsgeopoliticalorganization concept:retailstore:burlington 1
+concept:radiostation:new_jersey concept:proxyfor concept:retailstore:burlington 1
+concept:radiostation:new_jersey concept:subpartof concept:retailstore:burlington 1
+---------------------------------
+concept:profession:employees concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:profession:employees concept:atlocation concept:sportsequipment:new 1
+concept:profession:employees concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:profession:employees concept:citylocatedinstate concept:sportsequipment:new 1
+concept:profession:employees concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:profession:employees concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:profession:employees concept:proxyfor concept:sportsequipment:new 1
+concept:profession:employees concept:subpartof concept:sportsequipment:new 1.5
+---------------------------------
+concept:sportsequipment:board concept:mutualproxyfor concept:transportation:two 2
+
+concept:sportsequipment:board concept:agentcontrols concept:transportation:two 1
+concept:sportsequipment:board concept:atlocation concept:transportation:two 1
+concept:sportsequipment:board concept:citylocatedingeopoliticallocation concept:transportation:two 1
+concept:sportsequipment:board concept:citylocatedinstate concept:transportation:two 1
+concept:sportsequipment:board concept:locationlocatedwithinlocation concept:transportation:two 1
+concept:sportsequipment:board concept:personleadsgeopoliticalorganization concept:transportation:two 1
+concept:sportsequipment:board concept:proxyfor concept:transportation:two 1
+concept:sportsequipment:board concept:subpartof concept:transportation:two 2.25
+---------------------------------
+concept:writer:clayton concept:mutualproxyfor concept:company:north_carolina 0
+
+---------------------------------
+concept:newspaper:grand_island concept:mutualproxyfor concept:company:nebraska 0
+
+concept:newspaper:grand_island concept:proxyfor concept:company:nebraska 0.5
+concept:newspaper:grand_island concept:subpartof concept:company:nebraska 0.5
+---------------------------------
+concept:profession:division concept:mutualproxyfor concept:sportsequipment:new 0
+
+concept:profession:division concept:atdate concept:sportsequipment:new 0.00433913
+concept:profession:division concept:subpartof concept:sportsequipment:new 0.5
+---------------------------------
+concept:chemical:wilmington concept:mutualproxyfor concept:company:north_carolina 0.5
+
+concept:chemical:wilmington concept:subpartof concept:company:north_carolina 1
+---------------------------------
+concept:musicinstrument:buffalo concept:mutualproxyfor concept:company:new_york 1.5
+
+concept:musicinstrument:buffalo concept:agentactsinlocation concept:company:new_york 0.141967
+concept:musicinstrument:buffalo concept:agentcontrols concept:company:new_york 1
+concept:musicinstrument:buffalo concept:atlocation concept:company:new_york 1
+concept:musicinstrument:buffalo concept:citylocatedingeopoliticallocation concept:company:new_york 1
+concept:musicinstrument:buffalo concept:citylocatedinstate concept:company:new_york 1
+concept:musicinstrument:buffalo concept:lakeinstate concept:company:new_york 0.5
+concept:musicinstrument:buffalo concept:locationlocatedwithinlocation concept:company:new_york 1
+concept:musicinstrument:buffalo concept:personleadsgeopoliticalorganization concept:company:new_york 1
+concept:musicinstrument:buffalo concept:proxyfor concept:company:new_york 1
+concept:musicinstrument:buffalo concept:subpartof concept:company:new_york 2
+---------------------------------
+concept:magazine:charlotte concept:mutualproxyfor concept:company:north_carolina 1
+
+concept:magazine:charlotte concept:agentcontrols concept:company:north_carolina 1
+concept:magazine:charlotte concept:agentparticipatedinevent concept:company:north_carolina 1
+concept:magazine:charlotte concept:atlocation concept:company:north_carolina 1
+concept:magazine:charlotte concept:attractionofcity concept:company:north_carolina 1
+concept:magazine:charlotte concept:locationlocatedwithinlocation concept:company:north_carolina 1
+concept:magazine:charlotte concept:proxyfor concept:company:north_carolina 2
+concept:magazine:charlotte concept:sportsgameteam concept:company:north_carolina 0.5
+concept:magazine:charlotte concept:subpartof concept:company:north_carolina 2.18254
+---------------------------------
+concept:politicaloffice:new concept:mutualproxyfor concept:politicsbill:state_law 1.5
+
+concept:politicaloffice:new concept:atdate concept:politicsbill:state_law 0.0161079
+concept:politicaloffice:new concept:atlocation concept:politicsbill:state_law 1
+concept:politicaloffice:new concept:citylocatedingeopoliticallocation concept:politicsbill:state_law 1
+concept:politicaloffice:new concept:citylocatedinstate concept:politicsbill:state_law 1
+concept:politicaloffice:new concept:locationlocatedwithinlocation concept:politicsbill:state_law 1
+concept:politicaloffice:new concept:personleadsgeopoliticalorganization concept:politicsbill:state_law 1
+concept:politicaloffice:new concept:proxyfor concept:politicsbill:state_law 1
+concept:politicaloffice:new concept:subpartof concept:politicsbill:state_law 1
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:jobposition:municipality 1
+
+concept:sportsequipment:new concept:atlocation concept:jobposition:municipality 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:jobposition:municipality 1
+concept:sportsequipment:new concept:citylocatedinstate concept:jobposition:municipality 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:jobposition:municipality 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:jobposition:municipality 1
+concept:sportsequipment:new concept:proxyfor concept:jobposition:municipality 1
+concept:sportsequipment:new concept:subpartof concept:jobposition:municipality 1.5
+---------------------------------
+concept:city:amherst concept:mutualproxyfor concept:beach:massachusetts 2
+
+concept:city:amherst concept:agentcontrols concept:beach:massachusetts 1
+concept:city:amherst concept:atlocation concept:beach:massachusetts 1.1875
+concept:city:amherst concept:attractionofcity concept:beach:massachusetts 1
+concept:city:amherst concept:locationlocatedwithinlocation concept:beach:massachusetts 1
+concept:city:amherst concept:proxyfor concept:beach:massachusetts 2.5
+concept:city:amherst concept:subpartof concept:beach:massachusetts 1
+---------------------------------
+concept:beach:beach_haven concept:mutualproxyfor concept:radiostation:new_jersey 1
+
+concept:beach:beach_haven concept:atlocation concept:radiostation:new_jersey 1
+concept:beach:beach_haven concept:citylocatedingeopoliticallocation concept:radiostation:new_jersey 1
+concept:beach:beach_haven concept:citylocatedinstate concept:radiostation:new_jersey 1
+concept:beach:beach_haven concept:locationlocatedwithinlocation concept:radiostation:new_jersey 1
+concept:beach:beach_haven concept:personleadsgeopoliticalorganization concept:radiostation:new_jersey 1
+concept:beach:beach_haven concept:proxyfor concept:radiostation:new_jersey 1
+concept:beach:beach_haven concept:subpartof concept:radiostation:new_jersey 1
+---------------------------------
+concept:musicartist:gigs concept:mutualproxyfor concept:sportsequipment:new 0
+
+---------------------------------
+concept:radiostation:new_jersey concept:mutualproxyfor concept:city:flemington 0.5
+
+concept:radiostation:new_jersey concept:atdate concept:city:flemington 0.0161079
+concept:radiostation:new_jersey concept:companyeconomicsector concept:city:flemington 0.5
+concept:radiostation:new_jersey concept:lakeinstate concept:city:flemington 0.5
+concept:radiostation:new_jersey concept:proxyfor concept:city:flemington 0.2
+---------------------------------
+concept:radiostation:cleveland concept:mutualproxyfor concept:university:ohio 1
+
+concept:radiostation:cleveland concept:agentcontrols concept:university:ohio 1
+concept:radiostation:cleveland concept:agentparticipatedinevent concept:university:ohio 0.5
+concept:radiostation:cleveland concept:atlocation concept:university:ohio 1
+concept:radiostation:cleveland concept:attractionofcity concept:university:ohio 1
+concept:radiostation:cleveland concept:locationlocatedwithinlocation concept:university:ohio 1
+concept:radiostation:cleveland concept:organizationhiredperson concept:university:ohio 0.5
+concept:radiostation:cleveland concept:proxyfor concept:university:ohio 1.5
+concept:radiostation:cleveland concept:subpartof concept:university:ohio 1.5
+---------------------------------
+concept:city:washington_d_c concept:mutualproxyfor concept:highway:lakewood 0.5
+
+concept:city:washington_d_c concept:agentactsinlocation concept:highway:lakewood 1
+concept:city:washington_d_c concept:agentbelongstoorganization concept:highway:lakewood 1
+concept:city:washington_d_c concept:atdate concept:highway:lakewood 0.666667
+concept:city:washington_d_c concept:atlocation concept:highway:lakewood 1*
+concept:city:washington_d_c concept:cityliesonriver concept:highway:lakewood 0.2
+concept:city:washington_d_c concept:proxyfor concept:highway:lakewood 1.55
+concept:city:washington_d_c concept:subpartof concept:highway:lakewood 1.5
+concept:city:washington_d_c concept:subpartoforganization concept:highway:lakewood 0.109162
+---------------------------------
+concept:jobposition:meeting concept:mutualproxyfor concept:sportsequipment:new 0
+
+concept:jobposition:meeting concept:atdate concept:sportsequipment:new 0.00433913
+---------------------------------
+concept:person:lawrence001 concept:mutualproxyfor concept:creditunion:kansas 1
+
+concept:person:lawrence001 concept:agentcontrols concept:creditunion:kansas 1
+concept:person:lawrence001 concept:atlocation concept:creditunion:kansas 1
+concept:person:lawrence001 concept:attractionofcity concept:creditunion:kansas 1
+concept:person:lawrence001 concept:locationlocatedwithinlocation concept:creditunion:kansas 1
+concept:person:lawrence001 concept:proxyfor concept:creditunion:kansas 1
+concept:person:lawrence001 concept:subpartof concept:creditunion:kansas 1.5
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:politicsissue:oregon 0
+
+concept:sportsequipment:new concept:lakeinstate concept:politicsissue:oregon 0.5
+concept:sportsequipment:new concept:subpartof concept:politicsissue:oregon 0.5
+---------------------------------
+concept:profession:step concept:mutualproxyfor concept:sportsequipment:new 0
+
+---------------------------------
+concept:sportsequipment:board concept:mutualproxyfor concept:musician:vice_president 2
+
+concept:sportsequipment:board concept:agentcontrols concept:musician:vice_president 1
+concept:sportsequipment:board concept:atlocation concept:musician:vice_president 1
+concept:sportsequipment:board concept:citylocatedingeopoliticallocation concept:musician:vice_president 1
+concept:sportsequipment:board concept:citylocatedinstate concept:musician:vice_president 1
+concept:sportsequipment:board concept:locationlocatedwithinlocation concept:musician:vice_president 1
+concept:sportsequipment:board concept:personleadsgeopoliticalorganization concept:musician:vice_president 1
+concept:sportsequipment:board concept:proxyfor concept:musician:vice_president 1
+concept:sportsequipment:board concept:subpartof concept:musician:vice_president 2
+---------------------------------
+concept:winery:huntington concept:mutualproxyfor concept:company:west_virginia 1
+
+concept:winery:huntington concept:agentcontrols concept:company:west_virginia 1
+concept:winery:huntington concept:atlocation concept:company:west_virginia 1
+concept:winery:huntington concept:citylocatedingeopoliticallocation concept:company:west_virginia 1
+concept:winery:huntington concept:citylocatedinstate concept:company:west_virginia 1
+concept:winery:huntington concept:locationlocatedwithinlocation concept:company:west_virginia 1
+concept:winery:huntington concept:personleadsgeopoliticalorganization concept:company:west_virginia 1
+concept:winery:huntington concept:proxyfor concept:company:west_virginia 1
+concept:winery:huntington concept:subpartof concept:company:west_virginia 1.5
+---------------------------------
+concept:musicartist:delaware concept:mutualproxyfor concept:sportsequipment:new 0
+
+concept:musicartist:delaware concept:atdate concept:sportsequipment:new 0.00433913
+---------------------------------
+concept:jobposition:municipalities concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:jobposition:municipalities concept:atlocation concept:sportsequipment:new 1
+concept:jobposition:municipalities concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:jobposition:municipalities concept:citylocatedinstate concept:sportsequipment:new 1
+concept:jobposition:municipalities concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:jobposition:municipalities concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:jobposition:municipalities concept:proxyfor concept:sportsequipment:new 1
+concept:jobposition:municipalities concept:subpartof concept:sportsequipment:new 1
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:musician:vice_president 2
+
+concept:sportsequipment:new concept:atlocation concept:musician:vice_president 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:musician:vice_president 1
+concept:sportsequipment:new concept:citylocatedinstate concept:musician:vice_president 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:musician:vice_president 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:musician:vice_president 1
+concept:sportsequipment:new concept:proxyfor concept:musician:vice_president 1
+concept:sportsequipment:new concept:subpartof concept:musician:vice_president 2
+---------------------------------
+concept:university:state_university concept:mutualproxyfor concept:emotion:college 0.5
+
+concept:university:state_university concept:synonymfor concept:emotion:college 1.5
+---------------------------------
+concept:jobposition:candidate concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:jobposition:candidate concept:atlocation concept:sportsequipment:new 1
+concept:jobposition:candidate concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:jobposition:candidate concept:citylocatedinstate concept:sportsequipment:new 1
+concept:jobposition:candidate concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:jobposition:candidate concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:jobposition:candidate concept:proxyfor concept:sportsequipment:new 1
+concept:jobposition:candidate concept:subpartof concept:sportsequipment:new 1
+---------------------------------
+concept:university:parkersburg concept:mutualproxyfor concept:company:west_virginia 1
+
+concept:university:parkersburg concept:agentcontrols concept:company:west_virginia 1
+concept:university:parkersburg concept:atlocation concept:company:west_virginia 1
+concept:university:parkersburg concept:attractionofcity concept:company:west_virginia 1
+concept:university:parkersburg concept:locationlocatedwithinlocation concept:company:west_virginia 1
+concept:university:parkersburg concept:proxyfor concept:company:west_virginia 1.5
+concept:university:parkersburg concept:subpartof concept:company:west_virginia 1.5
+---------------------------------
+concept:airport:omaha concept:mutualproxyfor concept:company:nebraska 1
+
+concept:airport:omaha concept:atlocation concept:company:nebraska 1
+concept:airport:omaha concept:citylocatedingeopoliticallocation concept:company:nebraska 1
+concept:airport:omaha concept:citylocatedinstate concept:company:nebraska 1
+concept:airport:omaha concept:locationlocatedwithinlocation concept:company:nebraska 1
+concept:airport:omaha concept:personleadsgeopoliticalorganization concept:company:nebraska 1
+concept:airport:omaha concept:proxyfor concept:company:nebraska 1.5
+concept:airport:omaha concept:subpartof concept:company:nebraska 1
+---------------------------------
+concept:jobposition:municipality concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:jobposition:municipality concept:atlocation concept:sportsequipment:new 1
+concept:jobposition:municipality concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:jobposition:municipality concept:citylocatedinstate concept:sportsequipment:new 1
+concept:jobposition:municipality concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:jobposition:municipality concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:jobposition:municipality concept:proxyfor concept:sportsequipment:new 1
+concept:jobposition:municipality concept:subpartof concept:sportsequipment:new 1
+---------------------------------
+concept:beach:massachusetts concept:mutualproxyfor concept:person:lawrence001 0.5
+
+concept:beach:massachusetts concept:atdate concept:person:lawrence001 0.0161079
+concept:beach:massachusetts concept:lakeinstate concept:person:lawrence001 0.5
+concept:beach:massachusetts concept:proxyfor concept:person:lawrence001 0.666667
+concept:beach:massachusetts concept:subpartof concept:person:lawrence001 0.317461*
+---------------------------------
+concept:jobposition:proud_member concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:jobposition:proud_member concept:atlocation concept:sportsequipment:new 1
+concept:jobposition:proud_member concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:jobposition:proud_member concept:citylocatedinstate concept:sportsequipment:new 1
+concept:jobposition:proud_member concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:jobposition:proud_member concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:jobposition:proud_member concept:proxyfor concept:sportsequipment:new 1
+concept:jobposition:proud_member concept:subpartof concept:sportsequipment:new 1
+---------------------------------
+concept:musicartist:branches concept:mutualproxyfor concept:sportsequipment:new 0
+
+---------------------------------
+concept:academicfield:certification concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:academicfield:certification concept:atdate concept:sportsequipment:new 0.00433913
+concept:academicfield:certification concept:atlocation concept:sportsequipment:new 1
+concept:academicfield:certification concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:academicfield:certification concept:citylocatedinstate concept:sportsequipment:new 1
+concept:academicfield:certification concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:academicfield:certification concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:academicfield:certification concept:proxyfor concept:sportsequipment:new 1
+concept:academicfield:certification concept:subpartof concept:sportsequipment:new 1.5
+---------------------------------
+concept:company:new_york concept:mutualproxyfor concept:airport:watertown 1.5
+
+concept:company:new_york concept:agentparticipatedinevent concept:airport:watertown 0.5
+concept:company:new_york concept:atdate concept:airport:watertown 0.020447
+concept:company:new_york concept:atlocation concept:airport:watertown 1.125
+concept:company:new_york concept:citylocatedingeopoliticallocation concept:airport:watertown 1
+concept:company:new_york concept:citylocatedinstate concept:airport:watertown 1
+concept:company:new_york concept:companyeconomicsector concept:airport:watertown 0.5
+concept:company:new_york concept:locationlocatedwithinlocation concept:airport:watertown 1
+concept:company:new_york concept:personleadsgeopoliticalorganization concept:airport:watertown 1
+concept:company:new_york concept:proxyfor concept:airport:watertown 1.5
+concept:company:new_york concept:subpartof concept:airport:watertown 1.5
+---------------------------------
+concept:person:john_o_leary concept:mutualproxyfor concept:company:ryanair001 0
+
+concept:person:john_o_leary concept:agentcollaborateswithagent concept:company:ryanair001 0.5
+concept:person:john_o_leary concept:organizationhiredperson concept:company:ryanair001 1*
+concept:person:john_o_leary concept:organizationterminatedperson concept:company:ryanair001 1*
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:profession:law 1
+
+concept:sportsequipment:new concept:atlocation concept:profession:law 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:profession:law 1
+concept:sportsequipment:new concept:citylocatedinstate concept:profession:law 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:profession:law 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:profession:law 1
+concept:sportsequipment:new concept:proxyfor concept:profession:law 1
+concept:sportsequipment:new concept:subpartof concept:profession:law 1.5
+---------------------------------
+concept:academicfield:businesses concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:academicfield:businesses concept:atdate concept:sportsequipment:new 0.00433913
+concept:academicfield:businesses concept:atlocation concept:sportsequipment:new 1
+concept:academicfield:businesses concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:academicfield:businesses concept:citylocatedinstate concept:sportsequipment:new 1
+concept:academicfield:businesses concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:academicfield:businesses concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:academicfield:businesses concept:proxyfor concept:sportsequipment:new 1
+concept:academicfield:businesses concept:subpartof concept:sportsequipment:new 1.5
+---------------------------------
+concept:radiostation:new_jersey concept:mutualproxyfor concept:beach:beach_haven 1.5
+
+concept:radiostation:new_jersey concept:atdate concept:beach:beach_haven 0.0161079
+concept:radiostation:new_jersey concept:atlocation concept:beach:beach_haven 1
+concept:radiostation:new_jersey concept:citylocatedingeopoliticallocation concept:beach:beach_haven 1
+concept:radiostation:new_jersey concept:citylocatedinstate concept:beach:beach_haven 1
+concept:radiostation:new_jersey concept:companyeconomicsector concept:beach:beach_haven 0.5
+concept:radiostation:new_jersey concept:locationlocatedwithinlocation concept:beach:beach_haven 1
+concept:radiostation:new_jersey concept:personleadsgeopoliticalorganization concept:beach:beach_haven 1
+concept:radiostation:new_jersey concept:proxyfor concept:beach:beach_haven 1
+concept:radiostation:new_jersey concept:subpartof concept:beach:beach_haven 1
+---------------------------------
+concept:city:richland concept:mutualproxyfor concept:city:washington_d_c 2.5
+
+concept:city:richland concept:agentactsinlocation concept:city:washington_d_c 0.283934
+concept:city:richland concept:agentcontrols concept:city:washington_d_c 2
+concept:city:richland concept:atlocation concept:city:washington_d_c 2
+concept:city:richland concept:attractionofcity concept:city:washington_d_c 1
+concept:city:richland concept:citylocatedinstate concept:city:washington_d_c 0.357143
+concept:city:richland concept:locationlocatedwithinlocation concept:city:washington_d_c 1.5
+concept:city:richland concept:parkincity concept:city:washington_d_c 1
+concept:city:richland concept:proxyfor concept:city:washington_d_c 3.05
+concept:city:richland concept:sportsgameteam concept:city:washington_d_c 0.5
+concept:city:richland concept:stadiumlocatedincity concept:city:washington_d_c 1
+concept:city:richland concept:subpartof concept:city:washington_d_c 2.18254
+---------------------------------
+concept:musicartist:delaware concept:mutualproxyfor concept:writer:dover 1
+
+concept:musicartist:delaware concept:atdate concept:writer:dover 0.522616
+concept:musicartist:delaware concept:atlocation concept:writer:dover 1
+concept:musicartist:delaware concept:citylocatedingeopoliticallocation concept:writer:dover 1
+concept:musicartist:delaware concept:citylocatedinstate concept:writer:dover 1
+concept:musicartist:delaware concept:lakeinstate concept:writer:dover 0.5
+concept:musicartist:delaware concept:locationlocatedwithinlocation concept:writer:dover 1
+concept:musicartist:delaware concept:personleadsgeopoliticalorganization concept:writer:dover 1
+concept:musicartist:delaware concept:proxyfor concept:writer:dover 1.66667
+concept:musicartist:delaware concept:subpartof concept:writer:dover 1*
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:profession:movers 1
+
+concept:sportsequipment:new concept:atlocation concept:profession:movers 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:profession:movers 1
+concept:sportsequipment:new concept:citylocatedinstate concept:profession:movers 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:profession:movers 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:profession:movers 1
+concept:sportsequipment:new concept:proxyfor concept:profession:movers 1
+concept:sportsequipment:new concept:subpartof concept:profession:movers 1.5
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:nongovorganization:democrat 1
+
+concept:sportsequipment:new concept:atlocation concept:nongovorganization:democrat 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:nongovorganization:democrat 1
+concept:sportsequipment:new concept:citylocatedinstate concept:nongovorganization:democrat 1
+concept:sportsequipment:new concept:lakeinstate concept:nongovorganization:democrat 0.5
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:nongovorganization:democrat 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:nongovorganization:democrat 1
+concept:sportsequipment:new concept:proxyfor concept:nongovorganization:democrat 1
+concept:sportsequipment:new concept:subpartof concept:nongovorganization:democrat 1.5
+---------------------------------
+concept:person:raleigh concept:mutualproxyfor concept:company:north_carolina 1.5
+
+concept:person:raleigh concept:agentcontrols concept:company:north_carolina 1
+concept:person:raleigh concept:atlocation concept:company:north_carolina 1
+concept:person:raleigh concept:citylocatedingeopoliticallocation concept:company:north_carolina 1
+concept:person:raleigh concept:citylocatedinstate concept:company:north_carolina 1
+concept:person:raleigh concept:locationlocatedwithinlocation concept:company:north_carolina 1
+concept:person:raleigh concept:personleadsgeopoliticalorganization concept:company:north_carolina 1
+concept:person:raleigh concept:proxyfor concept:company:north_carolina 2
+concept:person:raleigh concept:sportsgameteam concept:company:north_carolina 0.5
+concept:person:raleigh concept:subpartof concept:company:north_carolina 2.18254
+---------------------------------
+concept:city:enid concept:mutualproxyfor concept:stateorprovince:oklahoma 2
+
+concept:city:enid concept:agentactsinlocation concept:stateorprovince:oklahoma 1
+concept:city:enid concept:agentcollaborateswithagent concept:stateorprovince:oklahoma 1
+concept:city:enid concept:atlocation concept:stateorprovince:oklahoma 1
+concept:city:enid concept:attractionofcity concept:stateorprovince:oklahoma 1
+concept:city:enid concept:hasofficeincountry concept:stateorprovince:oklahoma 0.25
+concept:city:enid concept:locationlocatedwithinlocation concept:stateorprovince:oklahoma 1
+concept:city:enid concept:proxyfor concept:stateorprovince:oklahoma 2
+concept:city:enid concept:subpartof concept:stateorprovince:oklahoma 1
+---------------------------------
+concept:ceo:jim_balsillie concept:mutualproxyfor concept:sportsequipment:rim 0
+
+---------------------------------
+concept:profession:size concept:mutualproxyfor concept:sportsequipment:new 0
+
+---------------------------------
+concept:airport:watertown concept:mutualproxyfor concept:company:new_york 1.5
+
+concept:airport:watertown concept:agentactsinlocation concept:company:new_york 0.141967
+concept:airport:watertown concept:atlocation concept:company:new_york 1
+concept:airport:watertown concept:citylocatedingeopoliticallocation concept:company:new_york 1
+concept:airport:watertown concept:citylocatedinstate concept:company:new_york 1
+concept:airport:watertown concept:lakeinstate concept:company:new_york 0.5
+concept:airport:watertown concept:locationlocatedwithinlocation concept:company:new_york 1
+concept:airport:watertown concept:personleadsgeopoliticalorganization concept:company:new_york 1
+concept:airport:watertown concept:proxyfor concept:company:new_york 1
+concept:airport:watertown concept:subpartof concept:company:new_york 1
+---------------------------------
+concept:musicartist:american concept:mutualproxyfor concept:sportsequipment:new 0
+
+concept:musicartist:american concept:agentactsinlocation concept:sportsequipment:new 0.141967
+concept:musicartist:american concept:agentparticipatedinevent concept:sportsequipment:new 0.5
+concept:musicartist:american concept:atlocation concept:sportsequipment:new 0.125
+---------------------------------
+concept:profession:information concept:mutualproxyfor concept:sportsequipment:new 0
+
+---------------------------------
+concept:politicianus:rudy_giuliani concept:mutualproxyfor concept:city:new_york 0
+
+concept:politicianus:rudy_giuliani concept:agentcollaborateswithagent concept:city:new_york 1.40897
+concept:politicianus:rudy_giuliani concept:organizationhiredperson concept:city:new_york 1*
+concept:politicianus:rudy_giuliani concept:organizationterminatedperson concept:city:new_york 1*
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:jobposition:agency 2
+
+concept:sportsequipment:new concept:atlocation concept:jobposition:agency 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:jobposition:agency 1
+concept:sportsequipment:new concept:citylocatedinstate concept:jobposition:agency 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:jobposition:agency 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:jobposition:agency 1
+concept:sportsequipment:new concept:proxyfor concept:jobposition:agency 1
+concept:sportsequipment:new concept:subpartof concept:jobposition:agency 2.25
+---------------------------------
+concept:chemical:wilmington concept:mutualproxyfor concept:musicartist:delaware 1.5
+
+concept:chemical:wilmington concept:agentcontrols concept:musicartist:delaware 1
+concept:chemical:wilmington concept:atlocation concept:musicartist:delaware 1
+concept:chemical:wilmington concept:citylocatedingeopoliticallocation concept:musicartist:delaware 1
+concept:chemical:wilmington concept:citylocatedinstate concept:musicartist:delaware 1
+concept:chemical:wilmington concept:locationlocatedwithinlocation concept:musicartist:delaware 1
+concept:chemical:wilmington concept:personleadsgeopoliticalorganization concept:musicartist:delaware 1
+concept:chemical:wilmington concept:proxyfor concept:musicartist:delaware 1
+concept:chemical:wilmington concept:subpartof concept:musicartist:delaware 2
+---------------------------------
+concept:county:salem concept:mutualproxyfor concept:beach:massachusetts 2
+
+concept:county:salem concept:agentcontrols concept:beach:massachusetts 1
+concept:county:salem concept:atlocation concept:beach:massachusetts 1.1875
+concept:county:salem concept:attractionofcity concept:beach:massachusetts 1
+concept:county:salem concept:locationlocatedwithinlocation concept:beach:massachusetts 1
+concept:county:salem concept:proxyfor concept:beach:massachusetts 2.5
+concept:county:salem concept:subpartof concept:beach:massachusetts 1.5
+---------------------------------
+concept:disease:suburb concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:disease:suburb concept:atlocation concept:sportsequipment:new 1
+concept:disease:suburb concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:disease:suburb concept:citylocatedinstate concept:sportsequipment:new 1
+concept:disease:suburb concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:disease:suburb concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:disease:suburb concept:proxyfor concept:sportsequipment:new 1
+concept:disease:suburb concept:subpartof concept:sportsequipment:new 1
+---------------------------------
+concept:musicsong:nebraska concept:mutualproxyfor concept:newspaper:grand_island 0
+
+---------------------------------
+concept:book:alexandria concept:mutualproxyfor concept:musicsong:louisiana 1
+
+concept:book:alexandria concept:agentcontrols concept:musicsong:louisiana 1
+concept:book:alexandria concept:atdate concept:musicsong:louisiana 0.00433913
+concept:book:alexandria concept:atlocation concept:musicsong:louisiana 1
+concept:book:alexandria concept:citylocatedingeopoliticallocation concept:musicsong:louisiana 1
+concept:book:alexandria concept:citylocatedinstate concept:musicsong:louisiana 1
+concept:book:alexandria concept:locationlocatedwithinlocation concept:musicsong:louisiana 1
+concept:book:alexandria concept:personleadsgeopoliticalorganization concept:musicsong:louisiana 1
+concept:book:alexandria concept:proxyfor concept:musicsong:louisiana 1
+concept:book:alexandria concept:subpartof concept:musicsong:louisiana 1.5
+---------------------------------
+concept:winery:framingham concept:mutualproxyfor concept:beach:massachusetts 2.5
+
+concept:winery:framingham concept:agentcontrols concept:beach:massachusetts 1
+concept:winery:framingham concept:atlocation concept:beach:massachusetts 1.1875
+concept:winery:framingham concept:citylocatedingeopoliticallocation concept:beach:massachusetts 1
+concept:winery:framingham concept:citylocatedinstate concept:beach:massachusetts 1
+concept:winery:framingham concept:locationlocatedwithinlocation concept:beach:massachusetts 1
+concept:winery:framingham concept:personleadsgeopoliticalorganization concept:beach:massachusetts 1
+concept:winery:framingham concept:proxyfor concept:beach:massachusetts 2
+concept:winery:framingham concept:subpartof concept:beach:massachusetts 1
+---------------------------------
+concept:radiostation:new_jersey concept:mutualproxyfor concept:street:hillside 0.5
+
+concept:radiostation:new_jersey concept:atdate concept:street:hillside 0.0161079
+concept:radiostation:new_jersey concept:companyeconomicsector concept:street:hillside 0.5
+---------------------------------
+concept:sportsleague:syracuse concept:mutualproxyfor concept:company:new_york 0
+
+---------------------------------
+concept:company:north_carolina concept:mutualproxyfor concept:person:raleigh 1.5
+
+concept:company:north_carolina concept:atdate concept:person:raleigh 0.538724
+concept:company:north_carolina concept:atlocation concept:person:raleigh 1
+concept:company:north_carolina concept:citylocatedingeopoliticallocation concept:person:raleigh 1
+concept:company:north_carolina concept:citylocatedinstate concept:person:raleigh 1
+concept:company:north_carolina concept:lakeinstate concept:person:raleigh 0.5
+concept:company:north_carolina concept:locationlocatedwithinlocation concept:person:raleigh 1
+concept:company:north_carolina concept:personleadsgeopoliticalorganization concept:person:raleigh 1
+concept:company:north_carolina concept:proxyfor concept:person:raleigh 1.66667
+concept:company:north_carolina concept:subpartof concept:person:raleigh 1.5*
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:academicfield:certification 2
+
+concept:sportsequipment:new concept:atlocation concept:academicfield:certification 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:academicfield:certification 1
+concept:sportsequipment:new concept:citylocatedinstate concept:academicfield:certification 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:academicfield:certification 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:academicfield:certification 1
+concept:sportsequipment:new concept:proxyfor concept:academicfield:certification 1
+concept:sportsequipment:new concept:subpartof concept:academicfield:certification 2
+---------------------------------
+concept:museum:wichita concept:mutualproxyfor concept:creditunion:kansas 1
+
+concept:museum:wichita concept:agentcontrols concept:creditunion:kansas 1
+concept:museum:wichita concept:atlocation concept:creditunion:kansas 1
+concept:museum:wichita concept:attractionofcity concept:creditunion:kansas 1
+concept:museum:wichita concept:locationlocatedwithinlocation concept:creditunion:kansas 1
+concept:museum:wichita concept:proxyfor concept:creditunion:kansas 1
+concept:museum:wichita concept:subpartof concept:creditunion:kansas 1.5
+---------------------------------
+concept:county:utica concept:mutualproxyfor concept:company:new_york 1.5
+
+concept:county:utica concept:agentactsinlocation concept:company:new_york 0.141967
+concept:county:utica concept:agentcontrols concept:company:new_york 1
+concept:county:utica concept:atlocation concept:company:new_york 1
+concept:county:utica concept:attractionofcity concept:company:new_york 1
+concept:county:utica concept:locationlocatedwithinlocation concept:company:new_york 1
+concept:county:utica concept:proxyfor concept:company:new_york 2.05
+concept:county:utica concept:sportsgameteam concept:company:new_york 0.5
+concept:county:utica concept:subpartof concept:company:new_york 2.18254
+---------------------------------
+concept:website:concord concept:mutualproxyfor concept:company:north_carolina 1
+
+concept:website:concord concept:agentcontrols concept:company:north_carolina 1
+concept:website:concord concept:atlocation concept:company:north_carolina 1
+concept:website:concord concept:attractionofcity concept:company:north_carolina 1
+concept:website:concord concept:locationlocatedwithinlocation concept:company:north_carolina 1
+concept:website:concord concept:proxyfor concept:company:north_carolina 2
+concept:website:concord concept:sportsgameteam concept:company:north_carolina 0.5
+concept:website:concord concept:subpartof concept:company:north_carolina 2.18254
+---------------------------------
+concept:university:akron concept:mutualproxyfor concept:university:ohio 1
+
+concept:university:akron concept:agentcontrols concept:university:ohio 1
+concept:university:akron concept:atlocation concept:university:ohio 1
+concept:university:akron concept:attractionofcity concept:university:ohio 1
+concept:university:akron concept:locationlocatedwithinlocation concept:university:ohio 1
+concept:university:akron concept:proxyfor concept:university:ohio 1.5
+concept:university:akron concept:subpartof concept:university:ohio 1.5
+---------------------------------
+concept:politicaloffice:office concept:mutualproxyfor concept:sportsequipment:board 1
+
+concept:politicaloffice:office concept:atdate concept:sportsequipment:board 0.00433913
+concept:politicaloffice:office concept:atlocation concept:sportsequipment:board 1
+concept:politicaloffice:office concept:citylocatedingeopoliticallocation concept:sportsequipment:board 1
+concept:politicaloffice:office concept:citylocatedinstate concept:sportsequipment:board 1
+concept:politicaloffice:office concept:locationlocatedwithinlocation concept:sportsequipment:board 1
+concept:politicaloffice:office concept:personleadsgeopoliticalorganization concept:sportsequipment:board 1
+concept:politicaloffice:office concept:proxyfor concept:sportsequipment:board 1
+concept:politicaloffice:office concept:subpartof concept:sportsequipment:board 1
+---------------------------------
+concept:website:boards concept:mutualproxyfor concept:sportsequipment:board 1
+
+concept:website:boards concept:atlocation concept:sportsequipment:board 1
+concept:website:boards concept:citylocatedingeopoliticallocation concept:sportsequipment:board 1
+concept:website:boards concept:citylocatedinstate concept:sportsequipment:board 1
+concept:website:boards concept:locationlocatedwithinlocation concept:sportsequipment:board 1
+concept:website:boards concept:personleadsgeopoliticalorganization concept:sportsequipment:board 1
+concept:website:boards concept:proxyfor concept:sportsequipment:board 1
+concept:website:boards concept:subpartof concept:sportsequipment:board 1
+---------------------------------
+concept:politician:jobs concept:mutualproxyfor concept:retailstore:apple_computers 1
+
+concept:politician:jobs concept:agentcompeteswithagent concept:retailstore:apple_computers 1
+concept:politician:jobs concept:agentcontrols concept:retailstore:apple_computers 1
+concept:politician:jobs concept:agentparticipatedinevent concept:retailstore:apple_computers 0.5
+concept:politician:jobs concept:atlocation concept:retailstore:apple_computers 1
+concept:politician:jobs concept:attractionofcity concept:retailstore:apple_computers 1
+concept:politician:jobs concept:locationlocatedwithinlocation concept:retailstore:apple_computers 1
+concept:politician:jobs concept:proxyfor concept:retailstore:apple_computers 1
+concept:politician:jobs concept:subpartof concept:retailstore:apple_computers 2.75
+---------------------------------
+concept:profession:meetings concept:mutualproxyfor concept:sportsequipment:board 0
+
+---------------------------------
+concept:radiostation:new_jersey concept:mutualproxyfor concept:city:franklin_park 0.5
+
+concept:radiostation:new_jersey concept:atdate concept:city:franklin_park 0.0161079
+concept:radiostation:new_jersey concept:companyeconomicsector concept:city:franklin_park 0.5
+---------------------------------
+concept:bank:lawyer concept:mutualproxyfor concept:sportsequipment:new 0
+
+concept:bank:lawyer concept:proxyfor concept:sportsequipment:new 0.5
+concept:bank:lawyer concept:subpartof concept:sportsequipment:new 0.182539
+---------------------------------
+concept:transportation:two concept:mutualproxyfor concept:sportsequipment:board 1
+
+concept:transportation:two concept:atdate concept:sportsequipment:board 0.00433913
+concept:transportation:two concept:atlocation concept:sportsequipment:board 1
+concept:transportation:two concept:citylocatedingeopoliticallocation concept:sportsequipment:board 1
+concept:transportation:two concept:citylocatedinstate concept:sportsequipment:board 1
+concept:transportation:two concept:locationlocatedwithinlocation concept:sportsequipment:board 1
+concept:transportation:two concept:personleadsgeopoliticalorganization concept:sportsequipment:board 1
+concept:transportation:two concept:proxyfor concept:sportsequipment:board 1
+concept:transportation:two concept:subpartof concept:sportsequipment:board 1
+---------------------------------
+concept:televisionstation:jersey_city concept:mutualproxyfor concept:radiostation:new_jersey 1
+
+concept:televisionstation:jersey_city concept:agentcontrols concept:radiostation:new_jersey 1
+concept:televisionstation:jersey_city concept:atlocation concept:radiostation:new_jersey 1
+concept:televisionstation:jersey_city concept:attractionofcity concept:radiostation:new_jersey 1
+concept:televisionstation:jersey_city concept:locationlocatedwithinlocation concept:radiostation:new_jersey 1
+concept:televisionstation:jersey_city concept:proxyfor concept:radiostation:new_jersey 1.5
+concept:televisionstation:jersey_city concept:subpartof concept:radiostation:new_jersey 1.5
+---------------------------------
+concept:sportsteam:rockets concept:mutualproxyfor concept:company:los_angeles 1.5
+
+concept:sportsteam:rockets concept:atlocation concept:company:los_angeles 1
+concept:sportsteam:rockets concept:citylocatedingeopoliticallocation concept:company:los_angeles 1
+concept:sportsteam:rockets concept:citylocatedinstate concept:company:los_angeles 1
+concept:sportsteam:rockets concept:locationlocatedwithinlocation concept:company:los_angeles 1
+concept:sportsteam:rockets concept:organizationhiredperson concept:company:los_angeles 0.25
+concept:sportsteam:rockets concept:personleadsgeopoliticalorganization concept:company:los_angeles 1
+concept:sportsteam:rockets concept:proxyfor concept:company:los_angeles 1
+concept:sportsteam:rockets concept:subpartof concept:company:los_angeles 1
+---------------------------------
+concept:company:new_york concept:mutualproxyfor concept:county:brooklyn 0.5
+
+concept:company:new_york concept:agentactsinlocation concept:county:brooklyn 0.141967
+concept:company:new_york concept:agentparticipatedinevent concept:county:brooklyn 1
+concept:company:new_york concept:atdate concept:county:brooklyn 0.020447
+concept:company:new_york concept:atlocation concept:county:brooklyn 0.125
+concept:company:new_york concept:companyeconomicsector concept:county:brooklyn 0.5
+concept:company:new_york concept:proxyfor concept:county:brooklyn 0.666667
+concept:company:new_york concept:subpartof concept:county:brooklyn 0.682539*
+---------------------------------
+concept:stateorprovince:new_jersey concept:mutualproxyfor concept:city:collingswood 0.5
+
+concept:stateorprovince:new_jersey concept:atdate concept:city:collingswood 0.538724
+concept:stateorprovince:new_jersey concept:atlocation concept:city:collingswood 0.75
+concept:stateorprovince:new_jersey concept:lakeinstate concept:city:collingswood 0.5
+---------------------------------
+concept:governmentorganization:ways concept:mutualproxyfor concept:politicaloffice:new 1
+
+concept:governmentorganization:ways concept:atlocation concept:politicaloffice:new 1
+concept:governmentorganization:ways concept:citylocatedingeopoliticallocation concept:politicaloffice:new 1
+concept:governmentorganization:ways concept:citylocatedinstate concept:politicaloffice:new 1
+concept:governmentorganization:ways concept:locationlocatedwithinlocation concept:politicaloffice:new 1
+concept:governmentorganization:ways concept:personleadsgeopoliticalorganization concept:politicaloffice:new 1
+concept:governmentorganization:ways concept:proxyfor concept:politicaloffice:new 1
+concept:governmentorganization:ways concept:subpartof concept:politicaloffice:new 1
+---------------------------------
+concept:musicsong:louisiana concept:mutualproxyfor concept:book:alexandria 2
+
+concept:musicsong:louisiana concept:agentcontrols concept:book:alexandria 0.75
+concept:musicsong:louisiana concept:atdate concept:book:alexandria 0.0161079
+concept:musicsong:louisiana concept:atlocation concept:book:alexandria 1
+concept:musicsong:louisiana concept:citylocatedingeopoliticallocation concept:book:alexandria 1
+concept:musicsong:louisiana concept:citylocatedinstate concept:book:alexandria 1
+concept:musicsong:louisiana concept:locationlocatedwithinlocation concept:book:alexandria 1
+concept:musicsong:louisiana concept:personleadsgeopoliticalorganization concept:book:alexandria 1
+concept:musicsong:louisiana concept:proxyfor concept:book:alexandria 1.66667
+concept:musicsong:louisiana concept:subpartof concept:book:alexandria 1*
+---------------------------------
+concept:jobposition:center concept:mutualproxyfor concept:sportsequipment:board 0
+
+---------------------------------
+concept:city:rolla concept:mutualproxyfor concept:company:missouri 1
+
+concept:city:rolla concept:agentcontrols concept:company:missouri 1
+concept:city:rolla concept:atlocation concept:company:missouri 1
+concept:city:rolla concept:attractionofcity concept:company:missouri 1
+concept:city:rolla concept:locationlocatedwithinlocation concept:company:missouri 1
+concept:city:rolla concept:proxyfor concept:company:missouri 1
+concept:city:rolla concept:subpartof concept:company:missouri 1.5
+---------------------------------
+concept:company:west_virginia concept:mutualproxyfor concept:city:princeton 0.5
+
+concept:company:west_virginia concept:agentbelongstoorganization concept:city:princeton 0.5
+concept:company:west_virginia concept:atdate concept:city:princeton 0.0161079
+concept:company:west_virginia concept:competeswith concept:city:princeton 0.25
+concept:company:west_virginia concept:lakeinstate concept:city:princeton 0.5
+concept:company:west_virginia concept:organizationhiredperson concept:city:princeton 0.5
+concept:company:west_virginia concept:subpartoforganization concept:city:princeton 0.329187
+concept:company:west_virginia concept:synonymfor concept:city:princeton 0.5
+---------------------------------
+concept:company:nebraska concept:mutualproxyfor concept:airport:omaha 1.5
+
+concept:company:nebraska concept:atdate concept:airport:omaha 0.0161079
+concept:company:nebraska concept:atlocation concept:airport:omaha 1
+concept:company:nebraska concept:citylocatedingeopoliticallocation concept:airport:omaha 1
+concept:company:nebraska concept:citylocatedinstate concept:airport:omaha 1
+concept:company:nebraska concept:companyeconomicsector concept:airport:omaha 0.5
+concept:company:nebraska concept:lakeinstate concept:airport:omaha 0.5
+concept:company:nebraska concept:locationlocatedwithinlocation concept:airport:omaha 1
+concept:company:nebraska concept:personleadsgeopoliticalorganization concept:airport:omaha 1
+concept:company:nebraska concept:proxyfor concept:airport:omaha 1
+concept:company:nebraska concept:subpartof concept:airport:omaha 1
+---------------------------------
+concept:criminal:baton_rouge concept:mutualproxyfor concept:musicsong:louisiana 1
+
+concept:criminal:baton_rouge concept:agentcontrols concept:musicsong:louisiana 1
+concept:criminal:baton_rouge concept:atlocation concept:musicsong:louisiana 1.1875
+concept:criminal:baton_rouge concept:attractionofcity concept:musicsong:louisiana 1
+concept:criminal:baton_rouge concept:locationlocatedwithinlocation concept:musicsong:louisiana 1
+concept:criminal:baton_rouge concept:proxyfor concept:musicsong:louisiana 1.5
+concept:criminal:baton_rouge concept:subpartof concept:musicsong:louisiana 1.5
+---------------------------------
+concept:sportsequipment:board concept:mutualproxyfor concept:emotion:officer 2
+
+concept:sportsequipment:board concept:agentcontrols concept:emotion:officer 1
+concept:sportsequipment:board concept:atlocation concept:emotion:officer 1
+concept:sportsequipment:board concept:citylocatedingeopoliticallocation concept:emotion:officer 1
+concept:sportsequipment:board concept:citylocatedinstate concept:emotion:officer 1
+concept:sportsequipment:board concept:locationlocatedwithinlocation concept:emotion:officer 1
+concept:sportsequipment:board concept:personleadsgeopoliticalorganization concept:emotion:officer 1
+concept:sportsequipment:board concept:proxyfor concept:emotion:officer 1
+concept:sportsequipment:board concept:subpartof concept:emotion:officer 2.25
+---------------------------------
+concept:company:los_angeles concept:mutualproxyfor concept:sportsteam:rockets 1
+
+concept:company:los_angeles concept:agentparticipatedinevent concept:sportsteam:rockets 0.5
+concept:company:los_angeles concept:atdate concept:sportsteam:rockets 0.00433913
+concept:company:los_angeles concept:atlocation concept:sportsteam:rockets 1
+concept:company:los_angeles concept:citylocatedingeopoliticallocation concept:sportsteam:rockets 1
+concept:company:los_angeles concept:citylocatedinstate concept:sportsteam:rockets 1
+concept:company:los_angeles concept:locationlocatedwithinlocation concept:sportsteam:rockets 1
+concept:company:los_angeles concept:personleadsgeopoliticalorganization concept:sportsteam:rockets 1
+concept:company:los_angeles concept:proxyfor concept:sportsteam:rockets 1
+concept:company:los_angeles concept:subpartof concept:sportsteam:rockets 1
+---------------------------------
+concept:university:ohio concept:mutualproxyfor concept:radiostation:canton 1.5
+
+concept:university:ohio concept:atdate concept:radiostation:canton 0.0161079
+concept:university:ohio concept:atlocation concept:radiostation:canton 1
+concept:university:ohio concept:citylocatedingeopoliticallocation concept:radiostation:canton 1
+concept:university:ohio concept:citylocatedinstate concept:radiostation:canton 1
+concept:university:ohio concept:locationlocatedwithinlocation concept:radiostation:canton 1
+concept:university:ohio concept:personleadsgeopoliticalorganization concept:radiostation:canton 1
+concept:university:ohio concept:proxyfor concept:radiostation:canton 1.66667
+concept:university:ohio concept:subpartof concept:radiostation:canton 1*
+---------------------------------
+concept:book:troy concept:mutualproxyfor concept:company:new_york 0.5
+
+concept:book:troy concept:agentactsinlocation concept:company:new_york 0.141967
+concept:book:troy concept:proxyfor concept:company:new_york 1.05
+concept:book:troy concept:sportsgameteam concept:company:new_york 0.5
+concept:book:troy concept:subpartof concept:company:new_york 0.182539
+---------------------------------
+concept:movie:broken_arrow concept:mutualproxyfor concept:musicsong:oklahoma 0
+
+concept:movie:broken_arrow concept:agentcontrols concept:musicsong:oklahoma 1
+concept:movie:broken_arrow concept:subpartof concept:musicsong:oklahoma 0.5
+---------------------------------
+concept:emotion:officer concept:mutualproxyfor concept:sportsequipment:board 1
+
+concept:emotion:officer concept:atdate concept:sportsequipment:board 0.00433913
+concept:emotion:officer concept:atlocation concept:sportsequipment:board 1
+concept:emotion:officer concept:citylocatedingeopoliticallocation concept:sportsequipment:board 1
+concept:emotion:officer concept:citylocatedinstate concept:sportsequipment:board 1
+concept:emotion:officer concept:locationlocatedwithinlocation concept:sportsequipment:board 1
+concept:emotion:officer concept:personleadsgeopoliticalorganization concept:sportsequipment:board 1
+concept:emotion:officer concept:proxyfor concept:sportsequipment:board 1
+concept:emotion:officer concept:subpartof concept:sportsequipment:board 1
+---------------------------------
+concept:writer:cherry_hill concept:mutualproxyfor concept:radiostation:new_jersey 1
+
+concept:writer:cherry_hill concept:atlocation concept:radiostation:new_jersey 1
+concept:writer:cherry_hill concept:citylocatedingeopoliticallocation concept:radiostation:new_jersey 1
+concept:writer:cherry_hill concept:citylocatedinstate concept:radiostation:new_jersey 1
+concept:writer:cherry_hill concept:locationlocatedwithinlocation concept:radiostation:new_jersey 1
+concept:writer:cherry_hill concept:personleadsgeopoliticalorganization concept:radiostation:new_jersey 1
+concept:writer:cherry_hill concept:proxyfor concept:radiostation:new_jersey 1
+concept:writer:cherry_hill concept:subpartof concept:radiostation:new_jersey 1
+---------------------------------
+concept:university:ohio concept:mutualproxyfor concept:coach:cincinnati 1.5
+
+concept:university:ohio concept:atdate concept:coach:cincinnati 0.0161079
+concept:university:ohio concept:atlocation concept:coach:cincinnati 1
+concept:university:ohio concept:citylocatedingeopoliticallocation concept:coach:cincinnati 1
+concept:university:ohio concept:citylocatedinstate concept:coach:cincinnati 1
+concept:university:ohio concept:locationlocatedwithinlocation concept:coach:cincinnati 1
+concept:university:ohio concept:personleadsgeopoliticalorganization concept:coach:cincinnati 1
+concept:university:ohio concept:proxyfor concept:coach:cincinnati 1.66667
+concept:university:ohio concept:subpartof concept:coach:cincinnati 1*
+---------------------------------
+concept:profession:parts concept:mutualproxyfor concept:sportsequipment:new 0
+
+---------------------------------
+concept:programminglanguage:the_new concept:mutualproxyfor concept:river:arts 2.5
+
+concept:programminglanguage:the_new concept:agentcontrols concept:river:arts 2.5
+concept:programminglanguage:the_new concept:atdate concept:river:arts 0.0161079
+concept:programminglanguage:the_new concept:atlocation concept:river:arts 0.5625
+concept:programminglanguage:the_new concept:locationlocatedwithinlocation concept:river:arts 1
+concept:programminglanguage:the_new concept:proxyfor concept:river:arts 1
+concept:programminglanguage:the_new concept:subpartof concept:river:arts 1
+---------------------------------
+concept:nongovorganization:friend concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:nongovorganization:friend concept:agentparticipatedinevent concept:sportsequipment:new 0.5
+concept:nongovorganization:friend concept:proxyfor concept:sportsequipment:new 0.5
+concept:nongovorganization:friend concept:subpartof concept:sportsequipment:new 0.182539
+---------------------------------
+concept:port:port_angeles concept:mutualproxyfor concept:city:washington_d_c 1
+
+concept:port:port_angeles concept:agentactsinlocation concept:city:washington_d_c 0.141967
+concept:port:port_angeles concept:agentcontrols concept:city:washington_d_c 1
+concept:port:port_angeles concept:atlocation concept:city:washington_d_c 1
+concept:port:port_angeles concept:citylocatedinstate concept:city:washington_d_c 0.357143
+concept:port:port_angeles concept:locationlocatedwithinlocation concept:city:washington_d_c 0.5
+concept:port:port_angeles concept:proxyfor concept:city:washington_d_c 1
+---------------------------------
+concept:radiostation:new_jersey concept:mutualproxyfor concept:radiostation:newark 1.5
+
+concept:radiostation:new_jersey concept:atdate concept:radiostation:newark 0.0161079
+concept:radiostation:new_jersey concept:atlocation concept:radiostation:newark 1
+concept:radiostation:new_jersey concept:citylocatedingeopoliticallocation concept:radiostation:newark 1
+concept:radiostation:new_jersey concept:citylocatedinstate concept:radiostation:newark 1
+concept:radiostation:new_jersey concept:companyeconomicsector concept:radiostation:newark 0.5
+concept:radiostation:new_jersey concept:locationlocatedwithinlocation concept:radiostation:newark 1
+concept:radiostation:new_jersey concept:personleadsgeopoliticalorganization concept:radiostation:newark 1
+concept:radiostation:new_jersey concept:proxyfor concept:radiostation:newark 2
+concept:radiostation:new_jersey concept:subpartof concept:radiostation:newark 1
+---------------------------------
+concept:city:fall_river concept:mutualproxyfor concept:beach:massachusetts 1
+
+concept:city:fall_river concept:atlocation concept:beach:massachusetts 1
+concept:city:fall_river concept:attractionofcity concept:beach:massachusetts 1
+concept:city:fall_river concept:locationlocatedwithinlocation concept:beach:massachusetts 1
+concept:city:fall_river concept:proxyfor concept:beach:massachusetts 1.5
+concept:city:fall_river concept:subpartof concept:beach:massachusetts 1
+---------------------------------
+concept:profession:right concept:mutualproxyfor concept:sportsequipment:new 0
+
+---------------------------------
+concept:company:west_virginia concept:mutualproxyfor concept:winery:huntington 1.5
+
+concept:company:west_virginia concept:atdate concept:winery:huntington 0.0161079
+concept:company:west_virginia concept:atlocation concept:winery:huntington 1
+concept:company:west_virginia concept:citylocatedingeopoliticallocation concept:winery:huntington 1
+concept:company:west_virginia concept:citylocatedinstate concept:winery:huntington 1
+concept:company:west_virginia concept:locationlocatedwithinlocation concept:winery:huntington 1
+concept:company:west_virginia concept:personleadsgeopoliticalorganization concept:winery:huntington 1
+concept:company:west_virginia concept:proxyfor concept:winery:huntington 1.66667
+concept:company:west_virginia concept:subpartof concept:winery:huntington 1*
+concept:company:west_virginia concept:subpartoforganization concept:winery:huntington 0.109162
+---------------------------------
+concept:politician:norwood concept:mutualproxyfor concept:beach:massachusetts 1
+
+concept:politician:norwood concept:agentcontrols concept:beach:massachusetts 2
+concept:politician:norwood concept:atlocation concept:beach:massachusetts 0.1875
+concept:politician:norwood concept:proxyfor concept:beach:massachusetts 1
+concept:politician:norwood concept:subpartof concept:beach:massachusetts 0.5
+---------------------------------
+concept:radiostation:new_jersey concept:mutualproxyfor concept:city:cranford 0.5
+
+concept:radiostation:new_jersey concept:atdate concept:city:cranford 0.0161079
+concept:radiostation:new_jersey concept:companyeconomicsector concept:city:cranford 0.5
+concept:radiostation:new_jersey concept:lakeinstate concept:city:cranford 1
+---------------------------------
+concept:park:roswell concept:mutualproxyfor concept:reptile:new_mexico 1
+
+concept:park:roswell concept:atlocation concept:reptile:new_mexico 1
+concept:park:roswell concept:attractionofcity concept:reptile:new_mexico 1
+concept:park:roswell concept:locationlocatedwithinlocation concept:reptile:new_mexico 1
+concept:park:roswell concept:proxyfor concept:reptile:new_mexico 1
+concept:park:roswell concept:subpartof concept:reptile:new_mexico 1
+---------------------------------
+concept:winery:mansfield concept:mutualproxyfor concept:university:ohio 1
+
+concept:winery:mansfield concept:atlocation concept:university:ohio 1
+concept:winery:mansfield concept:attractionofcity concept:university:ohio 1
+concept:winery:mansfield concept:locationlocatedwithinlocation concept:university:ohio 1
+concept:winery:mansfield concept:proxyfor concept:university:ohio 1.5
+concept:winery:mansfield concept:subpartof concept:university:ohio 1
+---------------------------------
+concept:musician:vice_president concept:mutualproxyfor concept:sportsequipment:board 1
+
+concept:musician:vice_president concept:atdate concept:sportsequipment:board 0.00433913
+concept:musician:vice_president concept:atlocation concept:sportsequipment:board 1
+concept:musician:vice_president concept:citylocatedingeopoliticallocation concept:sportsequipment:board 1
+concept:musician:vice_president concept:citylocatedinstate concept:sportsequipment:board 1
+concept:musician:vice_president concept:locationlocatedwithinlocation concept:sportsequipment:board 1
+concept:musician:vice_president concept:personleadsgeopoliticalorganization concept:sportsequipment:board 1
+concept:musician:vice_president concept:proxyfor concept:sportsequipment:board 1
+concept:musician:vice_president concept:subpartof concept:sportsequipment:board 1
+---------------------------------
+concept:emotion:new concept:mutualproxyfor concept:televisionstation:jersey_city 0.5
+
+concept:emotion:new concept:atdate concept:televisionstation:jersey_city 0.0161079
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:profession:meetings 1
+
+concept:sportsequipment:new concept:atlocation concept:profession:meetings 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:profession:meetings 1
+concept:sportsequipment:new concept:citylocatedinstate concept:profession:meetings 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:profession:meetings 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:profession:meetings 1
+concept:sportsequipment:new concept:proxyfor concept:profession:meetings 1
+concept:sportsequipment:new concept:subpartof concept:profession:meetings 1.5
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:profession:hours 1
+
+concept:sportsequipment:new concept:atlocation concept:profession:hours 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:profession:hours 1
+concept:sportsequipment:new concept:citylocatedinstate concept:profession:hours 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:profession:hours 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:profession:hours 1
+concept:sportsequipment:new concept:proxyfor concept:profession:hours 1
+concept:sportsequipment:new concept:subpartof concept:profession:hours 1.5
+---------------------------------
+concept:beach:massachusetts concept:mutualproxyfor concept:city:pittsfield 1.5
+
+concept:beach:massachusetts concept:atdate concept:city:pittsfield 0.0161079
+concept:beach:massachusetts concept:atlocation concept:city:pittsfield 1
+concept:beach:massachusetts concept:citylocatedingeopoliticallocation concept:city:pittsfield 1
+concept:beach:massachusetts concept:citylocatedinstate concept:city:pittsfield 1
+concept:beach:massachusetts concept:locationlocatedwithinlocation concept:city:pittsfield 1
+concept:beach:massachusetts concept:personleadsgeopoliticalorganization concept:city:pittsfield 1
+concept:beach:massachusetts concept:proxyfor concept:city:pittsfield 1.66667
+concept:beach:massachusetts concept:subpartof concept:city:pittsfield 1.31746*
+---------------------------------
+concept:radiostation:newark concept:mutualproxyfor concept:university:ohio 1
+
+concept:radiostation:newark concept:agentcontrols concept:university:ohio 1
+concept:radiostation:newark concept:atlocation concept:university:ohio 1
+concept:radiostation:newark concept:citylocatedingeopoliticallocation concept:university:ohio 1
+concept:radiostation:newark concept:citylocatedinstate concept:university:ohio 1
+concept:radiostation:newark concept:locationlocatedwithinlocation concept:university:ohio 1
+concept:radiostation:newark concept:personleadsgeopoliticalorganization concept:university:ohio 1
+concept:radiostation:newark concept:proxyfor concept:university:ohio 1
+concept:radiostation:newark concept:subpartof concept:university:ohio 1.5
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:jobposition:partner 1
+
+concept:sportsequipment:new concept:atlocation concept:jobposition:partner 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:jobposition:partner 1
+concept:sportsequipment:new concept:citylocatedinstate concept:jobposition:partner 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:jobposition:partner 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:jobposition:partner 1
+concept:sportsequipment:new concept:proxyfor concept:jobposition:partner 1
+concept:sportsequipment:new concept:subpartof concept:jobposition:partner 1.5
+---------------------------------
+concept:county:edison concept:mutualproxyfor concept:radiostation:new_jersey 1
+
+concept:county:edison concept:agentcontrols concept:radiostation:new_jersey 1
+concept:county:edison concept:atlocation concept:radiostation:new_jersey 1
+concept:county:edison concept:attractionofcity concept:radiostation:new_jersey 1
+concept:county:edison concept:locationlocatedwithinlocation concept:radiostation:new_jersey 1
+concept:county:edison concept:proxyfor concept:radiostation:new_jersey 1.5
+concept:county:edison concept:subpartof concept:radiostation:new_jersey 1.5
+---------------------------------
+concept:governmentorganization:states_department concept:mutualproxyfor concept:politicaloffice:new 1
+
+concept:governmentorganization:states_department concept:atlocation concept:politicaloffice:new 1
+concept:governmentorganization:states_department concept:citylocatedingeopoliticallocation concept:politicaloffice:new 1
+concept:governmentorganization:states_department concept:citylocatedinstate concept:politicaloffice:new 1
+concept:governmentorganization:states_department concept:locationlocatedwithinlocation concept:politicaloffice:new 1
+concept:governmentorganization:states_department concept:personleadsgeopoliticalorganization concept:politicaloffice:new 1
+concept:governmentorganization:states_department concept:proxyfor concept:politicaloffice:new 1
+concept:governmentorganization:states_department concept:subpartof concept:politicaloffice:new 1
+---------------------------------
+concept:jobposition:center concept:mutualproxyfor concept:sportsequipment:new 0
+
+---------------------------------
+concept:radiostation:morristown concept:mutualproxyfor concept:radiostation:new_jersey 1
+
+concept:radiostation:morristown concept:atlocation concept:radiostation:new_jersey 1
+concept:radiostation:morristown concept:attractionofcity concept:radiostation:new_jersey 1
+concept:radiostation:morristown concept:locationlocatedwithinlocation concept:radiostation:new_jersey 1
+concept:radiostation:morristown concept:proxyfor concept:radiostation:new_jersey 1.5
+concept:radiostation:morristown concept:subpartof concept:radiostation:new_jersey 1
+---------------------------------
+concept:stateorprovince:new_jersey concept:mutualproxyfor concept:city:elmwood_park 0.5
+
+concept:stateorprovince:new_jersey concept:atdate concept:city:elmwood_park 0.538724
+concept:stateorprovince:new_jersey concept:atlocation concept:city:elmwood_park 0.75
+concept:stateorprovince:new_jersey concept:lakeinstate concept:city:elmwood_park 0.5
+---------------------------------
+concept:politician:jobs concept:mutualproxyfor concept:company:apple 1
+
+concept:politician:jobs concept:agentcollaborateswithagent concept:company:apple 0.5
+concept:politician:jobs concept:agentcontrols concept:company:apple 1
+concept:politician:jobs concept:agentparticipatedinevent concept:company:apple 0.5
+concept:politician:jobs concept:atlocation concept:company:apple 1
+concept:politician:jobs concept:citylocatedingeopoliticallocation concept:company:apple 1
+concept:politician:jobs concept:citylocatedinstate concept:company:apple 1
+concept:politician:jobs concept:locationlocatedwithinlocation concept:company:apple 1
+concept:politician:jobs concept:organizationhiredperson concept:company:apple 1
+concept:politician:jobs concept:organizationterminatedperson concept:company:apple 1*
+concept:politician:jobs concept:personleadsgeopoliticalorganization concept:company:apple 1
+concept:politician:jobs concept:proxyfor concept:company:apple 1.5
+concept:politician:jobs concept:subpartof concept:company:apple 1.5
+---------------------------------
+concept:city:renton concept:mutualproxyfor concept:city:washington_d_c 2.5
+
+concept:city:renton concept:agentactsinlocation concept:city:washington_d_c 1.14197
+concept:city:renton concept:agentcollaborateswithagent concept:city:washington_d_c 1
+concept:city:renton concept:agentcompeteswithagent concept:city:washington_d_c 0.5
+concept:city:renton concept:agentcontrols concept:city:washington_d_c 1
+concept:city:renton concept:atlocation concept:city:washington_d_c 1.5
+concept:city:renton concept:attractionofcity concept:city:washington_d_c 1
+concept:city:renton concept:hasofficeincountry concept:city:washington_d_c 0.75
+concept:city:renton concept:locationlocatedwithinlocation concept:city:washington_d_c 1.5
+concept:city:renton concept:proxyfor concept:city:washington_d_c 3.05
+concept:city:renton concept:sportsgameteam concept:city:washington_d_c 0.5
+concept:city:renton concept:subpartof concept:city:washington_d_c 2.68254
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:profession:cape_may 0
+
+concept:sportsequipment:new concept:lakeinstate concept:profession:cape_may 0.5
+concept:sportsequipment:new concept:subpartof concept:profession:cape_may 0.5
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:profession:law_firms 1
+
+concept:sportsequipment:new concept:atlocation concept:profession:law_firms 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:profession:law_firms 1
+concept:sportsequipment:new concept:citylocatedinstate concept:profession:law_firms 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:profession:law_firms 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:profession:law_firms 1
+concept:sportsequipment:new concept:proxyfor concept:profession:law_firms 1
+concept:sportsequipment:new concept:subpartof concept:profession:law_firms 1.5
+---------------------------------
+concept:university:stony_brook concept:mutualproxyfor concept:company:new_york 1.5
+
+concept:university:stony_brook concept:agentactsinlocation concept:company:new_york 0.141967
+concept:university:stony_brook concept:atlocation concept:company:new_york 1
+concept:university:stony_brook concept:attractionofcity concept:company:new_york 1
+concept:university:stony_brook concept:locationlocatedwithinlocation concept:company:new_york 1
+concept:university:stony_brook concept:proxyfor concept:company:new_york 2.05
+concept:university:stony_brook concept:sportsgameteam concept:company:new_york 0.5
+concept:university:stony_brook concept:subpartof concept:company:new_york 1.18254
+---------------------------------
+concept:beverage:plymouth concept:mutualproxyfor concept:beach:massachusetts 2.5
+
+concept:beverage:plymouth concept:agentcontrols concept:beach:massachusetts 1
+concept:beverage:plymouth concept:atlocation concept:beach:massachusetts 1.1875
+concept:beverage:plymouth concept:citylocatedingeopoliticallocation concept:beach:massachusetts 1
+concept:beverage:plymouth concept:citylocatedinstate concept:beach:massachusetts 1
+concept:beverage:plymouth concept:locationlocatedwithinlocation concept:beach:massachusetts 1
+concept:beverage:plymouth concept:personleadsgeopoliticalorganization concept:beach:massachusetts 1
+concept:beverage:plymouth concept:proxyfor concept:beach:massachusetts 2
+concept:beverage:plymouth concept:subpartof concept:beach:massachusetts 1
+---------------------------------
+concept:room:saint_charles concept:mutualproxyfor concept:company:missouri 0
+
+---------------------------------
+concept:politicsblog:radio_station concept:mutualproxyfor concept:sportsequipment:new 0
+
+---------------------------------
+concept:coach:cincinnati concept:mutualproxyfor concept:university:ohio 1
+
+concept:coach:cincinnati concept:agentcontrols concept:university:ohio 1
+concept:coach:cincinnati concept:agentparticipatedinevent concept:university:ohio 0.5
+concept:coach:cincinnati concept:atlocation concept:university:ohio 1
+concept:coach:cincinnati concept:citylocatedingeopoliticallocation concept:university:ohio 1
+concept:coach:cincinnati concept:citylocatedinstate concept:university:ohio 1
+concept:coach:cincinnati concept:locationlocatedwithinlocation concept:university:ohio 1
+concept:coach:cincinnati concept:personleadsgeopoliticalorganization concept:university:ohio 1
+concept:coach:cincinnati concept:proxyfor concept:university:ohio 1
+concept:coach:cincinnati concept:subpartof concept:university:ohio 1.5
+---------------------------------
+concept:city:bellevue concept:mutualproxyfor concept:city:washington_d_c 2.5
+
+concept:city:bellevue concept:agentactsinlocation concept:city:washington_d_c 0.141967
+concept:city:bellevue concept:agentcontrols concept:city:washington_d_c 1
+concept:city:bellevue concept:atlocation concept:city:washington_d_c 1
+concept:city:bellevue concept:attractionofcity concept:city:washington_d_c 1
+concept:city:bellevue concept:lakeinstate concept:city:washington_d_c 0.5
+concept:city:bellevue concept:locationlocatedwithinlocation concept:city:washington_d_c 1
+concept:city:bellevue concept:proxyfor concept:city:washington_d_c 2.05
+concept:city:bellevue concept:sportsgameteam concept:city:washington_d_c 0.5
+concept:city:bellevue concept:subpartof concept:city:washington_d_c 2.18254
+---------------------------------
+concept:radiostation:new_jersey concept:mutualproxyfor concept:city:englewood 0.5
+
+concept:radiostation:new_jersey concept:atdate concept:city:englewood 0.0161079
+concept:radiostation:new_jersey concept:companyeconomicsector concept:city:englewood 0.5
+concept:radiostation:new_jersey concept:lakeinstate concept:city:englewood 1
+concept:radiostation:new_jersey concept:proxyfor concept:city:englewood 0.2
+---------------------------------
+concept:company:new_york concept:mutualproxyfor concept:musicinstrument:buffalo 1.5
+
+concept:company:new_york concept:agentactsinlocation concept:musicinstrument:buffalo 0.141967
+concept:company:new_york concept:agentparticipatedinevent concept:musicinstrument:buffalo 0.5
+concept:company:new_york concept:atdate concept:musicinstrument:buffalo 0.020447
+concept:company:new_york concept:atlocation concept:musicinstrument:buffalo 1.125
+concept:company:new_york concept:citylocatedingeopoliticallocation concept:musicinstrument:buffalo 1
+concept:company:new_york concept:citylocatedinstate concept:musicinstrument:buffalo 1
+concept:company:new_york concept:companyeconomicsector concept:musicinstrument:buffalo 0.5
+concept:company:new_york concept:locationlocatedwithinlocation concept:musicinstrument:buffalo 1
+concept:company:new_york concept:personleadsgeopoliticalorganization concept:musicinstrument:buffalo 1
+concept:company:new_york concept:proxyfor concept:musicinstrument:buffalo 2.16667
+concept:company:new_york concept:subpartof concept:musicinstrument:buffalo 1.68254*
+---------------------------------
+concept:charactertrait:attempt concept:mutualproxyfor concept:sportsequipment:new 0
+
+---------------------------------
+concept:profession:meetings concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:profession:meetings concept:atlocation concept:sportsequipment:new 1
+concept:profession:meetings concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:profession:meetings concept:citylocatedinstate concept:sportsequipment:new 1
+concept:profession:meetings concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:profession:meetings concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:profession:meetings concept:proxyfor concept:sportsequipment:new 1
+concept:profession:meetings concept:subpartof concept:sportsequipment:new 1
+---------------------------------
+concept:city:montclair concept:mutualproxyfor concept:stateorprovince:new_jersey 1
+
+concept:city:montclair concept:atlocation concept:stateorprovince:new_jersey 1
+concept:city:montclair concept:attractionofcity concept:stateorprovince:new_jersey 1
+concept:city:montclair concept:locationlocatedwithinlocation concept:stateorprovince:new_jersey 1
+concept:city:montclair concept:proxyfor concept:stateorprovince:new_jersey 2
+concept:city:montclair concept:sportsgameteam concept:stateorprovince:new_jersey 0.5
+concept:city:montclair concept:subpartof concept:stateorprovince:new_jersey 1
+---------------------------------
+concept:radiostation:canton concept:mutualproxyfor concept:university:ohio 1
+
+concept:radiostation:canton concept:agentcontrols concept:university:ohio 1
+concept:radiostation:canton concept:atlocation concept:university:ohio 1
+concept:radiostation:canton concept:citylocatedingeopoliticallocation concept:university:ohio 1
+concept:radiostation:canton concept:citylocatedinstate concept:university:ohio 1
+concept:radiostation:canton concept:locationlocatedwithinlocation concept:university:ohio 1
+concept:radiostation:canton concept:personleadsgeopoliticalorganization concept:university:ohio 1
+concept:radiostation:canton concept:proxyfor concept:university:ohio 1
+concept:radiostation:canton concept:subpartof concept:university:ohio 1.5
+---------------------------------
+concept:profession:cape_may concept:mutualproxyfor concept:radiostation:new_jersey 1
+
+concept:profession:cape_may concept:atlocation concept:radiostation:new_jersey 1
+concept:profession:cape_may concept:attractionofcity concept:radiostation:new_jersey 1
+concept:profession:cape_may concept:locationlocatedwithinlocation concept:radiostation:new_jersey 1
+concept:profession:cape_may concept:proxyfor concept:radiostation:new_jersey 1.5
+concept:profession:cape_may concept:subpartof concept:radiostation:new_jersey 1
+---------------------------------
+concept:person:ed_koch001 concept:mutualproxyfor concept:city:york 1
+
+concept:person:ed_koch001 concept:organizationhiredperson concept:city:york 1
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:jobposition:municipalities 1
+
+concept:sportsequipment:new concept:atlocation concept:jobposition:municipalities 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:jobposition:municipalities 1
+concept:sportsequipment:new concept:citylocatedinstate concept:jobposition:municipalities 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:jobposition:municipalities 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:jobposition:municipalities 1
+concept:sportsequipment:new concept:proxyfor concept:jobposition:municipalities 1
+concept:sportsequipment:new concept:subpartof concept:jobposition:municipalities 1.5
+---------------------------------
+concept:university:state_university concept:mutualproxyfor concept:scientist:associate_professor 1
+
+concept:university:state_university concept:atlocation concept:scientist:associate_professor 1
+concept:university:state_university concept:citylocatedingeopoliticallocation concept:scientist:associate_professor 1
+concept:university:state_university concept:citylocatedinstate concept:scientist:associate_professor 1
+concept:university:state_university concept:locationlocatedwithinlocation concept:scientist:associate_professor 1
+concept:university:state_university concept:personleadsgeopoliticalorganization concept:scientist:associate_professor 1
+concept:university:state_university concept:proxyfor concept:scientist:associate_professor 1
+concept:university:state_university concept:subpartof concept:scientist:associate_professor 1
+---------------------------------
+concept:writer:dover concept:mutualproxyfor concept:musicartist:delaware 1.5
+
+concept:writer:dover concept:agentcontrols concept:musicartist:delaware 1
+concept:writer:dover concept:atlocation concept:musicartist:delaware 1
+concept:writer:dover concept:citylocatedingeopoliticallocation concept:musicartist:delaware 1
+concept:writer:dover concept:citylocatedinstate concept:musicartist:delaware 1
+concept:writer:dover concept:locationlocatedwithinlocation concept:musicartist:delaware 1
+concept:writer:dover concept:personleadsgeopoliticalorganization concept:musicartist:delaware 1
+concept:writer:dover concept:proxyfor concept:musicartist:delaware 2
+concept:writer:dover concept:sportsgameteam concept:musicartist:delaware 0.5
+concept:writer:dover concept:subpartof concept:musicartist:delaware 2
+---------------------------------
+concept:city:lawton concept:mutualproxyfor concept:stateorprovince:oklahoma 2
+
+concept:city:lawton concept:atlocation concept:stateorprovince:oklahoma 1
+concept:city:lawton concept:attractionofcity concept:stateorprovince:oklahoma 1
+concept:city:lawton concept:locationlocatedwithinlocation concept:stateorprovince:oklahoma 1
+concept:city:lawton concept:proxyfor concept:stateorprovince:oklahoma 1
+concept:city:lawton concept:subpartof concept:stateorprovince:oklahoma 1
+---------------------------------
+concept:politician:bret_schundler concept:mutualproxyfor concept:county:jersey_city 1
+
+concept:politician:bret_schundler concept:organizationhiredperson concept:county:jersey_city 1
+---------------------------------
+concept:county:newton concept:mutualproxyfor concept:beach:massachusetts 2
+
+concept:county:newton concept:agentcollaborateswithagent concept:beach:massachusetts 0.091032
+concept:county:newton concept:agentcontrols concept:beach:massachusetts 1
+concept:county:newton concept:atlocation concept:beach:massachusetts 1.1875
+concept:county:newton concept:attractionofcity concept:beach:massachusetts 1
+concept:county:newton concept:locationlocatedwithinlocation concept:beach:massachusetts 1
+concept:county:newton concept:proxyfor concept:beach:massachusetts 2.5
+concept:county:newton concept:subpartof concept:beach:massachusetts 1.5
+---------------------------------
+concept:radiostation:topeka concept:mutualproxyfor concept:creditunion:kansas 1
+
+concept:radiostation:topeka concept:agentcontrols concept:creditunion:kansas 1
+concept:radiostation:topeka concept:atlocation concept:creditunion:kansas 1
+concept:radiostation:topeka concept:attractionofcity concept:creditunion:kansas 1
+concept:radiostation:topeka concept:locationlocatedwithinlocation concept:creditunion:kansas 1
+concept:radiostation:topeka concept:proxyfor concept:creditunion:kansas 1
+concept:radiostation:topeka concept:subpartof concept:creditunion:kansas 1.5
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:jobposition:proud_member 1
+
+concept:sportsequipment:new concept:atlocation concept:jobposition:proud_member 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:jobposition:proud_member 1
+concept:sportsequipment:new concept:citylocatedinstate concept:jobposition:proud_member 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:jobposition:proud_member 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:jobposition:proud_member 1
+concept:sportsequipment:new concept:proxyfor concept:jobposition:proud_member 1
+concept:sportsequipment:new concept:subpartof concept:jobposition:proud_member 1.5
+---------------------------------
+concept:city:washington_d_c concept:mutualproxyfor concept:room:kent 0.5
+
+concept:city:washington_d_c concept:atdate concept:room:kent 0.020447
+concept:city:washington_d_c concept:atlocation concept:room:kent 0.125
+concept:city:washington_d_c concept:cityliesonriver concept:room:kent 0.5
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:room:kent 1.625*
+concept:city:washington_d_c concept:subpartof concept:room:kent 1.5
+concept:city:washington_d_c concept:subpartoforganization concept:room:kent 0.109162
+---------------------------------
+concept:company:apple concept:mutualproxyfor concept:politician:jobs 1
+
+concept:company:apple concept:agentcontrols concept:politician:jobs 0.199549
+concept:company:apple concept:atlocation concept:politician:jobs 1
+concept:company:apple concept:citylocatedingeopoliticallocation concept:politician:jobs 1
+concept:company:apple concept:citylocatedinstate concept:politician:jobs 1
+concept:company:apple concept:companyeconomicsector concept:politician:jobs 0.5
+concept:company:apple concept:lakeinstate concept:politician:jobs 0.5
+concept:company:apple concept:locationlocatedwithinlocation concept:politician:jobs 1
+concept:company:apple concept:organizationterminatedperson concept:politician:jobs 0.5
+concept:company:apple concept:personleadsgeopoliticalorganization concept:politician:jobs 1
+concept:company:apple concept:personleadsorganization concept:politician:jobs 1
+concept:company:apple concept:proxyfor concept:politician:jobs 1.66667
+concept:company:apple concept:subpartof concept:politician:jobs 1*
+---------------------------------
+concept:city:pittsfield concept:mutualproxyfor concept:beach:massachusetts 1.5
+
+concept:city:pittsfield concept:agentcontrols concept:beach:massachusetts 1
+concept:city:pittsfield concept:atlocation concept:beach:massachusetts 1
+concept:city:pittsfield concept:cityliesonriver concept:beach:massachusetts 0.25
+concept:city:pittsfield concept:citylocatedingeopoliticallocation concept:beach:massachusetts 1
+concept:city:pittsfield concept:citylocatedinstate concept:beach:massachusetts 1
+concept:city:pittsfield concept:locationlocatedwithinlocation concept:beach:massachusetts 1
+concept:city:pittsfield concept:personleadsgeopoliticalorganization concept:beach:massachusetts 1
+concept:city:pittsfield concept:proxyfor concept:beach:massachusetts 1
+concept:city:pittsfield concept:subpartof concept:beach:massachusetts 1.5
+---------------------------------
+concept:radiostation:lima concept:mutualproxyfor concept:university:ohio 1
+
+concept:radiostation:lima concept:agentcontrols concept:university:ohio 1
+concept:radiostation:lima concept:atlocation concept:university:ohio 1
+concept:radiostation:lima concept:attractionofcity concept:university:ohio 1
+concept:radiostation:lima concept:locationlocatedwithinlocation concept:university:ohio 1
+concept:radiostation:lima concept:proxyfor concept:university:ohio 1.5
+concept:radiostation:lima concept:subpartof concept:university:ohio 1.5
+---------------------------------
+concept:economicsector:whole_life concept:mutualproxyfor concept:sportsequipment:new 0
+
+---------------------------------
+concept:sportsteamposition:edmond concept:mutualproxyfor concept:musicsong:oklahoma 0
+
+---------------------------------
+concept:profession:camden concept:mutualproxyfor concept:radiostation:new_jersey 1
+
+concept:profession:camden concept:atlocation concept:radiostation:new_jersey 1
+concept:profession:camden concept:attractionofcity concept:radiostation:new_jersey 1
+concept:profession:camden concept:locationlocatedwithinlocation concept:radiostation:new_jersey 1
+concept:profession:camden concept:proxyfor concept:radiostation:new_jersey 1.5
+concept:profession:camden concept:subpartof concept:radiostation:new_jersey 1
+---------------------------------
+concept:jobposition:governments concept:mutualproxyfor concept:sportsequipment:new 0
+
+---------------------------------
+concept:newspaper:jackson concept:mutualproxyfor concept:university:ohio 0
+
+---------------------------------
+concept:protein:no_ concept:mutualproxyfor concept:sportsequipment:new 0
+
+---------------------------------
+concept:sportsteam:knicks concept:mutualproxyfor concept:company:los_angeles 0
+
+concept:sportsteam:knicks concept:agentcompeteswithagent concept:company:los_angeles 0.5
+concept:sportsteam:knicks concept:organizationhiredperson concept:company:los_angeles 0.25
+---------------------------------
+concept:person:elizabeth001 concept:mutualproxyfor concept:radiostation:new_jersey 1
+
+concept:person:elizabeth001 concept:atlocation concept:radiostation:new_jersey 1
+concept:person:elizabeth001 concept:attractionofcity concept:radiostation:new_jersey 1
+concept:person:elizabeth001 concept:locationlocatedwithinlocation concept:radiostation:new_jersey 1
+concept:person:elizabeth001 concept:proxyfor concept:radiostation:new_jersey 1.5
+concept:person:elizabeth001 concept:subpartof concept:radiostation:new_jersey 1
+---------------------------------
+concept:website:concord concept:mutualproxyfor concept:newspaper:new_hampshire 1
+
+concept:website:concord concept:atlocation concept:newspaper:new_hampshire 1
+concept:website:concord concept:attractionofcity concept:newspaper:new_hampshire 1
+concept:website:concord concept:locationlocatedwithinlocation concept:newspaper:new_hampshire 1
+concept:website:concord concept:proxyfor concept:newspaper:new_hampshire 1
+concept:website:concord concept:subpartof concept:newspaper:new_hampshire 1.5
+---------------------------------
+concept:city:washington_d_c concept:mutualproxyfor concept:stateorprovince:district_of_columbia 2.5
+
+concept:city:washington_d_c concept:agentcontrols concept:stateorprovince:district_of_columbia 2
+concept:city:washington_d_c concept:atdate concept:stateorprovince:district_of_columbia 0.020447
+concept:city:washington_d_c concept:atlocation concept:stateorprovince:district_of_columbia 1.1875
+concept:city:washington_d_c concept:attractionofcity concept:stateorprovince:district_of_columbia 1
+concept:city:washington_d_c concept:locationlocatedwithinlocation concept:stateorprovince:district_of_columbia 1
+concept:city:washington_d_c concept:proxyfor concept:stateorprovince:district_of_columbia 2
+concept:city:washington_d_c concept:subpartof concept:stateorprovince:district_of_columbia 1.5
+concept:city:washington_d_c concept:subpartoforganization concept:stateorprovince:district_of_columbia 0.109162
+---------------------------------
+concept:politicaloffice:new concept:mutualproxyfor concept:governmentorganization:ways 1.5
+
+concept:politicaloffice:new concept:atdate concept:governmentorganization:ways 0.0161079
+concept:politicaloffice:new concept:atlocation concept:governmentorganization:ways 1
+concept:politicaloffice:new concept:citylocatedingeopoliticallocation concept:governmentorganization:ways 1
+concept:politicaloffice:new concept:citylocatedinstate concept:governmentorganization:ways 1
+concept:politicaloffice:new concept:locationlocatedwithinlocation concept:governmentorganization:ways 1
+concept:politicaloffice:new concept:personleadsgeopoliticalorganization concept:governmentorganization:ways 1
+concept:politicaloffice:new concept:proxyfor concept:governmentorganization:ways 1
+concept:politicaloffice:new concept:subpartof concept:governmentorganization:ways 1
+---------------------------------
+concept:stateorprovince:new_jersey concept:mutualproxyfor concept:visualizablescene:cedar_grove 0.5
+
+concept:stateorprovince:new_jersey concept:atdate concept:visualizablescene:cedar_grove 0.538724
+concept:stateorprovince:new_jersey concept:atlocation concept:visualizablescene:cedar_grove 0.75
+concept:stateorprovince:new_jersey concept:lakeinstate concept:visualizablescene:cedar_grove 0.5
+---------------------------------
+concept:city:yakima concept:mutualproxyfor concept:city:washington_d_c 2.5
+
+concept:city:yakima concept:agentactsinlocation concept:city:washington_d_c 1.14197
+concept:city:yakima concept:agentcollaborateswithagent concept:city:washington_d_c 1
+concept:city:yakima concept:agentcompeteswithagent concept:city:washington_d_c 0.5
+concept:city:yakima concept:agentcontrols concept:city:washington_d_c 1
+concept:city:yakima concept:atlocation concept:city:washington_d_c 1.5
+concept:city:yakima concept:attractionofcity concept:city:washington_d_c 1
+concept:city:yakima concept:hasofficeincountry concept:city:washington_d_c 0.75
+concept:city:yakima concept:locationlocatedwithinlocation concept:city:washington_d_c 1.5
+concept:city:yakima concept:proxyfor concept:city:washington_d_c 3.05
+concept:city:yakima concept:sportsgameteam concept:city:washington_d_c 0.5
+concept:city:yakima concept:subpartof concept:city:washington_d_c 2.68254
+---------------------------------
+concept:profession:law_firms concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:profession:law_firms concept:atlocation concept:sportsequipment:new 1
+concept:profession:law_firms concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:profession:law_firms concept:citylocatedinstate concept:sportsequipment:new 1
+concept:profession:law_firms concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:profession:law_firms concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:profession:law_firms concept:proxyfor concept:sportsequipment:new 1
+concept:profession:law_firms concept:subpartof concept:sportsequipment:new 1
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:musician:streets 1
+
+concept:sportsequipment:new concept:atlocation concept:musician:streets 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:musician:streets 1
+concept:sportsequipment:new concept:citylocatedinstate concept:musician:streets 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:musician:streets 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:musician:streets 1
+concept:sportsequipment:new concept:proxyfor concept:musician:streets 1
+concept:sportsequipment:new concept:subpartof concept:musician:streets 1.5
+---------------------------------
+concept:visualizablescene:joplin concept:mutualproxyfor concept:company:missouri 1
+
+concept:visualizablescene:joplin concept:agentcontrols concept:company:missouri 1
+concept:visualizablescene:joplin concept:atlocation concept:company:missouri 1
+concept:visualizablescene:joplin concept:attractionofcity concept:company:missouri 1
+concept:visualizablescene:joplin concept:locationlocatedwithinlocation concept:company:missouri 1
+concept:visualizablescene:joplin concept:proxyfor concept:company:missouri 1
+concept:visualizablescene:joplin concept:subpartof concept:company:missouri 1.5
+---------------------------------
+concept:musicsong:salina concept:mutualproxyfor concept:creditunion:kansas 1
+
+concept:musicsong:salina concept:agentcontrols concept:creditunion:kansas 1
+concept:musicsong:salina concept:atlocation concept:creditunion:kansas 1
+concept:musicsong:salina concept:attractionofcity concept:creditunion:kansas 1
+concept:musicsong:salina concept:locationlocatedwithinlocation concept:creditunion:kansas 1
+concept:musicsong:salina concept:proxyfor concept:creditunion:kansas 1
+concept:musicsong:salina concept:subpartof concept:creditunion:kansas 1.5
+---------------------------------
+concept:company:nashua concept:mutualproxyfor concept:newspaper:new_hampshire 1
+
+concept:company:nashua concept:atlocation concept:newspaper:new_hampshire 1
+concept:company:nashua concept:attractionofcity concept:newspaper:new_hampshire 1
+concept:company:nashua concept:locationlocatedwithinlocation concept:newspaper:new_hampshire 1
+concept:company:nashua concept:proxyfor concept:newspaper:new_hampshire 1
+concept:company:nashua concept:subpartof concept:newspaper:new_hampshire 1
+---------------------------------
+concept:city:tulsa concept:mutualproxyfor concept:stateorprovince:oklahoma 2
+
+concept:city:tulsa concept:atlocation concept:stateorprovince:oklahoma 1
+concept:city:tulsa concept:attractionofcity concept:stateorprovince:oklahoma 1
+concept:city:tulsa concept:locationlocatedwithinlocation concept:stateorprovince:oklahoma 1
+concept:city:tulsa concept:proxyfor concept:stateorprovince:oklahoma 1
+concept:city:tulsa concept:subpartof concept:stateorprovince:oklahoma 1
+---------------------------------
+concept:politicsbill:state_law concept:mutualproxyfor concept:politicaloffice:new 1
+
+concept:politicsbill:state_law concept:atlocation concept:politicaloffice:new 1
+concept:politicsbill:state_law concept:citylocatedingeopoliticallocation concept:politicaloffice:new 1
+concept:politicsbill:state_law concept:citylocatedinstate concept:politicaloffice:new 1
+concept:politicsbill:state_law concept:locationlocatedwithinlocation concept:politicaloffice:new 1
+concept:politicsbill:state_law concept:personleadsgeopoliticalorganization concept:politicaloffice:new 1
+concept:politicsbill:state_law concept:proxyfor concept:politicaloffice:new 1
+concept:politicsbill:state_law concept:subpartof concept:politicaloffice:new 1
+---------------------------------
+concept:sociopolitical:independence concept:mutualproxyfor concept:company:missouri 1
+
+concept:sociopolitical:independence concept:agentcontrols concept:company:missouri 1
+concept:sociopolitical:independence concept:atdate concept:company:missouri 0.00433913
+concept:sociopolitical:independence concept:atlocation concept:company:missouri 1
+concept:sociopolitical:independence concept:attractionofcity concept:company:missouri 1
+concept:sociopolitical:independence concept:locationlocatedwithinlocation concept:company:missouri 1
+concept:sociopolitical:independence concept:proxyfor concept:company:missouri 1
+concept:sociopolitical:independence concept:subpartof concept:company:missouri 1.5
+---------------------------------
+concept:county:olympia concept:mutualproxyfor concept:city:washington_d_c 2.5
+
+concept:county:olympia concept:agentactsinlocation concept:city:washington_d_c 1.14197
+concept:county:olympia concept:agentcollaborateswithagent concept:city:washington_d_c 1
+concept:county:olympia concept:agentcompeteswithagent concept:city:washington_d_c 0.5
+concept:county:olympia concept:agentcontrols concept:city:washington_d_c 1
+concept:county:olympia concept:atlocation concept:city:washington_d_c 1.5
+concept:county:olympia concept:attractionofcity concept:city:washington_d_c 1
+concept:county:olympia concept:hasofficeincountry concept:city:washington_d_c 0.75
+concept:county:olympia concept:locationlocatedwithinlocation concept:city:washington_d_c 1.5
+concept:county:olympia concept:proxyfor concept:city:washington_d_c 3.05
+concept:county:olympia concept:sportsgameteam concept:city:washington_d_c 0.5
+concept:county:olympia concept:subpartof concept:city:washington_d_c 2.68254
+---------------------------------
+concept:radiostation:new_jersey concept:mutualproxyfor concept:highway:lakewood 0.5
+
+concept:radiostation:new_jersey concept:atdate concept:highway:lakewood 0.0161079
+concept:radiostation:new_jersey concept:companyeconomicsector concept:highway:lakewood 0.5
+concept:radiostation:new_jersey concept:proxyfor concept:highway:lakewood 1
+---------------------------------
+concept:hotel:somerset concept:mutualproxyfor concept:radiostation:new_jersey 1
+
+concept:hotel:somerset concept:atlocation concept:radiostation:new_jersey 1
+concept:hotel:somerset concept:citylocatedingeopoliticallocation concept:radiostation:new_jersey 1
+concept:hotel:somerset concept:citylocatedinstate concept:radiostation:new_jersey 1
+concept:hotel:somerset concept:locationlocatedwithinlocation concept:radiostation:new_jersey 1
+concept:hotel:somerset concept:personleadsgeopoliticalorganization concept:radiostation:new_jersey 1
+concept:hotel:somerset concept:proxyfor concept:radiostation:new_jersey 1
+concept:hotel:somerset concept:subpartof concept:radiostation:new_jersey 1
+---------------------------------
+concept:jobposition:partner concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:jobposition:partner concept:atlocation concept:sportsequipment:new 1
+concept:jobposition:partner concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:jobposition:partner concept:citylocatedinstate concept:sportsequipment:new 1
+concept:jobposition:partner concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:jobposition:partner concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:jobposition:partner concept:proxyfor concept:sportsequipment:new 1
+concept:jobposition:partner concept:subpartof concept:sportsequipment:new 1
+---------------------------------
+concept:county:ithaca concept:mutualproxyfor concept:company:new_york 1.5
+
+concept:county:ithaca concept:agentactsinlocation concept:company:new_york 0.141967
+concept:county:ithaca concept:atlocation concept:company:new_york 1
+concept:county:ithaca concept:attractionofcity concept:company:new_york 1
+concept:county:ithaca concept:locationlocatedwithinlocation concept:company:new_york 1
+concept:county:ithaca concept:proxyfor concept:company:new_york 2.05
+concept:county:ithaca concept:sportsgameteam concept:company:new_york 0.5
+concept:county:ithaca concept:subpartof concept:company:new_york 1.18254
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:profession:employees 1
+
+concept:sportsequipment:new concept:atlocation concept:profession:employees 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:profession:employees 1
+concept:sportsequipment:new concept:citylocatedinstate concept:profession:employees 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:profession:employees 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:profession:employees 1
+concept:sportsequipment:new concept:proxyfor concept:profession:employees 1
+concept:sportsequipment:new concept:subpartof concept:profession:employees 1.75
+---------------------------------
+concept:person:juan_carlos_osorio concept:mutualproxyfor concept:company:millonarios 0
+
+concept:person:juan_carlos_osorio concept:organizationhiredperson concept:company:millonarios 1
+---------------------------------
+concept:university:ohio concept:mutualproxyfor concept:radiostation:newark 1.5
+
+concept:university:ohio concept:atdate concept:radiostation:newark 0.0161079
+concept:university:ohio concept:atlocation concept:radiostation:newark 1
+concept:university:ohio concept:citylocatedingeopoliticallocation concept:radiostation:newark 1
+concept:university:ohio concept:citylocatedinstate concept:radiostation:newark 1
+concept:university:ohio concept:locationlocatedwithinlocation concept:radiostation:newark 1
+concept:university:ohio concept:personleadsgeopoliticalorganization concept:radiostation:newark 1
+concept:university:ohio concept:proxyfor concept:radiostation:newark 1.66667
+concept:university:ohio concept:subpartof concept:radiostation:newark 1*
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:politicsissue:efforts 0
+
+concept:sportsequipment:new concept:subpartof concept:politicsissue:efforts 0.75
+---------------------------------
+concept:jobposition:agency concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:jobposition:agency concept:atdate concept:sportsequipment:new 0.00433913
+concept:jobposition:agency concept:atlocation concept:sportsequipment:new 1
+concept:jobposition:agency concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:jobposition:agency concept:citylocatedinstate concept:sportsequipment:new 1
+concept:jobposition:agency concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:jobposition:agency concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:jobposition:agency concept:proxyfor concept:sportsequipment:new 1
+concept:jobposition:agency concept:subpartof concept:sportsequipment:new 1.5
+---------------------------------
+concept:musicsong:norman concept:mutualproxyfor concept:musicsong:oklahoma 1
+
+concept:musicsong:norman concept:agentcontrols concept:musicsong:oklahoma 1
+concept:musicsong:norman concept:atlocation concept:musicsong:oklahoma 1
+concept:musicsong:norman concept:attractionofcity concept:musicsong:oklahoma 1
+concept:musicsong:norman concept:locationlocatedwithinlocation concept:musicsong:oklahoma 1
+concept:musicsong:norman concept:proxyfor concept:musicsong:oklahoma 1
+concept:musicsong:norman concept:subpartof concept:musicsong:oklahoma 1.5
+---------------------------------
+concept:academicfield:delhi concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:academicfield:delhi concept:atlocation concept:sportsequipment:new 1
+concept:academicfield:delhi concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:academicfield:delhi concept:citylocatedinstate concept:sportsequipment:new 1
+concept:academicfield:delhi concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:academicfield:delhi concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:academicfield:delhi concept:proxyfor concept:sportsequipment:new 1
+concept:academicfield:delhi concept:subpartof concept:sportsequipment:new 1
+---------------------------------
+concept:city:stillwater concept:mutualproxyfor concept:stateorprovince:oklahoma 2
+
+concept:city:stillwater concept:atlocation concept:stateorprovince:oklahoma 1
+concept:city:stillwater concept:attractionofcity concept:stateorprovince:oklahoma 1
+concept:city:stillwater concept:cityliesonriver concept:stateorprovince:oklahoma 0.25
+concept:city:stillwater concept:locationlocatedwithinlocation concept:stateorprovince:oklahoma 1
+concept:city:stillwater concept:proxyfor concept:stateorprovince:oklahoma 1
+concept:city:stillwater concept:subpartof concept:stateorprovince:oklahoma 1
+---------------------------------
+concept:highway:lakewood concept:mutualproxyfor concept:university:ohio 0
+
+concept:highway:lakewood concept:atlocation concept:university:ohio 0.1875
+---------------------------------
+concept:personalcareitem:great_place concept:mutualproxyfor concept:sportsequipment:new 0
+
+concept:personalcareitem:great_place concept:proxyfor concept:sportsequipment:new 0.5
+concept:personalcareitem:great_place concept:subpartof concept:sportsequipment:new 0.182539
+---------------------------------
+concept:politicianus:stephen_goldsmith concept:mutualproxyfor concept:city:indianapolis 1
+
+concept:politicianus:stephen_goldsmith concept:agentcompeteswithagent concept:city:indianapolis 1
+concept:politicianus:stephen_goldsmith concept:agentcontrols concept:city:indianapolis 1
+concept:politicianus:stephen_goldsmith concept:atlocation concept:city:indianapolis 0.5
+concept:politicianus:stephen_goldsmith concept:proxyfor concept:city:indianapolis 1
+concept:politicianus:stephen_goldsmith concept:subpartoforganization concept:city:indianapolis 0.109162
+---------------------------------
+concept:profession:newark concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:profession:newark concept:atlocation concept:sportsequipment:new 1
+concept:profession:newark concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:profession:newark concept:citylocatedinstate concept:sportsequipment:new 1
+concept:profession:newark concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:profession:newark concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:profession:newark concept:proxyfor concept:sportsequipment:new 1.5
+concept:profession:newark concept:subpartof concept:sportsequipment:new 1.18254
+---------------------------------
+concept:sportsequipment:new concept:mutualproxyfor concept:disease:suburb 1
+
+concept:sportsequipment:new concept:atlocation concept:disease:suburb 1
+concept:sportsequipment:new concept:citylocatedingeopoliticallocation concept:disease:suburb 1
+concept:sportsequipment:new concept:citylocatedinstate concept:disease:suburb 1
+concept:sportsequipment:new concept:locationlocatedwithinlocation concept:disease:suburb 1
+concept:sportsequipment:new concept:personleadsgeopoliticalorganization concept:disease:suburb 1
+concept:sportsequipment:new concept:proxyfor concept:disease:suburb 1
+concept:sportsequipment:new concept:subpartof concept:disease:suburb 1.5
+---------------------------------
+concept:musician:vice_president concept:mutualproxyfor concept:sportsequipment:new 1
+
+concept:musician:vice_president concept:atdate concept:sportsequipment:new 0.00433913
+concept:musician:vice_president concept:atlocation concept:sportsequipment:new 1
+concept:musician:vice_president concept:citylocatedingeopoliticallocation concept:sportsequipment:new 1
+concept:musician:vice_president concept:citylocatedinstate concept:sportsequipment:new 1
+concept:musician:vice_president concept:locationlocatedwithinlocation concept:sportsequipment:new 1
+concept:musician:vice_president concept:personleadsgeopoliticalorganization concept:sportsequipment:new 1
+concept:musician:vice_president concept:proxyfor concept:sportsequipment:new 1
+concept:musician:vice_president concept:subpartof concept:sportsequipment:new 1
+---------------------------------
+concept:radiostation:new_jersey concept:mutualproxyfor concept:writer:cherry_hill 1.5
+
+concept:radiostation:new_jersey concept:atdate concept:writer:cherry_hill 0.0161079
+concept:radiostation:new_jersey concept:atlocation concept:writer:cherry_hill 1
+concept:radiostation:new_jersey concept:citylocatedingeopoliticallocation concept:writer:cherry_hill 1
+concept:radiostation:new_jersey concept:citylocatedinstate concept:writer:cherry_hill 1
+concept:radiostation:new_jersey concept:companyeconomicsector concept:writer:cherry_hill 0.5
+concept:radiostation:new_jersey concept:locationlocatedwithinlocation concept:writer:cherry_hill 1
+concept:radiostation:new_jersey concept:personleadsgeopoliticalorganization concept:writer:cherry_hill 1
+concept:radiostation:new_jersey concept:proxyfor concept:writer:cherry_hill 1
+concept:radiostation:new_jersey concept:subpartof concept:writer:cherry_hill 1
+---------------------------------
+concept:company:nebraska concept:mutualproxyfor concept:city:bellevue 0.5
+
+concept:company:nebraska concept:atdate concept:city:bellevue 0.0161079
+concept:company:nebraska concept:companyeconomicsector concept:city:bellevue 0.5
+concept:company:nebraska concept:lakeinstate concept:city:bellevue 0.5
+---------------------------------
+concept:sportsequipment:board concept:mutualproxyfor concept:website:boards 1
+
+concept:sportsequipment:board concept:atlocation concept:website:boards 1
+concept:sportsequipment:board concept:citylocatedingeopoliticallocation concept:website:boards 1
+concept:sportsequipment:board concept:citylocatedinstate concept:website:boards 1
+concept:sportsequipment:board concept:locationlocatedwithinlocation concept:website:boards 1
+concept:sportsequipment:board concept:personleadsgeopoliticalorganization concept:website:boards 1
+concept:sportsequipment:board concept:proxyfor concept:website:boards 1
+concept:sportsequipment:board concept:subpartof concept:website:boards 1.75
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.464684 0.156134 0.152416 0.33829
+HITS@3: 0.966543 0.386617 0.475836 0.765799
+HITS@10: 1 0.784387 0.784387 0.784387
+MRR: 0.698177 0.349135 0.359699 0.539304
+MR: 1.7658 10.9331 10.8885 17.7844
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.464684 0.144981 0.152416 0.33829
+HITS@3: 0.98513 0.386617 0.479554 0.773234
+HITS@10: 1 0.784387 0.784387 0.784387
+MRR: 0.703532 0.344578 0.36371 0.541875
+MR: 1.72119 10.9182 10.8253 17.7361
+relation_mr_mrr_1_3_10_n_rf 2912.00000000000000000 97.83793718708541576 41.00000000000000000 129.00000000000000000 211.00000000000000000 269 211

@@ -1,0 +1,2 @@
+1	concept:companyalsoknownas(A,C) <= concept:competeswith(B,A), concept:competeswith(B,C)
+1	concept:companyalsoknownas(A,D) <= concept:acquired(A,B), concept:subpartoforganization(B,C), concept:organizationalsoknownas(C,D)

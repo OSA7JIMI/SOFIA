@@ -1,0 +1,7 @@
+1	/sports/sports_position/players./sports/sports_team_roster/team(A,B) <= /soccer/football_team/current_roster./soccer/football_roster_position/position(B,A)
+1	/sports/sports_position/players./sports/sports_team_roster/team(A,B) <= /soccer/football_team/current_roster./sports/sports_team_roster/position(B,A)
+1	/sports/sports_position/players./sports/sports_team_roster/team(A,B) <= /sports/sports_team/roster./american_football/football_historical_roster_position/position_s(B,A)
+1	/sports/sports_position/players./sports/sports_team_roster/team(A,B) <= /sports/sports_team/roster./baseball/baseball_roster_position/position(B,A)
+1	/sports/sports_position/players./sports/sports_team_roster/team(A,D) <= /soccer/football_team/current_roster./soccer/football_roster_position/position(B,A), /soccer/football_team/current_roster./soccer/football_roster_position/position(B,C), /sports/sports_position/players./sports/sports_team_roster/team(C,D)
+1	/sports/sports_position/players./sports/sports_team_roster/team(A,D) <= /sports/sports_position/players./sports/sports_team_roster/team(A,B), /baseball/baseball_team/team_stats./baseball/baseball_team_stats/season(B,C), /baseball/baseball_team/team_stats./baseball/baseball_team_stats/season(D,C)
+1	/sports/sports_position/players./sports/sports_team_roster/team(A,D) <= /sports/sports_position/players./sports/sports_team_roster/team(A,B), /sports/sports_team/colors(B,C), /sports/sports_team/colors(D,C)

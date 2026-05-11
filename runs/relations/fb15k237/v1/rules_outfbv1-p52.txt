@@ -1,0 +1,1 @@
+1	/film/film/cinematography(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/nominated_for(B,A)

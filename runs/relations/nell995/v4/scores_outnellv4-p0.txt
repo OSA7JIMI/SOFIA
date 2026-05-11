@@ -1,0 +1,21 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:academicprogramatuniversity
+---------------------------------
+concept:university:institute concept:academicprogramatuniversity concept:politicsissue:energy 0
+
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.025641 0.0263158 0.0131579
+MR: 1 39 38 76
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 1 0 0 0
+HITS@3: 1 0 0 0
+HITS@10: 1 0 0 0
+MRR: 1 0.025641 0.0263158 0.0131579
+MR: 1 39 38 76
+relation_mr_mrr_1_3_10_n_rf 38.00000000000000000 0.02631578947368421 0.00000000000000000 0.00000000000000000 0.00000000000000000 1 0

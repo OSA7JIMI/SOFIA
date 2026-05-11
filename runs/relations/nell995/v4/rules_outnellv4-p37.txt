@@ -1,0 +1,1 @@
+1	concept:newspaperincity(A,E) <= concept:locationlocatedwithinlocation(B,A), concept:mutualproxyfor(B,C), concept:statelocatedincountry(D,C), concept:statehascapital(D,E)

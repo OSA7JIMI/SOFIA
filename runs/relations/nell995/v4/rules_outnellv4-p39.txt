@@ -1,0 +1,5 @@
+1	concept:organizationalsoknownas(A,B) <= concept:countryalsoknownas(A,B)
+1	concept:organizationalsoknownas(A,B) <= concept:organizationacronymhasname(A,B)
+1	concept:organizationalsoknownas(A,C) <= concept:organizationacronymhasname(A,B), concept:organizationacronymhasname(C,B)
+1	concept:organizationalsoknownas(A,D) <= concept:organizationalsoknownas(A,B), concept:atdate(B,C), concept:atdate(D,C)
+1	concept:organizationalsoknownas(A,D) <= concept:organizationalsoknownas(A,B), concept:organizationacronymhasname(C,B), concept:organizationacronymhasname(C,D)

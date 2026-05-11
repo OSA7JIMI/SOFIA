@@ -1,0 +1,4 @@
+1	concept:companyeconomicsector(A,D) <= concept:companyeconomicsector(A,B), concept:companyeconomicsector(C,B), concept:companyeconomicsector(C,D)
+1	concept:companyeconomicsector(A,D) <= concept:agentcompeteswithagent(B,A), concept:agentcompeteswithagent(B,C), concept:companyeconomicsector(C,D)
+1	concept:companyeconomicsector(A,D) <= concept:proxyfor(A,B), concept:proxyfor(C,B), concept:companyeconomicsector(C,D)
+1	concept:companyeconomicsector(A,D) <= concept:atlocation(B,A), concept:atlocation(B,C), concept:companyeconomicsector(C,D)

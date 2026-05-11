@@ -1,0 +1,325 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:agentbelongstoorganization
+---------------------------------
+concept:politicalparty:house concept:agentbelongstoorganization concept:personnorthamerica:john_mccain 0
+
+concept:politicalparty:house concept:agentcollaborateswithagent concept:personnorthamerica:john_mccain 1
+---------------------------------
+concept:politicalparty:house concept:agentbelongstoorganization concept:politicianus:hillary_clinton 0
+
+concept:politicalparty:house concept:agentcollaborateswithagent concept:politicianus:hillary_clinton 1
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:new_york_giants 1
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:new_york_giants 3.5*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:new_york_giants 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:new_york_giants 1.19955*
+concept:sportsleague:nfl concept:organizationterminatedperson concept:coach:new_york_giants 0.5
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:new_york_giants 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:new_york_giants 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:new_york_giants 1*
+concept:sportsleague:nfl concept:worksfor concept:coach:new_york_giants 1
+---------------------------------
+concept:politicalparty:house concept:agentbelongstoorganization concept:politicianus:bill_clinton 0
+
+concept:politicalparty:house concept:agentcollaborateswithagent concept:politicianus:bill_clinton 1
+---------------------------------
+concept:stateorprovince:auburn concept:agentbelongstoorganization concept:coach:gene_chizik 0
+
+concept:stateorprovince:auburn concept:agentcollaborateswithagent concept:coach:gene_chizik 1
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:green_bay_packers 0
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:green_bay_packers 1
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:green_bay_packers 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:green_bay_packers 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:green_bay_packers 1*
+---------------------------------
+concept:sportsleague:mlb concept:agentbelongstoorganization concept:coach:toronto_blue_jays 1
+
+concept:sportsleague:mlb concept:agentcollaborateswithagent concept:coach:toronto_blue_jays 1
+---------------------------------
+concept:politicalparty:house concept:agentbelongstoorganization concept:person:bill 0
+
+concept:politicalparty:house concept:agentcollaborateswithagent concept:person:bill 1
+---------------------------------
+concept:sportsleague:mlb concept:agentbelongstoorganization concept:athlete:boston_red_sox 0
+
+concept:sportsleague:mlb concept:agentcollaborateswithagent concept:athlete:boston_red_sox 1
+concept:sportsleague:mlb concept:agentcompeteswithagent concept:athlete:boston_red_sox 1
+concept:sportsleague:mlb concept:proxyfor concept:athlete:boston_red_sox 0.666667
+concept:sportsleague:mlb concept:subpartof concept:athlete:boston_red_sox 1*
+---------------------------------
+concept:stateorprovince:auburn concept:agentbelongstoorganization concept:coach:tommy_tuberville 0
+
+concept:stateorprovince:auburn concept:agentcollaborateswithagent concept:coach:tommy_tuberville 1
+concept:stateorprovince:auburn concept:proxyfor concept:coach:tommy_tuberville 0.666667
+concept:stateorprovince:auburn concept:subpartof concept:coach:tommy_tuberville 0.5*
+---------------------------------
+concept:sportsteam:ncaa_midwest_regionals concept:agentbelongstoorganization concept:sportsteam:texas_a_m 0
+
+concept:sportsteam:ncaa_midwest_regionals concept:agentcollaborateswithagent concept:sportsteam:texas_a_m 1
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:philadelphia_eagles 2
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:philadelphia_eagles 2*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:philadelphia_eagles 1.11906
+concept:sportsleague:nfl concept:agentcontrols concept:coach:philadelphia_eagles 1.19955
+concept:sportsleague:nfl concept:organizationhiredperson concept:coach:philadelphia_eagles 0.25
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:philadelphia_eagles 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:philadelphia_eagles 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:philadelphia_eagles 1*
+concept:sportsleague:nfl concept:worksfor concept:coach:philadelphia_eagles 1
+---------------------------------
+concept:city:indianapolis concept:agentbelongstoorganization concept:politicianus:stephen_goldsmith 1
+
+concept:city:indianapolis concept:agentactsinlocation concept:politicianus:stephen_goldsmith 1
+concept:city:indianapolis concept:agentcollaborateswithagent concept:politicianus:stephen_goldsmith 1
+concept:city:indianapolis concept:atlocation concept:politicianus:stephen_goldsmith 1*
+concept:city:indianapolis concept:citylocatedingeopoliticallocation concept:politicianus:stephen_goldsmith 1
+concept:city:indianapolis concept:citylocatedinstate concept:politicianus:stephen_goldsmith 1
+concept:city:indianapolis concept:locationlocatedwithinlocation concept:politicianus:stephen_goldsmith 1
+concept:city:indianapolis concept:mutualproxyfor concept:politicianus:stephen_goldsmith 1
+concept:city:indianapolis concept:personleadsgeopoliticalorganization concept:politicianus:stephen_goldsmith 1
+concept:city:indianapolis concept:proxyfor concept:politicianus:stephen_goldsmith 2.55
+concept:city:indianapolis concept:subpartof concept:politicianus:stephen_goldsmith 2
+---------------------------------
+concept:sportsleague:mlb concept:agentbelongstoorganization concept:personmexico:tampa_bay_rays 0
+
+concept:sportsleague:mlb concept:agentcollaborateswithagent concept:personmexico:tampa_bay_rays 1
+concept:sportsleague:mlb concept:agentcompeteswithagent concept:personmexico:tampa_bay_rays 1
+concept:sportsleague:mlb concept:subpartof concept:personmexico:tampa_bay_rays 1
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:miami_dolphins 0
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:miami_dolphins 2
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:miami_dolphins 1
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:miami_dolphins 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:miami_dolphins 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:miami_dolphins 1*
+concept:sportsleague:nfl concept:worksfor concept:coach:miami_dolphins 1
+---------------------------------
+concept:politicalparty:house concept:agentbelongstoorganization concept:personus:party 0
+
+concept:politicalparty:house concept:agentcollaborateswithagent concept:personus:party 1
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:baltimore_ravens 1
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:baltimore_ravens 3.5*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:baltimore_ravens 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:baltimore_ravens 1.19955*
+concept:sportsleague:nfl concept:organizationterminatedperson concept:coach:baltimore_ravens 0.5
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:baltimore_ravens 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:baltimore_ravens 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:baltimore_ravens 1*
+concept:sportsleague:nfl concept:worksfor concept:coach:baltimore_ravens 1
+---------------------------------
+concept:politicalparty:house concept:agentbelongstoorganization concept:terroristorganization:state 0
+
+concept:politicalparty:house concept:agentcollaborateswithagent concept:terroristorganization:state 1
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:san_diego_chargers 1
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:san_diego_chargers 2*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:san_diego_chargers 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:san_diego_chargers 1.19955
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:san_diego_chargers 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:san_diego_chargers 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:san_diego_chargers 1*
+concept:sportsleague:nfl concept:worksfor concept:coach:san_diego_chargers 1
+---------------------------------
+concept:politicalparty:house concept:agentbelongstoorganization concept:politicianus:president_bush 1
+
+concept:politicalparty:house concept:agentcollaborateswithagent concept:politicianus:president_bush 1
+---------------------------------
+concept:sportsleague:new concept:agentbelongstoorganization concept:coach:rex_ryan 1
+
+concept:sportsleague:new concept:agentcollaborateswithagent concept:coach:rex_ryan 1*
+concept:sportsleague:new concept:agentcontrols concept:coach:rex_ryan 1
+concept:sportsleague:new concept:proxyfor concept:coach:rex_ryan 0.666667
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:washington_redskins 2
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:washington_redskins 2*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:washington_redskins 0.119059
+concept:sportsleague:nfl concept:agentcontrols concept:coach:washington_redskins 1.19955
+concept:sportsleague:nfl concept:organizationhiredperson concept:coach:washington_redskins 0.25
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:washington_redskins 1
+concept:sportsleague:nfl concept:worksfor concept:coach:washington_redskins 1
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:kansas_city_chiefs 1
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:kansas_city_chiefs 2*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:kansas_city_chiefs 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:kansas_city_chiefs 1.19955
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:kansas_city_chiefs 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:kansas_city_chiefs 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:kansas_city_chiefs 1*
+concept:sportsleague:nfl concept:worksfor concept:coach:kansas_city_chiefs 1
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:new_england_patriots 2
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:new_england_patriots 2*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:new_england_patriots 0.119059
+concept:sportsleague:nfl concept:agentcontrols concept:coach:new_england_patriots 1.19955
+concept:sportsleague:nfl concept:organizationhiredperson concept:coach:new_england_patriots 0.25
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:new_england_patriots 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:new_england_patriots 0.666667
+concept:sportsleague:nfl concept:worksfor concept:coach:new_england_patriots 1
+---------------------------------
+concept:politicalparty:house concept:agentbelongstoorganization concept:person:mccain 0
+
+concept:politicalparty:house concept:agentcollaborateswithagent concept:person:mccain 1
+concept:politicalparty:house concept:politicianusmemberofpoliticalgroup concept:person:mccain 1
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:san_francisco_49ers 0
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:san_francisco_49ers 1
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:san_francisco_49ers 1
+concept:sportsleague:nfl concept:subpartof concept:coach:san_francisco_49ers 1
+---------------------------------
+concept:stateorprovince:auburn concept:agentbelongstoorganization concept:coach:pat_dye 0
+
+concept:stateorprovince:auburn concept:agentcollaborateswithagent concept:coach:pat_dye 1
+concept:stateorprovince:auburn concept:personbelongstoorganization concept:coach:pat_dye 1
+---------------------------------
+concept:politicalparty:house concept:agentbelongstoorganization concept:female:hillary 0
+
+concept:politicalparty:house concept:agentcollaborateswithagent concept:female:hillary 1
+---------------------------------
+concept:sportsleague:nhl concept:agentbelongstoorganization concept:coach:new_jersey_devils 0
+
+concept:sportsleague:nhl concept:agentcollaborateswithagent concept:coach:new_jersey_devils 1
+concept:sportsleague:nhl concept:agentcompeteswithagent concept:coach:new_jersey_devils 1
+concept:sportsleague:nhl concept:subpartof concept:coach:new_jersey_devils 1
+---------------------------------
+concept:sportsleague:mlb concept:agentbelongstoorganization concept:personmexico:seattle_mariners 1
+
+concept:sportsleague:mlb concept:agentcollaborateswithagent concept:personmexico:seattle_mariners 1
+concept:sportsleague:mlb concept:agentcontrols concept:personmexico:seattle_mariners 0.199549
+---------------------------------
+concept:sportsleague:mlb concept:agentbelongstoorganization concept:personmexico:colorado_rockies 1
+
+concept:sportsleague:mlb concept:agentcollaborateswithagent concept:personmexico:colorado_rockies 1
+concept:sportsleague:mlb concept:proxyfor concept:personmexico:colorado_rockies 0.666667
+---------------------------------
+concept:politicalparty:house concept:agentbelongstoorganization concept:politicianus:mr__obama 0
+
+concept:politicalparty:house concept:agentcollaborateswithagent concept:politicianus:mr__obama 1
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:cleveland_browns 1
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:cleveland_browns 2*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:cleveland_browns 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:cleveland_browns 1.19955
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:cleveland_browns 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:cleveland_browns 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:cleveland_browns 1*
+concept:sportsleague:nfl concept:worksfor concept:coach:cleveland_browns 1
+---------------------------------
+concept:automobilemaker:announcement concept:agentbelongstoorganization concept:politician:jobs 0
+
+concept:automobilemaker:announcement concept:agentcollaborateswithagent concept:politician:jobs 1
+---------------------------------
+concept:sportsteam:new_york_mets concept:agentbelongstoorganization concept:personus:david_wright 0
+
+concept:sportsteam:new_york_mets concept:agentcollaborateswithagent concept:personus:david_wright 2
+concept:sportsteam:new_york_mets concept:personbelongstoorganization concept:personus:david_wright 1
+concept:sportsteam:new_york_mets concept:worksfor concept:personus:david_wright 1
+---------------------------------
+concept:politicalparty:house concept:agentbelongstoorganization concept:politicianus:president_obama 0
+
+concept:politicalparty:house concept:agentcollaborateswithagent concept:politicianus:president_obama 1
+---------------------------------
+concept:politicalparty:house concept:agentbelongstoorganization concept:politicianus:nancy_pelosi 0
+
+concept:politicalparty:house concept:agentcollaborateswithagent concept:politicianus:nancy_pelosi 1
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:baltimore_colts 0
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:baltimore_colts 1
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:baltimore_colts 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:baltimore_colts 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:baltimore_colts 1*
+---------------------------------
+concept:sportsleague:mlb concept:agentbelongstoorganization concept:female:yankees 0
+
+concept:sportsleague:mlb concept:agentcollaborateswithagent concept:female:yankees 1
+concept:sportsleague:mlb concept:agentcontrols concept:female:yankees 0.199549
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:new_orleans_saints 1
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:new_orleans_saints 2*
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:new_orleans_saints 1
+concept:sportsleague:nfl concept:agentcontrols concept:coach:new_orleans_saints 1.19955
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:new_orleans_saints 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:new_orleans_saints 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:new_orleans_saints 1*
+concept:sportsleague:nfl concept:worksfor concept:coach:new_orleans_saints 1
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:indianapolis_colts 0
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:indianapolis_colts 2.5
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:indianapolis_colts 1
+concept:sportsleague:nfl concept:organizationterminatedperson concept:coach:indianapolis_colts 0.5
+concept:sportsleague:nfl concept:proxyfor concept:coach:indianapolis_colts 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:indianapolis_colts 1*
+---------------------------------
+concept:politicalparty:house concept:agentbelongstoorganization concept:politicianus:george_w_bush 0
+
+concept:politicalparty:house concept:agentcollaborateswithagent concept:politicianus:george_w_bush 1
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:cincinnati_bengals 0
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:cincinnati_bengals 2
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:cincinnati_bengals 1
+concept:sportsleague:nfl concept:worksfor concept:coach:cincinnati_bengals 1
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:carolina_panthers 0
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:carolina_panthers 1
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:carolina_panthers 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:carolina_panthers 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:carolina_panthers 1*
+---------------------------------
+concept:sportsleague:nfl concept:agentbelongstoorganization concept:coach:new_york_jets 0
+
+concept:sportsleague:nfl concept:agentcollaborateswithagent concept:coach:new_york_jets 3.5
+concept:sportsleague:nfl concept:agentcompeteswithagent concept:coach:new_york_jets 1
+concept:sportsleague:nfl concept:organizationhiredperson concept:coach:new_york_jets 0.25
+concept:sportsleague:nfl concept:organizationterminatedperson concept:coach:new_york_jets 0.5
+concept:sportsleague:nfl concept:personbelongstoorganization concept:coach:new_york_jets 1
+concept:sportsleague:nfl concept:proxyfor concept:coach:new_york_jets 0.666667
+concept:sportsleague:nfl concept:subpartof concept:coach:new_york_jets 1*
+concept:sportsleague:nfl concept:worksfor concept:coach:new_york_jets 1
+---------------------------------
+concept:politicalparty:house concept:agentbelongstoorganization concept:politicianus:president_george_w__bush 1
+
+concept:politicalparty:house concept:agentcollaborateswithagent concept:politicianus:president_george_w__bush 1
+---------------------------------
+concept:terroristorganization:state concept:agentbelongstoorganization concept:terroristorganization:money 1
+
+concept:terroristorganization:state concept:agentcollaborateswithagent concept:terroristorganization:money 2*
+concept:terroristorganization:state concept:agentcontrols concept:terroristorganization:money 1.19955
+concept:terroristorganization:state concept:personbelongstoorganization concept:terroristorganization:money 1
+concept:terroristorganization:state concept:worksfor concept:terroristorganization:money 1
+---------------------------------
+concept:sportsleague:mlb concept:agentbelongstoorganization concept:personmexico:texas_rangers 1
+
+concept:sportsleague:mlb concept:agentcollaborateswithagent concept:personmexico:texas_rangers 1
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.208333 0.125 0.125 0.208333
+HITS@3: 0.729167 0.208333 0.229167 0.375
+HITS@10: 1 0.375 0.375 0.375
+MRR: 0.487235 0.215627 0.218403 0.272113
+MR: 2.85417 25.9167 26.3958 48.2083
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.25 0.125 0.1875 0.25
+HITS@3: 0.75 0.291667 0.3125 0.375
+HITS@10: 1 0.375 0.375 0.375
+MRR: 0.539757 0.228925 0.268869 0.317288
+MR: 2.5 25.5417 25.9375 47.8125
+relation_mr_mrr_1_3_10_n_rf 1245.00000000000000000 12.90573114744105787 9.00000000000000000 15.00000000000000000 18.00000000000000000 48 18

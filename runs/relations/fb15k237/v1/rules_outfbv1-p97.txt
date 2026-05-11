@@ -1,0 +1,3 @@
+1	/location/location/adjoin_s./location/adjoining_relationship/adjoins(A,C) <= /location/administrative_division/country(A,B), /military/military_combatant/military_conflicts./military/military_combatant_group/combatants(B,C)
+1	/location/location/adjoin_s./location/adjoining_relationship/adjoins(A,C) <= /location/location/contains(B,A), /base/biblioness/bibs_location/state(C,B)
+1	/location/location/adjoin_s./location/adjoining_relationship/adjoins(A,B) <= /location/location/adjoin_s./location/adjoining_relationship/adjoins(B,A)

@@ -1,0 +1,3 @@
+1	/people/person/spouse_s./people/marriage/spouse(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,B)
+1	/people/person/spouse_s./people/marriage/spouse(A,B) <= /base/popstra/celebrity/dated./base/popstra/dated/participant(B,A)
+1	/people/person/spouse_s./people/marriage/spouse(A,B) <= /people/person/spouse_s./people/marriage/spouse(B,A)

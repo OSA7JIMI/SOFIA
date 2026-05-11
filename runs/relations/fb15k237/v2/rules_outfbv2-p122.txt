@@ -1,0 +1,5 @@
+1	/music/artist/origin(A,C) <= /people/person/nationality(A,B), /location/location/contains(B,C)
+1	/music/artist/origin(A,E) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,B), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(C,D), /location/location/contains(D,E)
+1	/music/artist/origin(A,E) <= /people/person/profession(A,B), /people/person/profession(C,B), /people/person/spouse_s./people/marriage/type_of_union(C,D), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(D,E)
+1	/music/artist/origin(A,E) <= /music/performance_role/regular_performances./music/group_membership/group(B,A), /music/instrument/instrumentalists(B,C), /people/person/spouse_s./people/marriage/type_of_union(C,D), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(D,E)
+1	/music/artist/origin(A,E) <= /music/record_label/artist(B,A), /music/record_label/artist(B,C), /people/person/places_lived./people/place_lived/location(C,D), /location/location/contains(D,E)

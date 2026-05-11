@@ -1,0 +1,6 @@
+1	concept:animalsuchasinvertebrate(A,B) <= concept:animalpreyson(A,B)
+1	concept:animalsuchasinvertebrate(A,B) <= concept:animalsuchasinsect(B,A)
+1	concept:animalsuchasinvertebrate(A,B) <= concept:animalthatfeedoninsect(A,B)
+1	concept:animalsuchasinvertebrate(A,C) <= concept:animalpreyson(B,A), concept:arthropodcalledarthropod(B,C)
+1	concept:animalsuchasinvertebrate(A,C) <= concept:animalthatfeedoninsect(A,B), concept:agentcompeteswithagent(B,C)
+1	concept:animalsuchasinvertebrate(A,D) <= concept:animalpreyson(A,B), concept:animalpreyson(B,C), concept:animalsuchasinvertebrate(C,D)

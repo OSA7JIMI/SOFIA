@@ -1,0 +1,7 @@
+1	/award/award_winner/awards_won./award/award_honor/award_winner(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(A,B)
+1	/award/award_winner/awards_won./award/award_honor/award_winner(A,B) <= /award/award_nominee/award_nominations./award/award_nomination/award_nominee(B,A)
+1	/award/award_winner/awards_won./award/award_honor/award_winner(A,C) <= /people/person/gender(A,B), /people/person/gender(C,B)
+1	/award/award_winner/awards_won./award/award_honor/award_winner(A,C) <= /people/person/profession(A,B), /people/person/profession(C,B)
+1	/award/award_winner/awards_won./award/award_honor/award_winner(A,C) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B)
+1	/award/award_winner/awards_won./award/award_honor/award_winner(A,B) <= /award/award_winner/awards_won./award/award_honor/award_winner(B,A)
+1	/award/award_winner/awards_won./award/award_honor/award_winner(A,D) <= /business/business_operation/assets./measurement_unit/dated_money_value/currency(A,B), /base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency(C,B), /broadcast/content/artist(D,C)

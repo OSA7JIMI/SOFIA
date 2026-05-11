@@ -1,0 +1,44 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:attractionofcity
+---------------------------------
+concept:city:philadelphia concept:attractionofcity concept:stadiumoreventvenue:lincoln_financial_field 0
+
+concept:city:philadelphia concept:buildinglocatedincity concept:stadiumoreventvenue:lincoln_financial_field 1
+---------------------------------
+concept:city:madison concept:attractionofcity concept:stadiumoreventvenue:alliant_energy_center 1
+
+concept:city:madison concept:atlocation concept:stadiumoreventvenue:alliant_energy_center 1
+concept:city:madison concept:buildinglocatedincity concept:stadiumoreventvenue:alliant_energy_center 1
+concept:city:madison concept:locationlocatedwithinlocation concept:stadiumoreventvenue:alliant_energy_center 1
+concept:city:madison concept:mutualproxyfor concept:stadiumoreventvenue:alliant_energy_center 1
+concept:city:madison concept:proxyfor concept:stadiumoreventvenue:alliant_energy_center 1
+concept:city:madison concept:subpartof concept:stadiumoreventvenue:alliant_energy_center 1
+---------------------------------
+concept:city:detroit concept:attractionofcity concept:stadiumoreventvenue:tiger_stadium 0
+
+concept:city:detroit concept:buildinglocatedincity concept:stadiumoreventvenue:tiger_stadium 1
+---------------------------------
+concept:county:los_angeles_county concept:attractionofcity concept:stadiumoreventvenue:dodger_stadium 1
+
+concept:county:los_angeles_county concept:atlocation concept:stadiumoreventvenue:dodger_stadium 1
+concept:county:los_angeles_county concept:buildinglocatedincity concept:stadiumoreventvenue:dodger_stadium 1
+concept:county:los_angeles_county concept:locationlocatedwithinlocation concept:stadiumoreventvenue:dodger_stadium 1
+concept:county:los_angeles_county concept:mutualproxyfor concept:stadiumoreventvenue:dodger_stadium 1
+concept:county:los_angeles_county concept:proxyfor concept:stadiumoreventvenue:dodger_stadium 1
+concept:county:los_angeles_county concept:subpartof concept:stadiumoreventvenue:dodger_stadium 1
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.5 0 0 0.5
+HITS@3: 1 0 0.25 0.5
+HITS@10: 1 0.5 0.5 0.5
+MRR: 0.75 0.137821 0.131877 0.506579
+MR: 1.5 21.5 22 38.5
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.5 0 0 0.5
+HITS@3: 1 0 0.25 0.5
+HITS@10: 1 0.5 0.5 0.5
+MRR: 0.75 0.137821 0.131877 0.506579
+MR: 1.5 21.5 22 38.5
+relation_mr_mrr_1_3_10_n_rf 88.00000000000000000 0.52750626566416037 0.00000000000000000 1.00000000000000000 2.00000000000000000 4 2

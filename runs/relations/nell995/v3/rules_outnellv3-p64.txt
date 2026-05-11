@@ -1,0 +1,1 @@
+1	concept:furniturefoundinroom(A,D) <= concept:furniturefoundinroom(A,B), concept:locationlocatedwithinlocation(C,B), concept:locationlocatedwithinlocation(C,D)

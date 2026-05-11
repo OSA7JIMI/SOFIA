@@ -1,0 +1,2 @@
+1	/film/film/film_festivals(A,D) <= /film/film/genre(A,B), /film/film/genre(C,B), /film/film/film_festivals(C,D)
+1	/film/film/film_festivals(A,D) <= /film/film/release_date_s./film/film_regional_release_date/film_release_region(A,B), /film/film/release_date_s./film/film_regional_release_date/film_release_region(C,B), /film/film/film_festivals(C,D)

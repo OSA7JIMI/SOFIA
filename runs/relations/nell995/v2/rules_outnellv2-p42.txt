@@ -1,0 +1,8 @@
+1	concept:organizationalsoknownas(A,B) <= concept:synonymfor(B,A)
+1	concept:organizationalsoknownas(A,C) <= concept:atlocation(B,A), concept:atlocation(B,C)
+1	concept:organizationalsoknownas(A,C) <= concept:locationlocatedwithinlocation(B,A), concept:locationlocatedwithinlocation(B,C)
+1	concept:organizationalsoknownas(A,D) <= concept:agentparticipatedinevent(A,B), concept:sportsgameteam(B,C), concept:synonymfor(D,C)
+1	concept:organizationalsoknownas(A,C) <= concept:organizationalsoknownas(B,A), concept:synonymfor(B,C)
+1	concept:organizationalsoknownas(A,D) <= concept:subpartoforganization(A,B), concept:agentcompeteswithagent(B,C), concept:synonymfor(C,D)
+1	concept:organizationalsoknownas(A,B) <= concept:organizationalsoknownas(B,A)
+1	concept:organizationalsoknownas(A,C) <= concept:synonymfor(A,B), concept:organizationalsoknownas(C,B)

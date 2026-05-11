@@ -1,0 +1,4 @@
+0.5	/film/film/edited_by(A,B) <= /film/director/film(B,A)
+0.5	/film/film/edited_by(A,B) <= /film/film/story_by(A,B)
+0.5	/film/film/edited_by(A,B) <= /film/film/written_by(A,B)
+1	/film/film/edited_by(A,D) <= /film/film/genre(A,B), /film/film/genre(C,B), /film/film/edited_by(C,D)

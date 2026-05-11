@@ -1,0 +1,6 @@
+1	/music/instrument/instrumentalists(A,B) <= /music/performance_role/regular_performances./music/group_membership/group(A,B)
+1	/music/instrument/instrumentalists(A,C) <= /music/performance_role/track_performances./music/track_contribution/role(B,A), /music/artist/track_contributions./music/track_contribution/role(C,B)
+1	/music/instrument/instrumentalists(A,D) <= /music/instrument/instrumentalists(A,B), /people/person/spouse_s./people/marriage/type_of_union(B,C), /people/person/spouse_s./people/marriage/type_of_union(D,C)
+1	/music/instrument/instrumentalists(A,D) <= /music/instrument/instrumentalists(A,B), /music/record_label/artist(C,B), /music/record_label/artist(C,D)
+1	/music/instrument/instrumentalists(A,E) <= /music/performance_role/track_performances./music/track_contribution/role(A,B), /music/instrument/instrumentalists(B,C), /people/person/gender(C,D), /people/person/gender(E,D)
+1	/music/instrument/instrumentalists(A,D) <= /music/instrument/instrumentalists(A,B), /award/award_nominee/award_nominations./award/award_nomination/award_nominee(B,C), /award/award_nominee/award_nominations./award/award_nomination/award_nominee(C,D)

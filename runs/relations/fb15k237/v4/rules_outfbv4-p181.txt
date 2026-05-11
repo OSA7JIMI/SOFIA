@@ -1,0 +1,4 @@
+1	/people/person/spouse_s./people/marriage/location_of_ceremony(A,C) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony(B,C)
+1	/people/person/spouse_s./people/marriage/location_of_ceremony(A,D) <= /people/person/gender(A,B), /people/person/gender(C,B), /people/person/places_lived./people/place_lived/location(C,D)
+1	/people/person/spouse_s./people/marriage/location_of_ceremony(A,C) <= /people/person/spouse_s./people/marriage/spouse(B,A), /people/person/spouse_s./people/marriage/location_of_ceremony(B,C)
+1	/people/person/spouse_s./people/marriage/location_of_ceremony(A,D) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B), /people/person/places_lived./people/place_lived/location(C,D)

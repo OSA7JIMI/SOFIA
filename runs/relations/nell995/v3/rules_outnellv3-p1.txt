@@ -1,0 +1,3 @@
+1	concept:acquired(A,B) <= concept:subpartoforganization(B,A)
+1	concept:acquired(A,C) <= concept:companyeconomicsector(A,B), concept:companyeconomicsector(C,B)
+1	concept:acquired(A,D) <= concept:competeswith(A,B), concept:agentcompeteswithagent(C,B), concept:subpartoforganization(D,C)

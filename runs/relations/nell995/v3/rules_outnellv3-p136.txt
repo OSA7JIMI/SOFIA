@@ -1,0 +1,2 @@
+1	concept:thinghascolor(A,D) <= concept:locationlocatedwithinlocation(B,A), concept:locationlocatedwithinlocation(B,C), concept:thinghascolor(C,D)
+1	concept:thinghascolor(A,D) <= concept:agriculturalproductcookedwithagriculturalproduct(A,B), concept:agriculturalproductcookedwithagriculturalproduct(B,C), concept:thinghascolor(C,D)

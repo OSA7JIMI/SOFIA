@@ -1,0 +1,604 @@
+NOTE: A score followed by * means that
+it is not included in the filtered rankings
+---------------------------------
+Relation: concept:coachesteam
+---------------------------------
+concept:sportsteam:new_york_jets concept:coachesteam concept:coach:rex_ryan 1
+
+concept:sportsteam:new_york_jets concept:personbelongstoorganization concept:coach:rex_ryan 1
+concept:sportsteam:new_york_jets concept:personhasresidenceingeopoliticallocation concept:coach:rex_ryan 1
+concept:sportsteam:new_york_jets concept:personleadsgeopoliticalorganization concept:coach:rex_ryan 1
+concept:sportsteam:new_york_jets concept:personleadsorganization concept:coach:rex_ryan 2
+concept:sportsteam:new_york_jets concept:worksfor concept:coach:rex_ryan 1*
+---------------------------------
+concept:sportsteam:wake_forest concept:coachesteam concept:coach:jim_grobe 1
+
+concept:sportsteam:wake_forest concept:personbelongstoorganization concept:coach:jim_grobe 1
+concept:sportsteam:wake_forest concept:personhasresidenceingeopoliticallocation concept:coach:jim_grobe 1
+concept:sportsteam:wake_forest concept:personleadsgeopoliticalorganization concept:coach:jim_grobe 1
+concept:sportsteam:wake_forest concept:personleadsorganization concept:coach:jim_grobe 1
+concept:sportsteam:wake_forest concept:worksfor concept:coach:jim_grobe 1
+---------------------------------
+concept:sportsteam:ravens concept:coachesteam concept:coach:john_harbaugh 1
+
+concept:sportsteam:ravens concept:personbelongstoorganization concept:coach:john_harbaugh 1
+concept:sportsteam:ravens concept:personhasresidenceingeopoliticallocation concept:coach:john_harbaugh 1
+concept:sportsteam:ravens concept:personleadsgeopoliticalorganization concept:coach:john_harbaugh 1
+concept:sportsteam:ravens concept:personleadsorganization concept:coach:john_harbaugh 2
+concept:sportsteam:ravens concept:worksfor concept:coach:john_harbaugh 1*
+---------------------------------
+concept:sportsteam:rangers concept:coachesteam concept:coach:tom_renney 1
+
+concept:sportsteam:rangers concept:personbelongstoorganization concept:coach:tom_renney 1
+concept:sportsteam:rangers concept:personhasresidenceingeopoliticallocation concept:coach:tom_renney 1
+concept:sportsteam:rangers concept:personleadsgeopoliticalorganization concept:coach:tom_renney 1
+concept:sportsteam:rangers concept:personleadsorganization concept:coach:tom_renney 2
+concept:sportsteam:rangers concept:worksfor concept:coach:tom_renney 1*
+---------------------------------
+concept:sportsteam:knicks concept:coachesteam concept:coach:mike_d_antoni 1
+
+concept:sportsteam:knicks concept:personbelongstoorganization concept:coach:mike_d_antoni 2
+concept:sportsteam:knicks concept:personhasresidenceingeopoliticallocation concept:coach:mike_d_antoni 1
+concept:sportsteam:knicks concept:personleadsgeopoliticalorganization concept:coach:mike_d_antoni 1
+concept:sportsteam:knicks concept:personleadsorganization concept:coach:mike_d_antoni 2
+concept:sportsteam:knicks concept:worksfor concept:coach:mike_d_antoni 1*
+---------------------------------
+concept:sportsteam:mississippi_state_university concept:coachesteam concept:coach:dan_mullen 1
+
+concept:sportsteam:mississippi_state_university concept:personbelongstoorganization concept:coach:dan_mullen 1
+concept:sportsteam:mississippi_state_university concept:personhasresidenceingeopoliticallocation concept:coach:dan_mullen 1
+concept:sportsteam:mississippi_state_university concept:personleadsgeopoliticalorganization concept:coach:dan_mullen 1
+concept:sportsteam:mississippi_state_university concept:personleadsorganization concept:coach:dan_mullen 1
+concept:sportsteam:mississippi_state_university concept:worksfor concept:coach:dan_mullen 1
+---------------------------------
+concept:sportsteam:hawks concept:coachesteam concept:coach:mike_woodson 1
+
+concept:sportsteam:hawks concept:personbelongstoorganization concept:coach:mike_woodson 1
+concept:sportsteam:hawks concept:personhasresidenceingeopoliticallocation concept:coach:mike_woodson 1
+concept:sportsteam:hawks concept:personleadsgeopoliticalorganization concept:coach:mike_woodson 1
+concept:sportsteam:hawks concept:personleadsorganization concept:coach:mike_woodson 1
+concept:sportsteam:hawks concept:worksfor concept:coach:mike_woodson 1
+---------------------------------
+concept:sportsteam:san_diego_padres concept:coachesteam concept:coach:chuck_long 1
+
+concept:sportsteam:san_diego_padres concept:personbelongstoorganization concept:coach:chuck_long 1
+concept:sportsteam:san_diego_padres concept:personhasresidenceingeopoliticallocation concept:coach:chuck_long 1
+concept:sportsteam:san_diego_padres concept:personleadsgeopoliticalorganization concept:coach:chuck_long 1
+concept:sportsteam:san_diego_padres concept:personleadsorganization concept:coach:chuck_long 2
+concept:sportsteam:san_diego_padres concept:worksfor concept:coach:chuck_long 1*
+---------------------------------
+concept:sportsteam:broncos concept:coachesteam concept:coach:shanahan 1
+
+concept:sportsteam:broncos concept:personbelongstoorganization concept:coach:shanahan 1
+concept:sportsteam:broncos concept:personhasresidenceingeopoliticallocation concept:coach:shanahan 1
+concept:sportsteam:broncos concept:personleadsgeopoliticalorganization concept:coach:shanahan 1
+concept:sportsteam:broncos concept:personleadsorganization concept:coach:shanahan 1
+concept:sportsteam:broncos concept:worksfor concept:coach:shanahan 1
+---------------------------------
+concept:sportsteam:rockets concept:coachesteam concept:coach:van_gundy 1
+
+concept:sportsteam:rockets concept:personbelongstoorganization concept:coach:van_gundy 1
+concept:sportsteam:rockets concept:personhasresidenceingeopoliticallocation concept:coach:van_gundy 1
+concept:sportsteam:rockets concept:personleadsgeopoliticalorganization concept:coach:van_gundy 1
+concept:sportsteam:rockets concept:personleadsorganization concept:coach:van_gundy 1
+concept:sportsteam:rockets concept:worksfor concept:coach:van_gundy 1
+---------------------------------
+concept:sportsteam:washington_wizards concept:coachesteam concept:coach:al_jefferson 1
+
+concept:sportsteam:washington_wizards concept:personbelongstoorganization concept:coach:al_jefferson 1
+concept:sportsteam:washington_wizards concept:personhasresidenceingeopoliticallocation concept:coach:al_jefferson 1
+concept:sportsteam:washington_wizards concept:personleadsgeopoliticalorganization concept:coach:al_jefferson 1
+concept:sportsteam:washington_wizards concept:personleadsorganization concept:coach:al_jefferson 1
+concept:sportsteam:washington_wizards concept:worksfor concept:coach:al_jefferson 1
+---------------------------------
+concept:sportsteam:rams concept:coachesteam concept:coach:jim_haslett 1
+
+concept:sportsteam:rams concept:personbelongstoorganization concept:coach:jim_haslett 1
+concept:sportsteam:rams concept:personhasresidenceingeopoliticallocation concept:coach:jim_haslett 1
+concept:sportsteam:rams concept:personleadsgeopoliticalorganization concept:coach:jim_haslett 1
+concept:sportsteam:rams concept:personleadsorganization concept:coach:jim_haslett 1
+concept:sportsteam:rams concept:worksfor concept:coach:jim_haslett 1
+---------------------------------
+concept:sportsteam:redskins concept:coachesteam concept:coach:jim_zorn 1
+
+concept:sportsteam:redskins concept:personbelongstoorganization concept:coach:jim_zorn 1
+concept:sportsteam:redskins concept:personhasresidenceingeopoliticallocation concept:coach:jim_zorn 1
+concept:sportsteam:redskins concept:personleadsgeopoliticalorganization concept:coach:jim_zorn 1
+concept:sportsteam:redskins concept:personleadsorganization concept:coach:jim_zorn 1
+concept:sportsteam:redskins concept:worksfor concept:coach:jim_zorn 1
+---------------------------------
+concept:sportsteam:raptors concept:coachesteam concept:coach:mitch_williams 1
+
+concept:sportsteam:raptors concept:personbelongstoorganization concept:coach:mitch_williams 1
+concept:sportsteam:raptors concept:personhasresidenceingeopoliticallocation concept:coach:mitch_williams 1
+concept:sportsteam:raptors concept:personleadsgeopoliticalorganization concept:coach:mitch_williams 1
+concept:sportsteam:raptors concept:personleadsorganization concept:coach:mitch_williams 2
+concept:sportsteam:raptors concept:worksfor concept:coach:mitch_williams 1*
+---------------------------------
+concept:sportsteam:central_oklahoma_bronchos concept:coachesteam concept:coach:bob_stoops 1
+
+concept:sportsteam:central_oklahoma_bronchos concept:personbelongstoorganization concept:coach:bob_stoops 1
+concept:sportsteam:central_oklahoma_bronchos concept:personhasresidenceingeopoliticallocation concept:coach:bob_stoops 1
+concept:sportsteam:central_oklahoma_bronchos concept:personleadsgeopoliticalorganization concept:coach:bob_stoops 1
+concept:sportsteam:central_oklahoma_bronchos concept:personleadsorganization concept:coach:bob_stoops 2
+concept:sportsteam:central_oklahoma_bronchos concept:worksfor concept:coach:bob_stoops 1*
+---------------------------------
+concept:sportsteam:buffalo_sabres concept:coachesteam concept:coach:lindy_ruff 1
+
+concept:sportsteam:buffalo_sabres concept:personbelongstoorganization concept:coach:lindy_ruff 1
+concept:sportsteam:buffalo_sabres concept:personhasresidenceingeopoliticallocation concept:coach:lindy_ruff 1
+concept:sportsteam:buffalo_sabres concept:personleadsgeopoliticalorganization concept:coach:lindy_ruff 1
+concept:sportsteam:buffalo_sabres concept:personleadsorganization concept:coach:lindy_ruff 1
+concept:sportsteam:buffalo_sabres concept:worksfor concept:coach:lindy_ruff 1
+---------------------------------
+concept:sportsteam:florida_gators concept:coachesteam concept:coach:urban_meyer 1
+
+concept:sportsteam:florida_gators concept:personbelongstoorganization concept:coach:urban_meyer 1
+concept:sportsteam:florida_gators concept:personhasresidenceingeopoliticallocation concept:coach:urban_meyer 1
+concept:sportsteam:florida_gators concept:personleadsgeopoliticalorganization concept:coach:urban_meyer 1
+concept:sportsteam:florida_gators concept:personleadsorganization concept:coach:urban_meyer 1
+concept:sportsteam:florida_gators concept:worksfor concept:coach:urban_meyer 1
+---------------------------------
+concept:sportsteam:texas_a_m concept:coachesteam concept:coach:dennis_franchione 1
+
+concept:sportsteam:texas_a_m concept:personbelongstoorganization concept:coach:dennis_franchione 1
+concept:sportsteam:texas_a_m concept:personhasresidenceingeopoliticallocation concept:coach:dennis_franchione 1
+concept:sportsteam:texas_a_m concept:personleadsgeopoliticalorganization concept:coach:dennis_franchione 1
+concept:sportsteam:texas_a_m concept:personleadsorganization concept:coach:dennis_franchione 2
+concept:sportsteam:texas_a_m concept:worksfor concept:coach:dennis_franchione 1*
+---------------------------------
+concept:sportsteam:san_antonio concept:coachesteam concept:coach:gregg_popovich 1
+
+concept:sportsteam:san_antonio concept:personbelongstoorganization concept:coach:gregg_popovich 1
+concept:sportsteam:san_antonio concept:personhasresidenceingeopoliticallocation concept:coach:gregg_popovich 1
+concept:sportsteam:san_antonio concept:personleadsgeopoliticalorganization concept:coach:gregg_popovich 1
+concept:sportsteam:san_antonio concept:personleadsorganization concept:coach:gregg_popovich 1
+concept:sportsteam:san_antonio concept:worksfor concept:coach:gregg_popovich 1
+---------------------------------
+concept:sportsteam:princeton_theological_seminary concept:coachesteam concept:coach:bill_tierney 0
+
+---------------------------------
+concept:sportsteam:falcons concept:coachesteam concept:athlete:mike_smith 1
+
+concept:sportsteam:falcons concept:personbelongstoorganization concept:athlete:mike_smith 1
+concept:sportsteam:falcons concept:personhasresidenceingeopoliticallocation concept:athlete:mike_smith 1
+concept:sportsteam:falcons concept:personleadsgeopoliticalorganization concept:athlete:mike_smith 1
+concept:sportsteam:falcons concept:personleadsorganization concept:athlete:mike_smith 1
+concept:sportsteam:falcons concept:worksfor concept:athlete:mike_smith 1
+---------------------------------
+concept:sportsteam:leafs concept:coachesteam concept:coach:al_arbour 1
+
+concept:sportsteam:leafs concept:personbelongstoorganization concept:coach:al_arbour 1
+concept:sportsteam:leafs concept:personhasresidenceingeopoliticallocation concept:coach:al_arbour 1
+concept:sportsteam:leafs concept:personleadsgeopoliticalorganization concept:coach:al_arbour 1
+concept:sportsteam:leafs concept:personleadsorganization concept:coach:al_arbour 2
+concept:sportsteam:leafs concept:worksfor concept:coach:al_arbour 1*
+---------------------------------
+concept:sportsteam:maryland concept:coachesteam concept:coach:ralph_friedgen 1
+
+concept:sportsteam:maryland concept:personbelongstoorganization concept:coach:ralph_friedgen 1
+concept:sportsteam:maryland concept:personhasresidenceingeopoliticallocation concept:coach:ralph_friedgen 1
+concept:sportsteam:maryland concept:personleadsgeopoliticalorganization concept:coach:ralph_friedgen 1
+concept:sportsteam:maryland concept:personleadsorganization concept:coach:ralph_friedgen 1
+concept:sportsteam:maryland concept:worksfor concept:coach:ralph_friedgen 1
+---------------------------------
+concept:sportsteam:suns concept:coachesteam concept:coach:terry_porter 1
+
+concept:sportsteam:suns concept:personbelongstoorganization concept:coach:terry_porter 1
+concept:sportsteam:suns concept:personhasresidenceingeopoliticallocation concept:coach:terry_porter 1
+concept:sportsteam:suns concept:personleadsgeopoliticalorganization concept:coach:terry_porter 1
+concept:sportsteam:suns concept:personleadsorganization concept:coach:terry_porter 1
+concept:sportsteam:suns concept:worksfor concept:coach:terry_porter 1
+---------------------------------
+concept:sportsteam:texans concept:coachesteam concept:coach:gary_kubiak 1
+
+concept:sportsteam:texans concept:personbelongstoorganization concept:coach:gary_kubiak 1
+concept:sportsteam:texans concept:personhasresidenceingeopoliticallocation concept:coach:gary_kubiak 1
+concept:sportsteam:texans concept:personleadsgeopoliticalorganization concept:coach:gary_kubiak 1
+concept:sportsteam:texans concept:personleadsorganization concept:coach:gary_kubiak 1
+concept:sportsteam:texans concept:worksfor concept:coach:gary_kubiak 1
+---------------------------------
+concept:sportsteam:devils concept:coachesteam concept:athlete:larry_robinson 1
+
+concept:sportsteam:devils concept:personbelongstoorganization concept:athlete:larry_robinson 1
+concept:sportsteam:devils concept:personhasresidenceingeopoliticallocation concept:athlete:larry_robinson 1
+concept:sportsteam:devils concept:personleadsgeopoliticalorganization concept:athlete:larry_robinson 1
+concept:sportsteam:devils concept:personleadsorganization concept:athlete:larry_robinson 1
+concept:sportsteam:devils concept:worksfor concept:athlete:larry_robinson 1
+---------------------------------
+concept:sportsteam:harvard_divinity_school concept:coachesteam concept:coach:tim_murphy 1
+
+concept:sportsteam:harvard_divinity_school concept:personbelongstoorganization concept:coach:tim_murphy 1
+concept:sportsteam:harvard_divinity_school concept:personhasresidenceingeopoliticallocation concept:coach:tim_murphy 1
+concept:sportsteam:harvard_divinity_school concept:personleadsgeopoliticalorganization concept:coach:tim_murphy 1
+concept:sportsteam:harvard_divinity_school concept:personleadsorganization concept:coach:tim_murphy 2
+concept:sportsteam:harvard_divinity_school concept:worksfor concept:coach:tim_murphy 1*
+---------------------------------
+concept:sportsteam:iowa_state concept:coachesteam concept:coach:paul_rhoads 0
+
+---------------------------------
+concept:sportsteam:georgia_tech concept:coachesteam concept:coach:chan_gailey 1
+
+concept:sportsteam:georgia_tech concept:personbelongstoorganization concept:coach:chan_gailey 1
+concept:sportsteam:georgia_tech concept:personhasresidenceingeopoliticallocation concept:coach:chan_gailey 1
+concept:sportsteam:georgia_tech concept:personleadsgeopoliticalorganization concept:coach:chan_gailey 1
+concept:sportsteam:georgia_tech concept:personleadsorganization concept:coach:chan_gailey 1
+concept:sportsteam:georgia_tech concept:worksfor concept:coach:chan_gailey 1
+---------------------------------
+concept:sportsteam:bulldogs concept:coachesteam concept:coach:dennis_felton 1
+
+concept:sportsteam:bulldogs concept:personbelongstoorganization concept:coach:dennis_felton 1
+concept:sportsteam:bulldogs concept:personhasresidenceingeopoliticallocation concept:coach:dennis_felton 1
+concept:sportsteam:bulldogs concept:personleadsgeopoliticalorganization concept:coach:dennis_felton 1
+concept:sportsteam:bulldogs concept:personleadsorganization concept:coach:dennis_felton 1
+concept:sportsteam:bulldogs concept:worksfor concept:coach:dennis_felton 1
+---------------------------------
+concept:sportsteam:fresno_state_bulldogs concept:coachesteam concept:coach:pat_hill 1
+
+concept:sportsteam:fresno_state_bulldogs concept:personbelongstoorganization concept:coach:pat_hill 1
+concept:sportsteam:fresno_state_bulldogs concept:personhasresidenceingeopoliticallocation concept:coach:pat_hill 1
+concept:sportsteam:fresno_state_bulldogs concept:personleadsgeopoliticalorganization concept:coach:pat_hill 1
+concept:sportsteam:fresno_state_bulldogs concept:personleadsorganization concept:coach:pat_hill 1
+concept:sportsteam:fresno_state_bulldogs concept:worksfor concept:coach:pat_hill 1
+---------------------------------
+concept:sportsteam:saints concept:coachesteam concept:coach:sean_payton 1
+
+concept:sportsteam:saints concept:personbelongstoorganization concept:coach:sean_payton 1
+concept:sportsteam:saints concept:personhasresidenceingeopoliticallocation concept:coach:sean_payton 1
+concept:sportsteam:saints concept:personleadsgeopoliticalorganization concept:coach:sean_payton 1
+concept:sportsteam:saints concept:personleadsorganization concept:coach:sean_payton 1
+concept:sportsteam:saints concept:worksfor concept:coach:sean_payton 1
+---------------------------------
+concept:sportsteam:notre_dame concept:coachesteam concept:personnorthamerica:frank_leahy 1
+
+concept:sportsteam:notre_dame concept:personbelongstoorganization concept:personnorthamerica:frank_leahy 1
+concept:sportsteam:notre_dame concept:personhasresidenceingeopoliticallocation concept:personnorthamerica:frank_leahy 1
+concept:sportsteam:notre_dame concept:personleadsgeopoliticalorganization concept:personnorthamerica:frank_leahy 1
+concept:sportsteam:notre_dame concept:personleadsorganization concept:personnorthamerica:frank_leahy 1
+concept:sportsteam:notre_dame concept:worksfor concept:personnorthamerica:frank_leahy 1
+---------------------------------
+concept:sportsteam:colts concept:coachesteam concept:coach:tony_dungy 1
+
+concept:sportsteam:colts concept:personbelongstoorganization concept:coach:tony_dungy 2
+concept:sportsteam:colts concept:personhasresidenceingeopoliticallocation concept:coach:tony_dungy 1
+concept:sportsteam:colts concept:personleadsgeopoliticalorganization concept:coach:tony_dungy 1
+concept:sportsteam:colts concept:personleadsorganization concept:coach:tony_dungy 2
+concept:sportsteam:colts concept:worksfor concept:coach:tony_dungy 1*
+---------------------------------
+concept:sportsteam:boise_state_broncos concept:coachesteam concept:coach:chris_petersen 1
+
+concept:sportsteam:boise_state_broncos concept:personbelongstoorganization concept:coach:chris_petersen 1
+concept:sportsteam:boise_state_broncos concept:personhasresidenceingeopoliticallocation concept:coach:chris_petersen 1
+concept:sportsteam:boise_state_broncos concept:personleadsgeopoliticalorganization concept:coach:chris_petersen 1
+concept:sportsteam:boise_state_broncos concept:personleadsorganization concept:coach:chris_petersen 1
+concept:sportsteam:boise_state_broncos concept:worksfor concept:coach:chris_petersen 1
+---------------------------------
+concept:sportsteam:kansas_state concept:coachesteam concept:coach:bill_snyder 0
+
+---------------------------------
+concept:sportsteam:seminoles concept:coachesteam concept:male:bobby_bowden 1
+
+concept:sportsteam:seminoles concept:personbelongstoorganization concept:male:bobby_bowden 1
+concept:sportsteam:seminoles concept:personhasresidenceingeopoliticallocation concept:male:bobby_bowden 1
+concept:sportsteam:seminoles concept:personleadsgeopoliticalorganization concept:male:bobby_bowden 1
+concept:sportsteam:seminoles concept:personleadsorganization concept:male:bobby_bowden 1
+concept:sportsteam:seminoles concept:worksfor concept:male:bobby_bowden 1
+---------------------------------
+concept:sportsteam:buccaneers concept:coachesteam concept:coach:john_gruden 1
+
+concept:sportsteam:buccaneers concept:personbelongstoorganization concept:coach:john_gruden 1
+concept:sportsteam:buccaneers concept:personhasresidenceingeopoliticallocation concept:coach:john_gruden 1
+concept:sportsteam:buccaneers concept:personleadsgeopoliticalorganization concept:coach:john_gruden 1
+concept:sportsteam:buccaneers concept:personleadsorganization concept:coach:john_gruden 1
+concept:sportsteam:buccaneers concept:worksfor concept:coach:john_gruden 1
+---------------------------------
+concept:sportsteam:sixers concept:coachesteam concept:coach:cheeks 1
+
+concept:sportsteam:sixers concept:personbelongstoorganization concept:coach:cheeks 1
+concept:sportsteam:sixers concept:personhasresidenceingeopoliticallocation concept:coach:cheeks 1
+concept:sportsteam:sixers concept:personleadsgeopoliticalorganization concept:coach:cheeks 1
+concept:sportsteam:sixers concept:personleadsorganization concept:coach:cheeks 1
+concept:sportsteam:sixers concept:worksfor concept:coach:cheeks 1
+---------------------------------
+concept:sportsteam:texas_christian_university concept:coachesteam concept:coach:gary_patterson 1
+
+concept:sportsteam:texas_christian_university concept:personbelongstoorganization concept:coach:gary_patterson 1
+concept:sportsteam:texas_christian_university concept:personhasresidenceingeopoliticallocation concept:coach:gary_patterson 1
+concept:sportsteam:texas_christian_university concept:personleadsgeopoliticalorganization concept:coach:gary_patterson 1
+concept:sportsteam:texas_christian_university concept:personleadsorganization concept:coach:gary_patterson 1
+concept:sportsteam:texas_christian_university concept:worksfor concept:coach:gary_patterson 1
+---------------------------------
+concept:sportsteam:tar_heels concept:coachesteam concept:athlete:roy_williams 1
+
+concept:sportsteam:tar_heels concept:personbelongstoorganization concept:athlete:roy_williams 1
+concept:sportsteam:tar_heels concept:personhasresidenceingeopoliticallocation concept:athlete:roy_williams 1
+concept:sportsteam:tar_heels concept:personleadsgeopoliticalorganization concept:athlete:roy_williams 1
+concept:sportsteam:tar_heels concept:personleadsorganization concept:athlete:roy_williams 1
+concept:sportsteam:tar_heels concept:worksfor concept:athlete:roy_williams 1
+---------------------------------
+concept:sportsteam:utah_jazz concept:coachesteam concept:coach:jerry_sloan 1
+
+concept:sportsteam:utah_jazz concept:personbelongstoorganization concept:coach:jerry_sloan 1
+concept:sportsteam:utah_jazz concept:personhasresidenceingeopoliticallocation concept:coach:jerry_sloan 1
+concept:sportsteam:utah_jazz concept:personleadsgeopoliticalorganization concept:coach:jerry_sloan 1
+concept:sportsteam:utah_jazz concept:personleadsorganization concept:coach:jerry_sloan 1
+concept:sportsteam:utah_jazz concept:worksfor concept:coach:jerry_sloan 1
+---------------------------------
+concept:sportsteam:usc concept:coachesteam concept:coach:carroll 1
+
+concept:sportsteam:usc concept:personbelongstoorganization concept:coach:carroll 1
+concept:sportsteam:usc concept:personhasresidenceingeopoliticallocation concept:coach:carroll 1
+concept:sportsteam:usc concept:personleadsgeopoliticalorganization concept:coach:carroll 1
+concept:sportsteam:usc concept:personleadsorganization concept:coach:carroll 2
+concept:sportsteam:usc concept:worksfor concept:coach:carroll 1*
+---------------------------------
+concept:sportsteam:packers concept:coachesteam concept:coach:vince_lombardi 1
+
+concept:sportsteam:packers concept:personbelongstoorganization concept:coach:vince_lombardi 1
+concept:sportsteam:packers concept:personhasresidenceingeopoliticallocation concept:coach:vince_lombardi 1
+concept:sportsteam:packers concept:personleadsgeopoliticalorganization concept:coach:vince_lombardi 1
+concept:sportsteam:packers concept:personleadsorganization concept:coach:vince_lombardi 2
+concept:sportsteam:packers concept:worksfor concept:coach:vince_lombardi 1*
+---------------------------------
+concept:sportsteam:ucla concept:coachesteam concept:coach:rick_neuheisel 1
+
+concept:sportsteam:ucla concept:personbelongstoorganization concept:coach:rick_neuheisel 1
+concept:sportsteam:ucla concept:personhasresidenceingeopoliticallocation concept:coach:rick_neuheisel 1
+concept:sportsteam:ucla concept:personleadsgeopoliticalorganization concept:coach:rick_neuheisel 1
+concept:sportsteam:ucla concept:personleadsorganization concept:coach:rick_neuheisel 1
+concept:sportsteam:ucla concept:worksfor concept:coach:rick_neuheisel 1
+---------------------------------
+concept:sportsteam:nittany_lions concept:coachesteam concept:coach:joe_paterno 0
+
+---------------------------------
+concept:sportsteam:new_orleans_hornets concept:coachesteam concept:coach:byron_scott 1
+
+concept:sportsteam:new_orleans_hornets concept:personbelongstoorganization concept:coach:byron_scott 1
+concept:sportsteam:new_orleans_hornets concept:personhasresidenceingeopoliticallocation concept:coach:byron_scott 1
+concept:sportsteam:new_orleans_hornets concept:personleadsgeopoliticalorganization concept:coach:byron_scott 1
+concept:sportsteam:new_orleans_hornets concept:personleadsorganization concept:coach:byron_scott 1
+concept:sportsteam:new_orleans_hornets concept:worksfor concept:coach:byron_scott 1
+---------------------------------
+concept:sportsteam:stanford concept:coachesteam concept:coach:johnny_dawkins 1
+
+concept:sportsteam:stanford concept:personbelongstoorganization concept:coach:johnny_dawkins 1
+concept:sportsteam:stanford concept:personhasresidenceingeopoliticallocation concept:coach:johnny_dawkins 1
+concept:sportsteam:stanford concept:personleadsgeopoliticalorganization concept:coach:johnny_dawkins 1
+concept:sportsteam:stanford concept:personleadsorganization concept:coach:johnny_dawkins 1
+concept:sportsteam:stanford concept:worksfor concept:coach:johnny_dawkins 1
+---------------------------------
+concept:sportsteam:kings_college concept:coachesteam concept:coach:kenny_natt 1
+
+concept:sportsteam:kings_college concept:personbelongstoorganization concept:coach:kenny_natt 1
+concept:sportsteam:kings_college concept:personhasresidenceingeopoliticallocation concept:coach:kenny_natt 1
+concept:sportsteam:kings_college concept:personleadsgeopoliticalorganization concept:coach:kenny_natt 1
+concept:sportsteam:kings_college concept:personleadsorganization concept:coach:kenny_natt 1
+concept:sportsteam:kings_college concept:worksfor concept:coach:kenny_natt 1
+---------------------------------
+concept:sportsteam:new_york_islanders concept:coachesteam concept:coach:ted_nolan 1
+
+concept:sportsteam:new_york_islanders concept:personbelongstoorganization concept:coach:ted_nolan 1
+concept:sportsteam:new_york_islanders concept:personhasresidenceingeopoliticallocation concept:coach:ted_nolan 1
+concept:sportsteam:new_york_islanders concept:personleadsgeopoliticalorganization concept:coach:ted_nolan 1
+concept:sportsteam:new_york_islanders concept:personleadsorganization concept:coach:ted_nolan 2
+concept:sportsteam:new_york_islanders concept:worksfor concept:coach:ted_nolan 1*
+---------------------------------
+concept:sportsteam:chicago_bulls concept:coachesteam concept:athlete:vinny_del_negro 1
+
+concept:sportsteam:chicago_bulls concept:personbelongstoorganization concept:athlete:vinny_del_negro 1
+concept:sportsteam:chicago_bulls concept:personhasresidenceingeopoliticallocation concept:athlete:vinny_del_negro 1
+concept:sportsteam:chicago_bulls concept:personleadsgeopoliticalorganization concept:athlete:vinny_del_negro 1
+concept:sportsteam:chicago_bulls concept:personleadsorganization concept:athlete:vinny_del_negro 2
+concept:sportsteam:chicago_bulls concept:worksfor concept:athlete:vinny_del_negro 1*
+---------------------------------
+concept:sportsteam:st_louis_rams concept:coachesteam concept:coach:mike_martz 0
+
+concept:sportsteam:st_louis_rams concept:personleadsorganization concept:coach:mike_martz 1
+---------------------------------
+concept:sportsteam:utah_state concept:coachesteam concept:coach:brent_guy 0
+
+---------------------------------
+concept:sportsteam:nevada_wolfpack concept:coachesteam concept:coach:chuck_amato 1
+
+concept:sportsteam:nevada_wolfpack concept:personbelongstoorganization concept:coach:chuck_amato 1
+concept:sportsteam:nevada_wolfpack concept:personhasresidenceingeopoliticallocation concept:coach:chuck_amato 1
+concept:sportsteam:nevada_wolfpack concept:personleadsgeopoliticalorganization concept:coach:chuck_amato 1
+concept:sportsteam:nevada_wolfpack concept:personleadsorganization concept:coach:chuck_amato 1
+concept:sportsteam:nevada_wolfpack concept:worksfor concept:coach:chuck_amato 1
+---------------------------------
+concept:sportsteam:akron_pros concept:coachesteam concept:coach:j_d__brookhart 1
+
+concept:sportsteam:akron_pros concept:personbelongstoorganization concept:coach:j_d__brookhart 1
+concept:sportsteam:akron_pros concept:personhasresidenceingeopoliticallocation concept:coach:j_d__brookhart 1
+concept:sportsteam:akron_pros concept:personleadsgeopoliticalorganization concept:coach:j_d__brookhart 1
+concept:sportsteam:akron_pros concept:personleadsorganization concept:coach:j_d__brookhart 2
+concept:sportsteam:akron_pros concept:worksfor concept:coach:j_d__brookhart 1*
+---------------------------------
+concept:sportsteam:alabama_crimson_tide concept:coachesteam concept:coach:nick_saban 1
+
+concept:sportsteam:alabama_crimson_tide concept:personbelongstoorganization concept:coach:nick_saban 1
+concept:sportsteam:alabama_crimson_tide concept:personhasresidenceingeopoliticallocation concept:coach:nick_saban 1
+concept:sportsteam:alabama_crimson_tide concept:personleadsgeopoliticalorganization concept:coach:nick_saban 1
+concept:sportsteam:alabama_crimson_tide concept:personleadsorganization concept:coach:nick_saban 1
+concept:sportsteam:alabama_crimson_tide concept:worksfor concept:coach:nick_saban 1
+---------------------------------
+concept:sportsteam:kansas_city_chiefs concept:coachesteam concept:athlete:herman_edwards 1
+
+concept:sportsteam:kansas_city_chiefs concept:personbelongstoorganization concept:athlete:herman_edwards 1
+concept:sportsteam:kansas_city_chiefs concept:personhasresidenceingeopoliticallocation concept:athlete:herman_edwards 1
+concept:sportsteam:kansas_city_chiefs concept:personleadsgeopoliticalorganization concept:athlete:herman_edwards 1
+concept:sportsteam:kansas_city_chiefs concept:personleadsorganization concept:athlete:herman_edwards 2
+concept:sportsteam:kansas_city_chiefs concept:worksfor concept:athlete:herman_edwards 1*
+---------------------------------
+concept:sportsteam:kent_state concept:coachesteam concept:coach:doug_martin 0
+
+---------------------------------
+concept:sportsteam:boston_celtics concept:coachesteam concept:athlete:rick_pitino 1
+
+concept:sportsteam:boston_celtics concept:personbelongstoorganization concept:athlete:rick_pitino 1
+concept:sportsteam:boston_celtics concept:personhasresidenceingeopoliticallocation concept:athlete:rick_pitino 1
+concept:sportsteam:boston_celtics concept:personleadsgeopoliticalorganization concept:athlete:rick_pitino 1
+concept:sportsteam:boston_celtics concept:personleadsorganization concept:athlete:rick_pitino 2
+concept:sportsteam:boston_celtics concept:worksfor concept:athlete:rick_pitino 1*
+---------------------------------
+concept:sportsteam:tampa concept:coachesteam concept:coach:raheem_morris 0
+
+---------------------------------
+concept:sportsteam:byu concept:coachesteam concept:coach:bronco_mendenhall 1
+
+concept:sportsteam:byu concept:personbelongstoorganization concept:coach:bronco_mendenhall 1
+concept:sportsteam:byu concept:personhasresidenceingeopoliticallocation concept:coach:bronco_mendenhall 1
+concept:sportsteam:byu concept:personleadsgeopoliticalorganization concept:coach:bronco_mendenhall 1
+concept:sportsteam:byu concept:personleadsorganization concept:coach:bronco_mendenhall 2
+concept:sportsteam:byu concept:worksfor concept:coach:bronco_mendenhall 1*
+---------------------------------
+concept:sportsteam:gamecocks concept:coachesteam concept:coach:steve_spurrier 1
+
+concept:sportsteam:gamecocks concept:personbelongstoorganization concept:coach:steve_spurrier 1
+concept:sportsteam:gamecocks concept:personhasresidenceingeopoliticallocation concept:coach:steve_spurrier 1
+concept:sportsteam:gamecocks concept:personleadsgeopoliticalorganization concept:coach:steve_spurrier 1
+concept:sportsteam:gamecocks concept:personleadsorganization concept:coach:steve_spurrier 1
+concept:sportsteam:gamecocks concept:worksfor concept:coach:steve_spurrier 1
+---------------------------------
+concept:sportsteam:carolina_panthers concept:coachesteam concept:coach:john_fox 0
+
+---------------------------------
+concept:sportsteam:golden_state_warriors concept:coachesteam concept:coach:don_nelson 1
+
+concept:sportsteam:golden_state_warriors concept:personbelongstoorganization concept:coach:don_nelson 1
+concept:sportsteam:golden_state_warriors concept:personhasresidenceingeopoliticallocation concept:coach:don_nelson 1
+concept:sportsteam:golden_state_warriors concept:personleadsgeopoliticalorganization concept:coach:don_nelson 1
+concept:sportsteam:golden_state_warriors concept:personleadsorganization concept:coach:don_nelson 2
+concept:sportsteam:golden_state_warriors concept:worksfor concept:coach:don_nelson 1*
+---------------------------------
+concept:sportsteam:titans concept:coachesteam concept:coach:jeff_fisher 1
+
+concept:sportsteam:titans concept:personbelongstoorganization concept:coach:jeff_fisher 1
+concept:sportsteam:titans concept:personhasresidenceingeopoliticallocation concept:coach:jeff_fisher 1
+concept:sportsteam:titans concept:personleadsgeopoliticalorganization concept:coach:jeff_fisher 1
+concept:sportsteam:titans concept:personleadsorganization concept:coach:jeff_fisher 2
+concept:sportsteam:titans concept:worksfor concept:coach:jeff_fisher 1*
+---------------------------------
+concept:sportsteam:sacramento_kings concept:coachesteam concept:coach:reggie_theus 1
+
+concept:sportsteam:sacramento_kings concept:personbelongstoorganization concept:coach:reggie_theus 1
+concept:sportsteam:sacramento_kings concept:personhasresidenceingeopoliticallocation concept:coach:reggie_theus 1
+concept:sportsteam:sacramento_kings concept:personleadsgeopoliticalorganization concept:coach:reggie_theus 1
+concept:sportsteam:sacramento_kings concept:personleadsorganization concept:coach:reggie_theus 2
+concept:sportsteam:sacramento_kings concept:worksfor concept:coach:reggie_theus 1*
+---------------------------------
+concept:sportsteam:capitals concept:coachesteam concept:coach:glen_hanlon 1
+
+concept:sportsteam:capitals concept:personbelongstoorganization concept:coach:glen_hanlon 1
+concept:sportsteam:capitals concept:personhasresidenceingeopoliticallocation concept:coach:glen_hanlon 1
+concept:sportsteam:capitals concept:personleadsgeopoliticalorganization concept:coach:glen_hanlon 1
+concept:sportsteam:capitals concept:personleadsorganization concept:coach:glen_hanlon 1
+concept:sportsteam:capitals concept:worksfor concept:coach:glen_hanlon 1
+---------------------------------
+concept:sportsteam:hokies concept:coachesteam concept:coach:frank_beamer 1
+
+concept:sportsteam:hokies concept:personbelongstoorganization concept:coach:frank_beamer 1
+concept:sportsteam:hokies concept:personhasresidenceingeopoliticallocation concept:coach:frank_beamer 1
+concept:sportsteam:hokies concept:personleadsgeopoliticalorganization concept:coach:frank_beamer 1
+concept:sportsteam:hokies concept:personleadsorganization concept:coach:frank_beamer 2
+concept:sportsteam:hokies concept:worksfor concept:coach:frank_beamer 1*
+---------------------------------
+concept:sportsteam:steelers concept:coachesteam concept:coach:cowher 1
+
+concept:sportsteam:steelers concept:personbelongstoorganization concept:coach:cowher 1
+concept:sportsteam:steelers concept:personhasresidenceingeopoliticallocation concept:coach:cowher 1
+concept:sportsteam:steelers concept:personleadsgeopoliticalorganization concept:coach:cowher 1
+concept:sportsteam:steelers concept:personleadsorganization concept:coach:cowher 1
+concept:sportsteam:steelers concept:worksfor concept:coach:cowher 1
+---------------------------------
+concept:sportsteam:northwestern concept:coachesteam concept:coach:randy_walker 1
+
+concept:sportsteam:northwestern concept:personbelongstoorganization concept:coach:randy_walker 1
+concept:sportsteam:northwestern concept:personhasresidenceingeopoliticallocation concept:coach:randy_walker 1
+concept:sportsteam:northwestern concept:personleadsgeopoliticalorganization concept:coach:randy_walker 1
+concept:sportsteam:northwestern concept:personleadsorganization concept:coach:randy_walker 2
+concept:sportsteam:northwestern concept:worksfor concept:coach:randy_walker 1*
+---------------------------------
+concept:sportsteam:miami_dolphins concept:coachesteam concept:coach:cam_cameron 1
+
+concept:sportsteam:miami_dolphins concept:personbelongstoorganization concept:coach:cam_cameron 1
+concept:sportsteam:miami_dolphins concept:personhasresidenceingeopoliticallocation concept:coach:cam_cameron 1
+concept:sportsteam:miami_dolphins concept:personleadsgeopoliticalorganization concept:coach:cam_cameron 1
+concept:sportsteam:miami_dolphins concept:personleadsorganization concept:coach:cam_cameron 2
+concept:sportsteam:miami_dolphins concept:worksfor concept:coach:cam_cameron 1*
+---------------------------------
+concept:sportsteam:heat concept:coachesteam concept:coach:chris_quinn 0
+
+---------------------------------
+concept:sportsteam:washington_state concept:coachesteam concept:coach:paul_wulff 1
+
+concept:sportsteam:washington_state concept:personbelongstoorganization concept:coach:paul_wulff 1
+concept:sportsteam:washington_state concept:personhasresidenceingeopoliticallocation concept:coach:paul_wulff 1
+concept:sportsteam:washington_state concept:personleadsgeopoliticalorganization concept:coach:paul_wulff 1
+concept:sportsteam:washington_state concept:personleadsorganization concept:coach:paul_wulff 1
+concept:sportsteam:washington_state concept:worksfor concept:coach:paul_wulff 1
+---------------------------------
+concept:sportsteam:oregon_state_beavers concept:coachesteam concept:coach:mike_riley 1
+
+concept:sportsteam:oregon_state_beavers concept:personbelongstoorganization concept:coach:mike_riley 1
+concept:sportsteam:oregon_state_beavers concept:personhasresidenceingeopoliticallocation concept:coach:mike_riley 1
+concept:sportsteam:oregon_state_beavers concept:personleadsgeopoliticalorganization concept:coach:mike_riley 1
+concept:sportsteam:oregon_state_beavers concept:personleadsorganization concept:coach:mike_riley 1
+concept:sportsteam:oregon_state_beavers concept:worksfor concept:coach:mike_riley 1
+---------------------------------
+concept:sportsteam:lsu concept:coachesteam concept:athlete:john_brady 1
+
+concept:sportsteam:lsu concept:personbelongstoorganization concept:athlete:john_brady 1
+concept:sportsteam:lsu concept:personhasresidenceingeopoliticallocation concept:athlete:john_brady 1
+concept:sportsteam:lsu concept:personleadsgeopoliticalorganization concept:athlete:john_brady 1
+concept:sportsteam:lsu concept:personleadsorganization concept:athlete:john_brady 2
+concept:sportsteam:lsu concept:worksfor concept:athlete:john_brady 1*
+---------------------------------
+concept:sportsteam:michigan_state concept:coachesteam concept:professor:john_l__smith 1
+
+concept:sportsteam:michigan_state concept:personbelongstoorganization concept:professor:john_l__smith 1
+concept:sportsteam:michigan_state concept:personhasresidenceingeopoliticallocation concept:professor:john_l__smith 1
+concept:sportsteam:michigan_state concept:personleadsgeopoliticalorganization concept:professor:john_l__smith 1
+concept:sportsteam:michigan_state concept:personleadsorganization concept:professor:john_l__smith 2
+concept:sportsteam:michigan_state concept:worksfor concept:professor:john_l__smith 1*
+---------------------------------
+concept:sportsteam:new_york_giants concept:coachesteam concept:coach:mike_shanahan 0
+
+---------------------------------
+concept:sportsteam:boston_college concept:coachesteam concept:coach:tom_o_brien 1
+
+concept:sportsteam:boston_college concept:personbelongstoorganization concept:coach:tom_o_brien 1
+concept:sportsteam:boston_college concept:personhasresidenceingeopoliticallocation concept:coach:tom_o_brien 1
+concept:sportsteam:boston_college concept:personleadsgeopoliticalorganization concept:coach:tom_o_brien 1
+concept:sportsteam:boston_college concept:personleadsorganization concept:coach:tom_o_brien 2
+concept:sportsteam:boston_college concept:worksfor concept:coach:tom_o_brien 1*
+---------------------------------
+concept:sportsteam:minnesota_vikings concept:coachesteam concept:coach:brad_childress 1
+
+concept:sportsteam:minnesota_vikings concept:personbelongstoorganization concept:coach:brad_childress 1
+concept:sportsteam:minnesota_vikings concept:personhasresidenceingeopoliticallocation concept:coach:brad_childress 1
+concept:sportsteam:minnesota_vikings concept:personleadsgeopoliticalorganization concept:coach:brad_childress 1
+concept:sportsteam:minnesota_vikings concept:personleadsorganization concept:coach:brad_childress 1
+concept:sportsteam:minnesota_vikings concept:worksfor concept:coach:brad_childress 1
+---------------------------------
+concept:sportsteam:sd_chargers concept:coachesteam concept:athlete:marty_schottenheimer 1
+
+concept:sportsteam:sd_chargers concept:personbelongstoorganization concept:athlete:marty_schottenheimer 1
+concept:sportsteam:sd_chargers concept:personhasresidenceingeopoliticallocation concept:athlete:marty_schottenheimer 1
+concept:sportsteam:sd_chargers concept:personleadsgeopoliticalorganization concept:athlete:marty_schottenheimer 1
+concept:sportsteam:sd_chargers concept:personleadsorganization concept:athlete:marty_schottenheimer 2
+concept:sportsteam:sd_chargers concept:worksfor concept:athlete:marty_schottenheimer 1*
+---------------------------------
+Statistics Raw (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.625 0 0.0125 0.5
+HITS@3: 1 0.25 0.225 0.8625
+HITS@10: 1 0.8625 0.8625 0.8625
+MRR: 0.808333 0.239401 0.244482 0.678893
+MR: 1.4 8.5125 8.6625 11.7
+Statistics Filtered (Aggressive MidPoint RandomBreak Intermediate):
+HITS@1: 0.625 0 0.0125 0.5
+HITS@3: 1 0.35 0.35 0.8625
+HITS@10: 1 0.8625 0.8625 0.8625
+MRR: 0.808333 0.248368 0.259482 0.678895
+MR: 1.4 8.3875 8.4375 11.6875
+relation_mr_mrr_1_3_10_n_rf 675.00000000000000000 20.75855132905530454 1.00000000000000000 28.00000000000000000 69.00000000000000000 80 69

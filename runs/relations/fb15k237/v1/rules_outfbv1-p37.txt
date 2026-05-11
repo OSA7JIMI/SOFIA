@@ -1,0 +1,1 @@
+1	/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend(A,B) <= /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend(B,A)

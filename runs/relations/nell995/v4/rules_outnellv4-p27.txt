@@ -1,0 +1,2 @@
+1	concept:countrycurrency(A,D) <= concept:countrylocatedingeopoliticallocation(A,B), concept:countrylocatedingeopoliticallocation(C,B), concept:countrycurrency(C,D)
+1	concept:countrycurrency(A,D) <= concept:statelocatedingeopoliticallocation(B,A), concept:statelocatedingeopoliticallocation(B,C), concept:countrycurrency(C,D)

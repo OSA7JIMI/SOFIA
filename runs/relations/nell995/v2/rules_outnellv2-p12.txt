@@ -1,0 +1,1 @@
+1	concept:athleteplaysforteam(A,B) <= concept:coachesteam(A,B)

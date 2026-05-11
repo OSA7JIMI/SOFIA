@@ -1,0 +1,1 @@
+1	concept:personchargedwithcrime(A,D) <= concept:organizationhiredperson(B,A), concept:organizationhiredperson(B,C), concept:personchargedwithcrime(C,D)

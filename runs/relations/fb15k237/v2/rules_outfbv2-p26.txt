@@ -1,0 +1,5 @@
+0.333333	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant(A,B) <= /base/popstra/celebrity/dated./base/popstra/dated/participant(A,B)
+0.333333	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant(A,B) <= /base/popstra/celebrity/friendship./base/popstra/friendship/participant(A,B)
+0.333333	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant(A,C) <= /people/person/spouse_s./people/marriage/type_of_union(A,B), /people/person/spouse_s./people/marriage/type_of_union(C,B)
+0.666667	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant(A,B) <= /base/popstra/celebrity/canoodled./base/popstra/canoodled/participant(B,A)
+1	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant(A,E) <= /people/person/languages(A,B), /education/field_of_study/students_majoring./education/education/student(B,C), /people/person/gender(C,D), /people/person/gender(E,D)

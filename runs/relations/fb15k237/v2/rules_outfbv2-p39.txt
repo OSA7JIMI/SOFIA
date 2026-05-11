@@ -1,0 +1,2 @@
+1	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity(A,B) <= /base/popstra/celebrity/breakup./base/popstra/breakup/participant(A,B)
+1	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity(A,B) <= /celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity(B,A)

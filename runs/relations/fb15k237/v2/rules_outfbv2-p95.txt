@@ -1,0 +1,6 @@
+1	/influence/influence_node/influenced_by(A,C) <= /award/award_nominee/award_nominations./award/award_nomination/award(A,B), /award/award_nominee/award_nominations./award/award_nomination/award(C,B)
+1	/influence/influence_node/influenced_by(A,C) <= /people/person/gender(A,B), /people/person/gender(C,B)
+1	/influence/influence_node/influenced_by(A,C) <= /people/person/profession(A,B), /people/person/profession(C,B)
+1	/influence/influence_node/influenced_by(A,C) <= /people/person/religion(A,B), /people/person/religion(C,B)
+1	/influence/influence_node/influenced_by(A,E) <= /music/performance_role/regular_performances./music/group_membership/group(B,A), /music/performance_role/regular_performances./music/group_membership/group(B,C), /music/record_label/artist(D,C), /music/record_label/artist(D,E)
+1	/influence/influence_node/influenced_by(A,C) <= /influence/influence_node/influenced_by(A,B), /influence/influence_node/influenced_by(B,C)

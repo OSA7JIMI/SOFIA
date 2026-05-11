@@ -1,0 +1,5 @@
+1	/tv/tv_program/genre(A,D) <= /tv/tv_program/languages(A,B), /film/film/language(C,B), /film/film/genre(C,D)
+1	/tv/tv_program/genre(A,D) <= /tv/tv_program/languages(A,B), /tv/tv_program/languages(C,B), /tv/tv_program/genre(C,D)
+1	/tv/tv_program/genre(A,D) <= /tv/tv_program/genre(A,B), /film/film/genre(C,B), /film/film/genre(C,D)
+1	/tv/tv_program/genre(A,D) <= /award/award_category/nominees./award/award_nomination/nominated_for(B,A), /award/award_category/nominees./award/award_nomination/nominated_for(B,C), /tv/tv_program/genre(C,D)
+1	/tv/tv_program/genre(A,E) <= /tv/tv_program/regular_cast./tv/regular_tv_appearance/actor(A,B), /film/actor/dubbing_performances./film/dubbing_performance/language(B,C), /tv/tv_program/languages(D,C), /tv/tv_program/genre(D,E)
